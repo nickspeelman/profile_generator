@@ -1,0 +1,423 @@
+Susan: 1. **Company's Official Website and Financial Reports:** Begin by visiting General Motors' official website to understand their core values, mission, vision, and key projects. Check their investor relations page for annual reports, quarterly financial results, presentations and calls. This will provide the financial health of the company, major investments, risks, future plans etc.
+
+2. **Key Decision Makers:** Look for the company's executive team page or check platforms like LinkedIn. This will include the CEO, CFO, heads of different departments. Once you have these names, do an individual web search for each person. Look for any past controversy, personal interests, pressure points and influencers that can work as leverage.
+
+3. **Labor Relations:** Find news related to GM's human resource practices, labor issues, and employee concerns. Use labor and industrial relation platforms, union websites, HR and employment news portals. See if any pattern emerges like frequent strikes, reports of harassment or discrimination, low wages, or safety issues.
+
+4. **Recent Scandals:** Look for any negative news or scandals involving GM. Venture across blogs, news portals, social media platforms (Twitter, Facebook, Reddit), and online automotive forums- these often discuss recalls, defective units, lawsuits etc. You could look out for instances of corporate fraud, data breaches, controversial ads, product quality concerns, or unethical business practices.
+
+5. **Regulatory Filings:** Researching U.S Securities and Exchange Commission’s EDGAR database could provide additional insights on financial data, debts, obligations, lawsuits, and potential risks. 
+
+6. **Corporate Relationships:** Map GM's relations with other businesses or governments. Look for major suppliers, partners, sponsors, at country or city level who GM may be sensitive to.
+
+7. **Social Responsibility Initiatives:** Understand GM’s Corporate Social Responsibility (CSR) initiatives. If the company prides in its CSR, this knowledge could provide another point of leverage. 
+
+This is a proactive approach, and you should revisit these points every few months as situations change. Note, however, that leverage opportunities should be used legally and ethically.
+Manny: Sure, here you go:
+
+```python
+search_queries_for_remi = [
+  "General Motors financial reports 2021 site:gm.com",
+  "General Motors executive team LinkedIn",
+  "General Motors labor relations news 2021",
+  "General Motors scandals and lawsuits",
+  "General Motors Corporate Social Responsibility (CSR) initiatives"
+]
+```
+Remi: Results for 'General Motors financial reports 2021 site:gm.com':
+Title: 2021 ANNUALREPORT - General Motors Company
+Link: https://investor.gm.com/static-files/8f1001fb-1fba-4e71-bb42-4a48066820a0
+Snippet: GENERALMOTORSCOMPANYANDSUBSIDIARIES 1 PARTI Item1.Business GeneralMotorsCompany(sometimesreferredtoaswe,our,us,ourselves,theCompany,GeneralMotors,orGM)was
+
+Title: News Release Details - General Motors Company
+Link: https://investor.gm.com/news-releases/news-release-details/gm-reports-2021-full-year-and-fourth-quarter-results-including
+Snippet: DETROIT – General <b>Motors</b> Co. (NYSE: GM) today reported <b>2021</b> full-year earnings that include net income of $10 billion, EBIT-adjusted of $14.3 billion, net income margin of 7.9%, EBIT-adjusted margin of 11.3%, EPS-diluted of $6.70 and EPS-diluted-adjusted of $7.07.GM’s full-year net income, EBIT-adjusted, EBIT-adjusted margin and EPS measures are all records.
+
+Title: GM Reports 2021 Full-Year and Fourth-Quarter Results, Including Record ...
+Link: https://investor.gm.com/static-files/b22283c2-1221-4a5c-b6f9-600e539f5b39
+Snippet: GM <b>Reports</b> <b>2021</b> Full-Year and Fourth-Quarter Results, Including Record Earnings. DETROIT – General <b>Motors</b> Co. (NYSE: GM) today reported <b>2021</b> full-year earnings that include net income of $10 billion, EBIT-adjusted of $14.3 billion, net income margin of 7.9%, EBIT-adjusted margin of 11.3%, EPS-diluted of $6.70 and EPS-diluted-adjusted of $7.07.
+
+Title: GM Reports Third-Quarter 2021 Results - General Motors Company
+Link: https://investors.gm.com/news-releases/news-release-details/gm-reports-third-quarter-2021-results
+Snippet: DETROIT, Oct. 27, <b>2021</b> /PRNewswire/ -- General <b>Motors</b> Co. (NYSE: GM) today reported third-quarter earnings that include strong price and mix performance in North America, the benefit of the company&#39;s recall cost recovery agreement with LG Electronics and the continued strong <b>financial</b> results at GM <b>Financial</b>.As a result, the company is on track to deliver full-year <b>2021</b> EBIT-adjusted earnings ...
+
+PDF Link: https://media.gm.com/content/dam/Media/gmcom/investor/2022/jan/q4-earnings-deck-and-cy-2021.pdf
+Title: 2023 Annual Report - General Motors Company
+Link: https://investors.gm.com/static-files/1fff6f59-551f-4fe0-bca9-74bfc9a56aeb
+Snippet: ☑ <b>ANNUAL</b> <b>REPORT</b> PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 ... through our General <b>Motors</b> <b>Financial</b> Company, Inc. (GM <b>Financial</b>) segment. Refer to Part II, Item 7. Management&#39;s ... In <b>2021</b>, we began production at GM’s Factory ZERO Detroit-Hamtramck Assembly Center (Factory ZERO), which was re-
+
+Title: SEC Filings - General Motors Company
+Link: https://investor.gm.com/sec-filings
+Snippet: A further list and description of these risks, uncertainties and other factors can be found in our <b>Annual</b> <b>Report</b> on Form 10-K, and our subsequent filings with the Securities and Exchange Commission. GM cautions readers not to place undue reliance on forward-looking statements.
+
+PDF Link: https://media.gm.com/content/dam/Media/gmcom/investor/2021/oct/q3-21-financial-highlights.pdf
+Title: GM Reports 2021 Full-Year and Fourth-Quarter Results ... - GM News
+Link: https://news.gm.com/newsroom.detail.html/Pages/news/emergency_news/2022/earnings/0201-earnings.html
+Snippet: GM <b>Reports</b> <b>2021</b> Full-Year and Fourth-Quarter Results, Including Record Earnings. DETROIT – General <b>Motors</b> Co. (NYSE: GM) today reported <b>2021</b> full-year earnings that include net income of $10 billion, EBIT-adjusted of $14.3 billion, net income margin of 7.9%, EBIT-adjusted margin of 11.3%, EPS-diluted of $6.70 and EPS-diluted-adjusted of $7.07.
+
+PDF Link: https://media.gm.com/content/dam/Media/gmcom/investor/2021/may/q1-21-financial-highlights.pdf
+Remi: Results for 'General Motors financial reports 2021 site:gm.com':
+Title: 2021 ANNUALREPORT - General Motors Company
+Link: https://investor.gm.com/static-files/8f1001fb-1fba-4e71-bb42-4a48066820a0
+Snippet: GENERALMOTORSCOMPANYANDSUBSIDIARIES 1 PARTI Item1.Business GeneralMotorsCompany(sometimesreferredtoaswe,our,us,ourselves,theCompany,GeneralMotors,orGM)was
+
+Title: News Release Details - General Motors Company
+Link: https://investor.gm.com/news-releases/news-release-details/gm-reports-2021-full-year-and-fourth-quarter-results-including
+Snippet: DETROIT – General <b>Motors</b> Co. (NYSE: GM) today reported <b>2021</b> full-year earnings that include net income of $10 billion, EBIT-adjusted of $14.3 billion, net income margin of 7.9%, EBIT-adjusted margin of 11.3%, EPS-diluted of $6.70 and EPS-diluted-adjusted of $7.07.GM’s full-year net income, EBIT-adjusted, EBIT-adjusted margin and EPS measures are all records.
+
+Title: GM Reports 2021 Full-Year and Fourth-Quarter Results, Including Record ...
+Link: https://investor.gm.com/static-files/b22283c2-1221-4a5c-b6f9-600e539f5b39
+Snippet: GM <b>Reports</b> <b>2021</b> Full-Year and Fourth-Quarter Results, Including Record Earnings. DETROIT – General <b>Motors</b> Co. (NYSE: GM) today reported <b>2021</b> full-year earnings that include net income of $10 billion, EBIT-adjusted of $14.3 billion, net income margin of 7.9%, EBIT-adjusted margin of 11.3%, EPS-diluted of $6.70 and EPS-diluted-adjusted of $7.07.
+
+Title: GM Reports Third-Quarter 2021 Results - General Motors Company
+Link: https://investors.gm.com/news-releases/news-release-details/gm-reports-third-quarter-2021-results
+Snippet: DETROIT, Oct. 27, <b>2021</b> /PRNewswire/ -- General <b>Motors</b> Co. (NYSE: GM) today reported third-quarter earnings that include strong price and mix performance in North America, the benefit of the company&#39;s recall cost recovery agreement with LG Electronics and the continued strong <b>financial</b> results at GM <b>Financial</b>.As a result, the company is on track to deliver full-year <b>2021</b> EBIT-adjusted earnings ...
+
+PDF Link: https://media.gm.com/content/dam/Media/gmcom/investor/2022/jan/q4-earnings-deck-and-cy-2021.pdf
+Title: 2023 Annual Report - General Motors Company
+Link: https://investors.gm.com/static-files/1fff6f59-551f-4fe0-bca9-74bfc9a56aeb
+Snippet: ☑ <b>ANNUAL</b> <b>REPORT</b> PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 ... through our General <b>Motors</b> <b>Financial</b> Company, Inc. (GM <b>Financial</b>) segment. Refer to Part II, Item 7. Management&#39;s ... In <b>2021</b>, we began production at GM’s Factory ZERO Detroit-Hamtramck Assembly Center (Factory ZERO), which was re-
+
+Title: SEC Filings - General Motors Company
+Link: https://investor.gm.com/sec-filings
+Snippet: A further list and description of these risks, uncertainties and other factors can be found in our <b>Annual</b> <b>Report</b> on Form 10-K, and our subsequent filings with the Securities and Exchange Commission. GM cautions readers not to place undue reliance on forward-looking statements.
+
+PDF Link: https://media.gm.com/content/dam/Media/gmcom/investor/2021/oct/q3-21-financial-highlights.pdf
+Title: GM Reports 2021 Full-Year and Fourth-Quarter Results ... - GM News
+Link: https://news.gm.com/newsroom.detail.html/Pages/news/emergency_news/2022/earnings/0201-earnings.html
+Snippet: GM <b>Reports</b> <b>2021</b> Full-Year and Fourth-Quarter Results, Including Record Earnings. DETROIT – General <b>Motors</b> Co. (NYSE: GM) today reported <b>2021</b> full-year earnings that include net income of $10 billion, EBIT-adjusted of $14.3 billion, net income margin of 7.9%, EBIT-adjusted margin of 11.3%, EPS-diluted of $6.70 and EPS-diluted-adjusted of $7.07.
+
+PDF Link: https://media.gm.com/content/dam/Media/gmcom/investor/2021/may/q1-21-financial-highlights.pdf
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'General Motors executive team LinkedIn':
+Title: Mary Barra - General Motors | LinkedIn
+Link: https://www.linkedin.com/in/mary-barra
+Snippet: General <b>Motors</b> Chair and CEO leading an outstanding <b>team</b> with the ambition, talent and… · Experience: General <b>Motors</b> · Location: Detroit Metropolitan Area · 500+ connections on <b>LinkedIn</b>. View ...
+
+Title: Explore Our Leadership Structure - General Motors
+Link: https://www.gm.com/company/leadership
+Snippet: Leadership <b>Team</b>. &quot;We have the ambition, the talent and the technology to create a world with zero crashes, zero emissions and zero congestion.&quot; Mary Barra // Chair and CEO. <b>Corporate</b> Officers. Board of Directors. Get an overview of the General <b>Motors</b> Company leadership on <b>GM.com</b>. Learn all about our current leadership structure across the ...
+
+Title: General Motors - LinkedIn
+Link: https://www.linkedin.com/company/general-motors
+Snippet: Chair and Chief <b>Executive</b> Officer at General <b>Motors</b> 4w Report this post ... 3,262,507 followers on <b>LinkedIn</b>. General <b>Motors</b>’ vision is to create a world with Zero Crashes, Zero Emissions and ...
+
+Title: Mark Reuss - General Motors - LinkedIn
+Link: https://www.linkedin.com/in/mark-reuss
+Snippet: President of General <b>Motors</b>, leading the company into an all-electric future. Born and… · Experience: General <b>Motors</b> · Education: Duke University - The Fuqua School of Business · Location ...
+
+Title: Mary Barra - General Motors
+Link: https://www.gm.com/company/leadership.detail.html/Pages/bios/global/en/corporate-officers/Mary-Barra
+Snippet: Barra serves on the Board of Directors of the Walt Disney Company, the Duke University Board of Trustees and the Detroit Economic Club. Mary Barra is Chair and Chief <b>Executive</b> Officer of General <b>Motors</b>. She was elected Chair of the GM Board of Directors on Jan. 4, 2016 and has served as CEO of GM since Jan. 15, 2014.
+
+Title: General Motors CEO and Key Executive Team | Craft.co
+Link: https://craft.co/general-motors/executives
+Snippet: General <b>Motors</b>&#39;s Chair and Chief <b>Executive</b> Officer is Mary T. Barra. Other <b>executives</b> include Mark Reuss, President; Shilpan Amin, Senior Vice President and President, GM International and 21 others. See the full leadership <b>team</b> at Craft.
+
+Title: Mark Reuss - General Motors
+Link: https://www.gm.com/company/leadership.detail.html/Pages/bios/global/en/corporate-officers/Mark-Reuss
+Snippet: From 2013-2018, Reuss was <b>executive</b> vice president, Global Product Development, Purchasing and Supply Chain, and led program <b>management</b> of GM cars, trucks and crossovers worldwide. He served as president of General <b>Motors</b> North America from 2009-2013, responsible for GM’s performance, manufacturing, portfolio and dealer network. Reuss also ...
+
+Title: Eric Shelhorn - Plant Executive Director - General Motors - LinkedIn
+Link: https://www.linkedin.com/in/eric-shelhorn-7a656014
+Snippet: Plant <b>Executive</b> Director at General <b>Motors</b> · I am a passionate, life long automotive enthusiast that takes on obstacles with a purpose driven approach. This allows for the delivery of results ...
+
+Title: Lisa L. - Manager - Global Corporate Development - General Motors ...
+Link: https://www.linkedin.com/in/linlisa
+Snippet: Manager - Global <b>Corporate</b> Development at General <b>Motors</b> · Motivated multi-lingual business leader delivering profitability improvements through clear&amp;lt;br&amp;gt;understanding of market dynamics ...
+
+Title: <b>General Motors</b> - <b>LinkedIn</b>
+Link: https://ca.linkedin.com/company/general-motors
+Snippet: <b>General Motors</b> | 3,225,636 followers on <b>LinkedIn</b>. <b>General Motors</b>’ vision is to create a world with Zero Crashes, Zero Emissions and Zero Congestion, and we have committed ourselves to leading the way toward this future. Today, we are in the midst of a transportation revolution, and we have the ambition, the talent and the technology to realize the safer, better and more sustainable world we ...
+
+Remi: Results for 'General Motors executive team LinkedIn':
+Title: Mary Barra - General Motors | LinkedIn
+Link: https://www.linkedin.com/in/mary-barra
+Snippet: General <b>Motors</b> Chair and CEO leading an outstanding <b>team</b> with the ambition, talent and… · Experience: General <b>Motors</b> · Location: Detroit Metropolitan Area · 500+ connections on <b>LinkedIn</b>. View ...
+
+Title: Explore Our Leadership Structure - General Motors
+Link: https://www.gm.com/company/leadership
+Snippet: Leadership <b>Team</b>. &quot;We have the ambition, the talent and the technology to create a world with zero crashes, zero emissions and zero congestion.&quot; Mary Barra // Chair and CEO. <b>Corporate</b> Officers. Board of Directors. Get an overview of the General <b>Motors</b> Company leadership on <b>GM.com</b>. Learn all about our current leadership structure across the ...
+
+Title: General Motors - LinkedIn
+Link: https://www.linkedin.com/company/general-motors
+Snippet: Chair and Chief <b>Executive</b> Officer at General <b>Motors</b> 4w Report this post ... 3,262,507 followers on <b>LinkedIn</b>. General <b>Motors</b>’ vision is to create a world with Zero Crashes, Zero Emissions and ...
+
+Title: Mark Reuss - General Motors - LinkedIn
+Link: https://www.linkedin.com/in/mark-reuss
+Snippet: President of General <b>Motors</b>, leading the company into an all-electric future. Born and… · Experience: General <b>Motors</b> · Education: Duke University - The Fuqua School of Business · Location ...
+
+Title: Mary Barra - General Motors
+Link: https://www.gm.com/company/leadership.detail.html/Pages/bios/global/en/corporate-officers/Mary-Barra
+Snippet: Barra serves on the Board of Directors of the Walt Disney Company, the Duke University Board of Trustees and the Detroit Economic Club. Mary Barra is Chair and Chief <b>Executive</b> Officer of General <b>Motors</b>. She was elected Chair of the GM Board of Directors on Jan. 4, 2016 and has served as CEO of GM since Jan. 15, 2014.
+
+Title: General Motors CEO and Key Executive Team | Craft.co
+Link: https://craft.co/general-motors/executives
+Snippet: General <b>Motors</b>&#39;s Chair and Chief <b>Executive</b> Officer is Mary T. Barra. Other <b>executives</b> include Mark Reuss, President; Shilpan Amin, Senior Vice President and President, GM International and 21 others. See the full leadership <b>team</b> at Craft.
+
+Title: Mark Reuss - General Motors
+Link: https://www.gm.com/company/leadership.detail.html/Pages/bios/global/en/corporate-officers/Mark-Reuss
+Snippet: From 2013-2018, Reuss was <b>executive</b> vice president, Global Product Development, Purchasing and Supply Chain, and led program <b>management</b> of GM cars, trucks and crossovers worldwide. He served as president of General <b>Motors</b> North America from 2009-2013, responsible for GM’s performance, manufacturing, portfolio and dealer network. Reuss also ...
+
+Title: Eric Shelhorn - Plant Executive Director - General Motors - LinkedIn
+Link: https://www.linkedin.com/in/eric-shelhorn-7a656014
+Snippet: Plant <b>Executive</b> Director at General <b>Motors</b> · I am a passionate, life long automotive enthusiast that takes on obstacles with a purpose driven approach. This allows for the delivery of results ...
+
+Title: Lisa L. - Manager - Global Corporate Development - General Motors ...
+Link: https://www.linkedin.com/in/linlisa
+Snippet: Manager - Global <b>Corporate</b> Development at General <b>Motors</b> · Motivated multi-lingual business leader delivering profitability improvements through clear&amp;lt;br&amp;gt;understanding of market dynamics ...
+
+Title: <b>General Motors</b> - <b>LinkedIn</b>
+Link: https://ca.linkedin.com/company/general-motors
+Snippet: <b>General Motors</b> | 3,225,636 followers on <b>LinkedIn</b>. <b>General Motors</b>’ vision is to create a world with Zero Crashes, Zero Emissions and Zero Congestion, and we have committed ourselves to leading the way toward this future. Today, we are in the midst of a transportation revolution, and we have the ambition, the talent and the technology to realize the safer, better and more sustainable world we ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'General Motors labor relations news 2021':
+Title: Doneen McDowell Named Head Of Labor Relations At GM
+Link: https://gmauthority.com/blog/2021/02/doneen-mcdowell-named-head-of-labor-relations-at-general-motors/
+Snippet: General <b>Motors</b> has named Doneen McDowell as its new vice president of North America <b>Labor</b> <b>Relations</b>, replacing Scott Sandefur. Doneen McDowell, who moves into her new role this week, currently ...
+
+Title: GM names new labor relations head; Stellantis picks parts chief
+Link: https://www.detroitnews.com/story/business/autos/general-motors/2021/02/01/doneen-mcdowell-labor-relations-head-general-motors-stellantis-pietro-gorlier-parts-services-chief/4345053001/
+Snippet: Breana Noble. <b>The Detroit News</b>. General <b>Motors</b> Co. on Monday named a new head of its North American <b>labor</b> <b>relations</b> team, while Stellantis NV announced its chief of parts and services. Doneen ...
+
+Title: General Motors deal clears way for end to US car strike - BBC
+Link: https://www.bbc.com/news/business-67264268
+Snippet: General <b>Motors</b> has struck a deal with the United Auto Workers (UAW) union to end a six-week strike in the US. The tentative agreement follows similar deals at Ford and Chrysler-maker Stellantis ...
+
+Title: U.S. Asks Mexico to Investigate Labor Issues at G.M. Facility
+Link: https://www.nytimes.com/2021/05/12/business/economy/mexico-investigate-trade-gm.html
+Snippet: May 12, <b>2021</b>. WASHINGTON — The Biden administration on Wednesday asked Mexico to review whether <b>labor</b> violations had occurred at a General <b>Motors</b> facility in the country, a significant step ...
+
+Title: GM names new lead labor negotiator - Detroit Free Press
+Link: https://www.freep.com/story/money/cars/general-motors/2021/02/01/gm-uaw-labor-negotiator-mcdowell-sandefur/4337776001/
+Snippet: 0:04. 0:45. General <b>Motors</b> has named a new UAW <b>labor</b> negotiator as longtime <b>labor</b> boss Scott Sandefur moves to a new role. Doneen McDowell, 50, replaced Sandefur, 58, as vice president of General ...
+
+Title: GM Details Plan to Double its Revenue, Drive Even Higher Margins - GM News
+Link: https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2021/oct/1006-investor.html
+Snippet: WARREN, Mich. – General <b>Motors</b> Co. (NYSE: GM) today provided a detailed roadmap of how the company plans to double its annual revenue and expand margins to 12 to 14 percent by 2030, as a result of GM’s transformation into a growth company driven by EVs, connected services and new businesses. “GM has changed the world before and we’re doing it again,” said GM Chair and CEO Mary Barra.
+
+Title: GM Reports Third-Quarter 2021 Results - General Motors Company
+Link: https://investors.gm.com/news-releases/news-release-details/gm-reports-third-quarter-2021-results
+Snippet: DETROIT, Oct. 27, <b>2021</b> /PRNewswire/ -- General <b>Motors</b> Co. (NYSE: GM) today reported third-quarter earnings that include strong price and mix performance in North America, the benefit of the company&#39;s recall cost recovery agreement with LG Electronics and the continued strong financial results at GM Financial.As a result, the company is on track to deliver full-year <b>2021</b> EBIT-adjusted earnings ...
+
+Title: GM Reports 2021 Full-Year and Fourth-Quarter Results, Including Record ...
+Link: https://www.prnewswire.com/news-releases/gm-reports-2021-full-year-and-fourth-quarter-results-including-record-earnings-301473147.html
+Snippet: DETROIT, Feb. 1, 2022 /PRNewswire/ -- General <b>Motors</b> Co. (NYSE: GM) today reported <b>2021</b> full-year earnings that include net income of $10 billion, EBIT-adjusted of $14.3 billion, net income margin ...
+
+Title: General Motors Statement on 2021 EEO-1 Consolidated Report - GM News
+Link: https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2022/aug/0825-eeo.html
+Snippet: For the second straight year, General <b>Motors</b> is disclosing its EEO-1 Consolidated Report. This report provides a snapshot of GM&#39;s U.S. workforce demographics as of Dec. 31, <b>2021</b>, based on standardized race/ethnicity, gender and job categories prescribed by the federal government through the U.S. Equal Employment Opportunity Commission (EEOC).
+
+Title: GM Reports Strong Second-Quarter 2021 Results - General Motors Company
+Link: https://investor.gm.com/news-releases/news-release-details/gm-reports-strong-second-quarter-2021-results/
+Snippet: Second-quarter <b>2021</b> results overview. Revenue of $34.2 billion. Net income of $2.8 billion, and EBIT-adjusted of $4.1 billion, including warranty recall costs of $ (1.3) billion, of which $ (0.8) billion was related to the Chevrolet Bolt EV. Net income margin of 8.3 percent, and EBIT-adjusted margin of 12.0 percent.
+
+Remi: Results for 'General Motors labor relations news 2021':
+Title: Doneen McDowell Named Head Of Labor Relations At GM
+Link: https://gmauthority.com/blog/2021/02/doneen-mcdowell-named-head-of-labor-relations-at-general-motors/
+Snippet: General <b>Motors</b> has named Doneen McDowell as its new vice president of North America <b>Labor</b> <b>Relations</b>, replacing Scott Sandefur. Doneen McDowell, who moves into her new role this week, currently ...
+
+Title: GM names new labor relations head; Stellantis picks parts chief
+Link: https://www.detroitnews.com/story/business/autos/general-motors/2021/02/01/doneen-mcdowell-labor-relations-head-general-motors-stellantis-pietro-gorlier-parts-services-chief/4345053001/
+Snippet: Breana Noble. <b>The Detroit News</b>. General <b>Motors</b> Co. on Monday named a new head of its North American <b>labor</b> <b>relations</b> team, while Stellantis NV announced its chief of parts and services. Doneen ...
+
+Title: General Motors deal clears way for end to US car strike - BBC
+Link: https://www.bbc.com/news/business-67264268
+Snippet: General <b>Motors</b> has struck a deal with the United Auto Workers (UAW) union to end a six-week strike in the US. The tentative agreement follows similar deals at Ford and Chrysler-maker Stellantis ...
+
+Title: U.S. Asks Mexico to Investigate Labor Issues at G.M. Facility
+Link: https://www.nytimes.com/2021/05/12/business/economy/mexico-investigate-trade-gm.html
+Snippet: May 12, <b>2021</b>. WASHINGTON — The Biden administration on Wednesday asked Mexico to review whether <b>labor</b> violations had occurred at a General <b>Motors</b> facility in the country, a significant step ...
+
+Title: GM names new lead labor negotiator - Detroit Free Press
+Link: https://www.freep.com/story/money/cars/general-motors/2021/02/01/gm-uaw-labor-negotiator-mcdowell-sandefur/4337776001/
+Snippet: 0:04. 0:45. General <b>Motors</b> has named a new UAW <b>labor</b> negotiator as longtime <b>labor</b> boss Scott Sandefur moves to a new role. Doneen McDowell, 50, replaced Sandefur, 58, as vice president of General ...
+
+Title: GM Details Plan to Double its Revenue, Drive Even Higher Margins - GM News
+Link: https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2021/oct/1006-investor.html
+Snippet: WARREN, Mich. – General <b>Motors</b> Co. (NYSE: GM) today provided a detailed roadmap of how the company plans to double its annual revenue and expand margins to 12 to 14 percent by 2030, as a result of GM’s transformation into a growth company driven by EVs, connected services and new businesses. “GM has changed the world before and we’re doing it again,” said GM Chair and CEO Mary Barra.
+
+Title: GM Reports Third-Quarter 2021 Results - General Motors Company
+Link: https://investors.gm.com/news-releases/news-release-details/gm-reports-third-quarter-2021-results
+Snippet: DETROIT, Oct. 27, <b>2021</b> /PRNewswire/ -- General <b>Motors</b> Co. (NYSE: GM) today reported third-quarter earnings that include strong price and mix performance in North America, the benefit of the company&#39;s recall cost recovery agreement with LG Electronics and the continued strong financial results at GM Financial.As a result, the company is on track to deliver full-year <b>2021</b> EBIT-adjusted earnings ...
+
+Title: GM Reports 2021 Full-Year and Fourth-Quarter Results, Including Record ...
+Link: https://www.prnewswire.com/news-releases/gm-reports-2021-full-year-and-fourth-quarter-results-including-record-earnings-301473147.html
+Snippet: DETROIT, Feb. 1, 2022 /PRNewswire/ -- General <b>Motors</b> Co. (NYSE: GM) today reported <b>2021</b> full-year earnings that include net income of $10 billion, EBIT-adjusted of $14.3 billion, net income margin ...
+
+Title: General Motors Statement on 2021 EEO-1 Consolidated Report - GM News
+Link: https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2022/aug/0825-eeo.html
+Snippet: For the second straight year, General <b>Motors</b> is disclosing its EEO-1 Consolidated Report. This report provides a snapshot of GM&#39;s U.S. workforce demographics as of Dec. 31, <b>2021</b>, based on standardized race/ethnicity, gender and job categories prescribed by the federal government through the U.S. Equal Employment Opportunity Commission (EEOC).
+
+Title: GM Reports Strong Second-Quarter 2021 Results - General Motors Company
+Link: https://investor.gm.com/news-releases/news-release-details/gm-reports-strong-second-quarter-2021-results/
+Snippet: Second-quarter <b>2021</b> results overview. Revenue of $34.2 billion. Net income of $2.8 billion, and EBIT-adjusted of $4.1 billion, including warranty recall costs of $ (1.3) billion, of which $ (0.8) billion was related to the Chevrolet Bolt EV. Net income margin of 8.3 percent, and EBIT-adjusted margin of 12.0 percent.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'General Motors scandals and lawsuits':
+Title: GM settles deadly ignition switch cases for $120 million - USA TODAY
+Link: https://www.usatoday.com/story/money/cars/2017/10/20/gm-settles-deadly-ignition-switch-cases-120-million/777831001/
+Snippet: 0:31. DETROIT — <b>General</b> <b>Motors</b> will pay $120 million to settle claims from dozens of states in its massive ignition switch defect <b>scandal</b>. The settlement comes after the U.S. Supreme Court ruled ...
+
+Title: No Accident: Inside GM’s deadly ignition switch scandal
+Link: https://www.atlantamagazine.com/great-reads/no-accident-inside-gms-deadly-ignition-switch-scandal/
+Snippet: Brooke Melton’s car was a key piece of evidence in her parents’ <b>lawsuit</b> against <b>General</b> <b>Motors</b>. Photograph by Josh Meister. March 10 2010 For Brooke Melton, the day began with a voicemail from ...
+
+Title: GM: Steps to a recall nightmare - CNNMoney - CNN Business
+Link: https://money.cnn.com/infographic/pf/autos/gm-recall-timeline/index.html
+Snippet: These are the events that led up to GM’s worldwide <b>recall</b> of 2.6 million cars, blamed for at least 12 deaths. ... <b>General</b> <b>Motors</b> agrees to pay a $35 million fine to settle a federal probe into ...
+
+Title: GM Settles Another Ignition-Switch Lawsuit For $120 Million
+Link: https://www.caranddriver.com/news/a31965015/gm-settles-lawsuit-ignition-switch-car-values/
+Snippet: <b>General</b> <b>Motors</b> has reached a preliminary settlement in a <b>lawsuit</b> on behalf of owners of vehicles with faulty ignition switches and related defects, agreeing to pay $120 million. The class-action ...
+
+Title: Timeline: A History Of GM&#39;s Ignition Switch Defect : NPR
+Link: https://www.npr.org/2014/03/31/297158876/timeline-a-history-of-gms-ignition-switch-defect
+Snippet: More than 10 years after the defect was detected, <b>General</b> <b>Motors</b> issued recalls for several models suspected of having a faulty switch. The problem, linked to 13 deaths, has raised several questions.
+
+Title: GM Report: Engineer Approved &#39;Switch From Hell&#39; Even Though It Didn&#39;t ...
+Link: https://www.nbcnews.com/storyline/gm-recall/gm-report-engineer-approved-switch-hell-even-though-it-didn-n123791
+Snippet: The internal report, prepared by former federal prosecutor Anton Valukas, faulted numerous GM employees for failing to “understand or solve the problem,” but it singled out Ray DeGiorgio, the ...
+
+Title: The GM recall scandal of 2014 - Vox
+Link: https://www.vox.com/2014/10/3/18073458/gm-car-recall
+Snippet: A $35 million fine: On May 16, 2014, the US Department of Transportation hit GM with $35 million in fines — the maximum allowed under the law — for delays in recalling the faulty ignitions. In ...
+
+Title: General Motors Hit With $102.6 Million Jury Verdict in Class Action ...
+Link: https://www.businesswire.com/news/home/20221004006189/en/General-Motors-Hit-With-102.6-Million-Jury-Verdict-in-Class-Action-Over-Defective-Engines
+Snippet: The jury returned a $102.6 million verdict against GM in a class action <b>lawsuit</b> led by national plaintiffs’ trial firm, ... The case is Raul Siqueiros, et al. v. <b>General</b> <b>Motors</b> LLC, Case No. 3: ...
+
+Title: G.M. Inquiry Cites Years of Neglect Over Fatal Defect
+Link: https://www.nytimes.com/2014/06/06/business/gm-ignition-switch-internal-recall-investigation-report.html
+Snippet: WARREN, Mich. — A sweeping internal investigation of <b>General</b> <b>Motors</b> released on Thursday condemned the company for its decade-long failure to fix a deadly safety defect, one that led to ...
+
+Title: GM agrees to $900M criminal settlement over ignition-switch defect
+Link: https://www.usatoday.com/story/money/cars/2015/09/17/gm-justice-department-ignition-switch-defect-settlement/32545959/
+Snippet: 0:03. 0:45. <b>General</b> <b>Motors</b> agreed to pay $900 million as part of a Justice Department investigation into its failure to fix a deadly ignition-switch defect blamed for more than 120 deaths. Federal ...
+
+Remi: Results for 'General Motors scandals and lawsuits':
+Title: GM settles deadly ignition switch cases for $120 million - USA TODAY
+Link: https://www.usatoday.com/story/money/cars/2017/10/20/gm-settles-deadly-ignition-switch-cases-120-million/777831001/
+Snippet: 0:31. DETROIT — <b>General</b> <b>Motors</b> will pay $120 million to settle claims from dozens of states in its massive ignition switch defect <b>scandal</b>. The settlement comes after the U.S. Supreme Court ruled ...
+
+Title: No Accident: Inside GM’s deadly ignition switch scandal
+Link: https://www.atlantamagazine.com/great-reads/no-accident-inside-gms-deadly-ignition-switch-scandal/
+Snippet: Brooke Melton’s car was a key piece of evidence in her parents’ <b>lawsuit</b> against <b>General</b> <b>Motors</b>. Photograph by Josh Meister. March 10 2010 For Brooke Melton, the day began with a voicemail from ...
+
+Title: GM: Steps to a recall nightmare - CNNMoney - CNN Business
+Link: https://money.cnn.com/infographic/pf/autos/gm-recall-timeline/index.html
+Snippet: These are the events that led up to GM’s worldwide <b>recall</b> of 2.6 million cars, blamed for at least 12 deaths. ... <b>General</b> <b>Motors</b> agrees to pay a $35 million fine to settle a federal probe into ...
+
+Title: GM Settles Another Ignition-Switch Lawsuit For $120 Million
+Link: https://www.caranddriver.com/news/a31965015/gm-settles-lawsuit-ignition-switch-car-values/
+Snippet: <b>General</b> <b>Motors</b> has reached a preliminary settlement in a <b>lawsuit</b> on behalf of owners of vehicles with faulty ignition switches and related defects, agreeing to pay $120 million. The class-action ...
+
+Title: Timeline: A History Of GM&#39;s Ignition Switch Defect : NPR
+Link: https://www.npr.org/2014/03/31/297158876/timeline-a-history-of-gms-ignition-switch-defect
+Snippet: More than 10 years after the defect was detected, <b>General</b> <b>Motors</b> issued recalls for several models suspected of having a faulty switch. The problem, linked to 13 deaths, has raised several questions.
+
+Title: GM Report: Engineer Approved &#39;Switch From Hell&#39; Even Though It Didn&#39;t ...
+Link: https://www.nbcnews.com/storyline/gm-recall/gm-report-engineer-approved-switch-hell-even-though-it-didn-n123791
+Snippet: The internal report, prepared by former federal prosecutor Anton Valukas, faulted numerous GM employees for failing to “understand or solve the problem,” but it singled out Ray DeGiorgio, the ...
+
+Title: The GM recall scandal of 2014 - Vox
+Link: https://www.vox.com/2014/10/3/18073458/gm-car-recall
+Snippet: A $35 million fine: On May 16, 2014, the US Department of Transportation hit GM with $35 million in fines — the maximum allowed under the law — for delays in recalling the faulty ignitions. In ...
+
+Title: General Motors Hit With $102.6 Million Jury Verdict in Class Action ...
+Link: https://www.businesswire.com/news/home/20221004006189/en/General-Motors-Hit-With-102.6-Million-Jury-Verdict-in-Class-Action-Over-Defective-Engines
+Snippet: The jury returned a $102.6 million verdict against GM in a class action <b>lawsuit</b> led by national plaintiffs’ trial firm, ... The case is Raul Siqueiros, et al. v. <b>General</b> <b>Motors</b> LLC, Case No. 3: ...
+
+Title: G.M. Inquiry Cites Years of Neglect Over Fatal Defect
+Link: https://www.nytimes.com/2014/06/06/business/gm-ignition-switch-internal-recall-investigation-report.html
+Snippet: WARREN, Mich. — A sweeping internal investigation of <b>General</b> <b>Motors</b> released on Thursday condemned the company for its decade-long failure to fix a deadly safety defect, one that led to ...
+
+Title: GM agrees to $900M criminal settlement over ignition-switch defect
+Link: https://www.usatoday.com/story/money/cars/2015/09/17/gm-justice-department-ignition-switch-defect-settlement/32545959/
+Snippet: 0:03. 0:45. <b>General</b> <b>Motors</b> agreed to pay $900 million as part of a Justice Department investigation into its failure to fix a deadly ignition-switch defect blamed for more than 120 deaths. Federal ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'General Motors Corporate Social Responsibility (CSR) initiatives':
+Title: Impacting Communities for the Future | General Motors
+Link: https://www.gm.com/commitments/corporate-giving
+Snippet: <b>General Motors</b> is committed to positively impacting our communities by investing in our future generations. Learn more about our community investments.
+
+Title: Journey to Zero | General Motors
+Link: https://www.gm.com/commitments/sustainability
+Snippet: Journey to Zero. At GM, we are driven by our innovative spirit and a commitment to action that will help us contribute to our world’s changing needs. Read our 2023 <b>Sustainability</b> Report for more information on our latest efforts. View 2023 <b>Sustainability</b> Report. <b>General Motors</b> plans to eliminate tailpipe emissions from new light-duty vehicles ...
+
+Title: GM Commitments | General Motors
+Link: https://www.gm.com/commitments/overview
+Snippet: We aim to achieve an all-electric, zero emissions world while advancing an equitable and inclusive transition to our carbon neutral future. <b>Corporate</b> Giving. We create jobs and support local economies while giving back to promote <b>social</b> progress in the communities where we live and work. 2023 <b>Sustainability</b> Report.
+
+Title: Journey to Zero: General Motors Unveils 2023 Sustainability Report ...
+Link: https://investor.gm.com/news-releases/news-release-details/journey-zero-general-motors-unveils-2023-sustainability-report
+Snippet: DETROIT — <b>General</b> <b>Motors</b> released its 2023 <b>Sustainability</b> Report today, showcasing the company’s commitment to building an equitable zero-emissions future and working toward its carbon-neutral goal. The report highlights GM&#39;s <b>initiatives</b> to accelerate electric vehicle adoption, forge strategic partnerships to enhance supply chain <b>sustainability</b>, and support the development of a future ...
+
+Title: General Motors Releases 2021 Sustainability Report Showing Accelerated ...
+Link: https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2022/apr/0428-sustainability.html
+Snippet: <b>General</b> <b>Motors</b> today released its 12th annual <b>Sustainability</b> Report, detailing its progress on expanding EV access, electrifying beyond the personal vehicle, and helping to ensure that climate action is equitable and inclusive as the company transitions to an all-electric future.
+
+Title: General Motors Releases 2022 Sustainability Report Detailing Progress ...
+Link: https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2023/apr/0428-sustainability.html
+Snippet: Today, <b>General</b> <b>Motors</b> released its 2022 <b>Sustainability</b> Report, focused on the company’s progress toward its vision of an all-electric future, including highlights around investments to rapidly scale EV production capacity, partnerships to improve the <b>sustainability</b> of GM’s supply chain, and efforts made to secure the renewable energy needed to power its U.S. sites by 2025.
+
+Title: 2022 Sustainability Advocacy Report - General Motors Company
+Link: https://investor.gm.com/static-files/f1d52599-8aa1-4c33-a4c4-ca0b73fc7adc
+Snippet: 2022 Advocacy. alitions37 Appendix2IntroductionThank you for reading our 2022 <b>Sustainability</b> Advocacy Report regarding GM’s U.S. e. gagement on climate change matters. As a company on the leading edge of an ambitious transformation, responsible and constructive engagement with U.S. policymakers is key to achieving our vision of zero crashes ...
+
+Title: General Motors Releases 2022 Sustainability Report Detailing Progress ...
+Link: https://investor.gm.com/news-releases/news-release-details/general-motors-releases-2022-sustainability-report-detailing
+Snippet: GM has committed to carbon neutrality in its global productions and operations by 2040 and has Science Based Targets <b>initiative</b>-approved targets for greenhouse gas reductions. The new report details how GM is working toward these goals across its priority areas of innovation, environmental action, <b>social</b> <b>responsibility</b> and governance.
+
+Title: GM Asks Suppliers to Sign Pledge Advancing Global Climate ... - GM News
+Link: https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2022/apr/0425-gm.html
+Snippet: Today, <b>General</b> <b>Motors</b> announced an innovative new pledge that invites global suppliers to join the company in a commitment to carbon neutrality, the development of <b>social</b> <b>responsibility</b> programs and implementation of sustainable procurement practices in their supply chain operations.
+
+Title: General Motors Releases 2021 Sustainability Report Showing Accelerated ...
+Link: https://www.prnewswire.com/news-releases/general-motors-releases-2021-sustainability-report-showing-accelerated-progress-toward-an-equitable-all-electric-future-301535342.html
+Snippet: The 2021 <b>Sustainability</b> Report can be viewed and downloaded at GMsustainability.com. <b>General</b> <b>Motors</b> (NYSE: GM) is a global company focused on advancing an all-electric future that is inclusive and ...
+
+Remi: Results for 'General Motors Corporate Social Responsibility (CSR) initiatives':
+Title: Impacting Communities for the Future | General Motors
+Link: https://www.gm.com/commitments/corporate-giving
+Snippet: <b>General Motors</b> is committed to positively impacting our communities by investing in our future generations. Learn more about our community investments.
+
+Title: Journey to Zero | General Motors
+Link: https://www.gm.com/commitments/sustainability
+Snippet: Journey to Zero. At GM, we are driven by our innovative spirit and a commitment to action that will help us contribute to our world’s changing needs. Read our 2023 <b>Sustainability</b> Report for more information on our latest efforts. View 2023 <b>Sustainability</b> Report. <b>General Motors</b> plans to eliminate tailpipe emissions from new light-duty vehicles ...
+
+Title: GM Commitments | General Motors
+Link: https://www.gm.com/commitments/overview
+Snippet: We aim to achieve an all-electric, zero emissions world while advancing an equitable and inclusive transition to our carbon neutral future. <b>Corporate</b> Giving. We create jobs and support local economies while giving back to promote <b>social</b> progress in the communities where we live and work. 2023 <b>Sustainability</b> Report.
+
+Title: Journey to Zero: General Motors Unveils 2023 Sustainability Report ...
+Link: https://investor.gm.com/news-releases/news-release-details/journey-zero-general-motors-unveils-2023-sustainability-report
+Snippet: DETROIT — <b>General</b> <b>Motors</b> released its 2023 <b>Sustainability</b> Report today, showcasing the company’s commitment to building an equitable zero-emissions future and working toward its carbon-neutral goal. The report highlights GM&#39;s <b>initiatives</b> to accelerate electric vehicle adoption, forge strategic partnerships to enhance supply chain <b>sustainability</b>, and support the development of a future ...
+
+Title: General Motors Releases 2021 Sustainability Report Showing Accelerated ...
+Link: https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2022/apr/0428-sustainability.html
+Snippet: <b>General</b> <b>Motors</b> today released its 12th annual <b>Sustainability</b> Report, detailing its progress on expanding EV access, electrifying beyond the personal vehicle, and helping to ensure that climate action is equitable and inclusive as the company transitions to an all-electric future.
+
+Title: General Motors Releases 2022 Sustainability Report Detailing Progress ...
+Link: https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2023/apr/0428-sustainability.html
+Snippet: Today, <b>General</b> <b>Motors</b> released its 2022 <b>Sustainability</b> Report, focused on the company’s progress toward its vision of an all-electric future, including highlights around investments to rapidly scale EV production capacity, partnerships to improve the <b>sustainability</b> of GM’s supply chain, and efforts made to secure the renewable energy needed to power its U.S. sites by 2025.
+
+Title: 2022 Sustainability Advocacy Report - General Motors Company
+Link: https://investor.gm.com/static-files/f1d52599-8aa1-4c33-a4c4-ca0b73fc7adc
+Snippet: 2022 Advocacy. alitions37 Appendix2IntroductionThank you for reading our 2022 <b>Sustainability</b> Advocacy Report regarding GM’s U.S. e. gagement on climate change matters. As a company on the leading edge of an ambitious transformation, responsible and constructive engagement with U.S. policymakers is key to achieving our vision of zero crashes ...
+
+Title: General Motors Releases 2022 Sustainability Report Detailing Progress ...
+Link: https://investor.gm.com/news-releases/news-release-details/general-motors-releases-2022-sustainability-report-detailing
+Snippet: GM has committed to carbon neutrality in its global productions and operations by 2040 and has Science Based Targets <b>initiative</b>-approved targets for greenhouse gas reductions. The new report details how GM is working toward these goals across its priority areas of innovation, environmental action, <b>social</b> <b>responsibility</b> and governance.
+
+Title: GM Asks Suppliers to Sign Pledge Advancing Global Climate ... - GM News
+Link: https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2022/apr/0425-gm.html
+Snippet: Today, <b>General</b> <b>Motors</b> announced an innovative new pledge that invites global suppliers to join the company in a commitment to carbon neutrality, the development of <b>social</b> <b>responsibility</b> programs and implementation of sustainable procurement practices in their supply chain operations.
+
+Title: General Motors Releases 2021 Sustainability Report Showing Accelerated ...
+Link: https://www.prnewswire.com/news-releases/general-motors-releases-2021-sustainability-report-showing-accelerated-progress-toward-an-equitable-all-electric-future-301535342.html
+Snippet: The 2021 <b>Sustainability</b> Report can be viewed and downloaded at GMsustainability.com. <b>General</b> <b>Motors</b> (NYSE: GM) is a global company focused on advancing an all-electric future that is inclusive and ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)

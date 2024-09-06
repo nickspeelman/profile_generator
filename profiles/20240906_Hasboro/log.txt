@@ -1,0 +1,54 @@
+Susan: Here is a step-by-step strategy to gather information about Hasbro:
+
+1. **Initial Search**
+
+    Conduct an initial search for Hasbro Inc. on Google to get the general idea of the company, its products, history, and overall performance.
+
+2. **Official Website**
+
+    Visit Hasbro's official website and look for sections such as 'About Us', 'Investors' and 'Newsroom'. These sections often contain valuable information about company history, financial reports, and recent announcements/events. 
+
+3. **Executive Profiles**
+
+   Identify key decision makers in the company. The company website should have a listing of their executive team, including positions, experience, and potentially contact information. Using LinkedIn, you can also get more personal details about these executives.
+
+4. **Financial Reports**
+
+    Importantly, examine their latest annual and quarterly reports for detailed financial information. Check Form 10K and 10Q filings with the Securities and Exchange Commission (SEC) for any irregularities or important points.
+
+5. **Labor Relations**
+
+    Investigate Hasbro's labor relations history. This may involve searching for news articles related to strikes, pay negotiations, or disputes. You may also check labor union websites or public filings for ongoing issues.
+
+6. **Recent News/Scandals**
+
+    For this, make use of news websites like CNN, Fox, Bloomberg, Reuters, etc. Look for any recent scandals or lawsuits that Hasbro has been involved in. This also includes any public backlash or controversies over products or advertising.
+
+7. **Reviews/Insider Information**
+
+    Websites such as Glassdoor and Indeed can offer employee reviews of the company, giving insider information about company culture, treatment of employees and general working conditions.
+
+8. **Social Media**
+
+    Monitor Hasbro's presence on social media networks such as Twitter, Facebook, and Instagram. Often, some issues could be unearthed or trends identified from user comments on these platforms. It's also a good way to gauge public opinion about the company.
+
+9. **Competitor Research**
+
+    Look at direct competitors for Hasbro and see how their practices may differ and any potential pressure points that can be used in negotiation.
+
+10. **Public Perception**
+
+    Research on marketing forums and public opinion polls to gather general sentiment about the company. 
+
+While all this information is publicly available, it is crucial to verify the sources and cross-check the data to have accurate and reliable conclusions.
+Manny: Sure, here is a Python list named 'search_queries_for_remi', containing specific search queries for your research:
+
+```python
+search_queries_for_remi = [
+    "Hasbro Inc official website",
+    "Hasbro executives profiles on LinkedIn",
+    "Hasbro Inc latest SEC filings",
+    "Hasbro labor relations news",
+    "Hasbro recent scandals and controversies"
+]
+```

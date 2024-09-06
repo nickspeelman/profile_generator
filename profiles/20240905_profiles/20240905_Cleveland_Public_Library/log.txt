@@ -1,0 +1,578 @@
+Research Topic: Cleveland Public Library
+Susan: 1. **Summarize Financial Information**: Find audited financial statements, annual reports, and funding sources, all often available on an organization's website. Prioritize revenues, expenditures, outstanding debts, and assets. Also, check the state's Secretary of State or comparable department, which may have financial records available for public entities.
+
+2. **Key Decision Makers**: Examine the library's official website and reports for the names and roles of the Board of Trustees, Executive Team, or any other key decision makers. Google these individuals to find relevant information, such as professional background, professional networks, and any other relevant personal information like philanthropic or political activities. Public records databases and LinkedIn can be invaluable in this phase.
+
+3. **Labor Relations**: Seek out information on any labor disputes, collective bargaining agreements, or union activity involving the library. Look for local news articles, union websites, or public records filed with the state's labor board.
+
+4. **Recent Scandals**: Scour reputable newspapers and websites for scandals involving the library or its decision-makers. Look for financial impropriety, labor disputes, or controversial actions or statements.
+
+5. **Other Points of Leverage**: Review public reviews and comments about the library on platforms like Yelp, Google Reviews, Facebook, and Twitter, or local news sites. This could reveal dissatisfaction among the public/services users that could be leveraged.
+
+Remember, research may not turn up useful information right away, but persistence and a systematic approach can yield valuable insights.
+Manny: Thanks for sharing the strategy, Susan. I have few follow-up questions:
+
+1. **Financial Information**: Can we identify any databases or online resources that are most reliable for obtaining financial information on public entities?
+
+2. **Key Decision Makers**: In addition to professional background and networks, what other personal information can be helpful, and ethical, to gather about key decision-makers?
+
+3. **Labor Relations**: Which local newspapers or websites do you find most useful for revealing labor disputes or union activity?
+
+4. **Scandals**: What should be our standard for considering a scandal 'notable'?
+
+5. **Other Points of Leverage**: What kind of public dissatisfaction tends to be most effective as leverage? Are there any specific signs we should look for in reviews or comments? 
+
+Revisiting these points will fine-tune our approach to better the research.
+Manny: Sure, here's a Python list of search queries for Remi:
+
+```python
+search_queries_for_remi = [
+    "Cleveland Public Library annual report",
+    "Cleveland Public Library financial statements",
+    "Cleveland Public Library funding sources",
+    "Cleveland Public Library Board of Trustees",
+    "Cleveland Public Library Executive Team",
+    "Cleveland Public Library key decision makers",
+    "Cleveland Public Library labor disputes",
+    "Cleveland Public Library union activity",
+    "Cleveland Public Library scandals",
+    "Cleveland Public Library Yelp reviews",
+    "Cleveland Public Library Google Reviews",
+    "Cleveland Public Library Facebook comments",
+    "Cleveland Public Library Twitter comments"
+]
+```
+These search queries should provide a good starting point for researching the Cleveland Public Library.
+Remi: Results for query 'Cleveland Public Library annual report':
+Title: No title available
+Link: https://cpl.org/aboutthelibrary/annual-reports-comprehensive-annual-financial-reports/
+Snippet: The <b>Annual</b> Reports <b>&amp;</b> Comprehensive <b>Annual</b> Financial Reports (CAFR) of the Cleveland <b>Public</b> <b>Library</b> since 2005.
+
+Title: No title available
+Link: https://cpl.org/wp-content/uploads/2023-CPL_ACFR.pdf
+Snippet: Cleveland <b>Public</b> <b>Library</b>. <b>Annual</b> Comprehensive Financial <b>Report</b> . For the Year Ended December 31, 2023 . Table of Contents (continued) Individual Fund Schedules of Revenues, Expenditures/Expenses and Changes in . Fund Balance/Equity – Budget (Non-GAAP Basis) and Actual . Major Funds
+
+Title: No title available
+Link: https://cpl.org/wp-content/uploads/cleveland-public-library-2021-cuyahoga-acfr.pdf
+Snippet: of the Cleveland <b>Public</b> <b>Library</b>: We are pleased to submit to you the <b>Annual</b> ComprehensiveFinancial <b>Report</b> of the Cleveland <b>Public</b> <b>Library</b> (the <b>Library</b>) for the fiscal year ended December 31, 2021. This is the eleventh year in a row that the <b>Library</b> has submitted its financial <b>report</b> within the
+
+Title: No title available
+Link: https://issuu.com/clevelandpubliclibrary/docs/annual_report-2021-f
+Snippet: In 2021, Cleveland <b>Public</b> <b>Library</b> changed the way it conducts business. We established a Supplier Diversity Council to ensure our suppliers are diverse and representative of the community we serve ...
+
+Title: No title available
+Link: https://issuu.com/clevelandpubliclibrary/docs/annualreport-2020-final
+Snippet: TO CLEVELAND <b>PUBLIC</b> <b>LIBRARY</b> Ohio <b>Library</b> for the Blind &amp;amp; Physically Disabled LSTA Federal Aid of $234,000 and State Aid of $1,274,194 for providing services for the blind and physically disabled.
+
+Title: No title available
+Link: https://issuu.com/clevelandpubliclibrary/docs/cpl_annualreport_2018_issuu
+Snippet: 2018 <b>Annual</b> <b>Report</b>. Published on May 22, 2019. Cleveland <b>Public</b> <b>Library</b>. Issuu converts static files into: digital portfolios, online yearbooks, online catalogs, digital photo albums and more ...
+
+Title: No title available
+Link: https://cplfdn.org/wp-content/uploads/2024/05/2024-Foundation-Annual-Report-Final-Digital.pdf
+Snippet: <b>ANNUAL</b> <b>REPORT</b>. he Impact You MadeIn 2023, Cleveland <b>Public</b> <b>Library</b>, in partnership with local nonprofit organizations, businesses, corporations, associations, media and government answered the call issued by Mayor Justin Bibb to host a city-wide reading campaign to build our city’. literacy levels. The original goal was for the entire city to ...
+
+Title: No title available
+Link: https://www.jstor.org/site/cpl/history-and-archives/
+Snippet: Drawn from the <b>Library</b>’s institutional archives, this collection consists of images, primary source documents, and other types of material that chronicle the evolution of the nationally top-ranked Cleveland <b>Public</b> <b>Library</b> since its founding on February 17, 1869. Highlights include <b>annual</b> reports, images of Main <b>Library</b> and branch <b>library</b> locations, the Andrew Carnegie gifts, bookplates ...
+
+Title: No title available
+Link: https://cpl.org/wp-content/uploads/2021-cpl-comprehensive-annual-financial-report.pdf
+Snippet: Cleveland <b>Public</b> <b>Library</b>. Comprehensive <b>Annual</b> Financial <b>Report</b> . For the Year Ended December 31, 2020 . Table of Contents (continued) Individual Fund Schedules of Revenues, Expenditures/Expenses and Changes in . Fund Balance/Equity – Budget (Non-GAAP Basis) and Actual . Major Funds
+
+Title: No title available
+Link: https://en.wikipedia.org/wiki/Cleveland_Public_Library
+Snippet: The Cleveland <b>Public Library</b> is a <b>public</b> <b>library</b> system in Cleveland, Ohio. Founded in 1869, it had a circulation of 3.5 million items in 2020. ... the Cleveland <b>Public Library</b> had <b>annual</b> attendance of 804,692 and an <b>annual</b> circulation of 1,698,928 items. ... Partner with the Federal Depository <b>Library</b> Program for its digitized multi-volume set ...
+
+Remi: Results for query 'Cleveland Public Library financial statements':
+Title: No title available
+Link: https://cpl.org/aboutthelibrary/annual-reports-comprehensive-annual-financial-reports/
+Snippet: The Annual Reports <b>&amp;</b> Comprehensive Annual <b>Financial</b> Reports (CAFR) of the Cleveland <b>Public</b> <b>Library</b> since 2005.
+
+Title: No title available
+Link: https://cpl.org/wp-content/uploads/cleveland-public-library-2021-cuyahoga-acfr.pdf
+Snippet: opinion on the <b>Library</b>’s <b>financial</b> <b>statements</b> as of December 31, 2021, and the ... Cleveland <b>Public</b> <b>Library</b> is organized as a school district <b>library</b> under the laws of the State of Ohio and is one of nine <b>public</b> <b>library</b> systems in Cuyahoga County. The <b>Library</b>’s legal service area shares the
+
+Title: No title available
+Link: https://cpl.org/wp-content/uploads/2023-CPL_ACFR.pdf
+Snippet: opinion on the <b>Library</b>’s <b>financial</b> <b>statements</b> as of December 31, 2023, and the ... Cleveland <b>Public</b> <b>Library</b> is organized as a school district <b>library</b> under the laws of the State of Ohio and is one of nine <b>public</b> <b>library</b> systems in Cuyahoga County. The <b>Library</b>’s legal service area shares the
+
+Title: No title available
+Link: https://ohioauditor.gov/auditsearch/Reports/2023/Cleveland_Public_Library_2022_Cuyahoga_FINAL.pdf
+Snippet: Efficient Effective Transparent. Board of Trustees . Cleveland <b>Public</b> <b>Library</b> . 325 Superior Ave . Cleveland, OH 44114 . We have reviewed the Independent Auditor’s Report of the Cleveland <b>Public</b> <b>Library</b>, Cuyahoga County, prepared by Charles E. Harris &amp; Associates, Inc., for the audit period January 1, 2022 through December
+
+Title: No title available
+Link: https://issuu.com/clevelandpubliclibrary/docs/annualreport-2020-final
+Snippet: TO CLEVELAND <b>PUBLIC</b> <b>LIBRARY</b> Ohio <b>Library</b> for the Blind &amp;amp; Physically Disabled. LSTA Federal Aid of $234,000 and State Aid of $1,274,194 for providing services for the blind and physically disabled.
+
+Title: No title available
+Link: https://cuyahogalibrary.org/uploads/pdfs/Annual-Reports/CCPL-2022-Annual-Comprehensive-Financial-Report.pdf
+Snippet: provide reasonable, rather than absolute, assurance that the <b>financial</b> <b>statements</b> are free of any material misstatements. Julian &amp; Grube, Inc. has issued an unmodified (“clean”) opinion on the <b>Library</b>’s <b>financial</b> <b>statements</b> for the year ended December 31, 2022. The independent auditor’ report is located at the front of the <b>financial</b> section
+
+Title: No title available
+Link: https://projects.propublica.org/nonprofits/organizations/346565428
+Snippet: Nonprofit Explorer includes summary data for nonprofit tax returns and full Form 990 documents, in both PDF and digital formats. The summary data contains information processed by the IRS during the 2012-2019 calendar years; this generally consists of filings for the 2011-2018 fiscal years, but may include older records.
+
+Title: No title available
+Link: https://ohioauditor.gov/auditsearch/Reports/2022/East_Cleveland_Public_Library_21_20-Cuyahoga_FINAL.pdf
+Snippet: East Cleveland <b>Public</b> <b>Library</b> . Cuyahoga County . 14101 Euclid Avenue . East Cleveland, Ohio 44112 . To the Board of Trustees: Report on the Audit of the <b>Financial</b> <b>Statements</b> . Unmodified and Adverse Opinions . We have audited the <b>financial</b> <b>statements</b> of the East Cleveland <b>Public</b> <b>Library</b>, Cuyahoga County, Ohio
+
+Title: No title available
+Link: https://ohioauditor.gov/auditsearch/Reports/2020/East_Cleveland_Public_Library_19_18-Cuyahoga.pdf
+Snippet: In our opinion, the <b>financial</b> <b>statements</b> referred to above present fairly, in all material respects, the cash balances, receipts and disbursements by fund type, and related notes of the East Cleveland <b>Public Library</b>, Cuyahoga County as of December 31, 2019and 2018 ,and for the years then ended in accordance with
+
+Title: No title available
+Link: https://heightslibrary.org/wp-content/uploads/2021/11/2020-CHUHPL-CAFR.pdf
+Snippet: Cleveland Heights-University Heights <b>Public</b> <b>Library</b> Cleveland Heights, OH (This Page Intentionally Left Blank) Introductory Section ... Keith Fabe r, has issued an unmodified (“clean”) opinion on the <b>Library</b>’s <b>financial</b> <b>statements</b> for the year ended December 31, 2020. The independent auditor’s report is located at the front
+
+Remi: Results for query 'Cleveland Public Library funding sources':
+Title: No title available
+Link: https://cpl.org/levy/
+Snippet: Cleveland <b>Public</b> <b>Library</b> is funded primarily through two <b>sources</b>: 1) State of Ohio’s <b>Public</b> <b>Library</b> Fund; and 2) local voter-approved property tax levies. Other <b>funding</b> comes from grants, fines and fees, and interest on investments. Has Cleveland <b>Public</b> <b>Library</b>’s <b>funding</b> been stable? Unfortunately, no. Since 2006, the <b>Library</b>’s operating ...
+
+Title: No title available
+Link: https://cplfdn.org/wp-content/uploads/2022/12/CPLF-Strategic-Plan-2022-2025.pdf
+Snippet: As the <b>Library</b>’s philanthropic partner, the Cleveland <b>Public</b> <b>Library</b> (CPL) Foundation is the catalyst for creating and <b>funding</b> programs that support the <b>Library</b>’s mission and demonstrating community impact within its branches and neighborhoods. In 2021, the CPL Foundation identified five priority investment areas to
+
+Title: No title available
+Link: https://cpl.org/prism/prism-initiative/
+Snippet: For the PRISM initiative, Cleveland <b>Public</b> <b>Library</b> once again seeks to engage artists to create compelling artworks that will enhance <b>public</b> space. These artworks, and PRISM’s associated programming, will orient viewers toward a reality where mass incarceration, along with the practices, philosophies, and portrayals that created it, become ...
+
+Title: No title available
+Link: https://cpl.org/research-learning/researchdatabases/
+Snippet: The world’s largest academic multi-disciplinary database, Academic Search Premier provides full text for nearly 4,650 serials, including full text for more than 3,600 peer-reviewed titles.PDF backfiles to 1975 or further are available for well over one hundred journals, and searchable cited references are provided for more than 1,000 titles.
+
+Title: No title available
+Link: https://cplfdn.org/impact/
+Snippet: An investment in Cleveland <b>Public</b> <b>Library</b> through the Foundation is an investment in Cleveland’s diverse and distinctive neighborhoods. Established by Cleveland-born philanthropist Agnes Gund. This grant aims to support the endeavors of artists and advocates dedicated to ending mass incarceration and fostering a future of collective safety.
+
+Title: No title available
+Link: https://cplfdn.org/
+Snippet: The Cleveland <b>Public</b> <b>Library</b> Foundation exists to raise philanthropic support for Cleveland <b>Public</b> <b>Library</b>. The Foundation allows the <b>Library</b> to do more for the people of this community given the work outside the scope of traditional <b>library</b> services is not funded by the state and local tax dollars received by the <b>Library</b>. When you invest in ...
+
+Title: No title available
+Link: https://www.guidestar.org/profile/34-6565428
+Snippet: Mission. Cleveland <b>Public</b> <b>Library</b> Foundation is a nonprofit organization that engages and inspires individuals, businesses, and philanthropic organizations to advocate, fundraise, and provide critical support for the Cleveland <b>Public Library</b> and its programs. We believe that libraries strengthen communities by providing free and equal access to ...
+
+Title: No title available
+Link: https://thelandcle.org/stories/clevelands-libraries-ready-for-next-chapter-as-10-million-upgrade-unfolds/
+Snippet: Rendering by Moody-Nolan of the new Hough Branch <b>Library</b>. Dwayne Price will miss the old Hough Branch <b>library</b>, but he’s looking forward to the new one, coming soon in a roughly $100 million project to upgrade every Cleveland <b>Public</b> <b>Library</b> branch. Price has visited Hough about four times a week for the past 17 years.
+
+Title: No title available
+Link: https://projects.propublica.org/nonprofits/organizations/346565428
+Snippet: Nonprofit Explorer includes summary data for nonprofit tax returns and full Form 990 documents, in both PDF and digital formats. The summary data contains information processed by the IRS during the 2012-2019 calendar years; this generally consists of filings for the 2011-2018 fiscal years, but may include older records.
+
+Title: No title available
+Link: https://case.edu/ech/articles/c/cleveland-public-library
+Snippet: A new <b>source</b> of <b>funding</b> was soon secured in the form of a levy authorized by the Ohio State legislature, a significant victory in the complex history of <b>library</b> <b>funding</b>. Cleveland <b>Public Library</b>&#39;s innovative, service-oriented philosophy was established by the third and fourth librarians, WILLIAM HOWARD BRETT and LINDA ANNE EASTMAN, with the ...
+
+Remi: Results for query 'Cleveland Public Library Board of Trustees':
+Title: No title available
+Link: https://cpl.org/aboutthelibrary/governance/
+Snippet: <b>Board</b> <b>of Trustees</b> <b>Board</b> meetings are normally held the third Thursday of the month at 12:00 noon on the 2nd floor of the Louis Stokes Wing at the Main <b>Library</b>. <b>Board</b> meetings are open to the <b>public</b>.
+
+Title: No title available
+Link: https://cpl.org/cleveland-public-library-welcomes-melaak-rashid-to-library-board-of-trustees/
+Snippet: Cleveland <b>Public</b> <b>Library</b> is pleased to announce the confirmation of Melaak Rashid to the <b>Library</b> <b>Board</b> <b>of Trustees</b>. Rashid was chosen by the <b>Board</b> of Education for the Cleveland Metropolitan School District (CMSD) which governs Cleveland <b>Public</b> <b>Library</b>’s <b>Board</b> <b>of Trustees</b>.
+
+Title: No title available
+Link: https://cpl.org/
+Snippet: August 12, 2024 <b>Library</b> <b>Board</b> Work Session The Cleveland <b>Public Library Board of Trustees</b> will hold a Regular meeting on August 12, 2024 at 12 noon on 10th floor in the <b>Board</b> Room at the Louis Stokes Wing, Main <b>Library</b>. <b>Board</b> Meetings are open to the <b>public</b>.
+
+Title: No title available
+Link: https://issuu.com/clevelandpubliclibrary/docs/annual_report-2021-f
+Snippet: Maritza Rodriguez, <b>Board</b> President Cleveland <b>Public Library Board of Trustees</b> 2021 REPORT TO THE COMMUNITY 3 4 KEEPING A COMMUNITY CONNECTED
+
+Title: No title available
+Link: https://www.linkedin.com/in/alice-butts-03a6a938
+Snippet: Member and formerly three year President of <b>Board</b> <b>of Trustees</b> at Cleveland <b>Public</b> <b>Library</b> · Currently, I still serve as a Community Volunteer and am enjoying my own art studio, where I still ...
+
+Title: No title available
+Link: https://lasclev.org/04182023-4/
+Snippet: APRIL 18, 2023 (CLEVELAND, OH) – Cleveland <b>Public</b> <b>Library</b> is pleased to announce the confirmation of Melanie A. Shakarian, Esq. to the <b>Library</b> <b>Board</b> <b>of Trustees</b>. She was chosen by the <b>Board</b> of Education for the Cleveland Metropolitan School District (CMSD) which governs Cleveland <b>Public</b> <b>Library</b>’s <b>Board</b> <b>of Trustees</b>.
+
+Title: No title available
+Link: https://www.linkedin.com/company/cleveland-public-library
+Snippet: We&#39;re thrilled to welcome our newest <b>trustee</b>, Melaak Rashid, to The People&#39;s University! <b>Trustee</b> Rashid joined the Cleveland <b>Public Library board of Trustees</b> at April&#39;s <b>board</b> meeting after taking ...
+
+Title: No title available
+Link: https://en.wikipedia.org/wiki/Cleveland_Public_Library
+Snippet: The Cleveland <b>Public Library</b> is a <b>public</b> <b>library</b> system in Cleveland, Ohio. Founded in 1869, it had a circulation of 3.5 million items in 2020. It operates the Main <b>Library</b> on Superior Avenue in downtown Cleveland, 27 branches throughout the city, a mobile <b>library</b>, a <b>Public</b> Administration <b>Library</b> in City Hall, and the Ohio <b>Library</b> for the Blind and Physically Disabled. The <b>library</b> replaced the ...
+
+Title: No title available
+Link: https://www.cleveland.com/metro/2020/01/cleveland-public-library-union-approve-three-year-contract.html
+Snippet: The Cleveland <b>Public Library Board of Trustees</b> and the union representing its librarians this week officially approved a new three-year contract after months of negotiations and threats of a strike.
+
+Title: No title available
+Link: https://www.mlk-cpl.com/timeline
+Snippet: Cleveland <b>Public Library Board of Trustees</b> Names Winning Design Team Cleveland <b>Public</b> <b>Library</b> Names SO-IL + JKurtz Winners of MLK Design Competition. SO-IL + JKurtz presented a design concept for the <b>library</b> branch that surrounds Dr. King’s “table of brotherhood” from his famous 1963 “I Have a Dream” speech. February, 2020
+
+Remi: Results for query 'Cleveland Public Library Executive Team':
+Title: No title available
+Link: https://cpl.org/aboutthelibrary/governance/
+Snippet: Leadership <b>Team</b>. Cleveland <b>Public</b> <b>Library</b> will be the driving force behind a powerful culture of learning that will inspire Clevelanders from all walks of life to continually learn, share and seek out new knowledge in ways that are beneficial to themselves, their community and the world. Cleveland <b>Public</b> <b>Library</b> aims to foster a strong learning ...
+
+Title: No title available
+Link: https://cpl.org/aboutthelibrary/governance/felton-thomas-jr/
+Snippet: Felton Thomas, Jr. Is the <b>Executive</b> Director and CEO of the Cleveland <b>Public</b> <b>Library</b> (CPL), one of the nation’s largest and most respected metropolitan <b>library</b> systems. Under Thomas’ leadership, CPL has embarked on an ambitious 10-year Facilites Master Plan (FMP) to renovate or rebuild all 27 of its libraries, launched groundbreaking ...
+
+Title: No title available
+Link: https://cpl.org/the-library-welcomes-two-new-members-to-help-engage-our-community/
+Snippet: CPL Staff writer March 3, 2023. Cleveland <b>Public</b> <b>Library</b> is pleased to announce the hire of two new members to its leadership <b>team</b>: Ashley Boyd is the new Director of Diversity, Equity, and Inclusion (DEI) and Tiffany Graham Charkosky will serve as the Director of Arts and Culture. “Cleveland <b>Public</b> <b>Library</b> recruited two experienced leaders ...
+
+Title: No title available
+Link: https://www.linkedin.com/in/feltonthomas
+Snippet: <b>Executive</b> Director &amp; CEO, Cleveland <b>Public</b> <b>Library</b> · Experience: Cleveland <b>Public</b> <b>Library</b> · Location: Cleveland · 500+ connections on LinkedIn. View Felton Thomas,<b></b> Jr.’s profile on LinkedIn ...
+
+Title: No title available
+Link: https://www.ripleffect.org/blog/speaker/felton-thomas-jr/
+Snippet: Felton Thomas, Jr. has served as <b>Executive</b> Director of Cleveland <b>Public</b> <b>Library</b> (CPL) since January, 2009. Since beginning his tenure at CPL, Director Thomas has furthered the mission of CPL to be “The People’s University”, including launching initiatives aimed at addressing community needs in the areas of access to technology, education, and economic development.
+
+Title: No title available
+Link: https://issuu.com/clevelandpubliclibrary/docs/annual_report-2021-f
+Snippet: Cleveland <b>Public</b> <b>Library</b> Annual Report 2021. Search. ... <b>EXECUTIVE</b> LEADERSHIP <b>TEAM</b>. Felton Thomas, Jr. <b>Executive</b> Director/Chief <b>Executive</b> Officer. Carrie Krenicky. John Lang. John Malcolm.
+
+Title: No title available
+Link: https://libraryleadershippodcast.com/felton-thomas-director-of-the-cleveland-public-library/
+Snippet: Felton Thomas is just such a leader. As Director of the Cleveland <b>Public</b> <b>Library</b> and past president of the <b>Public</b> <b>Library</b> Association, his visionary style and pay it forward attitude has made a huge impact on the profession. Climb on board as we listen to what brought him to where he is today, the leader of a five-star rated <b>library</b> known as ...
+
+Title: No title available
+Link: https://www.crainscleveland.com/politics-policy/cleveland-public-library-renews-felton-thomas-jrs-contract-ceo
+Snippet: Felton Thomas Jr. will stay on as <b>executive</b> director and CEO at Cleveland <b>Public</b> <b>Library</b> after the board of trustees voted unanimously to renew his contract for five years. Per the terms of the contract, Thomas, who joined the <b>library</b> in 2009, will be paid $297,000 annually with the possibility of a bonus or salary increase “contingent upon ...
+
+Title: No title available
+Link: https://www.crainscleveland.com/people/cleveland-public-library-announces-additions-leadership-team
+Snippet: Cleveland <b>Public</b> <b>Library</b>, which this year celebrates 150 years of service, has announced additions to its leadership <b>team</b>.. Lynn Sargi will serve as chief talent officer, Tana K. Peckman will be chief marketing and communications officer; and Sadie Winlock will serve as director of equity and inclusion initiatives, according to a news release.
+
+Title: No title available
+Link: https://www.crainscleveland.com/government/cleveland-public-library-names-john-lang-chief-operating-officer
+Snippet: The Cleveland <b>Public</b> <b>Library</b> said it has named John Lang as its new chief operating officer.. He&#39;ll start the job on Monday, Oct. 12. Lang replaces Jeremiah Swetel, who now is <b>executive</b> director of facilities services at Cleveland State University.. Lang joins the <b>library</b> from Cuyahoga Community College, where he had been director of construction, planning and design since 2016.
+
+Remi: Results for query 'Cleveland Public Library key decision makers':
+Title: No title available
+Link: https://cpl.org/aboutthelibrary/cleveland-public-library-collection-development-policy/
+Snippet: Branch <b>library</b> and digital media policies remained under development, with an expected completion date of December 2022. The Collection Development Policy is a living document through which collection <b>decisions</b> will continuously evolve. Changes to the document will be presented to the Board of Trustees annually in January.
+
+Title: No title available
+Link: https://cpl.org/wp-content/uploads/board/collection-development-policy-final.pdf
+Snippet: Adopted by the Cleveland <b>Public</b> <b>Library</b> Board of Trustees November 18, 2021. Felton Thomas, Jr., Director &amp; CEO. John Skrtic, Chief of Special Projects and Collections. Harriette Parks, Chief of <b>Public</b> Services. Cleveland <b>Public</b> <b>Library</b> 325 Superior Avenue Cleveland, Ohio 44114. Collection Development Policy Table of Contents Opening Page.
+
+Title: No title available
+Link: https://cpl.org/aboutthelibrary/subjectscollections/techcentral/makerspace/
+Snippet: 525 Superior Ave. <b>Cleveland</b>, Ohio 44114. 216.623.2980. The <b>TechCentral MakerSpace</b> is a creative and collaborative design and fabrication space that allows you to turn your ideas into reality. The MakerSpace is available to all <b>Cleveland</b> <b>Public</b> <b>Library</b> and CLEVNET member <b>library</b> card holders. To access the <b>TechCentral MakerSpace</b>, you will need a ...
+
+Title: No title available
+Link: https://cplfdn.org/wp-content/uploads/2022/12/CPLF-Strategic-Plan-2022-2025.pdf
+Snippet: As the <b>Library</b>’s philanthropic partner, the Cleveland <b>Public</b> <b>Library</b> (CPL) Foundation is the catalyst for creating and funding programs that support the <b>Library</b>’s mission and demonstrating community impact within its branches and neighborhoods. In 2021, the CPL Foundation identified five priority investment areas to
+
+Title: No title available
+Link: https://cpl.org/business-consumer-information/
+Snippet: All Cleveland <b>Public</b> <b>Library</b> locations are closed on Monday, September 2, in observance of Labor Day. the <b>library</b>. ... opinion formers and <b>decision</b> <b>makers</b>. Researchers can compare economic trends across continents and centuries, cull cutting-edge ideas from the economic and political perspectives of the 19th, 20th, and 21st centuries and ...
+
+Title: No title available
+Link: http://www.tedxcle.com/felton-thomas/
+Snippet: <b>Felton Thomas</b>, Jr. was appointed Director of the <b>Cleveland</b> <b>Public</b> <b>Library</b> (CPL) in January 2009. Since then, he has positioned CPL as a community deficit fighter and launched initiatives aimed at addressing community needs in the areas of technology, education, and economic development. During Felton’s tenure, CPL has maintained its “Five ...
+
+Title: No title available
+Link: https://thelandcle.org/stories/clevelands-libraries-ready-for-next-chapter-as-10-million-upgrade-unfolds/
+Snippet: Rendering by Moody-Nolan of the new Hough Branch <b>Library</b>. Dwayne Price will miss the old Hough Branch <b>library</b>, but he’s looking forward to the new one, coming soon in a roughly $100 million project to upgrade every Cleveland <b>Public</b> <b>Library</b> branch. Price has visited Hough about four times a week for the past 17 years.
+
+Title: No title available
+Link: https://librarytechnology.org/pr/27722
+Snippet: During his tenure, Cleveland <b>Public</b> <b>Library</b> was named a &quot;Top Innovator&quot; by the Urban Libraries Council for its use of technology and data to inform <b>decision</b>-<b>making</b>. Thomas has been named a <b>Library</b> Journal &quot;Mover and Shaker&quot; and has served as President of the <b>Public</b> <b>Library</b> Association, a member of the Aspen Institute Task Force on Learning and ...
+
+Title: No title available
+Link: https://www.urbanlibraries.org/innovations/cleveland-public-library-makerspace
+Snippet: <b>Cleveland</b> <b>Public</b> <b>Library</b> (CPL)’s MakerSpace is a community workspace that offers cutting-edge technology and equipment. It&#39;s a place for people to learn, experiment, collaborate, and use equipment that they may not be able to afford or otherwise have access to. Instructional workshops and open hours allow the <b>public</b> to master new software and ...
+
+Title: No title available
+Link: https://www.bialosky.com/work/cleveland-public-library-facilities-master-plan
+Snippet: Cleveland <b>Public</b> <b>Library</b> has made a commitment to the city that, while re-imagining its buildings and service, it will strive to maintain its dense, accessible network. The new core Neighborhood Branch model was designed to function in a relatively small footprint, relying on flexible, adaptable space to deliver a consistently high level of ...
+
+Remi: Results for query 'Cleveland Public Library labor disputes':
+Title: No title available
+Link: https://www.cleveland.com/metro/2020/01/cleveland-public-library-library-union-workers-reach-deal-avoiding-potential-strike.html
+Snippet: The Cleveland <b>Public</b> <b>Library</b> and the union representing <b>library</b> workers said Thursday they reached a tentative deal in their <b>labor</b> <b>dispute</b>, avoiding a potential strike that would have shut down ...
+
+Title: No title available
+Link: https://www.libraryjournal.com/story/Days-Before-Planned-Strike-Cleveland-Public-Library-Union-Reach-Agreement
+Snippet: Cleveland <b>Public</b> <b>Library</b> (CPL) management and its <b>library</b> workers’ union have narrowly averted a 400-person strike that would have temporarily closed some of its 27 branches and reduced services across the system. As negotiations extended past the union’s contract expiration, the <b>library</b> was also criticized by union members and their supporters for its social media messaging around the ...
+
+Title: No title available
+Link: https://www.cleveland.com/metro/2020/01/cleveland-public-library-criticized-for-message-on-union-dispute.html
+Snippet: The Cleveland <b>Public</b> <b>Library</b>, locked in a <b>labor</b> <b>dispute</b> with the union representing <b>library</b> workers, is facing criticism for using its taxpayer-supported social media accounts to publicize ...
+
+Title: No title available
+Link: https://www.cleveland19.com/2024/06/24/cleveland-public-library-cuyahoga-county-libraries-ready-strike-july/
+Snippet: Union members at libraries throughout Cuyahoga County have voted to strike in July after negotiations have failed to bring forward a fair contract.
+
+Title: No title available
+Link: https://www.wkyc.com/article/news/local/cleveland/cleveland-public-library-workers-vote-on-strike-authorization/95-5236a581-0ab6-4644-adc7-6775559b2d0f
+Snippet: CLEVELAND — Cleveland libraries are among the city’s most beloved and reliable resources. But a possible strike by roughly 400 union workers threatens to upend the system’s quiet spaces.
+
+Title: No title available
+Link: https://www.cleveland.com/metro/2020/01/pete-buttigieg-also-throws-support-behind-cleveland-public-library-workers-in-labor-dispute.html
+Snippet: Pete Buttigieg is the second presidential candidate to throw support behind Cleveland <b>Public Library</b> workers locked in <b>labor</b> <b>dispute</b>.
+
+Title: No title available
+Link: https://www.msn.com/en-us/news/us/cleveland-public-library-reaches-agreement-with-union-on-new-contract/ar-BB1qqvDl
+Snippet: The agreement between Cleveland <b>Public</b> <b>Library</b> and the Laborers Local 860 comes as the Cuyahoga County <b>Public</b> <b>Library</b> also reached a deal with the SEIU Local 1199.
+
+Title: No title available
+Link: https://www.axios.com/local/cleveland/2024/07/09/cuyahoga-county-library-seiu-contract
+Snippet: The Cuyahoga County <b>Public</b> <b>Library</b> (CCPL) and the Service Employees International Union 1199 (SEIU) have agreed to a new three-year contract. Why it matters: The agreement forestalls a strike, which <b>library</b> workers at the system&#39;s 27 branches voted last month to pursue if a new contract had not been negotiated by July 18.
+
+Title: No title available
+Link: https://www.axios.com/local/cleveland/2024/06/26/cuyahoga-county-library-workers-vote-to-strike
+Snippet: Unionized workers at the Cuyahoga County <b>Public</b> <b>Library</b>&#39;s 27 branches voted last week to strike on July 18 if a new contract is not reached with management before that time.
+
+Title: No title available
+Link: https://www.reddit.com/r/Cleveland/comments/ep62o1/workers_at_cleveland_public_library_cast/
+Snippet: They sought to divert workers into a toothless campaign appealing to the Ohio House and Senate to increase funding to the <b>Public</b> <b>Library</b> Fund. After a modest increase in funding from 1.68 percent of the state’s general revenue fund to 1.7 percent, the SEIU encouraged people to send a note to the state government thanking them for this ...
+
+Remi: Results for query 'Cleveland Public Library union activity':
+Title: No title available
+Link: https://cpl.org/locations/union/
+Snippet: <b>Library</b> services were first offered in this neighborhood at the <b>Union</b> Avenue Community Station’s storefront on <b>Union</b> Avenue in 1930. In 1938, Cleveland <b>Public</b> <b>Library</b> officially made <b>Union</b> a branch <b>library</b>, and the location primarily served children. A year later, the branch moved to another building located at 9319 <b>Union</b> Avenue.
+
+Title: No title available
+Link: https://www.libraryjournal.com/story/Days-Before-Planned-Strike-Cleveland-Public-Library-Union-Reach-Agreement
+Snippet: Cleveland <b>Public</b> <b>Library</b> (CPL) management and its <b>library</b> workers’ <b>union</b> have narrowly averted a 400-person strike that would have temporarily closed some of its 27 branches and reduced services across the system. As negotiations extended past the <b>union</b>’s contract expiration, the <b>library</b> was also criticized by <b>union</b> members and their supporters for its social media messaging around the ...
+
+Title: No title available
+Link: https://www.wkyc.com/article/news/local/cleveland/cleveland-public-library-cuyahoga-county-union-new-contract/95-c2561165-d371-450b-8a9c-cb995141d292
+Snippet: The agreement between Cleveland <b>Public</b> <b>Library</b> and the Laborers Local 860 comes as the Cuyahoga County <b>Public</b> <b>Library</b> also reached a deal with the SEIU Local 1199.
+
+Title: No title available
+Link: https://www.news5cleveland.com/news/local-news/cleveland-metro/union-reaches-tentative-agreement-with-cleveland-public-library
+Snippet: SEIU District 1199, the <b>union</b> representing Cleveland <b>Public</b> <b>Library</b> employees, announced Tuesday that a 10-day notice of intent to strike had been issued due to months of failed contract negotiations.
+
+Title: No title available
+Link: https://cpl.org/
+Snippet: The Cleveland Teachers <b>Union</b> and Cleveland <b>Public</b> <b>Library</b> invite families to collaborate to enhance literacy success. Come and join us for an engaging day of learning to assist your student with literacy. For families with students K-5. Food, books and <b>activities</b> for scholars will be provided. Saturday, September 1410:15 a.m. – 1:00 p.m.
+
+Title: No title available
+Link: https://www.ideastream.org/community/2020-01-30/cleveland-public-library-board-approves-union-deal-with-pay-increases
+Snippet: The Cleveland <b>Public</b> <b>Library</b>&#39;s Board of Trustees on Thursday approved a new three-year contract with pay increases for their <b>union</b> employees, but negotiations are ongoing with the libraries’ security staff. A tentative agreement was reached last week, in the final negotiating session with Service Employees International <b>Union</b> District 1199 ...
+
+Title: No title available
+Link: https://cpl.org/wp-content/uploads/board/20211216-ex28-1199-extension-2023-2025-1.pdf
+Snippet: WHEREAS, The Cleveland <b>Public</b> <b>Library</b> and 1199 negotiated a revised wage scale which adds an additional step (21st) and increases the wage scale for 2025 by an additional one and one-half percent (1.5%); with the increases and lump sum payments being effective the beginning of the pay period that includes January 1 of each year of the agreement ...
+
+Title: No title available
+Link: https://www.cleveland.com/metro/2020/01/cleveland-public-library-union-approve-three-year-contract.html
+Snippet: The Cleveland <b>Public</b> <b>Library</b> Board of Trustees and the <b>union</b> representing its librarians this week officially approved a new three-year contract after months of negotiations and threats of a strike.
+
+Title: No title available
+Link: https://www.facebook.com/CPLUNION/
+Snippet: Cleveland <b>Public Library</b>, Cleveland, Ohio. 112 likes · 1 talking about this · 28 were here. <b>Library</b>
+
+Title: No title available
+Link: https://clevelandreads.com/events/
+Snippet: Cleveland READS Block Party Join us for a summer kickoff celebration at the Children&#39;s Museum of Cleveland (3813 Euclid Ave.)! ... <b>Union</b>: 216-623-7088: 3463 E 93rd St, 44104: 1:00 p.m. Tue, Thu: Main <b>Library</b>: 216-623-2834: ... Join your local Cleveland <b>Public</b> <b>Library</b> to participate in fun weekly summer literacy <b>activities</b>! Site Map.
+
+Remi: Results for query 'Cleveland Public Library scandals':
+Title: No title available
+Link: https://www.pacermonitor.com/public/case/43428686/Spencer_v_Cleveland_Public_Library
+Snippet: Spencer v. Cleveland <b>Public</b> <b>Library</b> (1:22-cv-00191), Ohio Northern District Court, Filed: 02/02/2022 - PacerMonitor Mobile Federal and Bankruptcy Court PACER Dockets
+
+Title: No title available
+Link: https://www.news5cleveland.com/news/local-news/suspect-still-not-caught-in-cleveland-public-library-break-ins
+Snippet: and last updated 8:08 PM, Feb 05, 2024. CLEVELAND — Crime Stoppers of Cuyahoga County is counting on tips and information from the <b>public</b> to finally solve a string of burglaries at Cleveland ...
+
+Title: No title available
+Link: https://www.cleveland.com/metro/2023/01/ex-cleveland-public-librarys-head-of-inclusion-and-leadership-education-files-racial-discrimination-lawsuit.html
+Snippet: CLEVELAND, Ohio — Cleveland <b>Public</b> <b>Library</b>’s former director of its inclusion and leadership education department sued the <b>library</b> system last week and accused officials of racial discrimination.
+
+Title: No title available
+Link: https://www.wkyc.com/article/news/investigations/investigator-checking-out-criminal-behavior-at-public-libraries/95-547330199
+Snippet: The Cleveland <b>Public</b> <b>Library</b>, or CPL, is cracking down on bad and criminal behavior with enhanced security cameras and more guards patrolling its 27 branch locations.
+
+Title: No title available
+Link: https://cpl.org/locations/
+Snippet: <b>Public</b> Administration <b>Library</b>. 216-623-2919. PublicAdmin@cpl.org. 601 Lakeside Ave E, 44101. View <b>Public</b> Administration <b>Library</b>.
+
+Title: No title available
+Link: https://cpl.org/
+Snippet: Two Available Locations Lorain Campus 8216 Lorain…. We welcome patrons to visit Cleveland <b>Public</b> <b>Library</b> campuses to use the Wi-Fi and charge their devices during our regular operating hours of Monday – Saturday from 10:00 a.m. to 6:00 p.m. The majority of our locations are open. We are working diligently to restore power to closed ...
+
+Title: No title available
+Link: https://case.edu/ech/articles/c/cleveland-public-library
+Snippet: The CLEVELAND <b>PUBLIC LIBRARY</b>, one of the nation’s leading <b>public</b> <b>library</b> systems, opened its doors on 17 February 1869, under the provisions of an April 1867 act of the Ohio legislature that had been championed by Cleveland educator Rev. ANSON SMYTH.The act authorized boards of education in larger Ohio cities to establish boards of managers of <b>public</b> libraries and to levy property taxes for ...
+
+Title: No title available
+Link: https://cpl.org/farewell-to-fines-cleveland-public-library-goes-fine-free/
+Snippet: Going fine free is a natural next step in the <b>Library</b>’s progression toward eradicating fines to improve access. The <b>Library</b> eliminated overdue fines for seniors in 1977, for children’s materials in 1978, for disabled patrons in 1992, and for young adult materials and homebound patrons in 2001. The fine-free trend is gaining traction both ...
+
+Title: No title available
+Link: https://clevelandhistorical.org/items/show/788
+Snippet: The Cleveland <b>Public Library</b> comprises one of the largest collections in the United States: nearly ten million items. The <b>Library</b>’s two buildings on Superior Avenue (the main structure, 1925) and the Stokes Wing (1997) command an entire city block between East 3rd and East 6th Streets. The exceptional collection and iconic buildings demonstrate both the institution&amp;#039;s importance as a ...
+
+Title: No title available
+Link: https://projects.propublica.org/nonprofits/organizations/346565428
+Snippet: Nonprofit Explorer includes summary data for nonprofit tax returns and full Form 990 documents, in both PDF and digital formats. The summary data contains information processed by the IRS during the 2012-2019 calendar years; this generally consists of filings for the 2011-2018 fiscal years, but may include older records.
+
+Remi: Results for query 'Cleveland Public Library Yelp reviews':
+Title: No title available
+Link: https://www.yelp.com/biz/cleveland-public-library-cleveland-36
+Snippet: The Cleveland <b>Public</b> <b>Library</b> has one of the largest collections in the US. See all photos from Karyn M. for Cleveland <b>Public</b> <b>Library</b>. Helpful 1. Helpful 2. Thanks 0. Thanks 1. Love this 3. Love this 4. Oh no 0. Oh no 1. James O. Elite 24. Highland Heights, OH. 14. 75. 67. Oct 14, 2023. 3 photos.
+
+Title: No title available
+Link: https://www.yelp.com/biz/cleveland-public-library-cleveland-35
+Snippet: You could be the first <b>review</b> for Cleveland <b>Public Library</b>. Filter by rating. Search <b>reviews</b>. Search <b>reviews</b>. Business website. cpl.org. Phone number (216) 623-2819. Get Directions. 17001 Lake Shore Blvd Cleveland, OH 44110. Suggest an edit. People Also Viewed. Cleveland <b>Public Library</b>. 43. Libraries.
+
+Title: No title available
+Link: https://www.yelp.com/biz/cleveland-public-library-cleveland-36?start=20
+Snippet: Cleveland <b>Public</b> <b>Library</b> is open Mon, Tue, Wed, Thu, Fri, Sat. 41 <b>reviews</b> of Cleveland <b>Public</b> <b>Library</b> &quot;This <b>library</b> is pretty big and is in a decent building. The staff is super friendly and always willing to help you find whatever you are looking for.&quot;
+
+Title: No title available
+Link: https://www.yelp.com/biz/cleveland-public-library-memorial-nottingham-cleveland
+Snippet: You could be the first <b>review</b> for Cleveland <b>Public Library -</b> Memorial-Nottingham. Filter by rating. Search <b>reviews</b>. Search <b>reviews</b>. Business website. cpl.org. Phone number (216) 623-7039. Get Directions. 17109 Lake Shore Blvd Cleveland, OH 44110. Near Me. Libraries Near Me. Place to Study Near Me.
+
+Title: No title available
+Link: https://www.yelp.com/biz/cleveland-public-library-south-brooklyn-cleveland
+Snippet: With so few <b>reviews</b>, your opinion of Cleveland <b>Public Library -</b> South Brooklyn could be huge. Start your <b>review</b> today. Overall rating. 2 <b>reviews</b>. 5 stars. 4 stars. 3 stars. 2 stars. 1 star. Filter by rating. Search <b>reviews</b>. Search <b>reviews</b>. Xzavier L. Cleveland, OH. 0. 1. Oct 24, 2021. Worst <b>library</b> around. Dirty, loud, and never have the books ...
+
+Title: No title available
+Link: https://www.yelp.ca/biz/cleveland-public-library-martin-l-king-jr-cleveland-2
+Snippet: 2 <b>reviews</b> of Cleveland <b>Public</b> <b>Library</b> - Martin L King Jr &quot;Even though this is an older-looking <b>library</b> branch, it has everything you could need from a <b>library</b>: computer terminals, plenty of books (especially those with local themes and issues), DVDs, and other media. There is a modest amount of table space at which to work, study, and read on the ground floor, plus plenty of community ...
+
+Title: No title available
+Link: https://www.yelp.ca/biz/cleveland-public-library-jefferson-cleveland
+Snippet: 8 <b>reviews</b> and 7 photos of Cleveland <b>Public</b> <b>Library</b> - Jefferson &quot;When people complain about the price of Netflix or talk about having to go to Redbox, I see it as a perfect opportunity to share my love for the <b>Public</b> <b>Library</b>. This location is great, it offers a good mix of books, movies, fiction/nonfiction, few computers to use, and a few tables to use a laptop and use the free wifi.
+
+Title: No title available
+Link: https://www.yelp.ca/biz/cleveland-public-library-carnegie-west-cleveland
+Snippet: 9 <b>reviews</b> and 24 photos of CLEVELAND <b>PUBLIC</b> <b>LIBRARY</b> - CARNEGIE WEST &quot;So when I lived in Cleveland, this was the <b>library</b> branch closest to our house. It&#39;s a neighborhood branch, so you&#39;ve go to expect a limited selection. I&#39;m fine with that. But what made coming here almost unbearable was the librarians&#39; fascist upholding of the computer-use rules and the surly regular computer users.
+
+Title: No title available
+Link: https://www.yelp.ca/biz/cleveland-public-library-collinwood-cleveland
+Snippet: 1 <b>review</b> and 2 photos of CLEVELAND <b>PUBLIC</b> <b>LIBRARY</b> - COLLINWOOD &quot;Nice all be it crowded little local <b>library</b>. The on hand selection is somewhat limited. The <b>library</b> is part of the Cleveland <b>Public</b> <b>Library</b> System. As such almost anything you could want, be it a book, DVD, or CD, is orderable without having to go to downtown. The staff is super friendly and very helpful.&quot;
+
+Title: No title available
+Link: https://www.tripadvisor.com/ShowUserReviews-g50207-d559970-r882625236-Cleveland_Public_Library-Cleveland_Ohio.html
+Snippet: Ask RetiredTraveler01 about Cleveland <b>Public</b> <b>Library</b>. 2 Thank RetiredTraveler01 . This <b>review</b> is the subjective opinion of a Tripadvisor member and not of Tripadvisor LLC. Tripadvisor performs checks on <b>reviews</b> as part of our industry-leading trust &amp; safety standards. Read our transparency report to learn more.
+
+Remi: Results for query 'Cleveland Public Library Google Reviews':
+Title: No title available
+Link: https://www.yelp.com/biz/cleveland-public-library-cleveland-36
+Snippet: The Cleveland <b>Public</b> <b>Library</b> has one of the largest collections in the US. See all photos from Karyn M. for Cleveland <b>Public</b> <b>Library</b>. Helpful 1. Helpful 2. Thanks 0. Thanks 1. Love this 3. Love this 4. Oh no 0. Oh no 1. James O. Elite 24. Highland Heights, OH. 14. 75. 67. Oct 14, 2023. 3 photos.
+
+Title: No title available
+Link: https://www.tripadvisor.com/Attraction_Review-g50207-d559970-Reviews-Cleveland_Public_Library-Cleveland_Ohio.html
+Snippet: Beautiful building. Apr 2024 • Couples. If in downtown, this <b>library</b> is worth a visit. The first floor lobby and entrance are worth a look and a photo. Staff was very helpful providing a map of the <b>library</b> and a brochure for a self guided tour. Marble staircases on either side lead to upper floors.
+
+Title: No title available
+Link: https://www.yelp.com/biz/cleveland-public-library-cleveland-36?start=20
+Snippet: Cleveland <b>Public</b> <b>Library</b> is open Mon, Tue, Wed, Thu, Fri, Sat. 41 <b>reviews</b> of Cleveland <b>Public</b> <b>Library</b> &quot;This <b>library</b> is pretty big and is in a decent building. The staff is super friendly and always willing to help you find whatever you are looking for.&quot;
+
+Title: No title available
+Link: https://cpl.org/
+Snippet: Two Available Locations Lorain Campus 8216 Lorain…. We welcome patrons to visit Cleveland <b>Public</b> <b>Library</b> campuses to use the Wi-Fi and charge their devices during our regular operating hours of Monday – Saturday from 10:00 a.m. to 6:00 p.m. The majority of our locations are open. We are working diligently to restore power to closed ...
+
+Title: No title available
+Link: https://www.tripadvisor.com/Attraction_Review-g50207-d559970-Reviews-or20-Cleveland_Public_Library-Cleveland_Ohio.html
+Snippet: Cleveland <b>Public</b> <b>Library</b>. 260 <b>reviews</b>. #7 of 321 things to do in Cleveland. Libraries. Closed now. 10:00 AM - 6:00 PM. Write a <b>review</b>. What people are saying. “ I recommend you visit the <b>public</b> <b>library</b> even if you don’t have kids ”.
+
+Title: No title available
+Link: https://www.tripadvisor.com/Attraction_Review-g50207-d559970-Reviews-or30-Cleveland_Public_Library-Cleveland_Ohio.html
+Snippet: The Cleveland <b>Public Library</b> .... you have another treasure in William Spencer. Thanks for such a memorable visit! Read more. Written October 16, 2016. This <b>review</b> is the subjective opinion of a Tripadvisor member and not of Tripadvisor LLC. Tripadvisor performs checks on <b>reviews</b> as part of our industry-leading trust &amp; safety standards.
+
+Title: No title available
+Link: https://www.tripadvisor.in/ShowUserReviews-g50207-d559970-r651870667-Cleveland_Public_Library-Cleveland_Ohio.html
+Snippet: Cleveland <b>Public</b> <b>Library</b>: Bibliophile paradise - See 260 traveler <b>reviews</b>, 203 candid photos, and great deals for Cleveland, OH, at Tripadvisor. Skip to main content. Discover. ... Even though you can search <b>Google</b> on your own in your house, it is worth the trip to see the beautiful home of the Cleveland <b>Public</b> <b>Library</b> collection! The building ...
+
+Title: No title available
+Link: https://www.tripadvisor.com.au/Attraction_Review-g50207-d559970-Reviews-Cleveland_Public_Library-Cleveland_Ohio.html
+Snippet: Cleveland <b>Public Library</b> - All You MUST Know Before You Go (2024) Book your tickets online for Cleveland <b>Public Library</b>, Cleveland: See 259 <b>reviews</b>, articles, and 186 photos of Cleveland <b>Public Library</b>, ranked No.6 on Tripadvisor among 320 attractions in Cleveland.
+
+Title: No title available
+Link: https://www.tripadvisor.ca/ShowUserReviews-g50207-d559970-r728813043-Cleveland_Public_Library-Cleveland_Ohio.html
+Snippet: Cleveland <b>Public</b> <b>Library</b>: Worth a look! - See 260 traveler <b>reviews</b>, 203 candid photos, and great deals for Cleveland, OH, at Tripadvisor.
+
+Title: No title available
+Link: https://cpl.org/cleveland-reads/
+Snippet: Cleveland Law <b>Library</b> Book Discussion Main <b>Library</b> (Downtown), Off-Site location (see description) Thursday, August 29 | 12 pm Join us for a book discussion of W.E.B. Griffin Zero Option by Peter Kirsanow, Esq. The in-person discussion featuring the author will take place at The Cleveland Law <b>Library</b>, 1 West Lakeside Avenue, FL4 Cleveland, Ohio 44113.
+
+Remi: Results for query 'Cleveland Public Library Facebook comments':
+Title: No title available
+Link: https://www.facebook.com/clevelandpubliclibrary/mentions/
+Snippet: Cleveland <b>Public</b> <b>Library</b>. 16,439 likes · 192 talking about this · 1,515 were here. To be the best urban <b>library</b> system in the country by providing access to the worldwide information that people and...
+
+Title: No title available
+Link: https://cpl.org/contact/
+Snippet: Other Question. PH: (216) 623-2800. After hours emergency contact: (216) 623-2889. <b>Library</b> Service Hours. Mon-Sat. 10am–6pm. Sun. Closed. Main <b>Library</b> Drive Up Window.
+
+Title: No title available
+Link: https://www.facebook.com/clevelandpubliclibrary/events/
+Snippet: Cleveland <b>Public</b> <b>Library</b>. 16K likes • 18K followers. Past. THU, JUN 13 AT 6:00 PM EDT.
+
+Title: No title available
+Link: https://www.facebook.com/Cleveland-Public-Library-116485845042498/
+Snippet: Cleveland <b>Public</b> <b>Library</b> - <b>Facebook</b> ... Log In
+
+Title: No title available
+Link: https://cpl.org/aboutthelibrary/usingthelibrary/policy-on-the-use-of-cpls-social-media-sites/
+Snippet: Agreement: By joining, utilizing and/or posting on the <b>Library</b>’s social media sites, you agree to comply with this Policy, and the Cleveland <b>Public Library</b>’s Policy on Internet and Computer Use, as applicable.
+
+Title: No title available
+Link: https://en-gb.facebook.com/CPLMainLibrary/
+Snippet: Cleveland <b>Public</b> <b>Library</b>, Cleveland, Ohio. 978 likes · 24 talking about this · 1,412 were here. The Main <b>Library</b> in downtown Cleveland consists of the historic Main <b>Library</b> Building built in 1925 a
+
+Title: No title available
+Link: https://en-gb.facebook.com/CPLLorain/
+Snippet: Cleveland <b>Public</b> <b>Library</b>, Cleveland, Ohio. 363 likes · 17 talking about this · 40 were here. We&#39;re here to help! We can help you find books, magazines, movies, music and more! We also offer printing,...
+
+Title: No title available
+Link: https://coolcleveland.com/2022/02/city-club-forum-looks-at-expanded-role-of-libraries/
+Snippet: The Cleveland <b>Public</b> <b>Library</b>’s executive director Felton Thomas Jr. and Cleveland City Council president Blaine A. Griffin will hold a conversation at the City Club about how libraries have changed, where they are going and how they serve the community. It’s moderated by City Club CEO Dan Moultrop. The in-person forum is sold out (you can join the waiting list by contacting Amber Smith at ...
+
+Title: No title available
+Link: https://cpl.libguides.com/
+Snippet: Search our FAQ Knowledge base, book a research appointment, reserve a room, register for an event, ask a question, chat, send <b>comments</b>...
+
+Title: No title available
+Link: https://www.reddit.com/r/Cleveland/comments/gz9av9/cleveland_public_library_is_opening_back_up/
+Snippet: 140K subscribers in the Cleveland community. The official Cleveland subreddit! Post and discuss things about Cleveland, Ohio, for better or worse…
+
+Remi: Results for query 'Cleveland Public Library Twitter comments':
+Title: No title available
+Link: https://cpl.org/aboutthelibrary/governance/comments-to-the-board-of-trustees/
+Snippet: <b>Public</b> <b>comments</b> can also be made in person at the Board of Trustees Meeting. If you wish to <b>comment</b> in person, please review our Policy on <b>Public</b> Participation. PH: (216) 623-2800. After hours emergency contact: (216) 623-2889.
+
+Title: No title available
+Link: https://www.reddit.com/r/Cleveland/comments/twedkt/whats_up_with_the_separate_clevnet_and_cuyahoga/
+Snippet: CLEVNET is just a software system for cataloguing and borrowing--any <b>library</b> can join the network. It is not a <b>library</b>. The two main <b>library</b> systems are <b>Cleveland</b> <b>Public</b> (<b>public</b> libraries in the city) which owns CLEVNET and the Cuyahoga County <b>Public</b> <b>Library</b> (<b>public</b> libraries in the burbs). Each have around 30 branches.
+
+Title: No title available
+Link: https://cpl.org/
+Snippet: Two Available Locations Lorain Campus 8216 Lorain…. We welcome patrons to visit <b>Cleveland</b> <b>Public</b> <b>Library</b> campuses to use the Wi-Fi and charge their devices during our regular operating hours of Monday – Saturday from 10:00 a.m. to 6:00 p.m. The majority of our locations are open. We are working diligently to restore power to closed ...
+
+Title: No title available
+Link: https://signalcleveland.org/cleveland-boots-up-new-online-311-complaint-system/
+Snippet: Those who prefer calling City Hall can still do so at 3-1-1 or 216-664-2000. <b>Cleveland</b> <b>Public</b> <b>Library</b> will also offer in-person help at its branches, CEO Felton Thomas Jr. said. The mayor’s administration often takes knocks from City Council during budget hearings over unfilled positions and service complaints not yet answered.
+
+Title: No title available
+Link: https://twitter.com/Cleveland_PL/status/1526605259703037954
+Snippet: “Let&#39;s go on a tour!🔨🚧 We just celebrated the start of renovations for our seventh branch, so now&#39;s a great time to take a peek at some of the reimagined branches. Let&#39;s start on the west side. #OurFutureIsBuilding”
+
+Title: No title available
+Link: https://twitter.com/SkrticX/status/1626593253612220417
+Snippet: On this day <b>Cleveland</b> <b>Public</b> <b>Library</b> opened 154 Years Ago. Generations of Clevelanders built one of the worlds greatest libraries right at 325 Superior Ave in @DowntownCLE If you have not been before come and visit our amazing staff at Main <b>Library</b> or one of our 27 branches. 17 Feb 2023 14:43:46
+
+Title: No title available
+Link: https://twitter.com/Cleveland_PL/status/1649192556788428802
+Snippet: Join CPL PLAY, your <b>Library</b>&#39;s games culture event where you can explore gaming at your own pace, and win prizes in The King of Fighters XV and Super Smash Bros. Ultimate tournaments! 🎮 📅 Saturday, April 29, 2023 🕒 10AM-5PM 📍 325 Superior Avenue, <b>Cleveland</b>, OH 44114 . 20 Apr 2023 23:25:20
+
+Title: No title available
+Link: https://thelandcle.org/stories/clevelands-libraries-ready-for-next-chapter-as-10-million-upgrade-unfolds/
+Snippet: Rendering by Moody-Nolan of the new Hough Branch <b>Library</b>. Dwayne Price will miss the old Hough Branch <b>library</b>, but he’s looking forward to the new one, coming soon in a roughly $100 million project to upgrade every <b>Cleveland</b> <b>Public</b> <b>Library</b> branch. Price has visited Hough about four times a week for the past 17 years.
+
+Title: No title available
+Link: https://cpl.org/locations/main-library/
+Snippet: Fri 10 a.m. - 6 p.m. Sat 10 a.m. - 6 p.m. Sun Closed. Holidays &amp; Closures. <b>Cleveland</b> <b>Public</b> <b>Library</b> offers full service at the drive-up window located at the rear of the Louis Stokes Wing on Rockwell Avenue, just west of East 6th Street. Use the drive-up window to check out and return books, magazines, and audio/video recordings–even to sign ...
+
+Title: No title available
+Link: https://coolcleveland.com/2022/02/city-club-forum-looks-at-expanded-role-of-libraries/
+Snippet: The <b>Cleveland</b> <b>Public</b> <b>Library</b>’s executive director Felton Thomas Jr. and <b>Cleveland</b> City Council president Blaine A. Griffin will hold a conversation at the City Club about how libraries have changed, where they are going and how they serve the community. It’s moderated by City Club CEO Dan Moultrop.
+

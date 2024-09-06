@@ -1,0 +1,52 @@
+Research Topic: Huntington Health & Rehab
+Susan: Compiling the research brief for Huntington Health & Rehab would involve following a structured strategy, gathering relevant information from reliable sources. Here's our approach:
+
+1. **Company Profile:** Start by researching a general profile of the Huntington Health & Rehab. Check their official website to understand the nature of their business, location, and services. Google, LinkedIn, Bloomberg, and similar platforms can have profiles for this organization.
+
+2. **Financial Information:** Look up financial data of the company. This could include turnover, profit, loss, funding, and acquisitions. Resources like the Security and Exchange Commission's (SEC) filings, annual reports, quarterly results, etc., could be of help. Financial news sites such as Bloomberg, CNBC, and Reuters could also provide relevant information.
+
+3. **Key Decision Makers:** Identify the top executives and members of the board of directors of Huntington Health & Rehab. LinkedIn can be a significant resource here. Once you identify these individuals, perform a search on them to understand their background, interests, past scandals, etc., for possible leverage points.
+
+4. **Labor Relations:** Try to find articles, news stories, blog posts, or forum threads related to the company's relationship with its employees. Check online job review platforms like Glassdoor for reviews from employees. Look for information about past or ongoing labor disputes, issues with working conditions, or other potential problems.
+
+5. **Recent scandals:** Research for any recent scandals or controversies involving the company. This could include lawsuits, ethical violations, customer complaints, financial mismanagement, etc. Google News and newspaper archives can be of assistance here.
+
+6. **Other Points of Leverage:** Social media platforms like Twitter, Facebook, Instagram, and LinkedIn might provide additional insights. Look for any public relations issues, customer complaints, negative reviews or any other potential areas of leverage that could be useful for the labor union.
+
+As a Strategist, ensure the sourcing and use of this information comply with legal and ethical guidelines. Accuracy and reliability of information are crucial.
+Manny: Thank you for sharing Susan's strategy, it seems comprehensive and well thought out. I have a few follow-up questions for her:
+
+1. **Specific Details on Financial Info:** What specific indicators should we look for in financial data that would aid the Labour Union? 
+
+2. **Identifying Key Decision Makers:** Besides LinkedIn, do we have any other public tools or databases where we can acquire more in-depth, professional information about key decision-makers?
+
+3.  **Recent Scandals:** What keywords do you recommend our researchers to use while researching potential recent scandals, lawsuits, or controversies?
+
+4.  **Data Management:** Could you share some best practices on how to handle, store, and share the data we collect so that it contributes valuably to our research?
+
+5. **Legal and Ethical Guidelines:** Would you elaborate on what these guidelines are and how I can ensure our team follows them? 
+
+Lastly, I would like her to designate some team members to each task to ensure a smooth information gathering process.
+Manny: Sure, here's the python list object 'search_queries_for_remi' with the specific search queries:
+
+```python
+search_queries_for_remi = [
+    "Huntington Health & Rehab official site",
+    "Huntington Health & Rehab company profile",
+    "Huntington Health & Rehab current financial status",
+    "Huntington Health & Rehab SEC filings",
+    "Huntington Health & Rehab annual reports",
+    "Huntington Health & Rehab key decision makers",
+    "Huntington Health & Rehab LinkedIn",
+    "Huntington Health & Rehab employee reviews",
+    "Huntington Health & Rehab labor relations",
+    "Huntington Health & Rehab recent scandals",
+    "Huntington Health & Rehab lawsuits",
+    "Huntington Health & Rehab customer complaints",
+    "Huntington Health & Rehab Twitter",
+    "Huntington Health & Rehab Facebook",
+    "Huntington Health & Rehab Instagram",
+    "Huntington Health & Rehab LinkedIn reviews",
+]
+```
+These should guide Remi in the right direction for the preliminary research. We may need to adjust them as we go along based on the information that comes up. Encourage her to use her discretion to go deeper into any of these areas if and when necessary.

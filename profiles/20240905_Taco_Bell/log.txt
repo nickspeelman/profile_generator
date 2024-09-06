@@ -1,0 +1,33 @@
+Susan: Sure, here's a broad strategy on how we can approach this. 
+
+1. **Financial Information:** Begin by visiting financial related websites like Yahoo Finance, Bloomberg, or even Taco Bell's official website, if they disclose financials there. Look out for recent financial reports, earnings statements, and important financial news or projections about the company. 
+
+2. **Key Decision Makers:** You can use sources like Bloomberg, Forbes, and Business Insider to gather information on the top executives at Taco Bell. This includes the CEO, CFO, and other Board Members. LinkedIn could also be useful in tracking their past work experiences, achievements, influences, and connections. 
+
+3. **Labor Relations:** Look for historical or recent news about labor disputes or agreements. Websites like the National Labor Relations Board, Glassdoor, and Indeed could offer insights from employees' point of view. 
+
+4. **Recent Scandals:** To get a pulse on any recent scandals or ongoing crises that may affect the company, refer to news sites like CNN, FOX, BBC, or local news outlets. Google News is a valuable tool for this, as well, you can search by company name and refine by date for the most recent information.
+
+5. **Other Points of Leverage:** Industry-specific news websites, social media, and public forums can offer unfiltered opinions about the company. Try checking Taco Bell's Twitter, Facebook, and Instagram for customer feedback and company's interactions.
+
+Remember, always cross-verify the information from multiple sources to guarantee the reliability. Keep records of all findings to compile into a robust research brief.
+Manny: Sure, here's a Python list object `search_queries_for_remi` that contains various search queries to aid in Remi's research.
+
+```python
+search_queries_for_remi = [
+    "Taco Bell financial report 2021",
+    "Taco Bell key decision makers",
+    "Taco Bell CEO profiles",
+    "Taco Bell labor relations",
+    "Taco Bell employee reviews",
+    "Taco Bell strikes or worker disputes",
+    "Taco Bell recent scandals or controversies",
+    "Taco Bell reviews on Glassdoor",
+    "Taco Bell company news",
+    "Taco Bell customer feedback on Twitter",
+    "Taco Bell leadership team LinkedIn",
+    "Taco Bell industry news",
+    "Taco Bell financial projections",
+]
+```
+These search queries should provide a good start for Remi's research.

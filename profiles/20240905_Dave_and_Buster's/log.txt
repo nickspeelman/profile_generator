@@ -1,0 +1,1035 @@
+Susan: Sure, follow this step-by-step approach for researching 'Dave and Buster's':
+
+1. **Company Overview**: Start by visiting the company's official website to gain a basic understanding. Check out sections like 'About Us', 'Our Team', 'News' or 'Press Releases' for valuable information. 
+
+2. **Financial Information**: Next, find out about their financial status. Check sources like Yahoo Finance, Google Finance or Bloomberg for their financial statements, stock performance, and major shareholders. Look out for any trends, elements of instability, or potential weaknesses that could be used as leverage points.
+
+3. **Decision Makers**: Identify the key decision-makers in the company by looking at their 'Management Team' or 'Executive Team' section on the company's website. Once you've identified them, conduct individual searches for each person, focusing on social media networks like LinkedIn and Twitter, as well as news articles, for any useful information.
+
+4. **Labor Relations & Notable News**: Check national and local news outlets for articles about Dave and Buster's labor relations. Look for any issues related to wages, layoffs, collective bargaining, or workplace conditions. Websites or forums like Glassdoor provide employees' views on the company culture. 
+
+5. **Legal Issues & Scandals**: For this, use Google and search for any lawsuits or legal controversies involving the company. You can use search terms like 'Dave and Buster's + lawsuit', 'Dave and Buster's + controversy', or 'Dave and Buster's + scandal'.
+
+6. **Company Policies**: Review their policies, especially HR related. See if there is any of that information available publicly that can provide insight into their labor practices.
+
+7. **Competitor Analysis**: Look at the company's main competitors (like other food and entertainment chains) and how Dave and Buster's is performing in comparison.
+
+8. **Public Opinion**: Lastly, look at social media channels (Twitter, Facebook, Instagram) and online forums to understand how the public currently views the company.
+
+Remember, always cross-verify the information from different sources to increase the reliability of your data.
+Manny: Absolutely, here's a Python list of search queries `search_queries_for_remi` that Remi could use:
+
+```python
+search_queries_for_remi = [
+    "site:daveandbusters.com",
+    "Dave and Buster's financial statements",
+    "Dave and Buster's net income",
+    "Dave and Buster's revenue",
+    "Dave and Buster's major shareholders",
+    "Dave and Buster's management team",
+    'Dave and Buster\'s executives profiles Linkedin',
+    "Dave and Buster's layoffs",
+    "Dave and Buster's employee reviews",
+    "Dave and Buster's controversies",
+    "Dave and Buster's lawsuits",
+    "Dave and Buster's labor relations news",
+    "Dave and Buster's HR policies",
+    "Dave and Buster's competitors",
+    "Dave and Buster's Twitter sentiment",
+    "Public opinion about Dave and Buster's"
+]
+```
+
+Remi would be able to copy this list of strings directly into their Python environment and iterate through it to conduct their research.
+Remi: Results for 'site:daveandbusters.com':
+Title: Events - Arcade - Sports Bar and Restaurant - Dave &amp; Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/home/
+Snippet: Every Monday and Thursday. Limited time only. Promotion valid one per person, per seating, on premise. Get traditional and boneless wings with Buffalo, Honey BBQ, or No Sauce. First individual order includes 8 traditional or boneless wings and side of ranch. Reorders include 6 traditional or boneless wings.
+Title: Dave and Buster&#39;s - Food and Drink - View our full menu
+Link: https://www.daveandbusters.com/us/en/eat-and-drink
+Snippet: View PDF of Our Allergen Menu. $5 beverages including 22 oz. select domestic draft beer, glass of wine, Backwoods Blueberry Lemonade, Tres Tequila Rita, and D&amp;B Long Island Tea are available during Happy Hour and Late-Night Happy Hour in select Dave &amp; Buster’s locations. Time and offerings may also vary by location. See the store for details.
+Title: Learn about current and upcoming specials at your ... - Dave &amp; Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/about/specials
+Snippet: Excludes photo booths. Offer valid until 10pm on Wednesdays in Honolulu. ***** $5 beverages including 22 oz. select domestic draft beer, glass of wine, Backwoods Blueberry Lemonade, Tres Tequila Rita, and D&amp;B Long Island Tea are available during Happy Hour and Late-Night Happy Hour in select Dave &amp; Buster’s locations.
+Title: Lunch - Dinner - Appetizers - Entrees - Dave and Buster&#39;s Food Menu
+Link: https://www.daveandbusters.com/us/en/eat-and-drink/food-menu
+Snippet: View our full food menu here! Including appetizers, kids&#39; menu, burgers, entrees and more. Eat good while you play!
+Title: Play Games - Arcade, tabletop, and more, Dave and Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/play
+Snippet: They say it’s not about winning or losing. But those people obviously haven&#39;t been to Dave &amp; Buster’s. Because with hundreds of games to play, everyone leaves feeling like a champion. We offer arcade games, tabletop, air hockey, ping pong, billiards and more! Whatever you can dream, you can play at D&amp;B!
+Title: Looking for a restaurant near you? Visit Dave and Busters
+Link: https://www.daveandbusters.com/us/en/eat-and-drink/restaurant-near-me
+Snippet: Dave &amp; Buster’s is more than an arcade, we are an amazing restaurant in your neighborhood. If you’re looking for an amazing lunch, a date night dinner out on the town, or an arcade filled snack fest, find the Dave &amp; Buster’s menu options that are right for your dining experience. All-American Cheeseburger. Original and Boneless Wings.
+Title: Find the nearest Dave and Buster&#39;s location to you.
+Link: https://www.daveandbusters.com/us/en/about/locations
+Snippet: Search for the closest Dave and Buster&#39;s location to your home or office. Find the location for your next D&amp;B visit.
+Title: Reimagined - Dave &amp; Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/reimagined
+Snippet: The Reimagined D&amp;B. While other casual entertainment venues may be happy with offering their guests the same &#39;ole routine gameplay, Dave &amp; Buster’s is the ultimate, innovative, experiential eatertainment destination! Brace yourself for legendary fun and fierce competition in High-Tech Darts, The Arena, &amp; Social Shuffleboard.
+Title: Rewards FAQs - Dave &amp; Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/rewards
+Snippet: NOT YOUR MAMA’S REWARDS PROGRAM. Fun time is earning time with D&amp;B Rewards! Join now &amp; get hooked up with 100 FREE Game Chips with a 100 Game Chip purchase, plus all these sweet perks: Unlock rewards and level up. Earn 1 bonus game chip for each $1 spent on food and beverage (max $50 per day) Complete challenges to earn badges, rewards, and ...
+Title: Arcade Bar - Arcade Near Me - Dave and Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/play/arcade
+Snippet: Whether it’s the classics or the newest games in our arcade, everyone in your group will have a blast! Picture yourself leading a campaign with Master Chief or posting up at Skee-ball. There’s a battle station for everyone, just waiting to be conquered. *1/2 Price Games on Wednesdays may not be combined with any other offers.
+Remi: Results for 'site:daveandbusters.com':
+Title: Events - Arcade - Sports Bar and Restaurant - Dave &amp; Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/home/
+Snippet: Every Monday and Thursday. Limited time only. Promotion valid one per person, per seating, on premise. Get traditional and boneless wings with Buffalo, Honey BBQ, or No Sauce. First individual order includes 8 traditional or boneless wings and side of ranch. Reorders include 6 traditional or boneless wings.
+Title: Dave and Buster&#39;s - Food and Drink - View our full menu
+Link: https://www.daveandbusters.com/us/en/eat-and-drink
+Snippet: View PDF of Our Allergen Menu. $5 beverages including 22 oz. select domestic draft beer, glass of wine, Backwoods Blueberry Lemonade, Tres Tequila Rita, and D&amp;B Long Island Tea are available during Happy Hour and Late-Night Happy Hour in select Dave &amp; Buster’s locations. Time and offerings may also vary by location. See the store for details.
+Title: Learn about current and upcoming specials at your ... - Dave &amp; Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/about/specials
+Snippet: Excludes photo booths. Offer valid until 10pm on Wednesdays in Honolulu. ***** $5 beverages including 22 oz. select domestic draft beer, glass of wine, Backwoods Blueberry Lemonade, Tres Tequila Rita, and D&amp;B Long Island Tea are available during Happy Hour and Late-Night Happy Hour in select Dave &amp; Buster’s locations.
+Title: Lunch - Dinner - Appetizers - Entrees - Dave and Buster&#39;s Food Menu
+Link: https://www.daveandbusters.com/us/en/eat-and-drink/food-menu
+Snippet: View our full food menu here! Including appetizers, kids&#39; menu, burgers, entrees and more. Eat good while you play!
+Title: Play Games - Arcade, tabletop, and more, Dave and Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/play
+Snippet: They say it’s not about winning or losing. But those people obviously haven&#39;t been to Dave &amp; Buster’s. Because with hundreds of games to play, everyone leaves feeling like a champion. We offer arcade games, tabletop, air hockey, ping pong, billiards and more! Whatever you can dream, you can play at D&amp;B!
+Title: Looking for a restaurant near you? Visit Dave and Busters
+Link: https://www.daveandbusters.com/us/en/eat-and-drink/restaurant-near-me
+Snippet: Dave &amp; Buster’s is more than an arcade, we are an amazing restaurant in your neighborhood. If you’re looking for an amazing lunch, a date night dinner out on the town, or an arcade filled snack fest, find the Dave &amp; Buster’s menu options that are right for your dining experience. All-American Cheeseburger. Original and Boneless Wings.
+Title: Find the nearest Dave and Buster&#39;s location to you.
+Link: https://www.daveandbusters.com/us/en/about/locations
+Snippet: Search for the closest Dave and Buster&#39;s location to your home or office. Find the location for your next D&amp;B visit.
+Title: Reimagined - Dave &amp; Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/reimagined
+Snippet: The Reimagined D&amp;B. While other casual entertainment venues may be happy with offering their guests the same &#39;ole routine gameplay, Dave &amp; Buster’s is the ultimate, innovative, experiential eatertainment destination! Brace yourself for legendary fun and fierce competition in High-Tech Darts, The Arena, &amp; Social Shuffleboard.
+Title: Rewards FAQs - Dave &amp; Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/rewards
+Snippet: NOT YOUR MAMA’S REWARDS PROGRAM. Fun time is earning time with D&amp;B Rewards! Join now &amp; get hooked up with 100 FREE Game Chips with a 100 Game Chip purchase, plus all these sweet perks: Unlock rewards and level up. Earn 1 bonus game chip for each $1 spent on food and beverage (max $50 per day) Complete challenges to earn badges, rewards, and ...
+Title: Arcade Bar - Arcade Near Me - Dave and Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/play/arcade
+Snippet: Whether it’s the classics or the newest games in our arcade, everyone in your group will have a blast! Picture yourself leading a campaign with Master Chief or posting up at Skee-ball. There’s a battle station for everyone, just waiting to be conquered. *1/2 Price Games on Wednesdays may not be combined with any other offers.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Dave and Buster's financial statements':
+Title: Annual Reports - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/financials/annual-reports
+Snippet: 2021 Annual Report. 2020 Annual Report. 2019 Annual Report. 2018 Annual Report. 2017 Annual Report. Subscribe to our Email Alerts. Submit. Careers. Corporate Social Responsibility.
+Title: Investor Relations | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/
+Snippet: Dave &amp; <b>Buster’s</b> Entertainment, Inc. owns and operates over 200 venues in North America that offer premier entertainment and dining experiences to guests through two distinct brands: Dave &amp; <b>Buster’s</b> and Main Event. Combined, we embody two of the strongest brands in the industry, creating a leading platform in the rapidly growing experiential ...
+Title: Dave &amp; Buster’s Entertainment, Inc. Annual Report 2023
+Link: https://ir.daveandbusters.com/static-files/26034944-d8ad-4801-9ddd-52f111418bc8
+Snippet: Dave &amp; <b>Buster’s</b> Entertainment, Inc. (Exact name of registrant as specified in its charter) Delaware 35-2382255 (State of Incorporation) (I.R.S. Employer ID) ... <b>Financial</b> <b>Statements</b> and Supplementary Data ..... 45 ITEM 9. Changes in and Disagreements with Accountants On Accounting and <b>Financial</b> Disclosure . . . 45
+PDF Link: https://www.sec.gov/Archives/edgar/data/1525769/000162828023015023/davebustersincarsv2.pdf
+Title: Dave &amp; Buster&#39;s Entertainment, Inc. (PLAY) - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PLAY/financials/
+Snippet: Get the detailed quarterly/annual income <b>statement</b> for Dave <b>&amp; Buster</b>&#39;s Entertainment,<b></b> Inc.<b> (PLAY</b>). Find out the revenue, expenses and profit or loss over the last fiscal year.
+Title: Dave &amp; Buster&#39;s Entertainment Inc. Financial Statements - WSJ
+Link: https://www.wsj.com/market-data/quotes/PLAY/financials
+Snippet: Dave <b>&amp; Buster</b>&#39;s Entertainment Inc. balance sheet, income <b>statement</b>, cash flow, earnings &amp; estimates, ratio and margins. View PLAY <b>financial</b> <b>statements</b> in full.
+Title: Dave &amp; Buster&#39;s Entertainment Inc. Annual Income Statement - WSJ
+Link: https://www.wsj.com/market-data/quotes/PLAY/financials/annual/income-statement
+Snippet: Dave <b>&amp; Buster</b>&#39;s Entertainment Inc. annual income <b>statement</b>. View PLAY <b>financial</b> <b>statements</b> in full, including balance sheets and ratios.
+Title: Dave &amp; Buster&#39;s Entertainment, Inc. - AnnualReports.com
+Link: https://www.annualreports.com/Company/dave-busters-entertainment-inc
+Snippet: Based in Dallas, Texas. Dave &amp; <b>Buster’s</b> Entertainment, Inc. owns and operates venues that combine dining and entertainment for adults and families in North America. Its venues offer a menu of ‘Fun American New Gourmet’ entrÃ©es and appetizers, as well as a selection of non-alcoholic and alcoholic beverages; and an assortment of ...
+Title: Dave &amp; Buster&#39;s Entertainment Financial Statements 2012-2024 | PLAY
+Link: https://www.macrotrends.net/stocks/charts/PLAY/dave-busters-entertainment/financial-statements
+Snippet: Fundamental data from Zacks Investment Research, Inc. Ten years of annual and quarterly <b>financial</b> <b>statements</b> and annual report data for Dave &amp; <b>Buster</b>&#39;s Entertainment (PLAY). Income <b>statements</b>, balance sheets, cash flow <b>statements</b> and key ratios.
+Title: <b>Dave</b> &amp; <b>Buster’s</b> Reports Record Fourth Quarter and Fiscal Year End 2022 ...
+Link: https://finance.yahoo.com/news/dave-buster-reports-record-fourth-200500526.html
+Snippet: Key Fiscal Year 2022 Highlights. Revenue of $2.0 billion in fiscal year 2022 increased 50.6% from fiscal year 2021 and increased 45.0% from fiscal year 2019. Net income totaled $137.1 million, or ...
+Remi: Results for 'Dave and Buster's financial statements':
+Title: Annual Reports - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/financials/annual-reports
+Snippet: 2021 Annual Report. 2020 Annual Report. 2019 Annual Report. 2018 Annual Report. 2017 Annual Report. Subscribe to our Email Alerts. Submit. Careers. Corporate Social Responsibility.
+Title: Investor Relations | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/
+Snippet: Dave &amp; <b>Buster’s</b> Entertainment, Inc. owns and operates over 200 venues in North America that offer premier entertainment and dining experiences to guests through two distinct brands: Dave &amp; <b>Buster’s</b> and Main Event. Combined, we embody two of the strongest brands in the industry, creating a leading platform in the rapidly growing experiential ...
+Title: Dave &amp; Buster’s Entertainment, Inc. Annual Report 2023
+Link: https://ir.daveandbusters.com/static-files/26034944-d8ad-4801-9ddd-52f111418bc8
+Snippet: Dave &amp; <b>Buster’s</b> Entertainment, Inc. (Exact name of registrant as specified in its charter) Delaware 35-2382255 (State of Incorporation) (I.R.S. Employer ID) ... <b>Financial</b> <b>Statements</b> and Supplementary Data ..... 45 ITEM 9. Changes in and Disagreements with Accountants On Accounting and <b>Financial</b> Disclosure . . . 45
+PDF Link: https://www.sec.gov/Archives/edgar/data/1525769/000162828023015023/davebustersincarsv2.pdf
+Title: Dave &amp; Buster&#39;s Entertainment, Inc. (PLAY) - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PLAY/financials/
+Snippet: Get the detailed quarterly/annual income <b>statement</b> for Dave <b>&amp; Buster</b>&#39;s Entertainment,<b></b> Inc.<b> (PLAY</b>). Find out the revenue, expenses and profit or loss over the last fiscal year.
+Title: Dave &amp; Buster&#39;s Entertainment Inc. Financial Statements - WSJ
+Link: https://www.wsj.com/market-data/quotes/PLAY/financials
+Snippet: Dave <b>&amp; Buster</b>&#39;s Entertainment Inc. balance sheet, income <b>statement</b>, cash flow, earnings &amp; estimates, ratio and margins. View PLAY <b>financial</b> <b>statements</b> in full.
+Title: Dave &amp; Buster&#39;s Entertainment Inc. Annual Income Statement - WSJ
+Link: https://www.wsj.com/market-data/quotes/PLAY/financials/annual/income-statement
+Snippet: Dave <b>&amp; Buster</b>&#39;s Entertainment Inc. annual income <b>statement</b>. View PLAY <b>financial</b> <b>statements</b> in full, including balance sheets and ratios.
+Title: Dave &amp; Buster&#39;s Entertainment, Inc. - AnnualReports.com
+Link: https://www.annualreports.com/Company/dave-busters-entertainment-inc
+Snippet: Based in Dallas, Texas. Dave &amp; <b>Buster’s</b> Entertainment, Inc. owns and operates venues that combine dining and entertainment for adults and families in North America. Its venues offer a menu of ‘Fun American New Gourmet’ entrÃ©es and appetizers, as well as a selection of non-alcoholic and alcoholic beverages; and an assortment of ...
+Title: Dave &amp; Buster&#39;s Entertainment Financial Statements 2012-2024 | PLAY
+Link: https://www.macrotrends.net/stocks/charts/PLAY/dave-busters-entertainment/financial-statements
+Snippet: Fundamental data from Zacks Investment Research, Inc. Ten years of annual and quarterly <b>financial</b> <b>statements</b> and annual report data for Dave &amp; <b>Buster</b>&#39;s Entertainment (PLAY). Income <b>statements</b>, balance sheets, cash flow <b>statements</b> and key ratios.
+Title: <b>Dave</b> &amp; <b>Buster’s</b> Reports Record Fourth Quarter and Fiscal Year End 2022 ...
+Link: https://finance.yahoo.com/news/dave-buster-reports-record-fourth-200500526.html
+Snippet: Key Fiscal Year 2022 Highlights. Revenue of $2.0 billion in fiscal year 2022 increased 50.6% from fiscal year 2021 and increased 45.0% from fiscal year 2019. Net income totaled $137.1 million, or ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Dave and Buster's net income':
+Title: Quarterly Results - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/financials/quarterly-results
+Snippet: Dave &amp; <b>Buster’s</b> Reports First Quarter 2024 Financial Results, Repurchases $50 Million of Shares and Executes Sale Leaseback Agreement of Two Properties for $45 Million. ... <b>Buster</b>&#39;s Achieves Record First Quarter <b>Net</b> <b>Income</b> of $42.8 million. First Quarter 2016 Financial Results. 2016. Q4 Earnings. Dave &amp;amp; <b>Buster</b>&#39;s Achieves Fourth Quarter ...
+Title: Release Details - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/news-releases/news-release-details/dave-busters-reports-record-first-quarter-2023-financial-results
+Snippet: Dave &amp; <b>Buster’s</b> Reports Record First Quarter 2023 Financial Results; Announces $200 Million of Shares Repurchased to Date in FY 2023; Opened Four New Stores and Enters into Two International Franchise Agreements ... <b>Net</b> <b>income</b> totaled $70.1 million, or $1.45 per diluted share, compared with <b>net</b> <b>income</b> of $67.0 million, or $1.35 per diluted ...
+Title: Dave &amp; Buster s Reports Record Fourth Quarter and Fiscal Year End 2022 ...
+Link: https://ir.daveandbusters.com/node/15686/pdf
+Snippet: <b>Net</b> <b>income</b> totaled $39.1 million , or 80 cents per diluted share, compared with <b>net</b> <b>income</b> of $25.7 million , or 52 cents per diluted share in the fourth quarter of 2021 and <b>net</b> <b>income</b> of $25.0 million , or 80 cents per diluted share in the fourth quarter of 2019. ... Dave &amp; <b>Buster</b> s intends these forward-looking statements to ...
+Title: Dave &amp; Buster&#39;s Entertainment Inc. Annual Income Statement - WSJ
+Link: https://www.wsj.com/market-data/quotes/PLAY/financials/annual/income-statement
+Snippet: Dave <b>&amp; Buster</b>&#39;s Entertainment Inc. annual <b>income</b> statement. View PLAY financial statements in full, including balance sheets and ratios. ... <b>Net</b> <b>Income</b> After Extraordinaries: 137: 109 (207) 100: ...
+Title: Dave &amp; Buster&#39;s Entertainment Inc. Financial Statements - WSJ
+Link: https://www.wsj.com/market-data/quotes/PLAY/financials
+Snippet: Per Share Data Dave <b>&amp; Buster</b>&#39;s Entertainment Inc. All values updated annually at fiscal year end. Earnings Per Share +2.79. Sales 39.95. Tangible Book Value -10.58. Operating Profit 6.20. Working ...
+Title: Dave &amp; Buster&#39;s Entertainment, Inc. (PLAY) - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PLAY/financials/
+Snippet: Get the detailed quarterly/annual <b>income</b> statement for Dave <b>&amp; Buster</b>&#39;s Entertainment,<b></b> Inc.<b> (PLAY</b>). Find out the revenue, expenses and profit or loss over the last fiscal year. ... <b>Net</b> <b>Income</b> from ...
+Title: Dave &amp; Buster&#39;s Entertainment Net Income 2013-2024 | PLAY
+Link: https://www.macrotrends.net/stocks/charts/PLAY/dave-busters-entertainment/net-income
+Snippet: Market Cap. Revenue. Retail/Wholesale. Retail - Food &amp; Restaurants. $1.251B. $2.205B. Dave &amp; <b>Buster</b>&#39;s Entertainment, is a leading owner and operator of high-volume venues in North America that combine dining and entertainment for both adults and families. The core concept of this restaurant chain is &#39;Eat Drink Play and Watch&#39;, all in one location.
+Title: Dave &amp; Buster’s net income 2024 - Statista
+Link: https://www.statista.com/statistics/901301/net-income-of-dave-and-busters/
+Snippet: Dave <b>&amp; Buster’s: net income</b> in U.S. &amp; Canada 2014-2024. U.S.-based restaurant and entertainment business company Dave &amp; <b>Buster’s</b> reported a <b>net</b> <b>income</b> amounting to 126.9 thousand U.S. dollars ...
+Title: Dave &amp; Buster’s Reports Third Quarter 2022 Financial Results
+Link: https://finance.yahoo.com/news/dave-buster-reports-third-quarter-211500428.html
+Snippet: <b>Net</b> <b>income</b> totaled $1.9 million, or 4 cents per diluted share, compared with <b>net</b> <b>income</b> of $10.6 million, or 21 cents per diluted share in the third quarter of 2021 and <b>net</b> <b>income</b> of $0.5 million ...
+Title: Dave &amp; Buster’s Reports Record Fourth Quarter and Fiscal Year End 2022 ...
+Link: https://finance.yahoo.com/news/dave-buster-reports-record-fourth-200500526.html
+Snippet: Key Fiscal Year 2022 Highlights. Revenue of $2.0 billion in fiscal year 2022 increased 50.6% from fiscal year 2021 and increased 45.0% from fiscal year 2019. <b>Net</b> <b>income</b> totaled $137.1 million, or ...
+Remi: Results for 'Dave and Buster's net income':
+Title: Quarterly Results - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/financials/quarterly-results
+Snippet: Dave &amp; <b>Buster’s</b> Reports First Quarter 2024 Financial Results, Repurchases $50 Million of Shares and Executes Sale Leaseback Agreement of Two Properties for $45 Million. ... <b>Buster</b>&#39;s Achieves Record First Quarter <b>Net</b> <b>Income</b> of $42.8 million. First Quarter 2016 Financial Results. 2016. Q4 Earnings. Dave &amp;amp; <b>Buster</b>&#39;s Achieves Fourth Quarter ...
+Title: Release Details - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/news-releases/news-release-details/dave-busters-reports-record-first-quarter-2023-financial-results
+Snippet: Dave &amp; <b>Buster’s</b> Reports Record First Quarter 2023 Financial Results; Announces $200 Million of Shares Repurchased to Date in FY 2023; Opened Four New Stores and Enters into Two International Franchise Agreements ... <b>Net</b> <b>income</b> totaled $70.1 million, or $1.45 per diluted share, compared with <b>net</b> <b>income</b> of $67.0 million, or $1.35 per diluted ...
+Title: Dave &amp; Buster s Reports Record Fourth Quarter and Fiscal Year End 2022 ...
+Link: https://ir.daveandbusters.com/node/15686/pdf
+Snippet: <b>Net</b> <b>income</b> totaled $39.1 million , or 80 cents per diluted share, compared with <b>net</b> <b>income</b> of $25.7 million , or 52 cents per diluted share in the fourth quarter of 2021 and <b>net</b> <b>income</b> of $25.0 million , or 80 cents per diluted share in the fourth quarter of 2019. ... Dave &amp; <b>Buster</b> s intends these forward-looking statements to ...
+Title: Dave &amp; Buster&#39;s Entertainment Inc. Annual Income Statement - WSJ
+Link: https://www.wsj.com/market-data/quotes/PLAY/financials/annual/income-statement
+Snippet: Dave <b>&amp; Buster</b>&#39;s Entertainment Inc. annual <b>income</b> statement. View PLAY financial statements in full, including balance sheets and ratios. ... <b>Net</b> <b>Income</b> After Extraordinaries: 137: 109 (207) 100: ...
+Title: Dave &amp; Buster&#39;s Entertainment Inc. Financial Statements - WSJ
+Link: https://www.wsj.com/market-data/quotes/PLAY/financials
+Snippet: Per Share Data Dave <b>&amp; Buster</b>&#39;s Entertainment Inc. All values updated annually at fiscal year end. Earnings Per Share +2.79. Sales 39.95. Tangible Book Value -10.58. Operating Profit 6.20. Working ...
+Title: Dave &amp; Buster&#39;s Entertainment, Inc. (PLAY) - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PLAY/financials/
+Snippet: Get the detailed quarterly/annual <b>income</b> statement for Dave <b>&amp; Buster</b>&#39;s Entertainment,<b></b> Inc.<b> (PLAY</b>). Find out the revenue, expenses and profit or loss over the last fiscal year. ... <b>Net</b> <b>Income</b> from ...
+Title: Dave &amp; Buster&#39;s Entertainment Net Income 2013-2024 | PLAY
+Link: https://www.macrotrends.net/stocks/charts/PLAY/dave-busters-entertainment/net-income
+Snippet: Market Cap. Revenue. Retail/Wholesale. Retail - Food &amp; Restaurants. $1.251B. $2.205B. Dave &amp; <b>Buster</b>&#39;s Entertainment, is a leading owner and operator of high-volume venues in North America that combine dining and entertainment for both adults and families. The core concept of this restaurant chain is &#39;Eat Drink Play and Watch&#39;, all in one location.
+Title: Dave &amp; Buster’s net income 2024 - Statista
+Link: https://www.statista.com/statistics/901301/net-income-of-dave-and-busters/
+Snippet: Dave <b>&amp; Buster’s: net income</b> in U.S. &amp; Canada 2014-2024. U.S.-based restaurant and entertainment business company Dave &amp; <b>Buster’s</b> reported a <b>net</b> <b>income</b> amounting to 126.9 thousand U.S. dollars ...
+Title: Dave &amp; Buster’s Reports Third Quarter 2022 Financial Results
+Link: https://finance.yahoo.com/news/dave-buster-reports-third-quarter-211500428.html
+Snippet: <b>Net</b> <b>income</b> totaled $1.9 million, or 4 cents per diluted share, compared with <b>net</b> <b>income</b> of $10.6 million, or 21 cents per diluted share in the third quarter of 2021 and <b>net</b> <b>income</b> of $0.5 million ...
+Title: Dave &amp; Buster’s Reports Record Fourth Quarter and Fiscal Year End 2022 ...
+Link: https://finance.yahoo.com/news/dave-buster-reports-record-fourth-200500526.html
+Snippet: Key Fiscal Year 2022 Highlights. Revenue of $2.0 billion in fiscal year 2022 increased 50.6% from fiscal year 2021 and increased 45.0% from fiscal year 2019. <b>Net</b> <b>income</b> totaled $137.1 million, or ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Dave and Buster's revenue':
+Title: Annual Reports - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/financials/annual-reports
+Snippet: 2021 Annual Report. 2020 Annual Report. 2019 Annual Report. 2018 Annual Report. 2017 Annual Report. Subscribe to our Email Alerts. Submit. Careers. Corporate Social Responsibility.
+Title: Quarterly Results - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/financials/quarterly-results
+Snippet: Dave &amp; <b>Buster’s</b> Reports First Quarter 2024 Financial Results, Repurchases $50 Million of Shares and Executes Sale Leaseback Agreement of Two Properties for $45 Million. ... Dave &amp; <b>Buster’s</b> Achieves 9.5% <b>Revenue</b> and 8.8% EPS Growth in First Quarter. First Quarter 2019 Earnings Conference Call. Form 10-Q. 2018.
+Title: Dave &amp; Buster s Reports Record Fourth Quarter and Fiscal Year End 2022 ...
+Link: https://ir.daveandbusters.com/node/15686/pdf
+Snippet: DALLAS, March 28, 2023 (GLOBE NEWSWIRE) -- Dave &amp; <b>Buster’s</b> Entertainment, Inc., (NASDAQ: PLAY), (“Dave &amp; <b>Buster’s</b>” or “the Company”), an owner and operator of entertainment and dining venues, today announced financial results for its fourth quarter and fiscal year ended January 29, 2023. <b>Revenue</b> of $563.8 million in the quarter ...
+Title: Dave &amp; Buster&#39;s Reports Fourth Quarter and Fiscal Year End 2023 ...
+Link: https://finance.yahoo.com/news/dave-busters-reports-fourth-quarter-200500470.html
+Snippet: Adjusted EBITDA of $151.8 million, or 25.3% of <b>revenue</b>, in the quarter increased 9.7% from the fourth quarter of 2022. The 14 th week in the fourth quarter, also the 53 rd week in the fiscal year ...
+Title: Dave &amp; Buster’s Reports Record Fourth Quarter and Fiscal Year End 2022 ...
+Link: https://finance.yahoo.com/news/dave-buster-reports-record-fourth-200500526.html
+Snippet: Key Fiscal Year 2022 Highlights. <b>Revenue</b> of $2.0 billion in fiscal year 2022 increased 50.6% from fiscal year 2021 and increased 45.0% from fiscal year 2019. Net income totaled $137.1 million, or ...
+PDF Link: https://www.annualreports.com/HostedData/AnnualReportArchive/d/NASDAQ_PLAY_2021.pdf
+Title: Dave &amp; Buster’s Reports Record Second Quarter 2023 Financial Results ...
+Link: https://finance.yahoo.com/news/dave-buster-reports-record-second-200500518.html
+Snippet: Founded in 1982 and headquartered in Coppell, Texas, Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc., is the owner and operator of 213 venues in North America that offer premier entertainment and dining ...
+Title: Dave &amp; Buster&#39;s Entertainment Inc. Financial Statements - WSJ
+Link: https://www.wsj.com/market-data/quotes/PLAY/financials
+Snippet: Per Share Data Dave <b>&amp; Buster</b>&#39;s Entertainment Inc. All values updated annually at fiscal year end. ... Sales or <b>Revenue</b>: 588.10 M: Sales or <b>Revenue</b> Growth-2.97%: EBITDA +151.60 M: 2023 5-year trend;
+Title: Release Details - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/news-releases/news-release-details/dave-busters-reports-fourth-quarter-2021-and-full-year-financial
+Snippet: <b>Revenue</b> decreased by 1.2% from the fourth quarter of 2019 to $343.1 million compared with $116.8 million in the fourth quarter of 2020 and $347.2 million in the fourth quarter of 2019; ... DAVE &amp; <b>BUSTER</b>&#39;S ENTERTAINMENT, INC. Consolidated Statements of Operations (in thousands, except share and per share amounts) 52 Weeks Ended : 52 Weeks Ended ...
+Title: Dave &amp; Buster’s Reports First Quarter 2024 Financial Results ... - Nasdaq
+Link: https://www.nasdaq.com/press-release/dave-busters-reports-first-quarter-2024-financial-results-repurchases-50-million
+Snippet: --Dave&amp; <b>Buster</b>&#39;s Entertainment, Inc.,,, an owner and operator of entertainment and dining venues, today announced financial results for its first quarter ended May 5, 2024.. ... Total <b>revenue</b> was ...
+Remi: Results for 'Dave and Buster's revenue':
+Title: Annual Reports - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/financials/annual-reports
+Snippet: 2021 Annual Report. 2020 Annual Report. 2019 Annual Report. 2018 Annual Report. 2017 Annual Report. Subscribe to our Email Alerts. Submit. Careers. Corporate Social Responsibility.
+Title: Quarterly Results - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/financials/quarterly-results
+Snippet: Dave &amp; <b>Buster’s</b> Reports First Quarter 2024 Financial Results, Repurchases $50 Million of Shares and Executes Sale Leaseback Agreement of Two Properties for $45 Million. ... Dave &amp; <b>Buster’s</b> Achieves 9.5% <b>Revenue</b> and 8.8% EPS Growth in First Quarter. First Quarter 2019 Earnings Conference Call. Form 10-Q. 2018.
+Title: Dave &amp; Buster s Reports Record Fourth Quarter and Fiscal Year End 2022 ...
+Link: https://ir.daveandbusters.com/node/15686/pdf
+Snippet: DALLAS, March 28, 2023 (GLOBE NEWSWIRE) -- Dave &amp; <b>Buster’s</b> Entertainment, Inc., (NASDAQ: PLAY), (“Dave &amp; <b>Buster’s</b>” or “the Company”), an owner and operator of entertainment and dining venues, today announced financial results for its fourth quarter and fiscal year ended January 29, 2023. <b>Revenue</b> of $563.8 million in the quarter ...
+Title: Dave &amp; Buster&#39;s Reports Fourth Quarter and Fiscal Year End 2023 ...
+Link: https://finance.yahoo.com/news/dave-busters-reports-fourth-quarter-200500470.html
+Snippet: Adjusted EBITDA of $151.8 million, or 25.3% of <b>revenue</b>, in the quarter increased 9.7% from the fourth quarter of 2022. The 14 th week in the fourth quarter, also the 53 rd week in the fiscal year ...
+Title: Dave &amp; Buster’s Reports Record Fourth Quarter and Fiscal Year End 2022 ...
+Link: https://finance.yahoo.com/news/dave-buster-reports-record-fourth-200500526.html
+Snippet: Key Fiscal Year 2022 Highlights. <b>Revenue</b> of $2.0 billion in fiscal year 2022 increased 50.6% from fiscal year 2021 and increased 45.0% from fiscal year 2019. Net income totaled $137.1 million, or ...
+PDF Link: https://www.annualreports.com/HostedData/AnnualReportArchive/d/NASDAQ_PLAY_2021.pdf
+Title: Dave &amp; Buster’s Reports Record Second Quarter 2023 Financial Results ...
+Link: https://finance.yahoo.com/news/dave-buster-reports-record-second-200500518.html
+Snippet: Founded in 1982 and headquartered in Coppell, Texas, Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc., is the owner and operator of 213 venues in North America that offer premier entertainment and dining ...
+Title: Dave &amp; Buster&#39;s Entertainment Inc. Financial Statements - WSJ
+Link: https://www.wsj.com/market-data/quotes/PLAY/financials
+Snippet: Per Share Data Dave <b>&amp; Buster</b>&#39;s Entertainment Inc. All values updated annually at fiscal year end. ... Sales or <b>Revenue</b>: 588.10 M: Sales or <b>Revenue</b> Growth-2.97%: EBITDA +151.60 M: 2023 5-year trend;
+Title: Release Details - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/news-releases/news-release-details/dave-busters-reports-fourth-quarter-2021-and-full-year-financial
+Snippet: <b>Revenue</b> decreased by 1.2% from the fourth quarter of 2019 to $343.1 million compared with $116.8 million in the fourth quarter of 2020 and $347.2 million in the fourth quarter of 2019; ... DAVE &amp; <b>BUSTER</b>&#39;S ENTERTAINMENT, INC. Consolidated Statements of Operations (in thousands, except share and per share amounts) 52 Weeks Ended : 52 Weeks Ended ...
+Title: Dave &amp; Buster’s Reports First Quarter 2024 Financial Results ... - Nasdaq
+Link: https://www.nasdaq.com/press-release/dave-busters-reports-first-quarter-2024-financial-results-repurchases-50-million
+Snippet: --Dave&amp; <b>Buster</b>&#39;s Entertainment, Inc.,,, an owner and operator of entertainment and dining venues, today announced financial results for its first quarter ended May 5, 2024.. ... Total <b>revenue</b> was ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Dave and Buster's major shareholders':
+Title: Investor Relations | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/
+Snippet: Dave &amp; <b>Buster’s</b> Entertainment, Inc. owns and operates over 200 venues in North America that offer premier entertainment and dining experiences to guests through two distinct brands: Dave &amp; <b>Buster’s</b> and Main Event. Combined, we embody two of the strongest brands in the industry, creating a leading platform in the rapidly growing experiential ...
+Title: Dave &amp; Buster&#39;s Entertainment (PLAY) Institutional Ownership
+Link: https://www.marketbeat.com/stocks/NASDAQ/PLAY/institutional-ownership/
+Snippet: Of the 95 institutional investors that sold Dave <b>&amp; Buster</b>&#39;s Entertainment stock in the last 24 months, the following investors and hedge funds have sold the highest volume of shares: JAT Capital Mgmt LP ($1.42M), Wolf Hill Capital Management LP ($1.24M), Barclays PLC ($1.15M), Marshall Wace LLP ($789.76K), Vanguard Group Inc. ($545.50K), Q Global Advisors LLC ($461.44K), and Eminence Capital ...
+Title: Dave &amp; Buster’s Entertainment, Inc. Annual Report 2022
+Link: https://ir.daveandbusters.com/static-files/0e56e48a-28a4-4a9f-b499-4f770e564541
+Snippet: Dave &amp; <b>Buster’s</b> Entertainment, Inc. (“D&amp;B Entertainment”) is the owner and operator of 204 venues in North America that offer premier entertainment and dining experiences to its guests. The Company has 151 Dave &amp; <b>Buster’s</b> branded stores in 41 states, Puerto Rico, and Canada and offers guests the opportunity to “Eat
+Title: Annual Reports - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/financials/annual-reports
+Snippet: 2021 Annual Report. 2020 Annual Report. 2019 Annual Report. 2018 Annual Report. 2017 Annual Report. Subscribe to our Email Alerts. Submit. Careers. Corporate Social Responsibility.
+Title: Dave &amp; Buster&#39;s Entertainment: Business Model, SWOT Analysis, and ...
+Link: https://pitchgrade.com/companies/dave-and-busters-entertainment
+Snippet: Another <b>major</b> <b>shareholder</b> of Dave &amp; <b>Buster</b>&#39;s Entertainment is KKR &amp; Co., a global investment firm headquartered in New York City. KKR &amp; Co. has been an investor in Dave &amp; <b>Buster</b>&#39;s since 2014 and has played a crucial role in supporting the company&#39;s strategic initiatives. With their extensive network and experience in the consumer industry, KKR ...
+Title: Who Owns Dave &amp; Buster’s? | Business Strategy Hub
+Link: https://bstrategyhub.com/who-owns-dave-busters/
+Snippet: As of Dec 2023, Hill Path Capital was Dave &amp; <b>Buster’s</b> largest <b>shareholder</b>, with 17.67% of the company. This stake represents 7,119,255 shares. This stake represents 7,119,255 shares. BlackRock is the second-largest Dave &amp; <b>Buster’s</b> <b>shareholder</b> with 13.27%, followed by Vanguard Group at 10.98%, Eminence Capital at 7.94%, and Nomura Holdings ...
+Title: Dave &amp; Buster&#39;s Entertainment, Inc.: Shareholders, Shareholding ...
+Link: https://www.marketscreener.com/quote/stock/DAVE-BUSTER-S-ENTERTAINME-161044039/company-shareholders/
+Snippet: Find the distribution by types of <b>shareholders</b> of Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc. listed on the BOERSE MUENCHEN stock exchange. Discover the geographical origin of the <b>shareholders</b> of Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc..
+PDF Link: https://www.annualreports.com/HostedData/AnnualReportArchive/d/NASDAQ_PLAY_2021.pdf
+Title: Who Owns Dave &amp; Buster’s, the Publicly Traded Dining Chain?
+Link: https://marketrealist.com/p/who-owns-dave-and-busters/
+Snippet: The company paid a dividend to <b>shareholders</b> from Sept. 2018 until Feb. 2020, but that was suspended indefinitely due to the pandemic. ... and Dave <b>&amp; Buster’s</b> says it has raised $6 million since ...
+Title: Dave &amp; Buster&#39;s Entertainment Ownership - Simply Wall St
+Link: https://simplywall.st/stocks/us/consumer-services/nasdaq-play/dave-busters-entertainment/ownership
+Snippet: UBS Asset Management AG. 338,490. US$10.8m. 26%. no data. Uncover the latest insider trading activity for Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc. (PLAY). Know which insiders are buying and selling along with top <b>shareholders</b> and ownership breakdown.
+Remi: Results for 'Dave and Buster's major shareholders':
+Title: Investor Relations | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/
+Snippet: Dave &amp; <b>Buster’s</b> Entertainment, Inc. owns and operates over 200 venues in North America that offer premier entertainment and dining experiences to guests through two distinct brands: Dave &amp; <b>Buster’s</b> and Main Event. Combined, we embody two of the strongest brands in the industry, creating a leading platform in the rapidly growing experiential ...
+Title: Dave &amp; Buster&#39;s Entertainment (PLAY) Institutional Ownership
+Link: https://www.marketbeat.com/stocks/NASDAQ/PLAY/institutional-ownership/
+Snippet: Of the 95 institutional investors that sold Dave <b>&amp; Buster</b>&#39;s Entertainment stock in the last 24 months, the following investors and hedge funds have sold the highest volume of shares: JAT Capital Mgmt LP ($1.42M), Wolf Hill Capital Management LP ($1.24M), Barclays PLC ($1.15M), Marshall Wace LLP ($789.76K), Vanguard Group Inc. ($545.50K), Q Global Advisors LLC ($461.44K), and Eminence Capital ...
+Title: Dave &amp; Buster’s Entertainment, Inc. Annual Report 2022
+Link: https://ir.daveandbusters.com/static-files/0e56e48a-28a4-4a9f-b499-4f770e564541
+Snippet: Dave &amp; <b>Buster’s</b> Entertainment, Inc. (“D&amp;B Entertainment”) is the owner and operator of 204 venues in North America that offer premier entertainment and dining experiences to its guests. The Company has 151 Dave &amp; <b>Buster’s</b> branded stores in 41 states, Puerto Rico, and Canada and offers guests the opportunity to “Eat
+Title: Annual Reports - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/financials/annual-reports
+Snippet: 2021 Annual Report. 2020 Annual Report. 2019 Annual Report. 2018 Annual Report. 2017 Annual Report. Subscribe to our Email Alerts. Submit. Careers. Corporate Social Responsibility.
+Title: Dave &amp; Buster&#39;s Entertainment: Business Model, SWOT Analysis, and ...
+Link: https://pitchgrade.com/companies/dave-and-busters-entertainment
+Snippet: Another <b>major</b> <b>shareholder</b> of Dave &amp; <b>Buster</b>&#39;s Entertainment is KKR &amp; Co., a global investment firm headquartered in New York City. KKR &amp; Co. has been an investor in Dave &amp; <b>Buster</b>&#39;s since 2014 and has played a crucial role in supporting the company&#39;s strategic initiatives. With their extensive network and experience in the consumer industry, KKR ...
+Title: Who Owns Dave &amp; Buster’s? | Business Strategy Hub
+Link: https://bstrategyhub.com/who-owns-dave-busters/
+Snippet: As of Dec 2023, Hill Path Capital was Dave &amp; <b>Buster’s</b> largest <b>shareholder</b>, with 17.67% of the company. This stake represents 7,119,255 shares. This stake represents 7,119,255 shares. BlackRock is the second-largest Dave &amp; <b>Buster’s</b> <b>shareholder</b> with 13.27%, followed by Vanguard Group at 10.98%, Eminence Capital at 7.94%, and Nomura Holdings ...
+Title: Dave &amp; Buster&#39;s Entertainment, Inc.: Shareholders, Shareholding ...
+Link: https://www.marketscreener.com/quote/stock/DAVE-BUSTER-S-ENTERTAINME-161044039/company-shareholders/
+Snippet: Find the distribution by types of <b>shareholders</b> of Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc. listed on the BOERSE MUENCHEN stock exchange. Discover the geographical origin of the <b>shareholders</b> of Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc..
+PDF Link: https://www.annualreports.com/HostedData/AnnualReportArchive/d/NASDAQ_PLAY_2021.pdf
+Title: Who Owns Dave &amp; Buster’s, the Publicly Traded Dining Chain?
+Link: https://marketrealist.com/p/who-owns-dave-and-busters/
+Snippet: The company paid a dividend to <b>shareholders</b> from Sept. 2018 until Feb. 2020, but that was suspended indefinitely due to the pandemic. ... and Dave <b>&amp; Buster’s</b> says it has raised $6 million since ...
+Title: Dave &amp; Buster&#39;s Entertainment Ownership - Simply Wall St
+Link: https://simplywall.st/stocks/us/consumer-services/nasdaq-play/dave-busters-entertainment/ownership
+Snippet: UBS Asset Management AG. 338,490. US$10.8m. 26%. no data. Uncover the latest insider trading activity for Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc. (PLAY). Know which insiders are buying and selling along with top <b>shareholders</b> and ownership breakdown.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Dave and Buster's management team':
+Title: Leadership | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/corporate-governance/leadership
+Snippet: Chris Morris transitioned to his current role as CEO and a Board member upon completion of the merger between Dave &amp; <b>Buster’s</b> and Main Event in June 2022 having served as CEO of Main Event Entertainment for over four years. Prior to this role, Mr. Morris was President of California Pizza Kitchen from June 2014 to March 2018; and Executive ...
+Title: Board Of Directors | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/corporate-governance/board-of-directors
+Snippet: Chair of the Board. Kevin M. Sheehan serves as Chair of the Dave &amp; <b>Buster’s</b> Board since April 2021 and as a Director since October 2011. He served as Interim CEO of Dave &amp; <b>Buster’s</b> from October 2021 through June 2022. He is Chair and Prinicpal Owner of Mellon Stud Ventures since 2016. Mr.
+Title: Dave &amp; Buster’s announces all-new executive leadership team
+Link: https://www.nrn.com/casual-dining/dave-buster-s-announces-all-new-executive-leadership-team
+Snippet: The announcement comes on the heels of Dave &amp; <b>Buster’s</b> completion of the Main Event acquisition on June 29, 2022. The new executive leadership <b>team</b> under new CEO Chris Morris includes: “At ...
+Title: Release Details - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/news-releases/news-release-details/dave-busters-entertainment-inc-announces-new-executive
+Snippet: About Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc. Founded in 1982 and headquartered in Coppell, Texas , Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc. , is the owner and operator of 200 venues in North America that offer premier entertainment and dining experiences to guests through two distinct brands: Dave &amp; <b>Buster’s</b> and Main Event.
+Title: Dave &amp; Buster’s Entertainment, Inc. Announces New Executive Leadership Team
+Link: https://finance.yahoo.com/news/dave-buster-entertainment-inc-announces-200300234.html
+Snippet: Dave &amp; <b>Buster’s</b> Leadership <b>Team</b> will Take Newly Combined Organization into the Future, Following the Acquisition of Main Event Entertainment, IncDALLAS, July 11, 2022 (GLOBE NEWSWIRE) -- Dave ...
+Title: Dave &amp; Buster’s Strengthens Leadership Team; Adds Senior - GlobeNewswire
+Link: https://www.globenewswire.com/news-release/2021/12/07/2347817/22805/en/Dave-Buster-s-Strengthens-Leadership-Team-Adds-Senior-Vice-President-to-Lead-International-Development.html
+Snippet: Dave &amp; <b>Buster’s</b> Strengthens Leadership <b>Team</b>; Adds Senior Vice President to Lead International Development. DALLAS, Dec. 07, 2021 (GLOBE NEWSWIRE) -- Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc., (NASDAQ ...
+Title: Dave &amp; Buster’s Strengthens Leadership Team; Adds Senior Vice President ...
+Link: https://finance.yahoo.com/news/dave-buster-strengthens-leadership-team-210500156.html
+Snippet: DALLAS, Dec. 07, 2021 (GLOBE NEWSWIRE) -- Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc., (NASDAQ:PLAY), (&quot;Dave &amp; <b>Buster</b>&#39;s&quot; or &quot;the Company&quot;), an owner and operator of entertainment and dining venues, today ...
+Title: Dave &amp; Buster&#39;s Inc. - LinkedIn
+Link: https://www.linkedin.com/company/daveandbusters
+Snippet: Our corporate <b>team</b> Dave <b>&amp; Buster</b>&#39;s Inc. is on the hunt for TOP talent! If you know you would be a great fit, check out these cool roles below. We are hiring for the following: 😀 Human Resources ...
+Title: Dave &amp; Buster&#39;s Announces CEO Transition - GlobeNewswire
+Link: https://www.globenewswire.com/news-release/2021/09/21/2300944/22805/en/Dave-Buster-s-Announces-CEO-Transition.html
+Snippet: Founded in 1982 and headquartered in Dallas, Texas, Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc., is the owner and operator of 143 venues in North America that combine entertainment and dining and offer ...
+Title: Release Details - <b>Dave</b> &amp; <b>Buster&#39;s</b> Entertainment, Inc.
+Link: https://daveandbusters.gcs-web.com/news-releases/news-release-details/dave-busters-and-hill-path-announce-addition-james-chambers
+Snippet: DALLAS, Dec. 22, 2020 (GLOBE NEWSWIRE) -- <b>Dave</b> &amp; <b>Buster’s</b> Entertainment, Inc., (NASDAQ: PLAY), (“<b>Dave</b> &amp; <b>Buster’s</b>” or the “Company”), an owner and operator of entertainment and dining venues, today announced that it has appointed James Chambers, a partner and co-founder of Hill Path Capital LP (“Hill Path”), to its Board of Directors and Audit, Finance and Compensation ...
+Remi: Results for 'Dave and Buster's management team':
+Title: Leadership | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/corporate-governance/leadership
+Snippet: Chris Morris transitioned to his current role as CEO and a Board member upon completion of the merger between Dave &amp; <b>Buster’s</b> and Main Event in June 2022 having served as CEO of Main Event Entertainment for over four years. Prior to this role, Mr. Morris was President of California Pizza Kitchen from June 2014 to March 2018; and Executive ...
+Title: Board Of Directors | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/corporate-governance/board-of-directors
+Snippet: Chair of the Board. Kevin M. Sheehan serves as Chair of the Dave &amp; <b>Buster’s</b> Board since April 2021 and as a Director since October 2011. He served as Interim CEO of Dave &amp; <b>Buster’s</b> from October 2021 through June 2022. He is Chair and Prinicpal Owner of Mellon Stud Ventures since 2016. Mr.
+Title: Dave &amp; Buster’s announces all-new executive leadership team
+Link: https://www.nrn.com/casual-dining/dave-buster-s-announces-all-new-executive-leadership-team
+Snippet: The announcement comes on the heels of Dave &amp; <b>Buster’s</b> completion of the Main Event acquisition on June 29, 2022. The new executive leadership <b>team</b> under new CEO Chris Morris includes: “At ...
+Title: Release Details - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/news-releases/news-release-details/dave-busters-entertainment-inc-announces-new-executive
+Snippet: About Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc. Founded in 1982 and headquartered in Coppell, Texas , Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc. , is the owner and operator of 200 venues in North America that offer premier entertainment and dining experiences to guests through two distinct brands: Dave &amp; <b>Buster’s</b> and Main Event.
+Title: Dave &amp; Buster’s Entertainment, Inc. Announces New Executive Leadership Team
+Link: https://finance.yahoo.com/news/dave-buster-entertainment-inc-announces-200300234.html
+Snippet: Dave &amp; <b>Buster’s</b> Leadership <b>Team</b> will Take Newly Combined Organization into the Future, Following the Acquisition of Main Event Entertainment, IncDALLAS, July 11, 2022 (GLOBE NEWSWIRE) -- Dave ...
+Title: Dave &amp; Buster’s Strengthens Leadership Team; Adds Senior - GlobeNewswire
+Link: https://www.globenewswire.com/news-release/2021/12/07/2347817/22805/en/Dave-Buster-s-Strengthens-Leadership-Team-Adds-Senior-Vice-President-to-Lead-International-Development.html
+Snippet: Dave &amp; <b>Buster’s</b> Strengthens Leadership <b>Team</b>; Adds Senior Vice President to Lead International Development. DALLAS, Dec. 07, 2021 (GLOBE NEWSWIRE) -- Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc., (NASDAQ ...
+Title: Dave &amp; Buster’s Strengthens Leadership Team; Adds Senior Vice President ...
+Link: https://finance.yahoo.com/news/dave-buster-strengthens-leadership-team-210500156.html
+Snippet: DALLAS, Dec. 07, 2021 (GLOBE NEWSWIRE) -- Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc., (NASDAQ:PLAY), (&quot;Dave &amp; <b>Buster</b>&#39;s&quot; or &quot;the Company&quot;), an owner and operator of entertainment and dining venues, today ...
+Title: Dave &amp; Buster&#39;s Inc. - LinkedIn
+Link: https://www.linkedin.com/company/daveandbusters
+Snippet: Our corporate <b>team</b> Dave <b>&amp; Buster</b>&#39;s Inc. is on the hunt for TOP talent! If you know you would be a great fit, check out these cool roles below. We are hiring for the following: 😀 Human Resources ...
+Title: Dave &amp; Buster&#39;s Announces CEO Transition - GlobeNewswire
+Link: https://www.globenewswire.com/news-release/2021/09/21/2300944/22805/en/Dave-Buster-s-Announces-CEO-Transition.html
+Snippet: Founded in 1982 and headquartered in Dallas, Texas, Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc., is the owner and operator of 143 venues in North America that combine entertainment and dining and offer ...
+Title: Release Details - <b>Dave</b> &amp; <b>Buster&#39;s</b> Entertainment, Inc.
+Link: https://daveandbusters.gcs-web.com/news-releases/news-release-details/dave-busters-and-hill-path-announce-addition-james-chambers
+Snippet: DALLAS, Dec. 22, 2020 (GLOBE NEWSWIRE) -- <b>Dave</b> &amp; <b>Buster’s</b> Entertainment, Inc., (NASDAQ: PLAY), (“<b>Dave</b> &amp; <b>Buster’s</b>” or the “Company”), an owner and operator of entertainment and dining venues, today announced that it has appointed James Chambers, a partner and co-founder of Hill Path Capital LP (“Hill Path”), to its Board of Directors and Audit, Finance and Compensation ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Dave and Buster's executives profiles Linkedin':
+Title: Chris Morris - Dave &amp; Buster&#39;s Inc. | LinkedIn
+Link: https://www.linkedin.com/in/chris-morris-a222537
+Snippet: Experience: Dave &amp; <b>Buster</b>&#39;s Inc. · Education: University of Kansas · Location: Dallas · 500+ connections on <b>LinkedIn</b>. View Chris Morris’ <b>profile</b> on <b>LinkedIn</b>, a professional community of 1 ...
+Title: Leadership | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/corporate-governance/leadership
+Snippet: Chris Morris transitioned to his current role as <b>CEO</b> and a Board member upon completion of the merger between Dave &amp; <b>Buster’s</b> and Main Event in June 2022 having served as <b>CEO</b> of Main Event Entertainment for over four years. Prior to this role, Mr. Morris was President of California Pizza Kitchen from June 2014 to March 2018; and <b>Executive</b> ...
+Title: Dave &amp; Buster&#39;s Inc. - LinkedIn
+Link: https://www.linkedin.com/company/daveandbusters
+Snippet: Our corporate team Dave <b>&amp; Buster</b>&#39;s Inc. is on the hunt for TOP talent! If you know you would be a great fit, check out these cool roles below. We are hiring for the following: 😀 Human Resources ...
+Title: Chris Morris | Board of Directors,Management | Dave &amp; Buster&#39;s ...
+Link: https://ir.daveandbusters.com/board-directors-management/christopher-morris
+Snippet: Chris Morris transitioned to his current role as <b>CEO</b> and a Board member upon completion of the merger between Dave &amp; <b>Buster’s</b> and Main Event in June 2022 having served as <b>CEO</b> of Main Event Entertainment for over four years. Prior to this role, Mr. Morris was President of California Pizza Kitchen from June 2014 to March 2018; and <b>Executive</b> ...
+Title: Board Of Directors | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/corporate-governance/board-of-directors
+Snippet: Chair of the Board. Kevin M. Sheehan serves as Chair of the Dave &amp; <b>Buster’s</b> Board since April 2021 and as a Director since October 2011. He served as Interim <b>CEO</b> of Dave &amp; <b>Buster’s</b> from October 2021 through June 2022. He is Chair and Prinicpal Owner of Mellon Stud Ventures since 2016. Mr.
+Title: Dave &amp; Buster&#39;s Inc. hiring Restaurant Manager in Columbus ... - LinkedIn
+Link: https://www.linkedin.com/jobs/view/restaurant-manager-at-dave-buster-s-inc-3999342088
+Snippet: Referrals increase your chances of interviewing at Dave &amp; <b>Buster</b>&#39;s Inc. by 2x See who you know Get notified about new Restaurant Manager jobs in Columbus, OH .
+Title: Dave &amp; Buster&#39;s Inc. hiring Senior Restaurant Manager in ... - LinkedIn
+Link: https://www.linkedin.com/jobs/view/senior-restaurant-manager-at-dave-buster-s-inc-3865241411
+Snippet: Ability to maintain and project professionalism, internally and externally, at all times. Can create and communicate a vision for the store. Exercises good judgment in decision making. Flexible in ...
+Title: Dave &amp; Buster&#39;s Announces CEO Transition | Dave &amp; Buster&#39;s ...
+Link: https://ir.daveandbusters.com/news-releases/news-release-details/dave-busters-announces-ceo-transition
+Snippet: DALLAS, Sept. 21, 2021 (GLOBE NEWSWIRE) -- Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc., (NASDAQ:PLAY), (&quot;Dave &amp; <b>Buster</b>&#39;s&quot; or &quot;the Company&quot;), an owner and operator of entertainment and dining venues, today announced that, following its recently announced record quarterly revenue and profit performance, Brian A. Jenkins will be retiring from his service as Chief <b>Executive</b> Officer of the Company and a ...
+Title: Dave &amp; Buster’s shakes up its C-suite - Restaurant Business
+Link: https://www.restaurantbusinessonline.com/leadership/dave-busters-shakes-its-c-suite
+Snippet: Chris Morris, previously the head of food-and-games chain Main Event, is <b>CEO</b> of the combined company following the $835 million deal. Appointed to the Dave &amp; <b>Buster’s</b> C-suite are: Antonio Bautista, chief international development officer. Rob Edmund, chief people and legal officer. Steve Klohn, chief information officer.
+Title: Dave &amp; Buster&#39;s Inc.: Jobs | LinkedIn
+Link: https://www.linkedin.com/company/daveandbusters/jobs/
+Snippet: New York, NY $76,000.00 - $92,000.00 1 day ago. Dave &amp; <b>Buster</b>&#39;s Inc. | 63,090 followers on <b>LinkedIn</b>. You Know You Want To. | Welcome to Dave &amp; <b>Buster</b>&#39;s, the ONLY place to Eat, Drink, Play &amp; Watch ...
+Remi: Results for 'Dave and Buster's executives profiles Linkedin':
+Title: Chris Morris - Dave &amp; Buster&#39;s Inc. | LinkedIn
+Link: https://www.linkedin.com/in/chris-morris-a222537
+Snippet: Experience: Dave &amp; <b>Buster</b>&#39;s Inc. · Education: University of Kansas · Location: Dallas · 500+ connections on <b>LinkedIn</b>. View Chris Morris’ <b>profile</b> on <b>LinkedIn</b>, a professional community of 1 ...
+Title: Leadership | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/corporate-governance/leadership
+Snippet: Chris Morris transitioned to his current role as <b>CEO</b> and a Board member upon completion of the merger between Dave &amp; <b>Buster’s</b> and Main Event in June 2022 having served as <b>CEO</b> of Main Event Entertainment for over four years. Prior to this role, Mr. Morris was President of California Pizza Kitchen from June 2014 to March 2018; and <b>Executive</b> ...
+Title: Dave &amp; Buster&#39;s Inc. - LinkedIn
+Link: https://www.linkedin.com/company/daveandbusters
+Snippet: Our corporate team Dave <b>&amp; Buster</b>&#39;s Inc. is on the hunt for TOP talent! If you know you would be a great fit, check out these cool roles below. We are hiring for the following: 😀 Human Resources ...
+Title: Chris Morris | Board of Directors,Management | Dave &amp; Buster&#39;s ...
+Link: https://ir.daveandbusters.com/board-directors-management/christopher-morris
+Snippet: Chris Morris transitioned to his current role as <b>CEO</b> and a Board member upon completion of the merger between Dave &amp; <b>Buster’s</b> and Main Event in June 2022 having served as <b>CEO</b> of Main Event Entertainment for over four years. Prior to this role, Mr. Morris was President of California Pizza Kitchen from June 2014 to March 2018; and <b>Executive</b> ...
+Title: Board Of Directors | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/corporate-governance/board-of-directors
+Snippet: Chair of the Board. Kevin M. Sheehan serves as Chair of the Dave &amp; <b>Buster’s</b> Board since April 2021 and as a Director since October 2011. He served as Interim <b>CEO</b> of Dave &amp; <b>Buster’s</b> from October 2021 through June 2022. He is Chair and Prinicpal Owner of Mellon Stud Ventures since 2016. Mr.
+Title: Dave &amp; Buster&#39;s Inc. hiring Restaurant Manager in Columbus ... - LinkedIn
+Link: https://www.linkedin.com/jobs/view/restaurant-manager-at-dave-buster-s-inc-3999342088
+Snippet: Referrals increase your chances of interviewing at Dave &amp; <b>Buster</b>&#39;s Inc. by 2x See who you know Get notified about new Restaurant Manager jobs in Columbus, OH .
+Title: Dave &amp; Buster&#39;s Inc. hiring Senior Restaurant Manager in ... - LinkedIn
+Link: https://www.linkedin.com/jobs/view/senior-restaurant-manager-at-dave-buster-s-inc-3865241411
+Snippet: Ability to maintain and project professionalism, internally and externally, at all times. Can create and communicate a vision for the store. Exercises good judgment in decision making. Flexible in ...
+Title: Dave &amp; Buster&#39;s Announces CEO Transition | Dave &amp; Buster&#39;s ...
+Link: https://ir.daveandbusters.com/news-releases/news-release-details/dave-busters-announces-ceo-transition
+Snippet: DALLAS, Sept. 21, 2021 (GLOBE NEWSWIRE) -- Dave &amp; <b>Buster</b>&#39;s Entertainment, Inc., (NASDAQ:PLAY), (&quot;Dave &amp; <b>Buster</b>&#39;s&quot; or &quot;the Company&quot;), an owner and operator of entertainment and dining venues, today announced that, following its recently announced record quarterly revenue and profit performance, Brian A. Jenkins will be retiring from his service as Chief <b>Executive</b> Officer of the Company and a ...
+Title: Dave &amp; Buster’s shakes up its C-suite - Restaurant Business
+Link: https://www.restaurantbusinessonline.com/leadership/dave-busters-shakes-its-c-suite
+Snippet: Chris Morris, previously the head of food-and-games chain Main Event, is <b>CEO</b> of the combined company following the $835 million deal. Appointed to the Dave &amp; <b>Buster’s</b> C-suite are: Antonio Bautista, chief international development officer. Rob Edmund, chief people and legal officer. Steve Klohn, chief information officer.
+Title: Dave &amp; Buster&#39;s Inc.: Jobs | LinkedIn
+Link: https://www.linkedin.com/company/daveandbusters/jobs/
+Snippet: New York, NY $76,000.00 - $92,000.00 1 day ago. Dave &amp; <b>Buster</b>&#39;s Inc. | 63,090 followers on <b>LinkedIn</b>. You Know You Want To. | Welcome to Dave &amp; <b>Buster</b>&#39;s, the ONLY place to Eat, Drink, Play &amp; Watch ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Dave and Buster's layoffs':
+Title: Dave &amp; Buster’s lays off 1,300 employees in seven states as ...
+Link: https://www.nrn.com/casual-dining/dave-buster-s-lays-1300-employees-seven-states-eatertainment-continues-be-hit-hard
+Snippet: Although many of the permanent <b>layoffs</b>, which will be effective Nov. 8, come from restaurants that are still listed as temporarily closed on Dave &amp; <b>Buster’s</b> website, including locations in ...
+Title: Dave &amp; Buster&#39;s lays off over 1,300 employees across 7 states
+Link: https://www.restaurantdive.com/news/dave-busters-lays-off-over-1000-employees-across-6-states/585296/
+Snippet: Dave &amp; <b>Buster</b>&#39;s staggering same-store sales decline and the scope of these <b>layoffs</b> reflect the toll coronavirus restrictions and closures have taken on the eatertainment category. As of Sept. 9, the chain had reopened 89 of its 137 stores — located in 40 states, Puerto Rico and Canada — with reduced hours and limited capacity. These ...
+Title: Dave &amp; Buster&#39;s Layoffs - WARN Database
+Link: https://layoffdata.com/company/dave-busters/
+Snippet: WARN layoff notices at businesses headquartered in Texas. American Airlines Group. AT&amp;T. Caterpillar. Dave &amp; <b>Buster’s</b>. FedEx Office (formerly Kinko’s) (FedEx subsidiary) Frito-Lay (PepsiCo subsidiary) GameStop. Keurig Dr. Pepper (first HQ in Massachusetts)
+Title: Dave &amp; Buster’s plans to lay off more than 1,300 employees
+Link: https://www.restaurantbusinessonline.com/workforce/dave-busters-plans-lay-more-1300-employees
+Snippet: Beleaguered food-and-games chain Dave &amp; <b>Buster’s</b> plans to lay off more than 1,300 workers at locations in seven states, according to notices filed with employment authorities in recent days.. Dave &amp; <b>Buster’s</b>, which did not respond to a Restaurant Business request to comment on the mass <b>layoffs</b>, reported last week that its same-store sales plummeted 87% for the quarter ended Aug. 2.
+Title: Dave &amp; Buster&#39;s complete WARN notice layoff history from Mar 2020 to ...
+Link: https://www.warntracker.com/company/dave-busters
+Snippet: Dave &amp; <b>Buster</b>&#39;s filed 23 WARN layoff notices from Mar 2020 to Nov 2020 in California, Colorado, Hawaii, Louisiana, Maryland, Michigan, New Jersey, New Mexico, New York, Oregon, Tennessee and Washington. 3,048 employees were laid off in total from these <b>layoffs</b>.
+Title: <b>Dave</b> &amp; <b>Buster’s</b>, Main Event foot traffic rose Q2, Placer.ai data ...
+Link: https://www.nrn.com/casual-dining/dave-buster-s-main-event-foot-traffic-rose-q2-placerai-data-indicates
+Snippet: <b>Dave</b> &amp; <b>Buster’s</b> Entertainment Inc., which also owns the Main Event brand, experienced foot traffic gains of as much as 6.9% during the second quarter, according to recent data from Placer.ai.
+Title: Galleria Dave &amp; Buster&#39;s lays off 85 workers permanently - WKBW
+Link: https://www.wkbw.com/news/local-news/dave-and-busters-at-walden-galleria-lays-off-85-workers-permanently
+Snippet: The <b>layoffs</b> come as Dave &amp; <b>Buster</b>&#39;s eyes bankruptcy unless it can strike a deal with a lender, according to The Wall Street Journal. The chain, which provides food, drinks and arcade games under ...
+Title: Dave &amp; Buster&#39;s Plans Massive Layoffs, May Be Looking at Bankruptcy
+Link: https://www.nbcboston.com/news/local/dave-busters-plans-massive-layoffs-may-be-looking-at-bankruptcy/2198703/
+Snippet: According to Patrick Maguire of Maguire Promotions &amp; Hospitality Consulting, Dave &amp; <b>Buster</b>&#39;s is laying off more than 1,300 employees, while the Texas-based company is also considering filing for Chapter 11 Bankruptcy if it can&#39;t work out a deal with its vendors. An article from FSR magazine gives more details on the situation, saying that the ...
+Title: Dave &amp; Buster&#39;s files to make 1,400 layoffs permanent ... - Newsday
+Link: https://www.newsday.com/business/dave-buster-s-layoffs-t49834
+Snippet: Dave &amp; <b>Buster’s</b> temporarily laid off workers in March at its New York locations but the <b>layoffs</b> will become permanent Dec. 8 or during a 14-day period after that date, the company said in the ...
+Title: Food and Drink - View our full menu - <b>Dave</b> &amp; <b>Buster&#39;s</b>
+Link: https://www.daveandbusters.com/us/en/eat-and-drink?os=...&ref=app
+Snippet: Get in on the games, food, and fun at a <b>Dave</b> &amp; <b>Buster’s</b> near you by reserving a table today. Make a Reservation. GET READY FOR FUN. Download the D&amp;B Rewards app and prepare for your visit. Play games, accept challenges and track upcoming events with the D&amp;B Rewards App. It&#39;s like easy mode for earning rewards.
+Remi: Results for 'Dave and Buster's layoffs':
+Title: Dave &amp; Buster’s lays off 1,300 employees in seven states as ...
+Link: https://www.nrn.com/casual-dining/dave-buster-s-lays-1300-employees-seven-states-eatertainment-continues-be-hit-hard
+Snippet: Although many of the permanent <b>layoffs</b>, which will be effective Nov. 8, come from restaurants that are still listed as temporarily closed on Dave &amp; <b>Buster’s</b> website, including locations in ...
+Title: Dave &amp; Buster&#39;s lays off over 1,300 employees across 7 states
+Link: https://www.restaurantdive.com/news/dave-busters-lays-off-over-1000-employees-across-6-states/585296/
+Snippet: Dave &amp; <b>Buster</b>&#39;s staggering same-store sales decline and the scope of these <b>layoffs</b> reflect the toll coronavirus restrictions and closures have taken on the eatertainment category. As of Sept. 9, the chain had reopened 89 of its 137 stores — located in 40 states, Puerto Rico and Canada — with reduced hours and limited capacity. These ...
+Title: Dave &amp; Buster&#39;s Layoffs - WARN Database
+Link: https://layoffdata.com/company/dave-busters/
+Snippet: WARN layoff notices at businesses headquartered in Texas. American Airlines Group. AT&amp;T. Caterpillar. Dave &amp; <b>Buster’s</b>. FedEx Office (formerly Kinko’s) (FedEx subsidiary) Frito-Lay (PepsiCo subsidiary) GameStop. Keurig Dr. Pepper (first HQ in Massachusetts)
+Title: Dave &amp; Buster’s plans to lay off more than 1,300 employees
+Link: https://www.restaurantbusinessonline.com/workforce/dave-busters-plans-lay-more-1300-employees
+Snippet: Beleaguered food-and-games chain Dave &amp; <b>Buster’s</b> plans to lay off more than 1,300 workers at locations in seven states, according to notices filed with employment authorities in recent days.. Dave &amp; <b>Buster’s</b>, which did not respond to a Restaurant Business request to comment on the mass <b>layoffs</b>, reported last week that its same-store sales plummeted 87% for the quarter ended Aug. 2.
+Title: Dave &amp; Buster&#39;s complete WARN notice layoff history from Mar 2020 to ...
+Link: https://www.warntracker.com/company/dave-busters
+Snippet: Dave &amp; <b>Buster</b>&#39;s filed 23 WARN layoff notices from Mar 2020 to Nov 2020 in California, Colorado, Hawaii, Louisiana, Maryland, Michigan, New Jersey, New Mexico, New York, Oregon, Tennessee and Washington. 3,048 employees were laid off in total from these <b>layoffs</b>.
+Title: <b>Dave</b> &amp; <b>Buster’s</b>, Main Event foot traffic rose Q2, Placer.ai data ...
+Link: https://www.nrn.com/casual-dining/dave-buster-s-main-event-foot-traffic-rose-q2-placerai-data-indicates
+Snippet: <b>Dave</b> &amp; <b>Buster’s</b> Entertainment Inc., which also owns the Main Event brand, experienced foot traffic gains of as much as 6.9% during the second quarter, according to recent data from Placer.ai.
+Title: Galleria Dave &amp; Buster&#39;s lays off 85 workers permanently - WKBW
+Link: https://www.wkbw.com/news/local-news/dave-and-busters-at-walden-galleria-lays-off-85-workers-permanently
+Snippet: The <b>layoffs</b> come as Dave &amp; <b>Buster</b>&#39;s eyes bankruptcy unless it can strike a deal with a lender, according to The Wall Street Journal. The chain, which provides food, drinks and arcade games under ...
+Title: Dave &amp; Buster&#39;s Plans Massive Layoffs, May Be Looking at Bankruptcy
+Link: https://www.nbcboston.com/news/local/dave-busters-plans-massive-layoffs-may-be-looking-at-bankruptcy/2198703/
+Snippet: According to Patrick Maguire of Maguire Promotions &amp; Hospitality Consulting, Dave &amp; <b>Buster</b>&#39;s is laying off more than 1,300 employees, while the Texas-based company is also considering filing for Chapter 11 Bankruptcy if it can&#39;t work out a deal with its vendors. An article from FSR magazine gives more details on the situation, saying that the ...
+Title: Dave &amp; Buster&#39;s files to make 1,400 layoffs permanent ... - Newsday
+Link: https://www.newsday.com/business/dave-buster-s-layoffs-t49834
+Snippet: Dave &amp; <b>Buster’s</b> temporarily laid off workers in March at its New York locations but the <b>layoffs</b> will become permanent Dec. 8 or during a 14-day period after that date, the company said in the ...
+Title: Food and Drink - View our full menu - <b>Dave</b> &amp; <b>Buster&#39;s</b>
+Link: https://www.daveandbusters.com/us/en/eat-and-drink?os=...&ref=app
+Snippet: Get in on the games, food, and fun at a <b>Dave</b> &amp; <b>Buster’s</b> near you by reserving a table today. Make a Reservation. GET READY FOR FUN. Download the D&amp;B Rewards app and prepare for your visit. Play games, accept challenges and track upcoming events with the D&amp;B Rewards App. It&#39;s like easy mode for earning rewards.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Dave and Buster's employee reviews':
+Title: Dave &amp; Buster&#39;s reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Dave-and-Buster-s-Reviews-E4317.htm
+Snippet: 2,341 Dave <b>&amp; Buster</b>&#39;s reviews. A free inside look at company reviews and salaries posted anonymously by employees.
+Title: Working at Dave &amp; Buster&#39;s: 3,340 Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Dave-&-Buster's/reviews
+Snippet: 3,340 reviews from Dave <b>&amp; Buster</b>&#39;s employees about Dave <b>&amp; Buster</b>&#39;s culture, salaries, benefits, work-life balance, management, job security, and more.
+Title: Working at Dave &amp; Buster&#39;s | Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-Dave-and-Buster-s-EI_IE4317.11,28.htm
+Snippet: See what employees say it&#39;s like to work at Dave <b>&amp; Buster</b>&#39;s. Salaries, reviews, and more - all posted by employees working at Dave <b>&amp; Buster</b>&#39;s.
+Title: Working at Dave and Buster’s: Employee Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Dave-and-Buster-S-2/reviews
+Snippet: Reviews from Dave <b>and Buster’s</b> employees about Dave <b>and Buster’s</b> culture, salaries, benefits, work-life balance, management, job security, and more.
+Title: Dave &amp; Buster&#39;s Reviews - glassdoor.ca
+Link: https://www.glassdoor.ca/Reviews/Dave-and-Buster-s-Reviews-E4317.htm
+Snippet: 2,213 Dave &amp; <b>Buster</b>&#39;s reviews. A free inside look at company reviews and salaries posted anonymously by employees.
+Title: Dave &amp; Buster&#39;s &quot;coworker&quot; Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Dave-and-Buster-s-coworker-Reviews-EI_IE4317.0,17_KH18,26.htm
+Snippet: 167 Dave &amp; <b>Buster</b>&#39;s reviews. A free inside look at company reviews and salaries posted anonymously by employees.
+Title: Dave &amp; Buster&#39;s Employee Reviews - Comparably
+Link: https://www.comparably.com/companies/dave-busters/reviews
+Snippet: Dave <b>&amp; Buster</b>&#39;s Employee Reviews Out of 278 Dave <b>&amp; Buster</b>&#39;s employee reviews, 59% were positive. The remaining 41% were constructive reviews with the goal of helping Dave &amp; <b>Buster</b>&#39;s improve their work culture. The Sales team, with 83% positive reviews, reports the best experience at Dave &amp; <b>Buster</b>&#39;s compared to all other departments at the company.
+Title: Dave &amp; Buster&#39;s Pay &amp; Benefits reviews - Indeed
+Link: https://www.indeed.com/cmp/Dave-&-Buster's/reviews?ftopic=paybenefits
+Snippet: Dave &amp; <b>Buster</b>&#39;s Pay &amp; Benefits reviews Review this company Job Title All Location United States 3,342 reviews Ratings by category Clear 3.2 Work-Life Balance 3.1 Pay &amp; Benefits 3.1 Job Security &amp; Advancement 3.0 Management 3.4 Culture Search reviews Search Sort by Helpfulness Rating Date Language Found 734 reviews matching the search See all ...
+Title: Dave &amp; Buster&#39;s Reviews: What Is It Like to Work At Dave &amp; Buster&#39;s ...
+Link: https://www.glassdoor.co.uk/Reviews/Dave-and-Buster-s-Reviews-E4317.htm
+Snippet: 2,269 Dave &amp; <b>Buster</b>&#39;s reviews. A free inside look at company reviews and salaries posted anonymously by employees.
+Title: Workers Reveal What It&#39;s Really Like To Work At Dave &amp; Buster&#39;s
+Link: https://www.mashed.com/800307/workers-reveal-what-its-really-like-to-work-at-dave-busters/
+Snippet: Dave &amp; <b>Buster</b>&#39;s is undoubtedly a great place to hang out, with its comfort food and great arcade games, but is it a great place to work?
+Remi: Results for 'Dave and Buster's employee reviews':
+Title: Dave &amp; Buster&#39;s reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Dave-and-Buster-s-Reviews-E4317.htm
+Snippet: 2,341 Dave <b>&amp; Buster</b>&#39;s reviews. A free inside look at company reviews and salaries posted anonymously by employees.
+Title: Working at Dave &amp; Buster&#39;s: 3,340 Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Dave-&-Buster's/reviews
+Snippet: 3,340 reviews from Dave <b>&amp; Buster</b>&#39;s employees about Dave <b>&amp; Buster</b>&#39;s culture, salaries, benefits, work-life balance, management, job security, and more.
+Title: Working at Dave &amp; Buster&#39;s | Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-Dave-and-Buster-s-EI_IE4317.11,28.htm
+Snippet: See what employees say it&#39;s like to work at Dave <b>&amp; Buster</b>&#39;s. Salaries, reviews, and more - all posted by employees working at Dave <b>&amp; Buster</b>&#39;s.
+Title: Working at Dave and Buster’s: Employee Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Dave-and-Buster-S-2/reviews
+Snippet: Reviews from Dave <b>and Buster’s</b> employees about Dave <b>and Buster’s</b> culture, salaries, benefits, work-life balance, management, job security, and more.
+Title: Dave &amp; Buster&#39;s Reviews - glassdoor.ca
+Link: https://www.glassdoor.ca/Reviews/Dave-and-Buster-s-Reviews-E4317.htm
+Snippet: 2,213 Dave &amp; <b>Buster</b>&#39;s reviews. A free inside look at company reviews and salaries posted anonymously by employees.
+Title: Dave &amp; Buster&#39;s &quot;coworker&quot; Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Dave-and-Buster-s-coworker-Reviews-EI_IE4317.0,17_KH18,26.htm
+Snippet: 167 Dave &amp; <b>Buster</b>&#39;s reviews. A free inside look at company reviews and salaries posted anonymously by employees.
+Title: Dave &amp; Buster&#39;s Employee Reviews - Comparably
+Link: https://www.comparably.com/companies/dave-busters/reviews
+Snippet: Dave <b>&amp; Buster</b>&#39;s Employee Reviews Out of 278 Dave <b>&amp; Buster</b>&#39;s employee reviews, 59% were positive. The remaining 41% were constructive reviews with the goal of helping Dave &amp; <b>Buster</b>&#39;s improve their work culture. The Sales team, with 83% positive reviews, reports the best experience at Dave &amp; <b>Buster</b>&#39;s compared to all other departments at the company.
+Title: Dave &amp; Buster&#39;s Pay &amp; Benefits reviews - Indeed
+Link: https://www.indeed.com/cmp/Dave-&-Buster's/reviews?ftopic=paybenefits
+Snippet: Dave &amp; <b>Buster</b>&#39;s Pay &amp; Benefits reviews Review this company Job Title All Location United States 3,342 reviews Ratings by category Clear 3.2 Work-Life Balance 3.1 Pay &amp; Benefits 3.1 Job Security &amp; Advancement 3.0 Management 3.4 Culture Search reviews Search Sort by Helpfulness Rating Date Language Found 734 reviews matching the search See all ...
+Title: Dave &amp; Buster&#39;s Reviews: What Is It Like to Work At Dave &amp; Buster&#39;s ...
+Link: https://www.glassdoor.co.uk/Reviews/Dave-and-Buster-s-Reviews-E4317.htm
+Snippet: 2,269 Dave &amp; <b>Buster</b>&#39;s reviews. A free inside look at company reviews and salaries posted anonymously by employees.
+Title: Workers Reveal What It&#39;s Really Like To Work At Dave &amp; Buster&#39;s
+Link: https://www.mashed.com/800307/workers-reveal-what-its-really-like-to-work-at-dave-busters/
+Snippet: Dave &amp; <b>Buster</b>&#39;s is undoubtedly a great place to hang out, with its comfort food and great arcade games, but is it a great place to work?
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Dave and Buster's controversies':
+Title: Was Dave &amp; Buster&#39;s Founded by Dave Chappelle and Busta Rhymes?
+Link: https://www.snopes.com/fact-check/dave-busters-chappelle-busta-rhymes/
+Snippet: <b>Buster</b>&#39;s gained a reputation as a place for yuppies, lobbyists, politicians, and &quot;bond daddies,&quot; a particular kind of southern security sales businessman, and was considered particularly sordid.
+Title: ‘So inappropriate.’ Dave &amp; Buster’s plans to allow gambling, and an ...
+Link: https://www.marketwatch.com/story/dave-busters-allowing-arcade-gambling-raises-significant-concerns-advocacy-group-says-dac504dc
+Snippet: Dave &amp; <b>Buster’s</b> recently announced that it will soon allow people to place peer-to-peer bets with friends on arcade games with real money, and soon after a state official, an antigambling group ...
+Title: Dave &amp; Buster&#39;s to pay $275,000 for breaking child labor laws - Boston.com
+Link: https://www.boston.com/news/crime/2023/06/08/dave-busters-child-labor-meal-break-law-violations-andrea-campbell-massachusetts-attorney-general/
+Snippet: 7. Massachusetts Attorney General Andrea Campbell has reached a settlement with Dave &amp; <b>Buster’s</b> in which the company will pay over $275,000 for breaking state child labor and meal break laws ...
+Title: The Untold Truth Of Dave &amp; Buster&#39;s - Mashed
+Link: https://www.mashed.com/616318/the-untold-truth-of-dave-and-busters/
+Snippet: Dave &amp; <b>Busters</b> found success combining a sports bar atmosphere with the nostalgic allure of video games. Let&#39;s dive into this unique restaurant&#39;s history.
+Title: Dave &amp; Buster’s Sports Betting: What is really going on with the ...
+Link: https://slate.com/business/2024/05/dave-and-busters-sports-betting-bad-idea.html
+Snippet: Why is Dave &amp; <b>Buster’s</b>—a company known for arcade games, sports, beer, and wings—getting into gaming? The company didn’t respond to a request for comment; in fact, it didn’t even make ...
+Title: Dave and Buster’s is getting into the betting business - CNN
+Link: https://www.cnn.com/2024/05/01/investing/dave-and-busters-gambling-betting/index.html
+Snippet: Dave and <b>Buster’s</b> (PLAY), the popular restaurant and entertainment chain, is getting into the betting business. The company is looking to make some extra revenue on the back of the explosion of ...
+Title: Who Owns Dave &amp; Buster’s? Fact-checking 3 Ongoing ... - Trend Micro News
+Link: https://news.trendmicro.com/2021/07/20/who-founded-dave-busters-fact-checking-3-ongoing-rumors-of-the-week-20210720/
+Snippet: Who owns Dave &amp; <b>Buster</b>&#39;s? Did Dave Chappelle and Busta Rhymes open the restaurant? It seems to make sense, yet the statement is FALSE.
+Title: Fact Check: No, Dave &amp; Buster&#39;s Was Not Founded by Dave Chappelle and ...
+Link: https://www.msn.com/en-us/music/news/fact-check-no-dave-busters-was-not-founded-by-dave-chappelle-and-busta-rhymes/ar-AA1mmZCh
+Snippet: There is more than one Dave in the world, people. A 2021 TikTok post claims that the restaurant and bar Dave &amp; <b>Buster</b>&#39;s was founded by none other than comedian Dave Chappelle and rapper Busta Rhymes.
+Title: Dave &amp; Buster’s apologizes for &#39;racist&#39; tweet - Fox News
+Link: https://www.foxnews.com/food-drink/dave-busters-apologizes-for-racist-tweet
+Snippet: Food and gaming chain Dave &amp; <b>Buster’s</b> has had to apologize after sending out a racially-charged tweet to promote #TacoTuesday. On Tuesday, Dave &amp; <b>Busters</b> --which has more than 70 locations in ...
+Title: Dave &amp; Buster’s continues brand transformation - Nation&#39;s Restaurant News
+Link: https://www.nrn.com/casual-dining/dave-buster-s-continues-brand-transformation-same-store-sales-sink-78
+Snippet: Dave &amp; <b>Buster’s</b> continues brand transformation as same-store sales sink 7.8% The eatertainment company is continuing to roll out store remodels, revamp food and beverage menus, and ramp up ...
+Remi: Results for 'Dave and Buster's controversies':
+Title: Was Dave &amp; Buster&#39;s Founded by Dave Chappelle and Busta Rhymes?
+Link: https://www.snopes.com/fact-check/dave-busters-chappelle-busta-rhymes/
+Snippet: <b>Buster</b>&#39;s gained a reputation as a place for yuppies, lobbyists, politicians, and &quot;bond daddies,&quot; a particular kind of southern security sales businessman, and was considered particularly sordid.
+Title: ‘So inappropriate.’ Dave &amp; Buster’s plans to allow gambling, and an ...
+Link: https://www.marketwatch.com/story/dave-busters-allowing-arcade-gambling-raises-significant-concerns-advocacy-group-says-dac504dc
+Snippet: Dave &amp; <b>Buster’s</b> recently announced that it will soon allow people to place peer-to-peer bets with friends on arcade games with real money, and soon after a state official, an antigambling group ...
+Title: Dave &amp; Buster&#39;s to pay $275,000 for breaking child labor laws - Boston.com
+Link: https://www.boston.com/news/crime/2023/06/08/dave-busters-child-labor-meal-break-law-violations-andrea-campbell-massachusetts-attorney-general/
+Snippet: 7. Massachusetts Attorney General Andrea Campbell has reached a settlement with Dave &amp; <b>Buster’s</b> in which the company will pay over $275,000 for breaking state child labor and meal break laws ...
+Title: The Untold Truth Of Dave &amp; Buster&#39;s - Mashed
+Link: https://www.mashed.com/616318/the-untold-truth-of-dave-and-busters/
+Snippet: Dave &amp; <b>Busters</b> found success combining a sports bar atmosphere with the nostalgic allure of video games. Let&#39;s dive into this unique restaurant&#39;s history.
+Title: Dave &amp; Buster’s Sports Betting: What is really going on with the ...
+Link: https://slate.com/business/2024/05/dave-and-busters-sports-betting-bad-idea.html
+Snippet: Why is Dave &amp; <b>Buster’s</b>—a company known for arcade games, sports, beer, and wings—getting into gaming? The company didn’t respond to a request for comment; in fact, it didn’t even make ...
+Title: Dave and Buster’s is getting into the betting business - CNN
+Link: https://www.cnn.com/2024/05/01/investing/dave-and-busters-gambling-betting/index.html
+Snippet: Dave and <b>Buster’s</b> (PLAY), the popular restaurant and entertainment chain, is getting into the betting business. The company is looking to make some extra revenue on the back of the explosion of ...
+Title: Who Owns Dave &amp; Buster’s? Fact-checking 3 Ongoing ... - Trend Micro News
+Link: https://news.trendmicro.com/2021/07/20/who-founded-dave-busters-fact-checking-3-ongoing-rumors-of-the-week-20210720/
+Snippet: Who owns Dave &amp; <b>Buster</b>&#39;s? Did Dave Chappelle and Busta Rhymes open the restaurant? It seems to make sense, yet the statement is FALSE.
+Title: Fact Check: No, Dave &amp; Buster&#39;s Was Not Founded by Dave Chappelle and ...
+Link: https://www.msn.com/en-us/music/news/fact-check-no-dave-busters-was-not-founded-by-dave-chappelle-and-busta-rhymes/ar-AA1mmZCh
+Snippet: There is more than one Dave in the world, people. A 2021 TikTok post claims that the restaurant and bar Dave &amp; <b>Buster</b>&#39;s was founded by none other than comedian Dave Chappelle and rapper Busta Rhymes.
+Title: Dave &amp; Buster’s apologizes for &#39;racist&#39; tweet - Fox News
+Link: https://www.foxnews.com/food-drink/dave-busters-apologizes-for-racist-tweet
+Snippet: Food and gaming chain Dave &amp; <b>Buster’s</b> has had to apologize after sending out a racially-charged tweet to promote #TacoTuesday. On Tuesday, Dave &amp; <b>Busters</b> --which has more than 70 locations in ...
+Title: Dave &amp; Buster’s continues brand transformation - Nation&#39;s Restaurant News
+Link: https://www.nrn.com/casual-dining/dave-buster-s-continues-brand-transformation-same-store-sales-sink-78
+Snippet: Dave &amp; <b>Buster’s</b> continues brand transformation as same-store sales sink 7.8% The eatertainment company is continuing to roll out store remodels, revamp food and beverage menus, and ramp up ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Dave and Buster's lawsuits':
+Title: Dave &amp; Buster&#39;s to pay $275,000 for breaking child labor laws - Boston.com
+Link: https://www.boston.com/news/crime/2023/06/08/dave-busters-child-labor-meal-break-law-violations-andrea-campbell-massachusetts-attorney-general/
+Snippet: 7. Massachusetts Attorney General Andrea Campbell has reached a settlement with Dave &amp; <b>Buster’s</b> in which the company will pay over $275,000 for breaking state child labor and meal break laws ...
+Title: Dave &amp; Buster&#39;s to Pay Over $275,000 to Resolve Allegations of Meal ...
+Link: https://www.mass.gov/news/dave-busters-to-pay-over-275000-to-resolve-allegations-of-meal-break-and-child-labor-violations-in-various-locations
+Snippet: BOSTON — Attorney General Andrea Joy Campbell has announced that her office has reached a settlement with Dave &amp; <b>Buster’s</b>, which includes $275,000 for workers, to resolve meal break and child labor violations. Dave &amp; <b>Buster’s</b> operates three locations in Massachusetts in Braintree, Natick and Woburn. Under the terms of the agreement, Dave &amp; <b>Buster’s</b> of Massachusetts, Inc. will accept ...
+Title: Dave &amp; Buster&#39;s to Pay $275K Over Claims of Meal Break, Child Labor ...
+Link: https://www.insurancejournal.com/news/east/2023/06/12/724780.htm
+Snippet: Massachusetts Attorney General Andrea Joy Campbell’s office has reached a settlement with Dave &amp; <b>Buster’s</b>, which includes $275,000 for workers, to resolve meal break and child labor violations ...
+Title: Dave &amp; Buster’s Hit With Another Lawsuit From Fatal DUI Crash
+Link: https://arizonadailyindependent.com/2022/04/24/dave-busters-hit-with-another-lawsuit-from-fatal-dui-crash/
+Snippet: Three <b>lawsuits</b> have now been filed against the Dave &amp; <b>Buster’s</b> restaurant in Tucson in connection with a wrong-way drunk driving crash last year which injured several people, killed a Sierra Vista boy, and led to first-degree murder charges against the boy’s stepfather. The <b>lawsuits</b> allege Dave &amp; <b>Buster’s</b> breached its duty to the public ...
+Title: Dave &amp; Busters to pay $275,000 to settle Mass. allegations - WCVB Channel 5
+Link: https://www.wcvb.com/article/dave-and-busters-child-labor-meal-break-settlement-massachusetts/44154330
+Snippet: BOSTON —. Dallas-based company Dave &amp; <b>Buster</b>&#39;s will pay to settle allegations of child labor and meal break violations involving more than 800 Massachusetts employees, according to the state ...
+Title: Dave &amp; Buster&#39;s to pay $275K in labor violations ... - NBC Boston
+Link: https://www.nbcboston.com/news/local/dave-busters-to-pay-275k-in-labor-violations-settlement-mass-ag-says/3064067/
+Snippet: Dave &amp; <b>Buster’s</b> is being cited for breaking Massachusetts labor laws surrounding meal breaks and child labor. The company will pay $275,000 in a settlement, the Massachusetts Attorney General’s Office said Thursday. Attorney General Andrea Joy Campbell said Dave &amp; <b>Buster’s</b> of Massachusetts, which has three locations in Braintree, Natick and Woburn, will accept three citations from her ...
+Title: Dave &amp; Buster&#39;s Agrees to $2.1 Million Wage and Hour Settlement
+Link: https://topclassactions.com/lawsuit-settlements/lawsuit-news/dave-busters-agrees-2-1-million-wage-hour-settlement/
+Snippet: Popular arcade restaurant chain Dave &amp; <b>Buster’s</b> is facing a potential wage and hour class action <b>lawsuit</b> from a class of servers who allege the chain denied them breaks and did not pay minimum wage. The servers have recently asked a federal judge to approve a $2.1 million settlement, stating the deal was “fair and reasonable.”.
+Title: Dave &amp; Buster’s Demonstrates Importance of Complying With the ACA
+Link: https://acatimes.com/dave-busters-demonstrates-importance-of-complying-with-the-aca/
+Snippet: Dave &amp; <b>Buster’s</b>, Inc., the class action <b>lawsuit</b> filed in federal courts in New York’s Southern District against the entertainment and restaurant chain is finally over. The judge in the case approved a proposed $7.425 million monetary settlement with injunctive relief in June of 2019. The settlement is substantially similar to the one ...
+Title: Dave &amp; Buster’s Revises $7.4M Settlement in Worker Hour Spat
+Link: https://news.bloomberglaw.com/employee-benefits/dave-busters-revises-74m-settlement-in-worker-hour-spat
+Snippet: Dave &amp; <b>Buster’s</b> Inc. again sought court approval for a $7.425 million settlement in a <b>lawsuit</b> claiming the restaurant and entertainment chain reduced employees’ hours to deprive them of health-care benefits. The proposed deal comes nearly a year after Judge Alvin K. Hellerstein of the U.S. District Court for the Southern District of New ...
+Title: Dave &amp; Buster’s to pay $275,000 in penalties for child labor, meal ...
+Link: https://www.bostonglobe.com/2023/06/08/metro/dave-busters-pay-275000-penalties-child-labor-violations-ag-campbell-announces/
+Snippet: Dave &amp; <b>Buster’s</b>, a Texas-based arcade and restaurant chain, violated state labor laws by overworking minors, employing minors without work permits, and failing to provide required meal breaks ...
+Remi: Results for 'Dave and Buster's lawsuits':
+Title: Dave &amp; Buster&#39;s to pay $275,000 for breaking child labor laws - Boston.com
+Link: https://www.boston.com/news/crime/2023/06/08/dave-busters-child-labor-meal-break-law-violations-andrea-campbell-massachusetts-attorney-general/
+Snippet: 7. Massachusetts Attorney General Andrea Campbell has reached a settlement with Dave &amp; <b>Buster’s</b> in which the company will pay over $275,000 for breaking state child labor and meal break laws ...
+Title: Dave &amp; Buster&#39;s to Pay Over $275,000 to Resolve Allegations of Meal ...
+Link: https://www.mass.gov/news/dave-busters-to-pay-over-275000-to-resolve-allegations-of-meal-break-and-child-labor-violations-in-various-locations
+Snippet: BOSTON — Attorney General Andrea Joy Campbell has announced that her office has reached a settlement with Dave &amp; <b>Buster’s</b>, which includes $275,000 for workers, to resolve meal break and child labor violations. Dave &amp; <b>Buster’s</b> operates three locations in Massachusetts in Braintree, Natick and Woburn. Under the terms of the agreement, Dave &amp; <b>Buster’s</b> of Massachusetts, Inc. will accept ...
+Title: Dave &amp; Buster&#39;s to Pay $275K Over Claims of Meal Break, Child Labor ...
+Link: https://www.insurancejournal.com/news/east/2023/06/12/724780.htm
+Snippet: Massachusetts Attorney General Andrea Joy Campbell’s office has reached a settlement with Dave &amp; <b>Buster’s</b>, which includes $275,000 for workers, to resolve meal break and child labor violations ...
+Title: Dave &amp; Buster’s Hit With Another Lawsuit From Fatal DUI Crash
+Link: https://arizonadailyindependent.com/2022/04/24/dave-busters-hit-with-another-lawsuit-from-fatal-dui-crash/
+Snippet: Three <b>lawsuits</b> have now been filed against the Dave &amp; <b>Buster’s</b> restaurant in Tucson in connection with a wrong-way drunk driving crash last year which injured several people, killed a Sierra Vista boy, and led to first-degree murder charges against the boy’s stepfather. The <b>lawsuits</b> allege Dave &amp; <b>Buster’s</b> breached its duty to the public ...
+Title: Dave &amp; Busters to pay $275,000 to settle Mass. allegations - WCVB Channel 5
+Link: https://www.wcvb.com/article/dave-and-busters-child-labor-meal-break-settlement-massachusetts/44154330
+Snippet: BOSTON —. Dallas-based company Dave &amp; <b>Buster</b>&#39;s will pay to settle allegations of child labor and meal break violations involving more than 800 Massachusetts employees, according to the state ...
+Title: Dave &amp; Buster&#39;s to pay $275K in labor violations ... - NBC Boston
+Link: https://www.nbcboston.com/news/local/dave-busters-to-pay-275k-in-labor-violations-settlement-mass-ag-says/3064067/
+Snippet: Dave &amp; <b>Buster’s</b> is being cited for breaking Massachusetts labor laws surrounding meal breaks and child labor. The company will pay $275,000 in a settlement, the Massachusetts Attorney General’s Office said Thursday. Attorney General Andrea Joy Campbell said Dave &amp; <b>Buster’s</b> of Massachusetts, which has three locations in Braintree, Natick and Woburn, will accept three citations from her ...
+Title: Dave &amp; Buster&#39;s Agrees to $2.1 Million Wage and Hour Settlement
+Link: https://topclassactions.com/lawsuit-settlements/lawsuit-news/dave-busters-agrees-2-1-million-wage-hour-settlement/
+Snippet: Popular arcade restaurant chain Dave &amp; <b>Buster’s</b> is facing a potential wage and hour class action <b>lawsuit</b> from a class of servers who allege the chain denied them breaks and did not pay minimum wage. The servers have recently asked a federal judge to approve a $2.1 million settlement, stating the deal was “fair and reasonable.”.
+Title: Dave &amp; Buster’s Demonstrates Importance of Complying With the ACA
+Link: https://acatimes.com/dave-busters-demonstrates-importance-of-complying-with-the-aca/
+Snippet: Dave &amp; <b>Buster’s</b>, Inc., the class action <b>lawsuit</b> filed in federal courts in New York’s Southern District against the entertainment and restaurant chain is finally over. The judge in the case approved a proposed $7.425 million monetary settlement with injunctive relief in June of 2019. The settlement is substantially similar to the one ...
+Title: Dave &amp; Buster’s Revises $7.4M Settlement in Worker Hour Spat
+Link: https://news.bloomberglaw.com/employee-benefits/dave-busters-revises-74m-settlement-in-worker-hour-spat
+Snippet: Dave &amp; <b>Buster’s</b> Inc. again sought court approval for a $7.425 million settlement in a <b>lawsuit</b> claiming the restaurant and entertainment chain reduced employees’ hours to deprive them of health-care benefits. The proposed deal comes nearly a year after Judge Alvin K. Hellerstein of the U.S. District Court for the Southern District of New ...
+Title: Dave &amp; Buster’s to pay $275,000 in penalties for child labor, meal ...
+Link: https://www.bostonglobe.com/2023/06/08/metro/dave-busters-pay-275000-penalties-child-labor-violations-ag-campbell-announces/
+Snippet: Dave &amp; <b>Buster’s</b>, a Texas-based arcade and restaurant chain, violated state labor laws by overworking minors, employing minors without work permits, and failing to provide required meal breaks ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Dave and Buster's labor relations news':
+Title: Dave &amp; Buster&#39;s cited for child labor, meal break violations
+Link: https://www.cbsnews.com/boston/news/dave-busters-child-labor-worker-violations/
+Snippet: <b>Dave</b> &amp; <b>Busters</b> agrees to $275,000 settlement for <b>labor</b> law violations 00:32. BOSTON - <b>Dave</b> &amp; <b>Buster&#39;s</b> has agreed to pay more than $275,000 after being cited by Massachusetts Attorney General ...
+Title: Press Releases | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/news-events/press-releases
+Snippet: <b>Dave</b> &amp; <b>Buster’s</b> Entertainment, Inc. to Report Fourth Quarter and Fiscal Year End 2023 Financial Results on April 2, 2024. March 19, 2024.
+Title: Dave &amp; Buster’s Reports First Quarter 2024 Financial Results ...
+Link: https://ir.daveandbusters.com/news-releases/news-release-details/dave-busters-reports-first-quarter-2024-financial-results
+Snippet: DALLAS, June 12, 2024 (GLOBE NEWSWIRE) -- <b>Dave</b> &amp; <b>Buster&#39;s</b> Entertainment, Inc., (NASDAQ: PLAY), (&quot;<b>Dave</b> &amp; <b>Buster&#39;s</b>&quot; or &quot;the Company&quot;), an owner and operator of entertainment and dining venues, today announced financial results for its first quarter ended May 5, 2024.. Key First Quarter 2024 Highlights. First quarter revenue of $588.1 million decreased 1.5% from the first quarter of 2023.
+Title: <b>Dave</b> &amp; <b>Buster&#39;s</b> to pay $275,000 for breaking child <b>labor</b> laws - <b>Boston.com</b>
+Link: https://www.boston.com/news/crime/2023/06/08/dave-busters-child-labor-meal-break-law-violations-andrea-campbell-massachusetts-attorney-general/
+Snippet: June 8, 2023. 7. Massachusetts Attorney General Andrea Campbell has reached a settlement with <b>Dave</b> &amp; <b>Buster’s</b> in which the company will pay over $275,000 for breaking state child <b>labor</b> and meal ...
+Title: <b>Dave</b> &amp; <b>Buster’s</b> to pay $275K over meal break, child <b>labor</b> violations at ...
+Link: https://news.yahoo.com/dave-buster-pay-275k-over-160555191.html
+Snippet: June 9, 2023 · 1 min read. <b>Dave</b> &amp; <b>Buster’s</b> has agreed to pay $275,000 to workers to resolve allegations of meal break and child <b>labor</b> violations, Massachusetts Attorney General Andrea Joy Campbell announced Thursday. The chain, which operates locations in Braintree, Natick, and Woburn, will accept three citations for violating state law by ...
+Title: Investor Relations | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/
+Snippet: <b>Dave</b> &amp; <b>Buster’s</b> Entertainment, Inc. owns and operates over 200 venues in North America that offer premier entertainment and dining experiences to guests through two distinct brands: <b>Dave</b> &amp; <b>Buster’s</b> and Main Event. Combined, we embody two of the strongest brands in the industry, creating a leading platform in the rapidly growing experiential ...
+Title: Dave &amp; Buster&#39;s Reports Fourth Quarter and Fiscal Year End 2023 ...
+Link: https://finance.yahoo.com/news/dave-busters-reports-fourth-quarter-200500470.html
+Snippet: Adjusted EBITDA of $151.8 million, or 25.3% of revenue, in the quarter increased 9.7% from the fourth quarter of 2022. The 14 th week in the fourth quarter, also the 53 rd week in the fiscal year ...
+Title: <b>Dave</b> &amp; <b>Buster&#39;s</b> to Pay Over $275,000 to Resolve Allegations of Meal ...
+Link: https://www.mass.gov/news/dave-busters-to-pay-over-275000-to-resolve-allegations-of-meal-break-and-child-labor-violations-in-various-locations
+Snippet: BOSTON — Attorney General Andrea Joy Campbell has announced that her office has reached a settlement with <b>Dave</b> &amp; <b>Buster’s</b>, which includes $275,000 for workers, to resolve meal break and child <b>labor</b> violations. <b>Dave</b> &amp; <b>Buster’s</b> operates three locations in Massachusetts in Braintree, Natick and Woburn. Under the terms of the agreement, <b>Dave</b> &amp; <b>Buster’s</b> of Massachusetts, Inc. will accept ...
+Title: Dave &amp; Buster’s Announces Acquisition of Main Event for $835 Million ...
+Link: https://finance.yahoo.com/news/dave-buster-announces-acquisition-main-103000157.html
+Snippet: DALLAS, April 06, 2022 (GLOBE NEWSWIRE) -- <b>Dave</b> &amp; <b>Buster&#39;s</b> Entertainment, Inc., (NASDAQ:PLAY), (&quot;<b>Dave</b> &amp; <b>Buster&#39;s</b>&quot; or &quot;the Company&quot;), an owner and operator of entertainment and dining venues, today ...
+Title: <b>Dave</b> &amp; <b>Buster&#39;s</b> to Pay $275K Over Claims of Meal Break, Child <b>Labor</b> ...
+Link: https://www.insurancejournal.com/news/east/2023/06/12/724780.htm
+Snippet: Massachusetts Attorney General Andrea Joy Campbell’s office has reached a settlement with <b>Dave</b> &amp; <b>Buster’s</b>, which includes $275,000 for workers, to resolve meal break and child <b>labor</b> violations ...
+Remi: Results for 'Dave and Buster's labor relations news':
+Title: Dave &amp; Buster&#39;s cited for child labor, meal break violations
+Link: https://www.cbsnews.com/boston/news/dave-busters-child-labor-worker-violations/
+Snippet: <b>Dave</b> &amp; <b>Busters</b> agrees to $275,000 settlement for <b>labor</b> law violations 00:32. BOSTON - <b>Dave</b> &amp; <b>Buster&#39;s</b> has agreed to pay more than $275,000 after being cited by Massachusetts Attorney General ...
+Title: Press Releases | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/news-events/press-releases
+Snippet: <b>Dave</b> &amp; <b>Buster’s</b> Entertainment, Inc. to Report Fourth Quarter and Fiscal Year End 2023 Financial Results on April 2, 2024. March 19, 2024.
+Title: Dave &amp; Buster’s Reports First Quarter 2024 Financial Results ...
+Link: https://ir.daveandbusters.com/news-releases/news-release-details/dave-busters-reports-first-quarter-2024-financial-results
+Snippet: DALLAS, June 12, 2024 (GLOBE NEWSWIRE) -- <b>Dave</b> &amp; <b>Buster&#39;s</b> Entertainment, Inc., (NASDAQ: PLAY), (&quot;<b>Dave</b> &amp; <b>Buster&#39;s</b>&quot; or &quot;the Company&quot;), an owner and operator of entertainment and dining venues, today announced financial results for its first quarter ended May 5, 2024.. Key First Quarter 2024 Highlights. First quarter revenue of $588.1 million decreased 1.5% from the first quarter of 2023.
+Title: <b>Dave</b> &amp; <b>Buster&#39;s</b> to pay $275,000 for breaking child <b>labor</b> laws - <b>Boston.com</b>
+Link: https://www.boston.com/news/crime/2023/06/08/dave-busters-child-labor-meal-break-law-violations-andrea-campbell-massachusetts-attorney-general/
+Snippet: June 8, 2023. 7. Massachusetts Attorney General Andrea Campbell has reached a settlement with <b>Dave</b> &amp; <b>Buster’s</b> in which the company will pay over $275,000 for breaking state child <b>labor</b> and meal ...
+Title: <b>Dave</b> &amp; <b>Buster’s</b> to pay $275K over meal break, child <b>labor</b> violations at ...
+Link: https://news.yahoo.com/dave-buster-pay-275k-over-160555191.html
+Snippet: June 9, 2023 · 1 min read. <b>Dave</b> &amp; <b>Buster’s</b> has agreed to pay $275,000 to workers to resolve allegations of meal break and child <b>labor</b> violations, Massachusetts Attorney General Andrea Joy Campbell announced Thursday. The chain, which operates locations in Braintree, Natick, and Woburn, will accept three citations for violating state law by ...
+Title: Investor Relations | Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/
+Snippet: <b>Dave</b> &amp; <b>Buster’s</b> Entertainment, Inc. owns and operates over 200 venues in North America that offer premier entertainment and dining experiences to guests through two distinct brands: <b>Dave</b> &amp; <b>Buster’s</b> and Main Event. Combined, we embody two of the strongest brands in the industry, creating a leading platform in the rapidly growing experiential ...
+Title: Dave &amp; Buster&#39;s Reports Fourth Quarter and Fiscal Year End 2023 ...
+Link: https://finance.yahoo.com/news/dave-busters-reports-fourth-quarter-200500470.html
+Snippet: Adjusted EBITDA of $151.8 million, or 25.3% of revenue, in the quarter increased 9.7% from the fourth quarter of 2022. The 14 th week in the fourth quarter, also the 53 rd week in the fiscal year ...
+Title: <b>Dave</b> &amp; <b>Buster&#39;s</b> to Pay Over $275,000 to Resolve Allegations of Meal ...
+Link: https://www.mass.gov/news/dave-busters-to-pay-over-275000-to-resolve-allegations-of-meal-break-and-child-labor-violations-in-various-locations
+Snippet: BOSTON — Attorney General Andrea Joy Campbell has announced that her office has reached a settlement with <b>Dave</b> &amp; <b>Buster’s</b>, which includes $275,000 for workers, to resolve meal break and child <b>labor</b> violations. <b>Dave</b> &amp; <b>Buster’s</b> operates three locations in Massachusetts in Braintree, Natick and Woburn. Under the terms of the agreement, <b>Dave</b> &amp; <b>Buster’s</b> of Massachusetts, Inc. will accept ...
+Title: Dave &amp; Buster’s Announces Acquisition of Main Event for $835 Million ...
+Link: https://finance.yahoo.com/news/dave-buster-announces-acquisition-main-103000157.html
+Snippet: DALLAS, April 06, 2022 (GLOBE NEWSWIRE) -- <b>Dave</b> &amp; <b>Buster&#39;s</b> Entertainment, Inc., (NASDAQ:PLAY), (&quot;<b>Dave</b> &amp; <b>Buster&#39;s</b>&quot; or &quot;the Company&quot;), an owner and operator of entertainment and dining venues, today ...
+Title: <b>Dave</b> &amp; <b>Buster&#39;s</b> to Pay $275K Over Claims of Meal Break, Child <b>Labor</b> ...
+Link: https://www.insurancejournal.com/news/east/2023/06/12/724780.htm
+Snippet: Massachusetts Attorney General Andrea Joy Campbell’s office has reached a settlement with <b>Dave</b> &amp; <b>Buster’s</b>, which includes $275,000 for workers, to resolve meal break and child <b>labor</b> violations ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Dave and Buster's HR policies':
+Title: Table of Contents - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/static-files/68a86d86-d424-4841-bbe1-9b0218e77477
+Snippet: 2.1 Our Shared Responsibility. This Code of Business Conduct and Ethics – sometimes referred to below as the “Code” – applies to everyone who works for Dave &amp; <b>Buster’s</b> Entertainment, Inc. or any of its subsidiaries or affiliates (collectively, the “Company,” “Dave &amp; <b>Buster’s</b>,” or “D&amp;B”). Each team member – including ...
+Title: Table of Contents - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/static-files/a698b00c-5b3f-4585-ade7-17689ed43e0b
+Snippet: While we are all about fun here at Dave &amp; <b>Buster’s</b>, he <b>policies</b> that t are set out in this Codeaim to help everyone have fun together. Following them will help us include everyone in the fun, and they will ... • through your designated <b>Human Resources</b> epresentative or through the <b>Human Resources</b> R Hotline (1-800-362-2515);
+PDF Link: https://www.daveandbusters.com/content/dam/dave-and-busters/english/pdfs/Rules%20of%20Play%20--%20Our%20Human%20Rights%20Policy%204.13.23.pdf.coredownload.inline.pdf
+Title: Contact Us - Dave &amp; Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/contact
+Snippet: For general inquiries, please fill out the form below or you can call us at 888-300-1515 , Monday-Sunday from 8AM-7PM CST. This is not the appropriate place for donation requests. Please contact your local store. Location. Subject.
+Title: Careers at Dave and Buster&#39;s. Start your careeer journey today
+Link: https://www.daveandbusters.com/us/en/careers/
+Snippet: Dave &amp; <b>Buster’s</b> offers an attractive benefits package for many positions, including medical, dental, vision, 401K and more. Diversity &amp; Inclusion As an equal opportunity employer, Dave &amp; <b>Buster’s</b> is dedicated to our <b>policy</b> of nondiscrimination in all aspects of employment, and we comply with all Federal, State and Local laws regarding ...
+Title: Corporate Governance Guidelines - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/static-files/c5135f24-00fb-4e93-b111-41a0449b8fef
+Snippet: Corporate Governance Guidelines and Principles. (Updated April 14, 2022) These Corporate Governance Guidelines and Principles were adopted by the Board of Directors (the “Board”) of Dave &amp; <b>Buster’s</b> Entertainment, Inc. (the “Company”). These Corporate Governance Guidelines and Principles are intended as a component of the flexible ...
+Title: Dave &amp; Buster&#39;s: Employee Benefits and Perks - Glassdoor
+Link: https://www.glassdoor.com/Benefits/Dave-and-Buster-s-US-Benefits-EI_IE4317.0,17_IL.18,20_IN1.htm
+Snippet: Which benefits does Dave &amp; <b>Buster</b>&#39;s provide? Current and former employees report that Dave &amp; <b>Buster</b>&#39;s provides the following benefits. It may not be complete. Insurance, Health &amp; Wellness Financial &amp; Retirement Family &amp; Parenting Vacation &amp; Time Off Perks &amp; Discounts Professional Support.
+Title: How Dave &amp; Buster’s Modernized its Workforce Management Experience
+Link: https://www.fsrmagazine.com/feature/how-dave-busters-modernized-its-workforce-management-experience/
+Snippet: Therefore, investing in foundational workforce management tools is critical to ensure long-term, human-oriented success. Eatertainment giant Dave &amp; <b>Buster’s</b> has made impressive strides in its journey to optimize employee engagement and productivity across its 110 restaurant locations by launching a modernized workforce management experience.
+Title: Dave &amp; Buster&#39;s Careers and Employment | Indeed.com
+Link: https://www.indeed.com/cmp/Dave-&-Buster's
+Snippet: Find out what works well at Dave <b>&amp; Buster</b>&#39;s from the people who know best. Get the inside scoop on jobs, salaries, top office locations, and CEO insights. ... <b>Human Resources</b> Business Partner - REMOTE - Northeast. United States. $63,840 - $85,120 a year. 30+ days ago. ... Explore parental leave <b>policies</b> and other benefits, company culture and ...
+Title: Dave &amp; Buster&#39;s Benefits - Comparably
+Link: https://www.comparably.com/companies/dave-busters/perks-and-benefits
+Snippet: Dave &amp; <b>Buster</b>&#39;s Benefits. Dave &amp; <b>Buster</b>&#39;s Benefits include 401K / Retirement Plan, Vision Insurance, and PTO / Vacation <b>Policy</b>, along with 8 other unique benefits in categories such as Health &amp; Wellness and Financial Benefits. Employees score their Perks And Benefits an average of 47/100. Last updated 15 days ago.
+Remi: Results for 'Dave and Buster's HR policies':
+Title: Table of Contents - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/static-files/68a86d86-d424-4841-bbe1-9b0218e77477
+Snippet: 2.1 Our Shared Responsibility. This Code of Business Conduct and Ethics – sometimes referred to below as the “Code” – applies to everyone who works for Dave &amp; <b>Buster’s</b> Entertainment, Inc. or any of its subsidiaries or affiliates (collectively, the “Company,” “Dave &amp; <b>Buster’s</b>,” or “D&amp;B”). Each team member – including ...
+Title: Table of Contents - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/static-files/a698b00c-5b3f-4585-ade7-17689ed43e0b
+Snippet: While we are all about fun here at Dave &amp; <b>Buster’s</b>, he <b>policies</b> that t are set out in this Codeaim to help everyone have fun together. Following them will help us include everyone in the fun, and they will ... • through your designated <b>Human Resources</b> epresentative or through the <b>Human Resources</b> R Hotline (1-800-362-2515);
+PDF Link: https://www.daveandbusters.com/content/dam/dave-and-busters/english/pdfs/Rules%20of%20Play%20--%20Our%20Human%20Rights%20Policy%204.13.23.pdf.coredownload.inline.pdf
+Title: Contact Us - Dave &amp; Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/contact
+Snippet: For general inquiries, please fill out the form below or you can call us at 888-300-1515 , Monday-Sunday from 8AM-7PM CST. This is not the appropriate place for donation requests. Please contact your local store. Location. Subject.
+Title: Careers at Dave and Buster&#39;s. Start your careeer journey today
+Link: https://www.daveandbusters.com/us/en/careers/
+Snippet: Dave &amp; <b>Buster’s</b> offers an attractive benefits package for many positions, including medical, dental, vision, 401K and more. Diversity &amp; Inclusion As an equal opportunity employer, Dave &amp; <b>Buster’s</b> is dedicated to our <b>policy</b> of nondiscrimination in all aspects of employment, and we comply with all Federal, State and Local laws regarding ...
+Title: Corporate Governance Guidelines - Dave &amp; Buster&#39;s Entertainment, Inc.
+Link: https://ir.daveandbusters.com/static-files/c5135f24-00fb-4e93-b111-41a0449b8fef
+Snippet: Corporate Governance Guidelines and Principles. (Updated April 14, 2022) These Corporate Governance Guidelines and Principles were adopted by the Board of Directors (the “Board”) of Dave &amp; <b>Buster’s</b> Entertainment, Inc. (the “Company”). These Corporate Governance Guidelines and Principles are intended as a component of the flexible ...
+Title: Dave &amp; Buster&#39;s: Employee Benefits and Perks - Glassdoor
+Link: https://www.glassdoor.com/Benefits/Dave-and-Buster-s-US-Benefits-EI_IE4317.0,17_IL.18,20_IN1.htm
+Snippet: Which benefits does Dave &amp; <b>Buster</b>&#39;s provide? Current and former employees report that Dave &amp; <b>Buster</b>&#39;s provides the following benefits. It may not be complete. Insurance, Health &amp; Wellness Financial &amp; Retirement Family &amp; Parenting Vacation &amp; Time Off Perks &amp; Discounts Professional Support.
+Title: How Dave &amp; Buster’s Modernized its Workforce Management Experience
+Link: https://www.fsrmagazine.com/feature/how-dave-busters-modernized-its-workforce-management-experience/
+Snippet: Therefore, investing in foundational workforce management tools is critical to ensure long-term, human-oriented success. Eatertainment giant Dave &amp; <b>Buster’s</b> has made impressive strides in its journey to optimize employee engagement and productivity across its 110 restaurant locations by launching a modernized workforce management experience.
+Title: Dave &amp; Buster&#39;s Careers and Employment | Indeed.com
+Link: https://www.indeed.com/cmp/Dave-&-Buster's
+Snippet: Find out what works well at Dave <b>&amp; Buster</b>&#39;s from the people who know best. Get the inside scoop on jobs, salaries, top office locations, and CEO insights. ... <b>Human Resources</b> Business Partner - REMOTE - Northeast. United States. $63,840 - $85,120 a year. 30+ days ago. ... Explore parental leave <b>policies</b> and other benefits, company culture and ...
+Title: Dave &amp; Buster&#39;s Benefits - Comparably
+Link: https://www.comparably.com/companies/dave-busters/perks-and-benefits
+Snippet: Dave &amp; <b>Buster</b>&#39;s Benefits. Dave &amp; <b>Buster</b>&#39;s Benefits include 401K / Retirement Plan, Vision Insurance, and PTO / Vacation <b>Policy</b>, along with 8 other unique benefits in categories such as Health &amp; Wellness and Financial Benefits. Employees score their Perks And Benefits an average of 47/100. Last updated 15 days ago.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Dave and Buster's competitors':
+Title: 21 Places Like Dave &amp; Buster’s (Level Up Your Entertainment)
+Link: https://www.triptivy.com/places-like-dave-busters/
+Snippet: Much like Dave &amp; <b>Buster’s</b>, this diverse array of games creates an engaging environment where guests can enjoy friendly <b>competition</b>, win prizes, and have a blast with friends and family. One of the highlights of “The Zone” is its emphasis on family-friendly activities, making it an ideal spot for visitors of all ages.
+Title: Top 3 Dave &amp; Buster Competitors, Alternatives &amp; Similar Companies in 2024
+Link: https://whatcompetitors.com/dave-busters-competitors-alternatives/
+Snippet: Dave &amp; <b>Buster’s</b> owns and operates entertainment and restaurant facilities for adults and families. Dave &amp; <b>Buster’s</b> headquarters are in Dallas, Texas. Dave &amp; <b>Buster’s</b> revenue is $512.5 million and employs 16,098 people. Dave &amp; <b>Buster’s</b> total revenue is $894.1 million. Dave &amp; <b>Buster’s</b> main <b>competitors</b> are Topgolf, Main Event and Buffalo ...
+Title: 19 Places Like Dave &amp; Buster’s For A Fun Experience - HopDes
+Link: https://hopdes.com/exclusives/places-like-dave-busters/
+Snippet: Scene75 is a great alternative to venues like Dave &amp; <b>Buster’s</b>, and they have locations in both Ohio and Pennsylvania. Scene75 has a wide variety of attractions, including a big arcade, go-karts, mini-golf, laser tag, and bumper cars. This is a great place to take the kids since there is fun for everyone.
+Title: Dave &amp; Buster&#39;s Entertainment: Business Model, SWOT Analysis, and ...
+Link: https://pitchgrade.com/companies/dave-and-busters-entertainment
+Snippet: Dave &amp; <b>Buster</b>&#39;s Entertainment faces <b>competition</b> from several companies in the entertainment and dining industry. The main <b>competitors</b> include: Chuck E. Cheese&#39;s : With over 600 locations, Chuck E. Cheese&#39;s offers a similar concept of combining food, games, and entertainment for families and children.
+Title: 12 Entertainment Venues That are similar to Dave and Buster’s
+Link: https://maryumblog.com/places-similar-to-dave-and-busters/
+Snippet: Some places like Dave <b>and Buster’s</b> include Main Event Entertainment. Additionally, Round1 Bowling &amp; Amusement, Topgolf, GameWorks, Lucky Strike, Bowlero, Punch Bowl Social, Tilt Studio, Apex Entertainment, The Zone, Kingpin Social, and GameTime. Explore 12 places like Dave <b>and Buster’s</b>. What kind of games can I expect to find at places like ...
+Title: Dave &amp; Buster&#39;s Competitors and Alternatives - Owler
+Link: https://www.owler.com/company/daveandbusters/competitors
+Snippet: View Profile. Dave &amp; <b>Buster</b>&#39;s&#39; top 15 <b>competitors</b> are McDonald&#39;s, Starbucks, Chipotle, Buffalo Wild Wings, Cheesecake Factory, Chili&#39;s, Olive Garden, Punch Bowl, Applebee&#39;s, CPK, Yard House, Wood Ranch, Jacksplace, BJ&#39;s Restaurants and Brinker. Together they have raised over 7.0B between their estimated 889.0K employees.
+Title: 21 Places Like Dave And Busters For You To Have Fun
+Link: https://medium.com/@soloyatra/21-places-like-dave-and-busters-for-you-to-have-fun-c890399b2d3e
+Snippet: Places Like Dave <b>And Busters</b> In California. 1. Tilt Studio (Burbank) — Retro arcade and bar. 2. Golfland Sunsplash (Roseville) — Arcade, water park, mini golf. 3. Scandia Fun Center (multiple ...
+Title: Top 10 Entertaining Places like Dave and Busters - Nevto
+Link: https://nevto.com/top-10-places-like-dave-and-busters/
+Snippet: With locations spanning 20 states, odds are good there’s one not too far from you. 2. Round1 Bowling &amp; Amusement. Another contender among places like Dave <b>and Busters</b> is Round1 Bowling &amp; Amusement. As you might guess from the name, it specializes in bowling but also houses arcade games, billiards, karaoke, and sports simulators under one roof.
+Title: The 20 Best Alternatives to Dave &amp; Buster&#39;s
+Link: https://daveandbusters.knoji.com/alternatives/
+Snippet: We&#39;ve researched the 27 top alternatives to Dave &amp; <b>Buster</b>&#39;s and summarized the best options here in this Dave &amp; <b>Buster</b>&#39;s <b>competitors</b> grid. Find Dave &amp; <b>Busters</b>&#39; <b>competitors</b>, compare Dave &amp; <b>Busters</b>&#39; features and pricing vs. other bars brands and stores. Get the low-down on alternatives to Dave &amp; <b>Buster</b>&#39;s in the bar product space before you make a ...
+Title: Dave &amp; Buster’s competitors and alternatives - Tracxn
+Link: https://tracxn.com/d/companies/dave-busters/__AIbH5BgVArVVGEg69CxyCTWVfd4bkpX7_rHuhiYR-R4/competitors
+Snippet: The BabyApp - Sweden based, 2017 founded, Unfunded company. Pawn Mate PRO - Houston based, 2023 founded, Unfunded company. Gymish - Redford based, 2019 founded, Unfunded company. FarmWise - Salinas based, 2016 founded, Series A company. Dave &amp; <b>Buster’s</b> has 273 active <b>competitors</b>. <b>Competitors</b> include BrewDog, Granite City Food and Brewery.
+Remi: Results for 'Dave and Buster's competitors':
+Title: 21 Places Like Dave &amp; Buster’s (Level Up Your Entertainment)
+Link: https://www.triptivy.com/places-like-dave-busters/
+Snippet: Much like Dave &amp; <b>Buster’s</b>, this diverse array of games creates an engaging environment where guests can enjoy friendly <b>competition</b>, win prizes, and have a blast with friends and family. One of the highlights of “The Zone” is its emphasis on family-friendly activities, making it an ideal spot for visitors of all ages.
+Title: Top 3 Dave &amp; Buster Competitors, Alternatives &amp; Similar Companies in 2024
+Link: https://whatcompetitors.com/dave-busters-competitors-alternatives/
+Snippet: Dave &amp; <b>Buster’s</b> owns and operates entertainment and restaurant facilities for adults and families. Dave &amp; <b>Buster’s</b> headquarters are in Dallas, Texas. Dave &amp; <b>Buster’s</b> revenue is $512.5 million and employs 16,098 people. Dave &amp; <b>Buster’s</b> total revenue is $894.1 million. Dave &amp; <b>Buster’s</b> main <b>competitors</b> are Topgolf, Main Event and Buffalo ...
+Title: 19 Places Like Dave &amp; Buster’s For A Fun Experience - HopDes
+Link: https://hopdes.com/exclusives/places-like-dave-busters/
+Snippet: Scene75 is a great alternative to venues like Dave &amp; <b>Buster’s</b>, and they have locations in both Ohio and Pennsylvania. Scene75 has a wide variety of attractions, including a big arcade, go-karts, mini-golf, laser tag, and bumper cars. This is a great place to take the kids since there is fun for everyone.
+Title: Dave &amp; Buster&#39;s Entertainment: Business Model, SWOT Analysis, and ...
+Link: https://pitchgrade.com/companies/dave-and-busters-entertainment
+Snippet: Dave &amp; <b>Buster</b>&#39;s Entertainment faces <b>competition</b> from several companies in the entertainment and dining industry. The main <b>competitors</b> include: Chuck E. Cheese&#39;s : With over 600 locations, Chuck E. Cheese&#39;s offers a similar concept of combining food, games, and entertainment for families and children.
+Title: 12 Entertainment Venues That are similar to Dave and Buster’s
+Link: https://maryumblog.com/places-similar-to-dave-and-busters/
+Snippet: Some places like Dave <b>and Buster’s</b> include Main Event Entertainment. Additionally, Round1 Bowling &amp; Amusement, Topgolf, GameWorks, Lucky Strike, Bowlero, Punch Bowl Social, Tilt Studio, Apex Entertainment, The Zone, Kingpin Social, and GameTime. Explore 12 places like Dave <b>and Buster’s</b>. What kind of games can I expect to find at places like ...
+Title: Dave &amp; Buster&#39;s Competitors and Alternatives - Owler
+Link: https://www.owler.com/company/daveandbusters/competitors
+Snippet: View Profile. Dave &amp; <b>Buster</b>&#39;s&#39; top 15 <b>competitors</b> are McDonald&#39;s, Starbucks, Chipotle, Buffalo Wild Wings, Cheesecake Factory, Chili&#39;s, Olive Garden, Punch Bowl, Applebee&#39;s, CPK, Yard House, Wood Ranch, Jacksplace, BJ&#39;s Restaurants and Brinker. Together they have raised over 7.0B between their estimated 889.0K employees.
+Title: 21 Places Like Dave And Busters For You To Have Fun
+Link: https://medium.com/@soloyatra/21-places-like-dave-and-busters-for-you-to-have-fun-c890399b2d3e
+Snippet: Places Like Dave <b>And Busters</b> In California. 1. Tilt Studio (Burbank) — Retro arcade and bar. 2. Golfland Sunsplash (Roseville) — Arcade, water park, mini golf. 3. Scandia Fun Center (multiple ...
+Title: Top 10 Entertaining Places like Dave and Busters - Nevto
+Link: https://nevto.com/top-10-places-like-dave-and-busters/
+Snippet: With locations spanning 20 states, odds are good there’s one not too far from you. 2. Round1 Bowling &amp; Amusement. Another contender among places like Dave <b>and Busters</b> is Round1 Bowling &amp; Amusement. As you might guess from the name, it specializes in bowling but also houses arcade games, billiards, karaoke, and sports simulators under one roof.
+Title: The 20 Best Alternatives to Dave &amp; Buster&#39;s
+Link: https://daveandbusters.knoji.com/alternatives/
+Snippet: We&#39;ve researched the 27 top alternatives to Dave &amp; <b>Buster</b>&#39;s and summarized the best options here in this Dave &amp; <b>Buster</b>&#39;s <b>competitors</b> grid. Find Dave &amp; <b>Busters</b>&#39; <b>competitors</b>, compare Dave &amp; <b>Busters</b>&#39; features and pricing vs. other bars brands and stores. Get the low-down on alternatives to Dave &amp; <b>Buster</b>&#39;s in the bar product space before you make a ...
+Title: Dave &amp; Buster’s competitors and alternatives - Tracxn
+Link: https://tracxn.com/d/companies/dave-busters/__AIbH5BgVArVVGEg69CxyCTWVfd4bkpX7_rHuhiYR-R4/competitors
+Snippet: The BabyApp - Sweden based, 2017 founded, Unfunded company. Pawn Mate PRO - Houston based, 2023 founded, Unfunded company. Gymish - Redford based, 2019 founded, Unfunded company. FarmWise - Salinas based, 2016 founded, Series A company. Dave &amp; <b>Buster’s</b> has 273 active <b>competitors</b>. <b>Competitors</b> include BrewDog, Granite City Food and Brewery.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Dave and Buster's Twitter sentiment':
+Title: Dave and Busters (@DaveAndBusters) | X
+Link: https://twitter.com/DaveandBusters
+Snippet: The latest posts from @DaveandBusters
+Title: Dave &amp; Buster’s, Main Event foot traffic rose Q2, Placer.ai data ...
+Link: https://www.nrn.com/casual-dining/dave-buster-s-main-event-foot-traffic-rose-q2-placerai-data-indicates
+Snippet: Dave &amp; <b>Buster’s</b> Entertainment Inc., which also owns the Main Event brand, experienced foot traffic gains of as much as 6.9% during the second quarter, according to recent data from Placer.ai. A ...
+Title: SPARK: Dave &amp; Buster&#39;s Social Media Strategy and Campaigns
+Link: https://spark.us/work/social/dave-and-busters-social-media/
+Snippet: Dave <b>&amp; Buster</b>&#39;s Social launch generates 45% growth. With a much-needed new brand strategy and campaign launching across traditional media, D&amp;B enlisted our team to develop a social amplification blitz that supported and extended the campaign, in order to grow existing communities, reach new people, and ultimately drive store traffic – all in the midst of a pandemic.
+Title: Analysts’ Opinions Are Mixed on These Communication Services Stocks ...
+Link: https://markets.businessinsider.com/news/stocks/analysts-opinions-are-mixed-on-these-communication-services-stocks-globalstar-gsat-dave-busters-entertainment-play-and-nexters-gdev-1033751537
+Snippet: Dave &amp; <b>Busters</b> Entertainment has an analyst consensus of Moderate Buy, with a price target consensus of $56.50, representing an 86.5% upside. In a report issued on August 22, Truist Financial also ...
+Title: Dave &amp; Buster&#39;s on Twitter: &quot;A new era of fun and excitement arrives on ...
+Link: https://twitter.com/DaveandBusters/status/1623053369110568962
+Snippet: A new era of fun and excitement arrives on @Roblox later today! Get your game on! 🎮 http://roblox.com/daveandbusters . 07 Feb 2023 20:17:32
+Title: @DaveandBusters | X
+Link: https://twitter.com/DaveandBusters/status/1610670436227989504
+Snippet: The latest posts from @DaveandBusters
+Title: Reimagined - Dave &amp; Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/reimagined
+Snippet: The Reimagined D&amp;B. While other casual entertainment venues may be happy with offering their guests the same &#39;ole routine gameplay, Dave &amp; <b>Buster’s</b> is the ultimate, innovative, experiential eatertainment destination! Brace yourself for legendary fun and fierce competition in High-Tech Darts, The Arena, &amp; Social Shuffleboard.
+Title: Dave &amp; Buster&#39;s | Events - Arcade - Sports Bar and Restaurant
+Link: https://www.daveandbusters.com/us/en/home/
+Snippet: We have introduced 20+ all-new, all-delicious menu items that are leave-the-plate-clean certified! Stop by &amp; give ‘em all a try! Make a Reservation. Eat. Watch. Play. Eat More. Every Monday &amp; Thursday, endless wings plus a $10 Power Card starting at $22.99. *Terms and Conditions apply.
+Title: Dave &amp; Buster&#39;s (@daveandbusters) • Instagram photos and videos
+Link: https://www.instagram.com/daveandbusters/
+Snippet: HITTING THE JACKPOT AT DAVE <b>&amp; BUSTER’S</b> 😳 I’m not just talking about the 1,000 tickets I won either! @daveandbusters has new menu items that they’ve rolled out such as: 🧀 Take it Cheesy Sampler Board (Pepperoni flatbread &amp; cheese stick stack) 🍔 Smashed Burger Sliders 🌮 Barbacoa Quesadilla (my favorite of the 3 savory dishes!) 🏕️ S’mores Cheesecake (MUST GET!) and they ...
+Title: Dave &amp; Buster&#39;s Entertainment (PLAY) sentiment score, message volume ...
+Link: https://stocktwits.com/symbol/PLAY/sentiment
+Snippet: Discover Dave &amp; <b>Buster</b>&#39;s Entertainment (PLAY) market and community <b>sentiment</b>, movement in message volume, participation score and buzz level in the <b>Stocktwits</b> community
+Remi: Results for 'Dave and Buster's Twitter sentiment':
+Title: Dave and Busters (@DaveAndBusters) | X
+Link: https://twitter.com/DaveandBusters
+Snippet: The latest posts from @DaveandBusters
+Title: Dave &amp; Buster’s, Main Event foot traffic rose Q2, Placer.ai data ...
+Link: https://www.nrn.com/casual-dining/dave-buster-s-main-event-foot-traffic-rose-q2-placerai-data-indicates
+Snippet: Dave &amp; <b>Buster’s</b> Entertainment Inc., which also owns the Main Event brand, experienced foot traffic gains of as much as 6.9% during the second quarter, according to recent data from Placer.ai. A ...
+Title: SPARK: Dave &amp; Buster&#39;s Social Media Strategy and Campaigns
+Link: https://spark.us/work/social/dave-and-busters-social-media/
+Snippet: Dave <b>&amp; Buster</b>&#39;s Social launch generates 45% growth. With a much-needed new brand strategy and campaign launching across traditional media, D&amp;B enlisted our team to develop a social amplification blitz that supported and extended the campaign, in order to grow existing communities, reach new people, and ultimately drive store traffic – all in the midst of a pandemic.
+Title: Analysts’ Opinions Are Mixed on These Communication Services Stocks ...
+Link: https://markets.businessinsider.com/news/stocks/analysts-opinions-are-mixed-on-these-communication-services-stocks-globalstar-gsat-dave-busters-entertainment-play-and-nexters-gdev-1033751537
+Snippet: Dave &amp; <b>Busters</b> Entertainment has an analyst consensus of Moderate Buy, with a price target consensus of $56.50, representing an 86.5% upside. In a report issued on August 22, Truist Financial also ...
+Title: Dave &amp; Buster&#39;s on Twitter: &quot;A new era of fun and excitement arrives on ...
+Link: https://twitter.com/DaveandBusters/status/1623053369110568962
+Snippet: A new era of fun and excitement arrives on @Roblox later today! Get your game on! 🎮 http://roblox.com/daveandbusters . 07 Feb 2023 20:17:32
+Title: @DaveandBusters | X
+Link: https://twitter.com/DaveandBusters/status/1610670436227989504
+Snippet: The latest posts from @DaveandBusters
+Title: Reimagined - Dave &amp; Buster&#39;s
+Link: https://www.daveandbusters.com/us/en/reimagined
+Snippet: The Reimagined D&amp;B. While other casual entertainment venues may be happy with offering their guests the same &#39;ole routine gameplay, Dave &amp; <b>Buster’s</b> is the ultimate, innovative, experiential eatertainment destination! Brace yourself for legendary fun and fierce competition in High-Tech Darts, The Arena, &amp; Social Shuffleboard.
+Title: Dave &amp; Buster&#39;s | Events - Arcade - Sports Bar and Restaurant
+Link: https://www.daveandbusters.com/us/en/home/
+Snippet: We have introduced 20+ all-new, all-delicious menu items that are leave-the-plate-clean certified! Stop by &amp; give ‘em all a try! Make a Reservation. Eat. Watch. Play. Eat More. Every Monday &amp; Thursday, endless wings plus a $10 Power Card starting at $22.99. *Terms and Conditions apply.
+Title: Dave &amp; Buster&#39;s (@daveandbusters) • Instagram photos and videos
+Link: https://www.instagram.com/daveandbusters/
+Snippet: HITTING THE JACKPOT AT DAVE <b>&amp; BUSTER’S</b> 😳 I’m not just talking about the 1,000 tickets I won either! @daveandbusters has new menu items that they’ve rolled out such as: 🧀 Take it Cheesy Sampler Board (Pepperoni flatbread &amp; cheese stick stack) 🍔 Smashed Burger Sliders 🌮 Barbacoa Quesadilla (my favorite of the 3 savory dishes!) 🏕️ S’mores Cheesecake (MUST GET!) and they ...
+Title: Dave &amp; Buster&#39;s Entertainment (PLAY) sentiment score, message volume ...
+Link: https://stocktwits.com/symbol/PLAY/sentiment
+Snippet: Discover Dave &amp; <b>Buster</b>&#39;s Entertainment (PLAY) market and community <b>sentiment</b>, movement in message volume, participation score and buzz level in the <b>Stocktwits</b> community
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Public opinion about Dave and Buster's':
+Title: ‘So inappropriate.’ Dave &amp; Buster’s plans to allow gambling, and an ...
+Link: https://www.marketwatch.com/story/dave-busters-allowing-arcade-gambling-raises-significant-concerns-advocacy-group-says-dac504dc
+Snippet: <b>Dave</b> &amp; <b>Buster’s</b> recently announced that it will soon allow people to place peer-to-peer bets with friends on arcade games with real money, and soon after a state official, an antigambling group ...
+Title: Dave &amp; Buster&#39;s Before Q2 Earnings: Buy, Sell or Wait? - Yahoo Finance
+Link: https://finance.yahoo.com/news/dave-busters-q2-earnings-buy-125800048.html
+Snippet: <b>Dave</b> &amp; <b>Buster</b>&#39;s Entertainment, Inc. PLAY is scheduled to report second-quarter fiscal 2024 results on Sep. 10 after the closing bell. The company’s earnings have missed the Zacks Consensus ...
+Title: The Untold Truth Of Dave &amp; Buster&#39;s - Mashed
+Link: https://www.mashed.com/616318/the-untold-truth-of-dave-and-busters/
+Snippet: The story of <b>Dave</b> and <b>Buster</b>&#39;s begins with: <b>Dave</b> and <b>Buster</b>. (No, not <b>Dave</b> Chappelle and Busta Rhymes as TikTok would like for you to believe.) It all goes back to David Corriveau and James &quot;<b>Buster</b>&quot; Corley. It was the late 1970s and Corley owned and operated a bar called <b>Buster</b>&#39;s in Little Rock, Arkansas. Just next door, Corriveau owned and operated a game parlor and saloon called Cash McCool&#39;s.
+Title: ‘Our brand is back’: Dave &amp; Buster’s is rising above the pandemic and ...
+Link: https://www.dallasnews.com/business/local-companies/2021/09/15/the-brand-is-back-dave-busters-is-rising-above-the-pandemic-and-catching-wall-streets-eye/
+Snippet: 4:16 PM on Sep 15, 2021 CDT. The <b>Dave</b> &amp; <b>Buster</b>&#39;s location at 9450 N. Central Expressway in Dallas. (Michael Ainsworth - Staff Photographer) In the words of <b>Dave</b> &amp; <b>Buster’s</b> CEO Brian Jenkins ...
+Title: Dave and Buster’s is getting into the betting business - CNN
+Link: https://www.cnn.com/2024/05/01/investing/dave-and-busters-gambling-betting/index.html
+Snippet: But unlike companies like DraftKings, FanDuel and Caesars, <b>Dave</b> and <b>Buster’s</b> wants to get involved in another kind of gambling, the $6 billion social betting sector. A new partnership with ...
+Title: Dave and Buster’s IPO Closes Up 7.5%; CEO Teases About ... - TheStreet
+Link: https://www.thestreet.com/opinion/dave-and-busters-ipo-closes-up-75-ceo-teases-about-expanding-overseas-12910524
+Snippet: <b>Dave</b> and <b>Buster</b>&#39;s Entertainment is celebrating its initial <b>public</b> offering on the Nasdaq under the ticker PLAY. NEW YORK ( <b>TheStreet</b>) -- The S&amp;P 500 ( SPY) declined 1.15% on Friday, while the ...
+Title: Dave &amp; Buster&#39;s - Wikipedia
+Link: https://en.wikipedia.org/wiki/Dave_%26_Buster%27s
+Snippet: <b>Dave &amp; Buster</b>&#39;s Entertainment, Inc. (stylized in all caps) is an American restaurant and entertainment business headquartered in Dallas. [2] Each <b>Dave &amp; Buster</b>&#39;s location has a full-service restaurant, full bar, and a video arcade; the latter of which is known as the &quot;Million Dollar Midway&quot;. [3] [4] As of September 2023, the company currently has a total of 156 locations in the United States ...
+Title: Who Owns Dave &amp; Buster’s, the Publicly Traded Dining Chain?
+Link: https://marketrealist.com/p/who-owns-dave-and-busters/
+Snippet: <b>Dave &amp; Buster’s</b>, a chain of over 140 locations that combine sports viewing, arcade games, and dining under one roof, has been publicly traded since 2014. The company launched its first location ...
+Title: KKR reveals activist stake in Dave &amp; Buster&#39;s - PitchBook
+Link: https://pitchbook.com/news/articles/kkr-reveals-activist-stake-in-dave-busters
+Snippet: KKR long ago ditched its reputation as an orchestrator of hostile takeovers.. But the publicly traded buyout giant has apparently opted to pursue a more active <b>public</b> equity strategy. The firm disclosed Friday in an SEC filing that it has built a 10.7% ownership stake in <b>Dave</b> &amp; <b>Buster’s</b>, a Dallas-based restaurant chain known for offering customers arcade games, billiards and bowling in a ...
+Title: Dave &amp; Buster&#39;s, Inc. -- Company History
+Link: https://www.company-histories.com/Dave-Busters-Inc-Company-History.html
+Snippet: Each new <b>Dave</b> &amp; <b>Buster</b>&#39;s cost about $10 million to build and furnish, and this was proving to be a drain on Edison Brothers. In 1995, the majority owner spun off its interest in <b>Dave</b> &amp; <b>Buster</b>&#39;s to its shareholders. Following the spin-off, <b>Dave</b> &amp; <b>Buster</b>&#39;s went <b>public</b>, selling nearly $30 million in stock on the NASDAQ under the symbol DANB.
+Remi: Results for 'Public opinion about Dave and Buster's':
+Title: ‘So inappropriate.’ Dave &amp; Buster’s plans to allow gambling, and an ...
+Link: https://www.marketwatch.com/story/dave-busters-allowing-arcade-gambling-raises-significant-concerns-advocacy-group-says-dac504dc
+Snippet: <b>Dave</b> &amp; <b>Buster’s</b> recently announced that it will soon allow people to place peer-to-peer bets with friends on arcade games with real money, and soon after a state official, an antigambling group ...
+Title: Dave &amp; Buster&#39;s Before Q2 Earnings: Buy, Sell or Wait? - Yahoo Finance
+Link: https://finance.yahoo.com/news/dave-busters-q2-earnings-buy-125800048.html
+Snippet: <b>Dave</b> &amp; <b>Buster</b>&#39;s Entertainment, Inc. PLAY is scheduled to report second-quarter fiscal 2024 results on Sep. 10 after the closing bell. The company’s earnings have missed the Zacks Consensus ...
+Title: The Untold Truth Of Dave &amp; Buster&#39;s - Mashed
+Link: https://www.mashed.com/616318/the-untold-truth-of-dave-and-busters/
+Snippet: The story of <b>Dave</b> and <b>Buster</b>&#39;s begins with: <b>Dave</b> and <b>Buster</b>. (No, not <b>Dave</b> Chappelle and Busta Rhymes as TikTok would like for you to believe.) It all goes back to David Corriveau and James &quot;<b>Buster</b>&quot; Corley. It was the late 1970s and Corley owned and operated a bar called <b>Buster</b>&#39;s in Little Rock, Arkansas. Just next door, Corriveau owned and operated a game parlor and saloon called Cash McCool&#39;s.
+Title: ‘Our brand is back’: Dave &amp; Buster’s is rising above the pandemic and ...
+Link: https://www.dallasnews.com/business/local-companies/2021/09/15/the-brand-is-back-dave-busters-is-rising-above-the-pandemic-and-catching-wall-streets-eye/
+Snippet: 4:16 PM on Sep 15, 2021 CDT. The <b>Dave</b> &amp; <b>Buster</b>&#39;s location at 9450 N. Central Expressway in Dallas. (Michael Ainsworth - Staff Photographer) In the words of <b>Dave</b> &amp; <b>Buster’s</b> CEO Brian Jenkins ...
+Title: Dave and Buster’s is getting into the betting business - CNN
+Link: https://www.cnn.com/2024/05/01/investing/dave-and-busters-gambling-betting/index.html
+Snippet: But unlike companies like DraftKings, FanDuel and Caesars, <b>Dave</b> and <b>Buster’s</b> wants to get involved in another kind of gambling, the $6 billion social betting sector. A new partnership with ...
+Title: Dave and Buster’s IPO Closes Up 7.5%; CEO Teases About ... - TheStreet
+Link: https://www.thestreet.com/opinion/dave-and-busters-ipo-closes-up-75-ceo-teases-about-expanding-overseas-12910524
+Snippet: <b>Dave</b> and <b>Buster</b>&#39;s Entertainment is celebrating its initial <b>public</b> offering on the Nasdaq under the ticker PLAY. NEW YORK ( <b>TheStreet</b>) -- The S&amp;P 500 ( SPY) declined 1.15% on Friday, while the ...
+Title: Dave &amp; Buster&#39;s - Wikipedia
+Link: https://en.wikipedia.org/wiki/Dave_%26_Buster%27s
+Snippet: <b>Dave &amp; Buster</b>&#39;s Entertainment, Inc. (stylized in all caps) is an American restaurant and entertainment business headquartered in Dallas. [2] Each <b>Dave &amp; Buster</b>&#39;s location has a full-service restaurant, full bar, and a video arcade; the latter of which is known as the &quot;Million Dollar Midway&quot;. [3] [4] As of September 2023, the company currently has a total of 156 locations in the United States ...
+Title: Who Owns Dave &amp; Buster’s, the Publicly Traded Dining Chain?
+Link: https://marketrealist.com/p/who-owns-dave-and-busters/
+Snippet: <b>Dave &amp; Buster’s</b>, a chain of over 140 locations that combine sports viewing, arcade games, and dining under one roof, has been publicly traded since 2014. The company launched its first location ...
+Title: KKR reveals activist stake in Dave &amp; Buster&#39;s - PitchBook
+Link: https://pitchbook.com/news/articles/kkr-reveals-activist-stake-in-dave-busters
+Snippet: KKR long ago ditched its reputation as an orchestrator of hostile takeovers.. But the publicly traded buyout giant has apparently opted to pursue a more active <b>public</b> equity strategy. The firm disclosed Friday in an SEC filing that it has built a 10.7% ownership stake in <b>Dave</b> &amp; <b>Buster’s</b>, a Dallas-based restaurant chain known for offering customers arcade games, billiards and bowling in a ...
+Title: Dave &amp; Buster&#39;s, Inc. -- Company History
+Link: https://www.company-histories.com/Dave-Busters-Inc-Company-History.html
+Snippet: Each new <b>Dave</b> &amp; <b>Buster</b>&#39;s cost about $10 million to build and furnish, and this was proving to be a drain on Edison Brothers. In 1995, the majority owner spun off its interest in <b>Dave</b> &amp; <b>Buster</b>&#39;s to its shareholders. Following the spin-off, <b>Dave</b> &amp; <b>Buster</b>&#39;s went <b>public</b>, selling nearly $30 million in stock on the NASDAQ under the symbol DANB.
+Error handling Remi's results: invalid syntax (<string>, line 1)

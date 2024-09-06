@@ -1,0 +1,438 @@
+Susan: Gathering detailed and verifiable information on any entity, such as Milton-Bradley, will require careful planning, exploration of reliable sources and critiques of collected data. Here's the general approach we can use:
+
+1. **Company Overview:** Begin by checking Milton-Bradley's official website for general information about the company like its mission, vision, values, history, leadership, financial performance, brands, products, and corporate social responsibility initiatives. Such information will provide a general understanding of the company.
+
+2. **Key Decision Makers:** We'll need to identify the top executives in the organization. This usually can be found in the 'About Us' or 'Leadership' section of the company's website. Once identified, online platforms such as LinkedIn, Forbes, Bloomberg, and other financial or news outlets can be scanned to collect further information and identify possible points of leverage.
+
+3. **Financial Information:** We will seek information from reputable finance websites, investor relations sections on the company's website, annual reports, and SEC filings. Websites that analyze stock performance such as Yahoo Finance, Google Finance, and CNBC may also give confirmatory information about the company's financial health.
+
+4. **Labor Relations:** Trade journals and specialized labor publications, labor union websites, labor departments, or labor boards may carry news on labor relations involving Milton-Bradley. News sites may also report on significant labor disputes or negotiations.
+
+5. **Recent Scandals:** This would involve a thorough search of news websites, industry publications, and other potential sources of relevant news. Checking watchdog websites and even social media could provide information about any controversies involving the company.
+
+6. **Other Points of Leverage:** These could include any significant negative publicity, environmental record, outstanding legal issues, and competitor analysis. Information about these can also be found from reliable news websites, legal information websites, and business information databases.
+
+Finally, all data collected would need to be cross-checked for accuracy across multiple sources. Regular monitoring and updating would also be crucial to ensure that the most current information on Milton-Bradley is available to help inform your strategy.
+Manny: Sure, here's a list 'search_queries_for_remi' as requested. The queries can be modified for more specific results:  
+
+```python
+search_queries_for_remi = [
+    "Milton-Bradley company financial reports",
+    "Milton-Bradley key decision makers",
+    "Milton-Bradley labor relations news",
+    "Milton-Bradley recent scandals or controversies",
+    "Milton-Bradley's competition and market analysis"
+]
+```
+Remi: Results for 'Milton-Bradley company financial reports':
+Title: Milton Bradley Co. - Encyclopedia.com
+Link: https://www.encyclopedia.com/economics/economics-magazines/milton-bradley-co
+Snippet: <b>COMPANY</b> FINANCES. Milton <b>Bradley</b>&#39;s <b>annual</b> sales are $540 million, a small percentage of parent Hasbro&#39;s $3.1 billion <b>annual</b> sales. In its 1996 <b>annual</b> <b>report</b>, Hasbro stated that its games divisions, Milton <b>Bradley</b> and Parker Brothers, continue to grow thanks to a strategy that leverages classic brands. ... For an <b>annual</b> <b>report</b>: on the internet ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company -- Company History
+Link: https://www.company-histories.com/Milton-Bradley-Company-Company-History.html
+Snippet: Founded in 1860, Milton <b>Bradley Company</b> is the oldest game manufacturer in the United States. Over the years Milton <b>Bradley</b> has marketed such classics as The Game of Life, Candy Land, Chutes and Ladders, Twister, and Yahtzee. Since 1984 the <b>company</b> has operated as a division of the world&#39;s largest toy <b>company</b>, Hasbro, Inc.
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company Company Profile: Valuation, Investors ...
+Link: https://pitchbook.com/profiles/company/160810-48
+Snippet: Self-contained arcade game apparatus and method for object generation. Inactive. 06-Jan-1982. A63F13/426. 0. To view Milton <b>Bradley Company</b>’s complete patent history, request access ». Information on acquisition, funding, investors, and executives for Milton <b>Bradley Company</b>. Use the PitchBook Platform to explore the full profile.
+Body Content: Content could not be retrieved.
+
+Title: 1948-MILTON BRADLEY COMPANY ANNUAL REPORT - SPRINGFIELD - WorthPoint
+Link: https://www.worthpoint.com/worthopedia/1948-milton-bradley-company-annual-report
+Snippet: &#39;s a great collectible Milton <b>Bradley</b> <b>Annual</b> <b>Report</b>. Not an item you see often and has some great historical content, <b>financial</b> information and many pictures of buildings and <b>company</b> management and st
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Co - Company Profile and News - Bloomberg Markets
+Link: https://www.bloomberg.com/profile/company/MOBD:US
+Snippet: Milton <b>Bradley</b> Co. Milton <b>Bradley</b> Co was founded in 1954. The <b>company</b>&#39;s line of business includes the cooperative thrift and loan associations (accepting deposits) organized under other than ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley - Wikipedia
+Link: https://en.wikipedia.org/wiki/Milton_Bradley
+Snippet: Founder of the. Milton <b>Bradley</b> <b>Company</b>. Signature. Milton <b>Bradley</b> (November 8, 1836 – May 30, 1911) was an American business magnate, game pioneer and publisher, credited by many with launching the board game industry, with his eponymous enterprise, which was purchased by Hasbro in 1984, and folded in 1998.
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company Catalog, &quot;Welcome to Gameland,&quot; 1964
+Link: https://www.thehenryford.org/collections-and-research/digital-collections/artifact/518927
+Snippet: Milton <b>Bradley</b>, a Springfield, Massachusetts, lithographer, published his first board game in 1860. It was a hit, and <b>Bradley</b> soon became a leader in the growing American game business. By his death in 1911, <b>Bradley</b>&#39;s <b>company</b> was one of the nation&#39;s best known and most prolific game and toy manufacturers. Milton <b>Bradley</b> products remained popular even after the <b>company</b>&#39;s 1984 acquisition by ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company - Wikiwand / articles
+Link: https://www.wikiwand.com/en/articles/Milton_Bradley_Company
+Snippet: Milton <b>Bradley Company</b> or simply Milton <b>Bradley</b> (MB) was an American board game manufacturer established by Milton <b>Bradley</b> (1836-1911) in Springfield, Massachusetts, in 1860.In 1920, it absorbed the game production of McLoughlin Brothers, formerly the largest game manufacturer in the United States.It was acquired by Hasbro in 1984, and merged with their subsidiary Parker Brothers in 1998.
+Body Content: Content could not be retrieved.
+
+Title: Hasbro Inc (HAS) Stock Price &amp; News - Google Finance
+Link: https://www.google.com/finance/quote/HAS:NASDAQ
+Snippet: Hasbro owns the trademarks and products of Kenner, Milton <b>Bradley</b>, Parker Brothers, and Wizards of the Coast, among others. As of August 2020, over 81.5% of its shares were held by large <b>financial</b> ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company - WorldCat.org
+Link: https://www.worldcat.org/identities/lccn-n50065941/
+Snippet: Most widely held works by Milton <b>Bradley</b> <b>Company</b>. Elementary color by Milton <b>Bradley</b> ( Book ) 3 editions published in 1895 in English and held by 102 WorldCat member libraries worldwide. The intent of this book is to offer for primary school teachers a clear and condensed explanation of the <b>Bradley</b> System of Color Instruction.
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Milton-Bradley company financial reports':
+Title: Milton Bradley Co. - Encyclopedia.com
+Link: https://www.encyclopedia.com/economics/economics-magazines/milton-bradley-co
+Snippet: <b>COMPANY</b> FINANCES. Milton <b>Bradley</b>&#39;s <b>annual</b> sales are $540 million, a small percentage of parent Hasbro&#39;s $3.1 billion <b>annual</b> sales. In its 1996 <b>annual</b> <b>report</b>, Hasbro stated that its games divisions, Milton <b>Bradley</b> and Parker Brothers, continue to grow thanks to a strategy that leverages classic brands. ... For an <b>annual</b> <b>report</b>: on the internet ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company -- Company History
+Link: https://www.company-histories.com/Milton-Bradley-Company-Company-History.html
+Snippet: Founded in 1860, Milton <b>Bradley Company</b> is the oldest game manufacturer in the United States. Over the years Milton <b>Bradley</b> has marketed such classics as The Game of Life, Candy Land, Chutes and Ladders, Twister, and Yahtzee. Since 1984 the <b>company</b> has operated as a division of the world&#39;s largest toy <b>company</b>, Hasbro, Inc.
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company Company Profile: Valuation, Investors ...
+Link: https://pitchbook.com/profiles/company/160810-48
+Snippet: Self-contained arcade game apparatus and method for object generation. Inactive. 06-Jan-1982. A63F13/426. 0. To view Milton <b>Bradley Company</b>’s complete patent history, request access ». Information on acquisition, funding, investors, and executives for Milton <b>Bradley Company</b>. Use the PitchBook Platform to explore the full profile.
+Body Content: Content could not be retrieved.
+
+Title: 1948-MILTON BRADLEY COMPANY ANNUAL REPORT - SPRINGFIELD - WorthPoint
+Link: https://www.worthpoint.com/worthopedia/1948-milton-bradley-company-annual-report
+Snippet: &#39;s a great collectible Milton <b>Bradley</b> <b>Annual</b> <b>Report</b>. Not an item you see often and has some great historical content, <b>financial</b> information and many pictures of buildings and <b>company</b> management and st
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Co - Company Profile and News - Bloomberg Markets
+Link: https://www.bloomberg.com/profile/company/MOBD:US
+Snippet: Milton <b>Bradley</b> Co. Milton <b>Bradley</b> Co was founded in 1954. The <b>company</b>&#39;s line of business includes the cooperative thrift and loan associations (accepting deposits) organized under other than ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley - Wikipedia
+Link: https://en.wikipedia.org/wiki/Milton_Bradley
+Snippet: Founder of the. Milton <b>Bradley</b> <b>Company</b>. Signature. Milton <b>Bradley</b> (November 8, 1836 – May 30, 1911) was an American business magnate, game pioneer and publisher, credited by many with launching the board game industry, with his eponymous enterprise, which was purchased by Hasbro in 1984, and folded in 1998.
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company Catalog, &quot;Welcome to Gameland,&quot; 1964
+Link: https://www.thehenryford.org/collections-and-research/digital-collections/artifact/518927
+Snippet: Milton <b>Bradley</b>, a Springfield, Massachusetts, lithographer, published his first board game in 1860. It was a hit, and <b>Bradley</b> soon became a leader in the growing American game business. By his death in 1911, <b>Bradley</b>&#39;s <b>company</b> was one of the nation&#39;s best known and most prolific game and toy manufacturers. Milton <b>Bradley</b> products remained popular even after the <b>company</b>&#39;s 1984 acquisition by ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company - Wikiwand / articles
+Link: https://www.wikiwand.com/en/articles/Milton_Bradley_Company
+Snippet: Milton <b>Bradley Company</b> or simply Milton <b>Bradley</b> (MB) was an American board game manufacturer established by Milton <b>Bradley</b> (1836-1911) in Springfield, Massachusetts, in 1860.In 1920, it absorbed the game production of McLoughlin Brothers, formerly the largest game manufacturer in the United States.It was acquired by Hasbro in 1984, and merged with their subsidiary Parker Brothers in 1998.
+Body Content: Content could not be retrieved.
+
+Title: Hasbro Inc (HAS) Stock Price &amp; News - Google Finance
+Link: https://www.google.com/finance/quote/HAS:NASDAQ
+Snippet: Hasbro owns the trademarks and products of Kenner, Milton <b>Bradley</b>, Parker Brothers, and Wizards of the Coast, among others. As of August 2020, over 81.5% of its shares were held by large <b>financial</b> ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company - WorldCat.org
+Link: https://www.worldcat.org/identities/lccn-n50065941/
+Snippet: Most widely held works by Milton <b>Bradley</b> <b>Company</b>. Elementary color by Milton <b>Bradley</b> ( Book ) 3 editions published in 1895 in English and held by 102 WorldCat member libraries worldwide. The intent of this book is to offer for primary school teachers a clear and condensed explanation of the <b>Bradley</b> System of Color Instruction.
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Milton-Bradley key decision makers':
+Title: Milton Bradley - Wikipedia
+Link: https://en.wikipedia.org/wiki/Milton_Bradley
+Snippet: Milton <b>Bradley</b> (November 8, 1836 – May 30, 1911) was an American business magnate, game pioneer and publisher, credited by many with launching the board game industry, with his eponymous enterprise, which was purchased by Hasbro in 1984, and folded in 1998. Biography.
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company -- Company History
+Link: https://www.company-histories.com/Milton-Bradley-Company-Company-History.html
+Snippet: Founded in 1860, Milton <b>Bradley</b> Company is the oldest game manufacturer in the United States. Over the years Milton <b>Bradley</b> has marketed such classics as The Game of Life, Candy Land, Chutes and Ladders, Twister, and Yahtzee. Since 1984 the company has operated as a division of the world&#39;s largest toy company, Hasbro, Inc.
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company - Wikipedia
+Link: https://en.wikipedia.org/wiki/Milton_Bradley_Company
+Snippet: Milton <b>Bradley</b> Company or simply Milton <b>Bradley</b> (MB) was an American board game manufacturer established by Milton <b>Bradley</b> (1836-1911) in Springfield, Massachusetts, in 1860.In 1920, it absorbed the game production of McLoughlin Brothers, formerly the largest game manufacturer in the United States.It was acquired by Hasbro in 1984, and merged with their subsidiary Parker Brothers in 1998.
+Body Content: Content could not be retrieved.
+
+Title: Hall of Famer Milton Bradley and the Game of Life
+Link: https://www.invent.org/blog/inventors/milton-bradley-game-of-life
+Snippet: Date October 8, 2021. Est. Reading Time 3 mins. Though National Inventors Hall of Fame® (NIHF) Inductee Milton <b>Bradley</b>’s name has become synonymous with the company responsible for creating some of America’s most beloved games, including Twister®, Battleship® and The Game of Life®, while growing up during the mid-1800s, <b>Bradley</b> had no ...
+Body Content: Content could not be retrieved.
+
+Title: American Heritage: The War Games of The 1960s Generation (from Milton ...
+Link: https://flashbak.com/american-heritage-the-war-games-of-the-1960s-generation-from-milton-bradley-364754/
+Snippet: There were five games in all. In 1961, Milton <b>Bradley</b> premiered the American Heritage Game of the Civil War (also known as Battle-Cry). This game was set in the 1860s, and pitted the Blue (North) against the Grey (South), using cavalry, infantry, and artillery. In some cases, rails could be used to advance troops to their destination.
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley - pgpedia.com
+Link: https://www.pgpedia.com/m/milton-bradley
+Snippet: Milton <b>Bradley</b>, lithographer and inventor, formed the Milton <b>Bradley</b> Company in 1860 in Springfield, Massachusetts. After playing an old English board game, Milton designed an American version called The Checkered Game of Life, produced several hundred copies, and sold all of them in a few days in New York City. This sparked a fad and Milton sold 40,000 copies that first year and thereafter ...
+Body Content: Content could not be retrieved.
+
+Title: Game Theory - The Decision Lab
+Link: https://thedecisionlab.com/reference-guide/economics/game-theory
+Snippet: The Milton <b>Bradley</b> board game, The Game of Life, was not far off the mark. In many ways, life does resemble a game, in which we are all players. ... A <b>key</b> aspect of this theory is that it is based on certain assumptions, including that all involved parties understand the rules of the “game” and that people are rational <b>decision</b>-<b>makers</b> ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley | The Engines of Our Ingenuity
+Link: https://engines.egr.uh.edu/episode/2545
+Snippet: Today, a game <b>maker</b>. The University of Houston&#39;s College of Engineering presents this series about the machines that make our civilization run, and the people whose ingenuity created them.. T he games Candy Land, Chutes and Ladders, Mouse Trap, and Cootie have twice been a big part of my life; once as a child, then again as a parent. And they all come from a company started by Milton <b>Bradley</b>.
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Biography
+Link: http://biographybase.com/biography/Bradley_Milton.html
+Snippet: Milton <b>Bradley</b> was a game pioneer, credited by many with launching the game industry in North America. But years before he invented his first game, <b>Bradley</b> enjoyed a successful career in lithography. Born in Vienna, Maine, in 1836, <b>Bradley</b> chose a career in printing and lithography in his late teens and set about learning the trade.
+Body Content: Content could not be retrieved.
+
+Title: The Meaning of Life - The New Yorker
+Link: https://www.newyorker.com/magazine/2007/05/21/the-meaning-of-life
+Snippet: The Checkered Game of Life is a game of destiny checked by strategy. But <b>Bradley</b> came from a family ruled, for generations, by nothing so much as an angry God. The Bradleys had been in New England ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Milton-Bradley key decision makers':
+Title: Milton Bradley - Wikipedia
+Link: https://en.wikipedia.org/wiki/Milton_Bradley
+Snippet: Milton <b>Bradley</b> (November 8, 1836 – May 30, 1911) was an American business magnate, game pioneer and publisher, credited by many with launching the board game industry, with his eponymous enterprise, which was purchased by Hasbro in 1984, and folded in 1998. Biography.
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company -- Company History
+Link: https://www.company-histories.com/Milton-Bradley-Company-Company-History.html
+Snippet: Founded in 1860, Milton <b>Bradley</b> Company is the oldest game manufacturer in the United States. Over the years Milton <b>Bradley</b> has marketed such classics as The Game of Life, Candy Land, Chutes and Ladders, Twister, and Yahtzee. Since 1984 the company has operated as a division of the world&#39;s largest toy company, Hasbro, Inc.
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company - Wikipedia
+Link: https://en.wikipedia.org/wiki/Milton_Bradley_Company
+Snippet: Milton <b>Bradley</b> Company or simply Milton <b>Bradley</b> (MB) was an American board game manufacturer established by Milton <b>Bradley</b> (1836-1911) in Springfield, Massachusetts, in 1860.In 1920, it absorbed the game production of McLoughlin Brothers, formerly the largest game manufacturer in the United States.It was acquired by Hasbro in 1984, and merged with their subsidiary Parker Brothers in 1998.
+Body Content: Content could not be retrieved.
+
+Title: Hall of Famer Milton Bradley and the Game of Life
+Link: https://www.invent.org/blog/inventors/milton-bradley-game-of-life
+Snippet: Date October 8, 2021. Est. Reading Time 3 mins. Though National Inventors Hall of Fame® (NIHF) Inductee Milton <b>Bradley</b>’s name has become synonymous with the company responsible for creating some of America’s most beloved games, including Twister®, Battleship® and The Game of Life®, while growing up during the mid-1800s, <b>Bradley</b> had no ...
+Body Content: Content could not be retrieved.
+
+Title: American Heritage: The War Games of The 1960s Generation (from Milton ...
+Link: https://flashbak.com/american-heritage-the-war-games-of-the-1960s-generation-from-milton-bradley-364754/
+Snippet: There were five games in all. In 1961, Milton <b>Bradley</b> premiered the American Heritage Game of the Civil War (also known as Battle-Cry). This game was set in the 1860s, and pitted the Blue (North) against the Grey (South), using cavalry, infantry, and artillery. In some cases, rails could be used to advance troops to their destination.
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley - pgpedia.com
+Link: https://www.pgpedia.com/m/milton-bradley
+Snippet: Milton <b>Bradley</b>, lithographer and inventor, formed the Milton <b>Bradley</b> Company in 1860 in Springfield, Massachusetts. After playing an old English board game, Milton designed an American version called The Checkered Game of Life, produced several hundred copies, and sold all of them in a few days in New York City. This sparked a fad and Milton sold 40,000 copies that first year and thereafter ...
+Body Content: Content could not be retrieved.
+
+Title: Game Theory - The Decision Lab
+Link: https://thedecisionlab.com/reference-guide/economics/game-theory
+Snippet: The Milton <b>Bradley</b> board game, The Game of Life, was not far off the mark. In many ways, life does resemble a game, in which we are all players. ... A <b>key</b> aspect of this theory is that it is based on certain assumptions, including that all involved parties understand the rules of the “game” and that people are rational <b>decision</b>-<b>makers</b> ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley | The Engines of Our Ingenuity
+Link: https://engines.egr.uh.edu/episode/2545
+Snippet: Today, a game <b>maker</b>. The University of Houston&#39;s College of Engineering presents this series about the machines that make our civilization run, and the people whose ingenuity created them.. T he games Candy Land, Chutes and Ladders, Mouse Trap, and Cootie have twice been a big part of my life; once as a child, then again as a parent. And they all come from a company started by Milton <b>Bradley</b>.
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Biography
+Link: http://biographybase.com/biography/Bradley_Milton.html
+Snippet: Milton <b>Bradley</b> was a game pioneer, credited by many with launching the game industry in North America. But years before he invented his first game, <b>Bradley</b> enjoyed a successful career in lithography. Born in Vienna, Maine, in 1836, <b>Bradley</b> chose a career in printing and lithography in his late teens and set about learning the trade.
+Body Content: Content could not be retrieved.
+
+Title: The Meaning of Life - The New Yorker
+Link: https://www.newyorker.com/magazine/2007/05/21/the-meaning-of-life
+Snippet: The Checkered Game of Life is a game of destiny checked by strategy. But <b>Bradley</b> came from a family ruled, for generations, by nothing so much as an angry God. The Bradleys had been in New England ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Milton-Bradley labor relations news':
+Title: Milton Bradley/ Hasbro Games - National Labor Relations Board
+Link: https://www.nlrb.gov/case/01-CA-039483
+Snippet: Pre-Wagner Act <b>labor</b> <b>relations</b>; 1933 The NLB and &quot;The Old NLRB&quot; 1935 Enforcement of the Wagner Act; 1935 passage of the Wagner Act; 1937 Act Held Constitutional; 1947 Taft-Hartley Passage and NLRB Structural Changes; 1947 Taft-Hartley Substantive Provisions; 1959 Landrum-Griffin Act; 1974 Health Care Amendments; Impact of the NLRB on ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Makes His Fortune on Life’s Checkered Past
+Link: https://newenglandhistoricalsociety.com/milton-bradley-lifes-checkered-past/
+Snippet: In 1860, Milton <b>Bradley</b> decided America needed a new game, and so he created a modern blend of the old-fashioned morality games and the simple checkerboard. The result: The Checkered Game of Life. Born in Vienna, Maine, in 1836, <b>Bradley</b> grew up in Lowell, Mass., and later moved to Springfield. He initially worked as a lithographer, but in 1860 ...
+Body Content: Content could not be retrieved.
+
+Title: A Long Time Coming: Milton Bradley&#39;s Revelation | News, Scores ...
+Link: https://bleacherreport.com/articles/388931-a-long-time-coming-milton-bradleys-revelation
+Snippet: Throughout his career, <b>Bradley</b> has rubbed more than a few people the wrong way and he has bounced around to eight different teams during his 11 years in the major leagues.
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley - Wikipedia
+Link: https://en.wikipedia.org/wiki/Milton_Bradley
+Snippet: Milton <b>Bradley</b> (November 8, 1836 – May 30, 1911) was an American business magnate, ... Kindergarten <b>News</b> (later Kindergarten Review), and Work and Play. Neither was profitable, and <b>Bradley</b>&#39;s business partners withdrew their support, but <b>Bradley</b> persevered, publishing both magazines until the end of his life. His friend George Tapley bought ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley news - Today’s latest updates - CBS Chicago
+Link: https://www.cbsnews.com/chicago/tag/milton-bradley/
+Snippet: Milton <b>Bradley</b> May Not Be Charged Over Domestic Violence Arrest. Milton <b>Bradley</b> was arrested in January for a domestic dispute with his wife. The former Cub&#39;s attorney claims he won&#39;t be charged ...
+Body Content: Content could not be retrieved.
+
+Title: Markham Concepts, Inc. v. Hasbro, Inc. | Loeb &amp; Loeb LLP
+Link: https://www.loeb.com/en/insights/publications/2019/02/markham-concepts-inc-v-hasbro-inc
+Snippet: Klamer had the idea to develop a modern version of a game created in 1860 by Milton <b>Bradley</b> (the man) called “The Checkered Game of Life.”. To help develop and build the prototype for what would become “The Game of Life,” Klamer hired Markham and his company, California Product Development. CPD employed two artists, Grace Chambers and ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company - Wikipedia
+Link: https://en.wikipedia.org/wiki/Milton_Bradley_Company
+Snippet: Milton <b>Bradley</b> Company or simply Milton <b>Bradley</b> (MB) was an American board game manufacturer established by Milton <b>Bradley</b> (1836-1911) in Springfield, Massachusetts, in 1860.In 1920, it absorbed the game production of McLoughlin Brothers, formerly the largest game manufacturer in the United States.It was acquired by Hasbro in 1984, and merged with their subsidiary Parker Brothers in 1998.
+Body Content: Content could not be retrieved.
+
+Title: Stories of The Slam: 10-year anniversary of Milton Bradley&#39;s ... - PennLive
+Link: https://www.pennlive.com/patriotnewssports/2009/09/stories_of_the_slam_10-year_an.html
+Snippet: Ten years ago today, Milton <b>Bradley</b> hit a two-out, full-count grand slam in the bottom of the ninth to give the Harrisburg Senators a Game 5 victory and their fourth straight Eastern League ...
+Body Content: Content could not be retrieved.
+
+Title: No hits, no mulligans: Why Milton Bradley’s career is over
+Link: https://www.seattletimes.com/sports/no-hits-no-mulligans-why-milton-bradleys-career-is-over/
+Snippet: For all the noise he made during a troubling career, <b>Bradley</b> exits facing a reality that he can’t fight. It’s over. Jerry Brewer: 206-464-2277 or jbrewer@seattletimes.com, Twitter: @Jerry ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley: The Man an Army Couldn’t Save
+Link: https://blogs.fangraphs.com/milton-bradley-and-statheads/
+Snippet: <b>Bradley</b> threw a fit after flying out during a game, prompting manager Lou Piniella to order him to go home. That led to a clubhouse altercation, and later that year, a season-ending suspension by the club. <b>Bradley</b> may not have been wrong when he said, “you understand why they [Cubs] haven’t won in 100 years here.”.
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Milton-Bradley labor relations news':
+Title: Milton Bradley/ Hasbro Games - National Labor Relations Board
+Link: https://www.nlrb.gov/case/01-CA-039483
+Snippet: Pre-Wagner Act <b>labor</b> <b>relations</b>; 1933 The NLB and &quot;The Old NLRB&quot; 1935 Enforcement of the Wagner Act; 1935 passage of the Wagner Act; 1937 Act Held Constitutional; 1947 Taft-Hartley Passage and NLRB Structural Changes; 1947 Taft-Hartley Substantive Provisions; 1959 Landrum-Griffin Act; 1974 Health Care Amendments; Impact of the NLRB on ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Makes His Fortune on Life’s Checkered Past
+Link: https://newenglandhistoricalsociety.com/milton-bradley-lifes-checkered-past/
+Snippet: In 1860, Milton <b>Bradley</b> decided America needed a new game, and so he created a modern blend of the old-fashioned morality games and the simple checkerboard. The result: The Checkered Game of Life. Born in Vienna, Maine, in 1836, <b>Bradley</b> grew up in Lowell, Mass., and later moved to Springfield. He initially worked as a lithographer, but in 1860 ...
+Body Content: Content could not be retrieved.
+
+Title: A Long Time Coming: Milton Bradley&#39;s Revelation | News, Scores ...
+Link: https://bleacherreport.com/articles/388931-a-long-time-coming-milton-bradleys-revelation
+Snippet: Throughout his career, <b>Bradley</b> has rubbed more than a few people the wrong way and he has bounced around to eight different teams during his 11 years in the major leagues.
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley - Wikipedia
+Link: https://en.wikipedia.org/wiki/Milton_Bradley
+Snippet: Milton <b>Bradley</b> (November 8, 1836 – May 30, 1911) was an American business magnate, ... Kindergarten <b>News</b> (later Kindergarten Review), and Work and Play. Neither was profitable, and <b>Bradley</b>&#39;s business partners withdrew their support, but <b>Bradley</b> persevered, publishing both magazines until the end of his life. His friend George Tapley bought ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley news - Today’s latest updates - CBS Chicago
+Link: https://www.cbsnews.com/chicago/tag/milton-bradley/
+Snippet: Milton <b>Bradley</b> May Not Be Charged Over Domestic Violence Arrest. Milton <b>Bradley</b> was arrested in January for a domestic dispute with his wife. The former Cub&#39;s attorney claims he won&#39;t be charged ...
+Body Content: Content could not be retrieved.
+
+Title: Markham Concepts, Inc. v. Hasbro, Inc. | Loeb &amp; Loeb LLP
+Link: https://www.loeb.com/en/insights/publications/2019/02/markham-concepts-inc-v-hasbro-inc
+Snippet: Klamer had the idea to develop a modern version of a game created in 1860 by Milton <b>Bradley</b> (the man) called “The Checkered Game of Life.”. To help develop and build the prototype for what would become “The Game of Life,” Klamer hired Markham and his company, California Product Development. CPD employed two artists, Grace Chambers and ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley Company - Wikipedia
+Link: https://en.wikipedia.org/wiki/Milton_Bradley_Company
+Snippet: Milton <b>Bradley</b> Company or simply Milton <b>Bradley</b> (MB) was an American board game manufacturer established by Milton <b>Bradley</b> (1836-1911) in Springfield, Massachusetts, in 1860.In 1920, it absorbed the game production of McLoughlin Brothers, formerly the largest game manufacturer in the United States.It was acquired by Hasbro in 1984, and merged with their subsidiary Parker Brothers in 1998.
+Body Content: Content could not be retrieved.
+
+Title: Stories of The Slam: 10-year anniversary of Milton Bradley&#39;s ... - PennLive
+Link: https://www.pennlive.com/patriotnewssports/2009/09/stories_of_the_slam_10-year_an.html
+Snippet: Ten years ago today, Milton <b>Bradley</b> hit a two-out, full-count grand slam in the bottom of the ninth to give the Harrisburg Senators a Game 5 victory and their fourth straight Eastern League ...
+Body Content: Content could not be retrieved.
+
+Title: No hits, no mulligans: Why Milton Bradley’s career is over
+Link: https://www.seattletimes.com/sports/no-hits-no-mulligans-why-milton-bradleys-career-is-over/
+Snippet: For all the noise he made during a troubling career, <b>Bradley</b> exits facing a reality that he can’t fight. It’s over. Jerry Brewer: 206-464-2277 or jbrewer@seattletimes.com, Twitter: @Jerry ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley: The Man an Army Couldn’t Save
+Link: https://blogs.fangraphs.com/milton-bradley-and-statheads/
+Snippet: <b>Bradley</b> threw a fit after flying out during a game, prompting manager Lou Piniella to order him to go home. That led to a clubhouse altercation, and later that year, a season-ending suspension by the club. <b>Bradley</b> may not have been wrong when he said, “you understand why they [Cubs] haven’t won in 100 years here.”.
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Milton-Bradley recent scandals or controversies':
+Title: Milton Bradley convicted for spousal abuse, could face over seven years ...
+Link: https://www.nbcsports.com/mlb/news/milton-bradley-convicted-for-spousal-abuse-could-face-over-seven-years-in-prison
+Snippet: A spokesman for the Los Angeles city attorney’s office says <b>Bradley</b> was convicted Monday of nine misdemeanor counts, including assault with a deadly weapon and spousal battery. He faces up to 7 1/2 years in jail at his sentencing scheduled for July 2. Prosecutors say <b>Bradley</b> threatened and attacked his wife five times in 2011 and 2012 ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley facing up to 13 years in prison from spousal abuse ...
+Link: https://www.nbcsports.com/mlb/news/milton-bradley-facing-up-to-13-years-in-prison-from-spousal-abuse-charges
+Snippet: <b>Bradley</b> was arrested in August 2011 for allegedly attacking Monique with a bat, and in March 2012 he allegedly threatened her with a knife and said, “You’ll be dead bitch before you divorce me.”. He faces up to 13 years in prison. Milton <b>Bradley</b> is done being a major league baseball player, but sadly he&#39;s not done making headlines for ...
+Body Content: Content could not be retrieved.
+
+Title: Former Dodgers Outfielder Milton Bradley Gets Nearly 3-Year Jail ...
+Link: https://www.cbsnews.com/losangeles/news/former-dodgers-outfielder-milton-bradley-to-be-sentenced-in-spousal-battery-conviction/
+Snippet: LOS ANGELES (AP) — Former Los Angeles Dodgers outfielder Milton <b>Bradley</b> was sentenced Tuesday to more than 2 1/2 years in jail for abusing and threatening his estranged wife.
+Body Content: Content could not be retrieved.
+
+Title: Former major-leaguer Milton Bradley convicted of abusing wife - CBS Sports
+Link: https://www.cbssports.com/mlb/news/former-major-leaguer-milton-bradley-convicted-of-abusing-wife/
+Snippet: Former major-leaguer Milton <b>Bradley</b> is facing up to 7 1/2 years in prison after being convicted of abusing his estranged wife, the AP reports. <b>Bradley</b> was found guilty on nine misdemeanor charges.
+Body Content: Content could not be retrieved.
+
+Title: List of controversies of recent U.S. Presidents - Wikipedia
+Link: https://en.wikipedia.org/wiki/List_of_controversies_of_recent_U.S._Presidents
+Snippet: Donald Trump has had historic levels of <b>controversies</b> for <b>recent</b> presidents of the United States by some metrics. Some of his hiring decisions have been criticized due to relatively high level of <b>scandals</b> and legal trouble. [1] [2] Turnover in the Trump administration was the highest of all presidents since Brookings Institution started measuring in 1980. [3]
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley&#39;s 11 Most Controversial Moments - Bleacher Report
+Link: https://bleacherreport.com/articles/704355-milton-bradleys-11-most-controversial-moments
+Snippet: You may be wondering why Seattle Mariners manager Eric Wedge is looking so, well, bored in that picture. Wedge is in such an uncaring mood because, at that point, he was dealing with ...
+Body Content: Content could not be retrieved.
+
+Title: Let&#39;s not convict Milton Bradley in the court of public opinion just ...
+Link: https://www.nbcsports.com/mlb/news/lets-not-convict-milton-bradley-in-the-court-of-public-opinion-just-yet
+Snippet: Getty Images. As reported last night, Milton <b>Bradley</b> is in some big-time legal trouble as a result of allegedly making threats of bodily harm and/or death against an unidentified female. The charges under California Penal Code section 422 are felony charges, and if they are borne out, he could end up doing time.
+Body Content: Content could not be retrieved.
+
+Title: No hits, no mulligans: Why Milton Bradley’s career is over
+Link: https://www.seattletimes.com/sports/no-hits-no-mulligans-why-milton-bradleys-career-is-over/
+Snippet: This time, it wasn’t about Milton <b>Bradley</b>’s bad attitude. He was just bad, period. <b>Bradley</b>, the mercurial and tormented outfielder, spent 101 games over two seasons with the Mariners and left ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley sentenced to 960 days in jail in abuse case - ESPN
+Link: https://www.espn.com/mlb/story/_/id/9445977/milton-bradley-sentenced-960-days-jail-abuse-case
+Snippet: Los Angeles prosecutors say the 35-year-old was sentenced Tuesday to 960 days in jail and also must perform 400 hours of community service. <b>Bradley</b> faced up to 7½ years in jail. Prosecutors say ...
+Body Content: Content could not be retrieved.
+
+Title: A Long Time Coming: Milton Bradley&#39;s Revelation
+Link: https://bleacherreport.com/articles/388931-a-long-time-coming-milton-bradleys-revelation
+Snippet: Anyone who knows anything about Milton <b>Bradley</b>&amp;rsquo;s career wasn&amp;rsquo;t surprised to hear about him in the news again for something other than his performance on the baseball field...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Milton-Bradley recent scandals or controversies':
+Title: Milton Bradley convicted for spousal abuse, could face over seven years ...
+Link: https://www.nbcsports.com/mlb/news/milton-bradley-convicted-for-spousal-abuse-could-face-over-seven-years-in-prison
+Snippet: A spokesman for the Los Angeles city attorney’s office says <b>Bradley</b> was convicted Monday of nine misdemeanor counts, including assault with a deadly weapon and spousal battery. He faces up to 7 1/2 years in jail at his sentencing scheduled for July 2. Prosecutors say <b>Bradley</b> threatened and attacked his wife five times in 2011 and 2012 ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley facing up to 13 years in prison from spousal abuse ...
+Link: https://www.nbcsports.com/mlb/news/milton-bradley-facing-up-to-13-years-in-prison-from-spousal-abuse-charges
+Snippet: <b>Bradley</b> was arrested in August 2011 for allegedly attacking Monique with a bat, and in March 2012 he allegedly threatened her with a knife and said, “You’ll be dead bitch before you divorce me.”. He faces up to 13 years in prison. Milton <b>Bradley</b> is done being a major league baseball player, but sadly he&#39;s not done making headlines for ...
+Body Content: Content could not be retrieved.
+
+Title: Former Dodgers Outfielder Milton Bradley Gets Nearly 3-Year Jail ...
+Link: https://www.cbsnews.com/losangeles/news/former-dodgers-outfielder-milton-bradley-to-be-sentenced-in-spousal-battery-conviction/
+Snippet: LOS ANGELES (AP) — Former Los Angeles Dodgers outfielder Milton <b>Bradley</b> was sentenced Tuesday to more than 2 1/2 years in jail for abusing and threatening his estranged wife.
+Body Content: Content could not be retrieved.
+
+Title: Former major-leaguer Milton Bradley convicted of abusing wife - CBS Sports
+Link: https://www.cbssports.com/mlb/news/former-major-leaguer-milton-bradley-convicted-of-abusing-wife/
+Snippet: Former major-leaguer Milton <b>Bradley</b> is facing up to 7 1/2 years in prison after being convicted of abusing his estranged wife, the AP reports. <b>Bradley</b> was found guilty on nine misdemeanor charges.
+Body Content: Content could not be retrieved.
+
+Title: List of controversies of recent U.S. Presidents - Wikipedia
+Link: https://en.wikipedia.org/wiki/List_of_controversies_of_recent_U.S._Presidents
+Snippet: Donald Trump has had historic levels of <b>controversies</b> for <b>recent</b> presidents of the United States by some metrics. Some of his hiring decisions have been criticized due to relatively high level of <b>scandals</b> and legal trouble. [1] [2] Turnover in the Trump administration was the highest of all presidents since Brookings Institution started measuring in 1980. [3]
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley&#39;s 11 Most Controversial Moments - Bleacher Report
+Link: https://bleacherreport.com/articles/704355-milton-bradleys-11-most-controversial-moments
+Snippet: You may be wondering why Seattle Mariners manager Eric Wedge is looking so, well, bored in that picture. Wedge is in such an uncaring mood because, at that point, he was dealing with ...
+Body Content: Content could not be retrieved.
+
+Title: Let&#39;s not convict Milton Bradley in the court of public opinion just ...
+Link: https://www.nbcsports.com/mlb/news/lets-not-convict-milton-bradley-in-the-court-of-public-opinion-just-yet
+Snippet: Getty Images. As reported last night, Milton <b>Bradley</b> is in some big-time legal trouble as a result of allegedly making threats of bodily harm and/or death against an unidentified female. The charges under California Penal Code section 422 are felony charges, and if they are borne out, he could end up doing time.
+Body Content: Content could not be retrieved.
+
+Title: No hits, no mulligans: Why Milton Bradley’s career is over
+Link: https://www.seattletimes.com/sports/no-hits-no-mulligans-why-milton-bradleys-career-is-over/
+Snippet: This time, it wasn’t about Milton <b>Bradley</b>’s bad attitude. He was just bad, period. <b>Bradley</b>, the mercurial and tormented outfielder, spent 101 games over two seasons with the Mariners and left ...
+Body Content: Content could not be retrieved.
+
+Title: Milton Bradley sentenced to 960 days in jail in abuse case - ESPN
+Link: https://www.espn.com/mlb/story/_/id/9445977/milton-bradley-sentenced-960-days-jail-abuse-case
+Snippet: Los Angeles prosecutors say the 35-year-old was sentenced Tuesday to 960 days in jail and also must perform 400 hours of community service. <b>Bradley</b> faced up to 7½ years in jail. Prosecutors say ...
+Body Content: Content could not be retrieved.
+
+Title: A Long Time Coming: Milton Bradley&#39;s Revelation
+Link: https://bleacherreport.com/articles/388931-a-long-time-coming-milton-bradleys-revelation
+Snippet: Anyone who knows anything about Milton <b>Bradley</b>&amp;rsquo;s career wasn&amp;rsquo;t surprised to hear about him in the news again for something other than his performance on the baseball field...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)

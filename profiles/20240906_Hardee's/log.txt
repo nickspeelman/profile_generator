@@ -1,0 +1,425 @@
+Susan: Approaching such a research task would require deliberate, sequential efforts that cover different aspects of the task. Here is a step-by-step breakdown of an efficient strategy for our research on 'Hardee's'.
+
+1. **Overview and Background Information**: Initiate by collecting general information about Hardee's. This information should provide a comprehensive picture of the company, including its history, mission, values, organizational structure, and size. Rely on resources like the company's website, Wikipedia, and business directories.
+
+2. **Financial Information Analysis**: The next focus would be on the company's financial health. Look into various financial data, including revenue, profits, and debts. Sources for this information may include company annual reports (if publicly available), financial news websites, and industry reports.
+
+3. **Understanding Key Decision Makers**: Identify the top management and board of directors of Hardee's. They would be the most influential people in the company, and understanding their professional background, personal interests, network, and public statements could provide possible points of leverage. LinkedIn, the company's website, business news outlets, and public databases can be helpful for this.
+
+4. **Labor Relations Scan**: Investigate how Hardee's treats its employees. Instances of labor strikes, lawsuits, employee reviews, retaliation against unionization, wage issues, or violations of labor laws can provide significant leverage in negotiations. Sites like Glassdoor, Indeed, news articles, and legal databases could offer relevant information.
+
+5. **Recent Scandals and Controversies**: Look for any recent scandals, controversial policies, or negative publicity involving Hardee's. Any negative press can be a leverage point in our negotiation strategy. This information can be found in news outlets, blogs, and social media.
+
+6. **Industry, Legal and Competitive Environment**: Research Hardee's competitive environment, the fast-food industry trends, and any significant legal or regulatory challenges. Such knowledge will be useful to understand Hardee's strategic approach and potential vulnerabilities. Industry analyses, news items, and business publication features would be invaluable here.
+
+7. **Social Media and Public Perception**: Finally, studying Hardee's public perception can provide subtle insights into the company's strengths and weaknesses. Analyze customer opinions, ratings, and reviews on social media platforms and sites like Yelp, alongside sentiment analysis on Twitter and Facebook.
+
+Remember to compile all these insights into an organized brief that summarizes the status of Hardee's, its key decision makers, financial health, labor relations, scandals, and public perception.
+Manny: Sure, I'll prepare the list of search queries as follows:
+
+```python
+search_queries_for_remi = [
+    "Hardee's company history and mission",
+    "Hardee's financial reports 2021",
+    "Board of Directors at Hardee's",
+    "Labor laws violations by Hardee's",
+    "Hardee's recent public scandals"
+]
+```
+Remi: Results for 'Hardee's company history and mission':
+Title: Hardee&#39;s About us | Hardee&#39;s
+Link: https://www.hardees.com/about-us
+Snippet: <b>Hardee</b>&#39;s is a burger chain with more than 1,800 restaurants across the U.S. and 13 countries. Known for its Made From Scratch™ Biscuits, Hand-Breaded Chicken Tenders™, and Charbroiled Thickburgers™, <b>Hardee</b>&#39;s has a rich <b>history</b> and a bright future.
+
+Title: Hardee&#39;s - Wikipedia
+Link: https://en.wikipedia.org/wiki/Hardee%27s
+Snippet: <b>Hardee</b>&#39;s is an American fast-food restaurant chain owned by CKE Restaurants Holdings, Inc. since 1997. It was founded in 1960 by Wilber <b>Hardee</b> and expanded internationally in the 1970s and 1980s.
+
+Title: Hardee&#39;s Mission, Vision &amp; Values - Comparably
+Link: https://www.comparably.com/companies/hardees/mission
+Snippet: <b>Hardee</b>&#39;s Employee Alignment. <b>Hardee</b>&#39;s&#39;<b> mission,</b> vision <b>&amp;</b> values motivate 44% of <b>Hardee</b>&#39;s employees. Besides getting paid, the “<b>company</b> <b>mission</b>” is the most important thing about their work for 13% of employees at <b>Hardee</b>&#39;s. When asked to whom they feel the most loyal at work, 17% of employees said <b>Hardee</b>&#39;s&#39; <b>mission</b> and vision.
+
+Title: The Story of Hardee’s - Our State
+Link: https://www.ourstate.com/hardees/
+Snippet: The <b>company</b> introduced thick Black Angus burgers and reinstated charbroiling, Wilber <b>Hardee’s</b> secret to better burgers, which had been abandoned years earlier. By <b>Hardee’s</b> 50th anniversary in 2010, the plan was a continuing success. The CKE chain had grown to 3,134 restaurants — 1,901 <b>Hardee’s</b>, 1,233 Carl’s Jr., all with similar menus.
+
+Title: Hardee&#39;s Fact Sheet | Hardee&#39;s
+Link: https://www.hardees.com/fact-sheet
+Snippet: Learn about <b>Hardee</b>&#39;s <b>history</b>, menu, locations, parent <b>company</b> and social media sites. <b>Hardee</b>&#39;s is a regional quick-service restaurant chain with 1,815 restaurants in 30 states and 43 countries.
+
+Title: The Rise and Fall of Hardee&#39;s: A History of Success and Decline
+Link: https://tammy.ai/summaries/food/food-history/the-rise-and-fall-of-396
+Snippet: The Early Years. ⭐️ Wilber <b>Hardee</b> opened <b>Hardee</b>&#39;s Hamburgers in Greenville, North Carolina in 1960. 💰 <b>Hardee</b>&#39;s made a profit of over $9,500 in the first four months of operation, leading to plans for expansion. 🌐 <b>Hardee</b>, Leonard Rawls, and Jim Gardner believed <b>Hardee</b>&#39;s could be expanded into a major chain by selling franchises.
+
+Title: Mission and values at Hardee&#39;s | Indeed.com
+Link: https://www.indeed.com/cmp/Hardee's/topics/company-mission-and-values
+Snippet: A <b>company</b>’s vision <b>and mission</b> statements define what the <b>company</b> does and what their future goals are. You can use a <b>company</b>’s vision <b>and mission</b> statements while looking for a job to determine whether the <b>company</b> is a good fit for you and your personal goals and values. In this article, you will learn what a vision <b>and mission</b> statement ...
+
+Title: How Carl&#39;s Jr. &amp; Hardee&#39;s Became One Giant Burger Chain With Two Names
+Link: https://www.consumerreports.org/consumerist/how-carls-jr-hardees-became-one-giant-burger-chain-with-two-names/
+Snippet: Learn the <b>history</b> and evolution of Carl&#39;s Jr. and <b>Hardee</b>&#39;s, two fast food brands that share the same parent <b>company</b> but different names and menus. Discover how they started, expanded, and merged ...
+
+Title: Hardee&#39;s Company Profile 2024: Valuation, Investors, Acquisition ...
+Link: https://pitchbook.com/profiles/company/56517-40
+Snippet: <b>Hardee</b>&#39;s was founded in 1960. Where is <b>Hardee</b>&#39;s headquartered? <b>Hardee</b>&#39;s is headquartered in Franklin, TN. What industry is <b>Hardee</b>&#39;s in? <b>Hardee</b>&#39;s’s primary industry is Restaurants and Bars. Is <b>Hardee</b>&#39;s a private or public <b>company</b>? <b>Hardee</b>&#39;s is a Private <b>company</b>. What is the current valuation of <b>Hardee</b>&#39;s? The current valuation of <b>Hardee</b>&#39;s is 00000.
+
+Title: Hardee&#39;s Mission, Benefits, and Work Culture | Indeed.com
+Link: https://www.indeed.com/cmp/Hardee's/about
+Snippet: About <b>Hardee</b>&#39;s. <b>Hardee</b>&#39;s Food Systems, Inc., is an American fast-food restaurant chain, which predominantly operates in the Southern and Midwestern states. <b>Hardee’s</b>®, known for real food, made right, served proud, has built its rapport by serving one-of-a-kind premium menu items such as our Made from Scratch™ Biscuits and Hand-Breaded ...
+
+Remi: Results for 'Hardee's company history and mission':
+Title: Hardee&#39;s About us | Hardee&#39;s
+Link: https://www.hardees.com/about-us
+Snippet: <b>Hardee</b>&#39;s is a burger chain with more than 1,800 restaurants across the U.S. and 13 countries. Known for its Made From Scratch™ Biscuits, Hand-Breaded Chicken Tenders™, and Charbroiled Thickburgers™, <b>Hardee</b>&#39;s has a rich <b>history</b> and a bright future.
+
+Title: Hardee&#39;s - Wikipedia
+Link: https://en.wikipedia.org/wiki/Hardee%27s
+Snippet: <b>Hardee</b>&#39;s is an American fast-food restaurant chain owned by CKE Restaurants Holdings, Inc. since 1997. It was founded in 1960 by Wilber <b>Hardee</b> and expanded internationally in the 1970s and 1980s.
+
+Title: Hardee&#39;s Mission, Vision &amp; Values - Comparably
+Link: https://www.comparably.com/companies/hardees/mission
+Snippet: <b>Hardee</b>&#39;s Employee Alignment. <b>Hardee</b>&#39;s&#39;<b> mission,</b> vision <b>&amp;</b> values motivate 44% of <b>Hardee</b>&#39;s employees. Besides getting paid, the “<b>company</b> <b>mission</b>” is the most important thing about their work for 13% of employees at <b>Hardee</b>&#39;s. When asked to whom they feel the most loyal at work, 17% of employees said <b>Hardee</b>&#39;s&#39; <b>mission</b> and vision.
+
+Title: The Story of Hardee’s - Our State
+Link: https://www.ourstate.com/hardees/
+Snippet: The <b>company</b> introduced thick Black Angus burgers and reinstated charbroiling, Wilber <b>Hardee’s</b> secret to better burgers, which had been abandoned years earlier. By <b>Hardee’s</b> 50th anniversary in 2010, the plan was a continuing success. The CKE chain had grown to 3,134 restaurants — 1,901 <b>Hardee’s</b>, 1,233 Carl’s Jr., all with similar menus.
+
+Title: Hardee&#39;s Fact Sheet | Hardee&#39;s
+Link: https://www.hardees.com/fact-sheet
+Snippet: Learn about <b>Hardee</b>&#39;s <b>history</b>, menu, locations, parent <b>company</b> and social media sites. <b>Hardee</b>&#39;s is a regional quick-service restaurant chain with 1,815 restaurants in 30 states and 43 countries.
+
+Title: The Rise and Fall of Hardee&#39;s: A History of Success and Decline
+Link: https://tammy.ai/summaries/food/food-history/the-rise-and-fall-of-396
+Snippet: The Early Years. ⭐️ Wilber <b>Hardee</b> opened <b>Hardee</b>&#39;s Hamburgers in Greenville, North Carolina in 1960. 💰 <b>Hardee</b>&#39;s made a profit of over $9,500 in the first four months of operation, leading to plans for expansion. 🌐 <b>Hardee</b>, Leonard Rawls, and Jim Gardner believed <b>Hardee</b>&#39;s could be expanded into a major chain by selling franchises.
+
+Title: Mission and values at Hardee&#39;s | Indeed.com
+Link: https://www.indeed.com/cmp/Hardee's/topics/company-mission-and-values
+Snippet: A <b>company</b>’s vision <b>and mission</b> statements define what the <b>company</b> does and what their future goals are. You can use a <b>company</b>’s vision <b>and mission</b> statements while looking for a job to determine whether the <b>company</b> is a good fit for you and your personal goals and values. In this article, you will learn what a vision <b>and mission</b> statement ...
+
+Title: How Carl&#39;s Jr. &amp; Hardee&#39;s Became One Giant Burger Chain With Two Names
+Link: https://www.consumerreports.org/consumerist/how-carls-jr-hardees-became-one-giant-burger-chain-with-two-names/
+Snippet: Learn the <b>history</b> and evolution of Carl&#39;s Jr. and <b>Hardee</b>&#39;s, two fast food brands that share the same parent <b>company</b> but different names and menus. Discover how they started, expanded, and merged ...
+
+Title: Hardee&#39;s Company Profile 2024: Valuation, Investors, Acquisition ...
+Link: https://pitchbook.com/profiles/company/56517-40
+Snippet: <b>Hardee</b>&#39;s was founded in 1960. Where is <b>Hardee</b>&#39;s headquartered? <b>Hardee</b>&#39;s is headquartered in Franklin, TN. What industry is <b>Hardee</b>&#39;s in? <b>Hardee</b>&#39;s’s primary industry is Restaurants and Bars. Is <b>Hardee</b>&#39;s a private or public <b>company</b>? <b>Hardee</b>&#39;s is a Private <b>company</b>. What is the current valuation of <b>Hardee</b>&#39;s? The current valuation of <b>Hardee</b>&#39;s is 00000.
+
+Title: Hardee&#39;s Mission, Benefits, and Work Culture | Indeed.com
+Link: https://www.indeed.com/cmp/Hardee's/about
+Snippet: About <b>Hardee</b>&#39;s. <b>Hardee</b>&#39;s Food Systems, Inc., is an American fast-food restaurant chain, which predominantly operates in the Southern and Midwestern states. <b>Hardee’s</b>®, known for real food, made right, served proud, has built its rapport by serving one-of-a-kind premium menu items such as our Made from Scratch™ Biscuits and Hand-Breaded ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Hardee's financial reports 2021':
+PDF Link: https://www.spglobal.com/_assets/documents/ratings/research/12001649.pdf
+Title: Hardee&#39;s | 2021 - Restaurant Business
+Link: https://www.restaurantbusinessonline.com/top-500-chains-2021/hardees
+Snippet: 2020 was a year like no other and played a massive role in the Technomic Top 500 Chain Restaurant <b>Report</b>. Take a deep dive with RB into the 2020 was a year like no other and played a massive role in the Technomic Top 500 Chain Restaurant <b>Report</b>. ... <b>Hardee</b>&#39;s. Facebook; Twitter; LinkedIn; Top 500 Year: <b>2021</b>: 2020 U.S. Sales ($000,000) $1,820 ...
+
+Title: Hardee&#39;s Food Systems Inc revenue - Zippia
+Link: https://www.zippia.com/hardee-s-food-systems-inc-careers-25646/revenue/
+Snippet: <b>Hardee</b>&#39;s Food Systems Inc&#39;s <b>annual</b> revenue is $920.0M. Zippia&#39;s data science team found the following key <b>financial</b> metrics about <b>Hardee</b>&#39;s Food Systems Inc after extensive research and analysis. <b>Hardee</b>&#39;s Food Systems Inc peak revenue was $920.0M in 2023. <b>Hardee</b>&#39;s Food Systems Inc has 16,680 employees, and the revenue per employee ratio is ...
+
+PDF Link: https://s2.q4cdn.com/602190090/files/doc_financials/2021/q4/0302cd18-964e-4bee-b427-d313202a7dd9.pdf
+PDF Link: https://www.restfinance.com/app/pdf/fdd/Hardees-2021.pdf
+Title: Carl’s Jr. And Hardee’s Are Going Through A Major ... - Forbes
+Link: https://www.forbes.com/sites/aliciakelso/2022/05/10/carls-jr-and-hardees-are-going-through-a-systemwide-transformation-that-includes-exterior-technology-and-menu-updates/
+Snippet: Carl&#39;s Jr. and <b>Hardee</b>&#39;s parent company CKE Restaurants Holdings Inc. announced a holistic reimaging effort that is expected to be completed in the next four to six years and cost about $500 million.
+
+Title: Hardee&#39;s Food Systems Inc - Company Profile and News
+Link: https://www.bloomberg.com/profile/company/17157Z:US
+Snippet: <b>Hardee</b>&#39;s Food Systems Inc. operates a chain of fast food restaurants. The Company offers biscuits, break fast food products, charbroiled burgers, various sides, desserts, beverages, and chicken ...
+
+Title: Hardee&#39;s Pressroom | Hardee&#39;s
+Link: https://www.hardees.com/pressroom
+Snippet: Carl&#39;s Jr. &amp; <b>Hardee</b>&#39;s Hire New Marketing and <b>Financial</b> Chiefs Jul 18, 2023. Carl&#39;s Jr. and <b>Hardee</b>&#39;s raise $1 million and counting for military veterans and families Jul 14, 2023 . <b>Hardee’s</b> Is Giving Away Free Fries with purchase for the Rest of the Year in Celebration of National Fry Day ... ©2010-2024 <b>Hardee’s</b> Restaurants LLC. Featured ...
+
+Title: Presale: Hardee&#39;s Funding LLC/Carl&#39;s Jr. Funding LLC (Series 2021-1)
+Link: https://www.spglobal.com/ratings/en/research/pdf-articles/210616-presale-hardee-s-funding-llc-carl-s-jr-funding-llc-series-2021-1-12001649
+Snippet: <b>Hardee</b>&#39;s Funding LLC/Carl&#39;s Jr. Funding LLC&#39;s series <b>2021</b>-1 issuance is a $180 million corporate securitization of CKE Restaurants Holdings Inc.&#39;s (CKE) business. CKE will use the proceeds for general corporate purposes as well as transaction fees and expenses. The series <b>2021</b>-1 class A-2 fixed-rate notes will be collateralized by existing and future domestic and international franchise ...
+
+Title: Hardee&#39;s’s Competitors, Revenue, Number of Employees, Funding ... - Owler
+Link: https://www.owler.com/company/hardees
+Snippet: <b>Hardee</b>&#39;s’s Profile, Revenue and Employees. <b>Hardee</b>&#39;s owns and operates a chain of restaurants that serves burgers, sandwiches, sides, desserts and beverages. <b>Hardee</b>&#39;s’s primary competitors include Firehouse, Wendy&#39;s, Chipotle and 17 more.
+
+Remi: Results for 'Hardee's financial reports 2021':
+PDF Link: https://www.spglobal.com/_assets/documents/ratings/research/12001649.pdf
+Title: Hardee&#39;s | 2021 - Restaurant Business
+Link: https://www.restaurantbusinessonline.com/top-500-chains-2021/hardees
+Snippet: 2020 was a year like no other and played a massive role in the Technomic Top 500 Chain Restaurant <b>Report</b>. Take a deep dive with RB into the 2020 was a year like no other and played a massive role in the Technomic Top 500 Chain Restaurant <b>Report</b>. ... <b>Hardee</b>&#39;s. Facebook; Twitter; LinkedIn; Top 500 Year: <b>2021</b>: 2020 U.S. Sales ($000,000) $1,820 ...
+
+Title: Hardee&#39;s Food Systems Inc revenue - Zippia
+Link: https://www.zippia.com/hardee-s-food-systems-inc-careers-25646/revenue/
+Snippet: <b>Hardee</b>&#39;s Food Systems Inc&#39;s <b>annual</b> revenue is $920.0M. Zippia&#39;s data science team found the following key <b>financial</b> metrics about <b>Hardee</b>&#39;s Food Systems Inc after extensive research and analysis. <b>Hardee</b>&#39;s Food Systems Inc peak revenue was $920.0M in 2023. <b>Hardee</b>&#39;s Food Systems Inc has 16,680 employees, and the revenue per employee ratio is ...
+
+PDF Link: https://s2.q4cdn.com/602190090/files/doc_financials/2021/q4/0302cd18-964e-4bee-b427-d313202a7dd9.pdf
+PDF Link: https://www.restfinance.com/app/pdf/fdd/Hardees-2021.pdf
+Title: Carl’s Jr. And Hardee’s Are Going Through A Major ... - Forbes
+Link: https://www.forbes.com/sites/aliciakelso/2022/05/10/carls-jr-and-hardees-are-going-through-a-systemwide-transformation-that-includes-exterior-technology-and-menu-updates/
+Snippet: Carl&#39;s Jr. and <b>Hardee</b>&#39;s parent company CKE Restaurants Holdings Inc. announced a holistic reimaging effort that is expected to be completed in the next four to six years and cost about $500 million.
+
+Title: Hardee&#39;s Food Systems Inc - Company Profile and News
+Link: https://www.bloomberg.com/profile/company/17157Z:US
+Snippet: <b>Hardee</b>&#39;s Food Systems Inc. operates a chain of fast food restaurants. The Company offers biscuits, break fast food products, charbroiled burgers, various sides, desserts, beverages, and chicken ...
+
+Title: Hardee&#39;s Pressroom | Hardee&#39;s
+Link: https://www.hardees.com/pressroom
+Snippet: Carl&#39;s Jr. &amp; <b>Hardee</b>&#39;s Hire New Marketing and <b>Financial</b> Chiefs Jul 18, 2023. Carl&#39;s Jr. and <b>Hardee</b>&#39;s raise $1 million and counting for military veterans and families Jul 14, 2023 . <b>Hardee’s</b> Is Giving Away Free Fries with purchase for the Rest of the Year in Celebration of National Fry Day ... ©2010-2024 <b>Hardee’s</b> Restaurants LLC. Featured ...
+
+Title: Presale: Hardee&#39;s Funding LLC/Carl&#39;s Jr. Funding LLC (Series 2021-1)
+Link: https://www.spglobal.com/ratings/en/research/pdf-articles/210616-presale-hardee-s-funding-llc-carl-s-jr-funding-llc-series-2021-1-12001649
+Snippet: <b>Hardee</b>&#39;s Funding LLC/Carl&#39;s Jr. Funding LLC&#39;s series <b>2021</b>-1 issuance is a $180 million corporate securitization of CKE Restaurants Holdings Inc.&#39;s (CKE) business. CKE will use the proceeds for general corporate purposes as well as transaction fees and expenses. The series <b>2021</b>-1 class A-2 fixed-rate notes will be collateralized by existing and future domestic and international franchise ...
+
+Title: Hardee&#39;s’s Competitors, Revenue, Number of Employees, Funding ... - Owler
+Link: https://www.owler.com/company/hardees
+Snippet: <b>Hardee</b>&#39;s’s Profile, Revenue and Employees. <b>Hardee</b>&#39;s owns and operates a chain of restaurants that serves burgers, sandwiches, sides, desserts and beverages. <b>Hardee</b>&#39;s’s primary competitors include Firehouse, Wendy&#39;s, Chipotle and 17 more.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Board of Directors at Hardee's':
+Title: Hardee&#39;s CEO and Key Executive Team | Craft.co
+Link: https://craft.co/hardee-s/executives
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. <b>Hardee&#39;s</b>&#39;s Chief Executive Officer is Ned Lyerly. Other executives include Mike Woida, President, International; Andrew Robinson, Chief Human Resources Officer and 4 others. See the full leadership team at Craft.
+
+Title: Ned Lyerly named CEO of Hardee’s, Carl’s Jr. owner CKE Restaurants
+Link: https://www.restaurantbusinessonline.com/leadership/ned-lyerly-named-ceo-hardees-carls-jr-owner-cke-restaurants
+Snippet: CKE Restaurants on Friday named Ned Lyerly the company’s new CEO, effective immediately, amid a shakeup at the Franklin, Tenn.-based owner of <b>Hardee’s</b> and Carl’s Jr. George Condos, a 30-year industry veteran, was also named to the company’s <b>board</b> <b>of directors</b>. Lyerly, who has been with CKE for more than three decades and most recently ...
+
+Title: CKE Restaurants - Wikipedia
+Link: https://en.wikipedia.org/wiki/CKE_Restaurants
+Snippet: CKE Restaurants Holdings, Inc. (an acronym for Carl Karcher Enterprises) is an American fast food corporation and is the parent organization for the Carl&#39;s Jr., <b>Hardee&#39;s</b>, Green Burrito, and Red Burrito brands. [4] [5] CKE Restaurants is headquartered in Franklin, Tennessee.[6]In October 2020, CKE Restaurants operated or franchised to locations in 44 US states and 43 foreign countries and US ...
+
+Title: The owner of Hardee&#39;s and Carl&#39;s Jr. adds a pair of new executives
+Link: https://www.restaurantbusinessonline.com/leadership/owner-hardees-carls-jr-adds-pair-new-executives
+Snippet: The Franklin, Tenn.-based owner of <b>Hardee’s</b> and Carl’s Jr., on Wednesday named Jennifer Tate CMO and Mike Lenihan CFO. The two will report to Wetzel, who was named CEO of the burger chains in May. Tate comes to the company from Cracker Barrel, where she was the chief marketing officer.
+
+Title: Carl&#39;s Jr. gets a new brand president as its parent company restructures
+Link: https://www.restaurantbusinessonline.com/leadership/carls-jr-gets-new-brand-president-its-parent-company-restructures
+Snippet: By Jonathan Maze on Apr. 03, 2024. Former Yum Brands executive Blake Devillier was named brand president of Carl’s Jr. in the U.S., as its parent company CKE Restaurants continues a restructuring of the company’s leadership. Devillier will be one of three presidents who will report to CEO Max Wetzel. Chris Bode was named president of <b>Hardee</b> ...
+
+Title: CKE RESTAURANTS APPOINTS MAX WETZEL AS CHIEF EXECUTIVE OFFICER
+Link: https://www.prnewswire.com/news-releases/cke-restaurants-appoints-max-wetzel-as-chief-executive-officer-301774632.html
+Snippet: Share this article. FRANKLIN, Tenn., March 17, 2023 /PRNewswire/ -- CKE Restaurants Holdings, Inc. (&quot;CKE&quot;), parent company of Carl&#39;s Jr. ® and <b>Hardee&#39;s</b> ®, today announced the appointment of Max ...
+
+Title: Bob Pragada Appointed Chair of Jacobs Board of Directors; Louis Pinkham ...
+Link: https://www.jacobs.com/newsroom/press-release/bob-pragada-appointed-chair-jacobs-board-directors-louis-pinkham-named-lead
+Snippet: Following the successful closure of the CMS transaction, Jacobs&#39; current Lead Independent <b>Director</b>, Chris Thompson, will move to the Amentum <b>Board</b>, and Louis Pinkham has been elected to serve as Lead Independent <b>Director</b>. Pinkham, currently CEO of Regal Rexnord, joined the Jacobs <b>Board</b> in Sept 2023.
+
+Title: ABOUT US - Hardee&#39;s
+Link: https://www.hardees.com/about-us
+Snippet: Wilber <b>Hardee</b>, opens his first <b>Hardee&#39;s</b>® restaurant in Greenville, North Carolina, on September 3, 1960. The one-of-a-kind menu included 15-cent hamburgers, 10-cent fries, and 20-cent milkshakes. By the end of the 60s, there were more than 200 <b>Hardee&#39;s</b> locations. 1970s.
+
+Title: Christopher Bode on LinkedIn: #goodnessinthemaking #ckefamily # ...
+Link: https://www.linkedin.com/feed/update/urn:li:share:7126230718485008388/
+Snippet: President, <b>Hardee&#39;s</b> USA. 5mo. It’s with great pride that I’m writing to share that I’ve stepped into a new role recently as President of <b>Hardee’s</b> USA. This role reflects a reinvigorated ...
+
+Title: Hardee’s, Carl’s Jr. Parent Names Max Wetzel CEO
+Link: https://www.qsrmagazine.com/growth/hardees-carls-jr-parent-names-max-wetzel-ceo/
+Snippet: <b>Hardee’s</b> and Carl’s Jr. parent CKE Restaurants named former Papa Johns executive Max Wetzel its new CEO, effective immediately. He joined Papa Johns in November 2019 as chief commercial and marketing officer and advanced to chief operating officer in May 2022. Prior to restaurants, Wetzel spent time at PPG Industries and The Kraft Heinz Company. […]
+
+Remi: Results for 'Board of Directors at Hardee's':
+Title: Hardee&#39;s CEO and Key Executive Team | Craft.co
+Link: https://craft.co/hardee-s/executives
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. <b>Hardee&#39;s</b>&#39;s Chief Executive Officer is Ned Lyerly. Other executives include Mike Woida, President, International; Andrew Robinson, Chief Human Resources Officer and 4 others. See the full leadership team at Craft.
+
+Title: Ned Lyerly named CEO of Hardee’s, Carl’s Jr. owner CKE Restaurants
+Link: https://www.restaurantbusinessonline.com/leadership/ned-lyerly-named-ceo-hardees-carls-jr-owner-cke-restaurants
+Snippet: CKE Restaurants on Friday named Ned Lyerly the company’s new CEO, effective immediately, amid a shakeup at the Franklin, Tenn.-based owner of <b>Hardee’s</b> and Carl’s Jr. George Condos, a 30-year industry veteran, was also named to the company’s <b>board</b> <b>of directors</b>. Lyerly, who has been with CKE for more than three decades and most recently ...
+
+Title: CKE Restaurants - Wikipedia
+Link: https://en.wikipedia.org/wiki/CKE_Restaurants
+Snippet: CKE Restaurants Holdings, Inc. (an acronym for Carl Karcher Enterprises) is an American fast food corporation and is the parent organization for the Carl&#39;s Jr., <b>Hardee&#39;s</b>, Green Burrito, and Red Burrito brands. [4] [5] CKE Restaurants is headquartered in Franklin, Tennessee.[6]In October 2020, CKE Restaurants operated or franchised to locations in 44 US states and 43 foreign countries and US ...
+
+Title: The owner of Hardee&#39;s and Carl&#39;s Jr. adds a pair of new executives
+Link: https://www.restaurantbusinessonline.com/leadership/owner-hardees-carls-jr-adds-pair-new-executives
+Snippet: The Franklin, Tenn.-based owner of <b>Hardee’s</b> and Carl’s Jr., on Wednesday named Jennifer Tate CMO and Mike Lenihan CFO. The two will report to Wetzel, who was named CEO of the burger chains in May. Tate comes to the company from Cracker Barrel, where she was the chief marketing officer.
+
+Title: Carl&#39;s Jr. gets a new brand president as its parent company restructures
+Link: https://www.restaurantbusinessonline.com/leadership/carls-jr-gets-new-brand-president-its-parent-company-restructures
+Snippet: By Jonathan Maze on Apr. 03, 2024. Former Yum Brands executive Blake Devillier was named brand president of Carl’s Jr. in the U.S., as its parent company CKE Restaurants continues a restructuring of the company’s leadership. Devillier will be one of three presidents who will report to CEO Max Wetzel. Chris Bode was named president of <b>Hardee</b> ...
+
+Title: CKE RESTAURANTS APPOINTS MAX WETZEL AS CHIEF EXECUTIVE OFFICER
+Link: https://www.prnewswire.com/news-releases/cke-restaurants-appoints-max-wetzel-as-chief-executive-officer-301774632.html
+Snippet: Share this article. FRANKLIN, Tenn., March 17, 2023 /PRNewswire/ -- CKE Restaurants Holdings, Inc. (&quot;CKE&quot;), parent company of Carl&#39;s Jr. ® and <b>Hardee&#39;s</b> ®, today announced the appointment of Max ...
+
+Title: Bob Pragada Appointed Chair of Jacobs Board of Directors; Louis Pinkham ...
+Link: https://www.jacobs.com/newsroom/press-release/bob-pragada-appointed-chair-jacobs-board-directors-louis-pinkham-named-lead
+Snippet: Following the successful closure of the CMS transaction, Jacobs&#39; current Lead Independent <b>Director</b>, Chris Thompson, will move to the Amentum <b>Board</b>, and Louis Pinkham has been elected to serve as Lead Independent <b>Director</b>. Pinkham, currently CEO of Regal Rexnord, joined the Jacobs <b>Board</b> in Sept 2023.
+
+Title: ABOUT US - Hardee&#39;s
+Link: https://www.hardees.com/about-us
+Snippet: Wilber <b>Hardee</b>, opens his first <b>Hardee&#39;s</b>® restaurant in Greenville, North Carolina, on September 3, 1960. The one-of-a-kind menu included 15-cent hamburgers, 10-cent fries, and 20-cent milkshakes. By the end of the 60s, there were more than 200 <b>Hardee&#39;s</b> locations. 1970s.
+
+Title: Christopher Bode on LinkedIn: #goodnessinthemaking #ckefamily # ...
+Link: https://www.linkedin.com/feed/update/urn:li:share:7126230718485008388/
+Snippet: President, <b>Hardee&#39;s</b> USA. 5mo. It’s with great pride that I’m writing to share that I’ve stepped into a new role recently as President of <b>Hardee’s</b> USA. This role reflects a reinvigorated ...
+
+Title: Hardee’s, Carl’s Jr. Parent Names Max Wetzel CEO
+Link: https://www.qsrmagazine.com/growth/hardees-carls-jr-parent-names-max-wetzel-ceo/
+Snippet: <b>Hardee’s</b> and Carl’s Jr. parent CKE Restaurants named former Papa Johns executive Max Wetzel its new CEO, effective immediately. He joined Papa Johns in November 2019 as chief commercial and marketing officer and advanced to chief operating officer in May 2022. Prior to restaurants, Wetzel spent time at PPG Industries and The Kraft Heinz Company. […]
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Labor laws violations by Hardee's':
+Title: Fact check/Did 60 percent of Andrew Puzder&#39;s company&#39;s restaurants ...
+Link: https://ballotpedia.org/Fact_check/Did_60_percent_of_Andrew_Puzder%27s_company%27s_restaurants_violate_the_Fair_Labor_Standards_Act
+Snippet: The Bloomberg BNA analysis combined enforcement data for two CKE restaurants, <b>Hardee</b>&#39;s and Carl’s Jr., and the two together had among the fewest <b>violations</b>. Bloomberg ranked <b>Hardee</b>&#39;s/Carl’s Jr. 17th out of 20, not the fourth worst. Logan is correct that CKE has faced several class-action lawsuits alleging <b>violations</b> of labor <b>laws</b> regarding pay.
+
+Title: Hardee&#39;s CEO and labor sec&#39;y nominee sued for labor law violations
+Link: https://www.qsrweb.com/news/hardees-ceo-and-labor-secy-nominee-sued-for-labor-law-violations/
+Snippet: Labor secretary nominee and CKE Restaurant Group CEO Andrew Puzder may have a labor <b>violations</b> lawsuit on his hands.While at least four Senate Republicans were equivocating about voting for President Trump&#39;s nominee for the job, qz.com disclosed this morningthat Puzder allegedly led the company while it violated labor <b>laws</b>. The article reported that two employees filed suit Feb. 8 against ...
+
+Title: Donald Trump&#39;s Labor Pick Would Be Expected To Enforce A Law His ...
+Link: https://www.huffpost.com/entry/trumps-labor-pick-would-have-to-enforce-a-law-his-company-has-broken_n_584abfd7e4b0e05aded37221
+Snippet: Puzder apparently has some experience when it comes to wage <b>law</b> enforcement, albeit on the other side. According to a review of Labor Department records, <b>Hardee’s</b> Food Systems Inc., a subsidiary of CKE Restaurants, agreed to pay $58,000 in back pay to a group of 456 workers after a wage-and-hour investigation by the agency in 2006 and 2007.
+
+Title: <b>Hardee’s</b> Disability Bias Lawsuit to Get Full Appeals Court Look
+Link: https://news.bloomberglaw.com/daily-labor-report/hardees-disability-bias-lawsuit-to-get-full-appeals-court-look
+Snippet: The owner of several <b>Hardee’s</b> restaurants in the Midwest convinced the full Eighth Circuit to take a new look at what role a former store manager’s diabetes played in her firing. A divided appellate panel revived the worker’s disability bias and medical leave-related claims last month. Westar Foods Inc. argued that the majority used the ...
+
+Title: Hardee&#39;s and Carl&#39;s Jr. Employees Set Record Straight on Working for ...
+Link: https://cei.org/blog/hardees-and-carls-jr-employees-set-record-straight-on-working-for-andy-puzder/
+Snippet: Her findings show that <b>Hardee’s</b> and Carl’s Jr. have an excellent record of compliance with wage and hours <b>laws</b>: But records from the Labor Department’s Wage and Hour Division collected by Bloomberg-BNA show that <b>Hardee’s</b> and Carl’s Jr have far fewer Fair Labor Standards Act (FLSA) <b>violations</b> per store on average than other chains. In ...
+
+Title: GOP Secretaries of Labor: Puzder Is a Break from the Past
+Link: https://tcf.org/content/report/gop-secretaries-labor-puzder-break-past/
+Snippet: The nation’s top labor enforcer is slated to be a CEO from one of the highest-<b>violation</b> industries in the nation—fast food. The Department of Labor found that nearly 60 percent of Carl’s Jr. and <b>Hardee’s</b> restaurants investigated had at least one wage <b>violation</b>. 1 Moreover, Puzder is a prolific public speaker and writer who has decried ...
+
+Title: Hardee&#39;s, Carl&#39;s Jr. Workers File 33 More Labor Violations Against Andy ...
+Link: https://www.iatse728.org/blog/hardees-carls-jr-workers-file-33-more-labor-violations-against-andy-puzders-company
+Snippet: Thirty-three new labor <b>law</b> <b>violation</b> charges were filed this week against CKE - Andy Puzder&#39;s fast food chain. Puzder is Trump&#39;s nominee for U.S. Labor Secretary, a job that&#39;s supposed to enforce labor <b>laws</b> to improve workers lives. The charges include sexual harassment, wage theft through wage and hour <b>violations</b> and unfair labor practice charges. Charges were filed at the NLRB, the EEOC and ...
+
+Title: How The Fast-Food Chain Led By Trump&#39;s Labor Nominee Stiffed ... - HuffPost
+Link: https://www.huffpost.com/entry/andy-puzder-hardees-labor-law-violations_n_5893b7ade4b09bd304ba7f14?xzgj6tn9bfxixjemi=
+Snippet: While Andy Puzder ran <b>Hardee</b>&#39;s, its franchisees altered timecards, deducted pay for uniforms and even broke child labor <b>law</b>.
+
+Title: Trump&#39;s Former Labor Nominee Leaves Hardee&#39;s, Carl&#39;s Jr.
+Link: https://www.huffpost.com/entry/trumps-former-labor-nominee-leaves-hardees-carls-jr_n_58d1993ce4b02d33b7468c60
+Snippet: By. Dave Jamieson. Mar 21, 2017, 05:55 PM EDT. WASHINGTON ― Weeks after losing a bruising confirmation battle in Washington, Andy Puzder is leaving his job at the helm of the <b>Hardee’s</b> and Carl’s Jr. burger chains. President Donald Trump picked Puzder to be the next labor secretary, but the CEO withdrew himself from consideration in ...
+
+Title: Trump’s Labor Secretary Pick, Andrew Puzder, Is Swamped in His Own ...
+Link: https://www.thedailybeast.com/trumps-labor-secretary-pick-andrew-puzder-is-swamped-in-his-own-workplace-lawsuits
+Snippet: The U.S. Department of Labor found that more than half of <b>Hardee</b>&#39;s and Carl&#39;s Jr. locations had wage <b>violations</b>, ... who are concerned that about his views on labor <b>laws</b>, to restrictionist groups ...
+
+Remi: Results for 'Labor laws violations by Hardee's':
+Title: Fact check/Did 60 percent of Andrew Puzder&#39;s company&#39;s restaurants ...
+Link: https://ballotpedia.org/Fact_check/Did_60_percent_of_Andrew_Puzder%27s_company%27s_restaurants_violate_the_Fair_Labor_Standards_Act
+Snippet: The Bloomberg BNA analysis combined enforcement data for two CKE restaurants, <b>Hardee</b>&#39;s and Carl’s Jr., and the two together had among the fewest <b>violations</b>. Bloomberg ranked <b>Hardee</b>&#39;s/Carl’s Jr. 17th out of 20, not the fourth worst. Logan is correct that CKE has faced several class-action lawsuits alleging <b>violations</b> of labor <b>laws</b> regarding pay.
+
+Title: Hardee&#39;s CEO and labor sec&#39;y nominee sued for labor law violations
+Link: https://www.qsrweb.com/news/hardees-ceo-and-labor-secy-nominee-sued-for-labor-law-violations/
+Snippet: Labor secretary nominee and CKE Restaurant Group CEO Andrew Puzder may have a labor <b>violations</b> lawsuit on his hands.While at least four Senate Republicans were equivocating about voting for President Trump&#39;s nominee for the job, qz.com disclosed this morningthat Puzder allegedly led the company while it violated labor <b>laws</b>. The article reported that two employees filed suit Feb. 8 against ...
+
+Title: Donald Trump&#39;s Labor Pick Would Be Expected To Enforce A Law His ...
+Link: https://www.huffpost.com/entry/trumps-labor-pick-would-have-to-enforce-a-law-his-company-has-broken_n_584abfd7e4b0e05aded37221
+Snippet: Puzder apparently has some experience when it comes to wage <b>law</b> enforcement, albeit on the other side. According to a review of Labor Department records, <b>Hardee’s</b> Food Systems Inc., a subsidiary of CKE Restaurants, agreed to pay $58,000 in back pay to a group of 456 workers after a wage-and-hour investigation by the agency in 2006 and 2007.
+
+Title: <b>Hardee’s</b> Disability Bias Lawsuit to Get Full Appeals Court Look
+Link: https://news.bloomberglaw.com/daily-labor-report/hardees-disability-bias-lawsuit-to-get-full-appeals-court-look
+Snippet: The owner of several <b>Hardee’s</b> restaurants in the Midwest convinced the full Eighth Circuit to take a new look at what role a former store manager’s diabetes played in her firing. A divided appellate panel revived the worker’s disability bias and medical leave-related claims last month. Westar Foods Inc. argued that the majority used the ...
+
+Title: Hardee&#39;s and Carl&#39;s Jr. Employees Set Record Straight on Working for ...
+Link: https://cei.org/blog/hardees-and-carls-jr-employees-set-record-straight-on-working-for-andy-puzder/
+Snippet: Her findings show that <b>Hardee’s</b> and Carl’s Jr. have an excellent record of compliance with wage and hours <b>laws</b>: But records from the Labor Department’s Wage and Hour Division collected by Bloomberg-BNA show that <b>Hardee’s</b> and Carl’s Jr have far fewer Fair Labor Standards Act (FLSA) <b>violations</b> per store on average than other chains. In ...
+
+Title: GOP Secretaries of Labor: Puzder Is a Break from the Past
+Link: https://tcf.org/content/report/gop-secretaries-labor-puzder-break-past/
+Snippet: The nation’s top labor enforcer is slated to be a CEO from one of the highest-<b>violation</b> industries in the nation—fast food. The Department of Labor found that nearly 60 percent of Carl’s Jr. and <b>Hardee’s</b> restaurants investigated had at least one wage <b>violation</b>. 1 Moreover, Puzder is a prolific public speaker and writer who has decried ...
+
+Title: Hardee&#39;s, Carl&#39;s Jr. Workers File 33 More Labor Violations Against Andy ...
+Link: https://www.iatse728.org/blog/hardees-carls-jr-workers-file-33-more-labor-violations-against-andy-puzders-company
+Snippet: Thirty-three new labor <b>law</b> <b>violation</b> charges were filed this week against CKE - Andy Puzder&#39;s fast food chain. Puzder is Trump&#39;s nominee for U.S. Labor Secretary, a job that&#39;s supposed to enforce labor <b>laws</b> to improve workers lives. The charges include sexual harassment, wage theft through wage and hour <b>violations</b> and unfair labor practice charges. Charges were filed at the NLRB, the EEOC and ...
+
+Title: How The Fast-Food Chain Led By Trump&#39;s Labor Nominee Stiffed ... - HuffPost
+Link: https://www.huffpost.com/entry/andy-puzder-hardees-labor-law-violations_n_5893b7ade4b09bd304ba7f14?xzgj6tn9bfxixjemi=
+Snippet: While Andy Puzder ran <b>Hardee</b>&#39;s, its franchisees altered timecards, deducted pay for uniforms and even broke child labor <b>law</b>.
+
+Title: Trump&#39;s Former Labor Nominee Leaves Hardee&#39;s, Carl&#39;s Jr.
+Link: https://www.huffpost.com/entry/trumps-former-labor-nominee-leaves-hardees-carls-jr_n_58d1993ce4b02d33b7468c60
+Snippet: By. Dave Jamieson. Mar 21, 2017, 05:55 PM EDT. WASHINGTON ― Weeks after losing a bruising confirmation battle in Washington, Andy Puzder is leaving his job at the helm of the <b>Hardee’s</b> and Carl’s Jr. burger chains. President Donald Trump picked Puzder to be the next labor secretary, but the CEO withdrew himself from consideration in ...
+
+Title: Trump’s Labor Secretary Pick, Andrew Puzder, Is Swamped in His Own ...
+Link: https://www.thedailybeast.com/trumps-labor-secretary-pick-andrew-puzder-is-swamped-in-his-own-workplace-lawsuits
+Snippet: The U.S. Department of Labor found that more than half of <b>Hardee</b>&#39;s and Carl&#39;s Jr. locations had wage <b>violations</b>, ... who are concerned that about his views on labor <b>laws</b>, to restrictionist groups ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Hardee's recent public scandals':
+Title: Signs Hardee&#39;s Might Not Be Around Much Longer - Mashed
+Link: https://www.mashed.com/1536153/signs-hardees-wont-be-around-much-longer/
+Snippet: However, take-out connoisseurs might be upset to know that <b>Hardee</b>&#39;s may not be around much longer to satisfy their cravings. As impressive as 1,800 stores is, <b>Hardee</b>&#39;s used to have over 3,100 — stores have slowly closed since CKE Restaurants acquired the company in 1997. Here are reasons why <b>Hardee</b>&#39;s might be in danger of biting the dust.
+
+Title: 10 charged in fraud scheme targeting customers at Michigan City Hardees ...
+Link: https://www.nbcchicago.com/news/local/10-charged-in-14k-fraud-scheme-targeting-drive-thru-customers-at-nw-indiana-fast-food-restaurant/3245648/
+Snippet: 10 charged in $14K fraud scheme targeting customers at Northwest Indiana <b>Hardee</b>&#39;s A warrant has been issued for a 10th individual, Dylnn V. Scott, who is accused of felony conspiracy to commit ...
+
+Title: Hardee&#39;s Has Been Closing Doors Across America - MSN
+Link: https://www.msn.com/en-us/foodanddrink/foodnews/hardee-s-has-been-closing-doors-across-america/ar-BB1np4eQ
+Snippet: <b>Hardee’s</b> Is Closing Doors Across America. The brick-and-mortar landscape for restaurants has not had a good run for the past four years or so. A lot started with the pandemic, when most ...
+
+Title: The Untold Truth Of Hardee&#39;s - Mashed
+Link: https://www.mashed.com/141012/the-untold-truth-of-hardees/
+Snippet: Facebook. Wilbur <b>Hardee</b>&#39;s 15-cent hamburgers were a hit with Greenville, North Carolina when he opened his first <b>Hardee</b>&#39;s in 1960. In the first four months he netted a profit of $9,500 and set his sights on growing the business. Unfortunately for <b>Hardee</b>, his vision of expanding came with a heavy price.
+
+Title: Hardee’s Employees Caught Stealing Card Numbers to Bail Out Inmates
+Link: https://www.insideedition.com/hardees-employees-charged-in-drive-thru-fraud-to-bail-out-jail-inmates-sheriff-84017
+Snippet: After noticing those same inmates bonding out immediately after receiving the money, an investigation was opened, which uncovered the <b>Hardee’s</b> scheme, according to authorities. The investigation ...
+
+Title: Michigan City Hardee&#39;s workers ran bond scam, cops say - The Times of ...
+Link: https://www.nwitimes.com/news/local/crime-courts/local-news-la-porte-county-charges-hardees-michigan-city-andrew-hahn-andy-hynek-darren-ward-prince-arnold-kristin-vaschoyck-madiosn-zuk-anisa-higginbotham-hollie-lachapelle-carissa-bealor-lawrence-armstrong-moesha-payne-dylnn-scott/article_203c2eb6-6541-11ee-a77b-93b6d77618d4.html
+Snippet: The release states that the gaggle of <b>Hardee</b>&#39;s workers and other subjects made a total of $14,700 fraudulent charges using drive-thru customers&#39; credit and debit cards. La Porte County Jail ...
+
+Title: Hardee&#39;s And Carl&#39;s Jr. Got Caught In An Immigration Audit ... - HuffPost
+Link: https://www.huffpost.com/entry/carls-jr-immigration-audit-andy-puzder_n_589e34c7e4b0ab2d2b153d15
+Snippet: LeVecke had been using E-Verify for years before his <b>Hardee’s</b> and Carl’s Jr. restaurants were subjected to the audit, Pace said. He had his highest proportion of undocumented workers in Arizona, where E-Verify has been mandatory since 2008.According to Pace, many workers who turn up undocumented in an audit may have come onboard before the use of E-Verify, while others may have bypassed it ...
+
+Title: Carl’s Jr. and Hardee’s Find Strength in Separation
+Link: https://www.qsrmagazine.com/story/carls-jr-and-hardees-find-strength-in-separation/
+Snippet: According to the upcoming QSR 50 (the report runs in August), Carl’s Jr. ended 2023 with 1,066 locations (1,018 franchised) and $1.546 billion in systemwide sales. AUVs were $1.450 million and the U.S. unit count retracted by two, year-over-year. Devillier says Karcher’s legacy remains integral.
+
+Title: Hardee&#39;s Exposed Thousands to Hepatitis; Customers Bring Lawsuit
+Link: https://www.findlaw.com/legalblogs/personal-injury/hardees-exposed-thousands-to-hepatitis-customers-sue/
+Snippet: <b>Hardee</b>&#39;s customers exposed to Hepatitis A Virus (HAV) at two South Carolina locations are suing the burger chain, the Food Poison Journal reports. The class action lawsuit was filed on behalf of thousands of people treated for Hepatitis after eating at <b>Hardee</b>&#39;s restaurants with an infected worker. Earlier this month, on September 17, the state&#39;s health department learned that a person infected ...
+
+Title: Ex-SC DOT official Hardee lied - but no bribes, feds say - The State
+Link: https://www.thestate.com/news/local/crime/article232213127.html
+Snippet: <b>Hardee’s</b> most <b>recent</b> four-year term expired last year, and Gov. Henry McMaster declined to reappoint <b>Hardee</b> to another four-year term. Instead, McMaster named John Burris, president and owner of ...
+
+Remi: Results for 'Hardee's recent public scandals':
+Title: Signs Hardee&#39;s Might Not Be Around Much Longer - Mashed
+Link: https://www.mashed.com/1536153/signs-hardees-wont-be-around-much-longer/
+Snippet: However, take-out connoisseurs might be upset to know that <b>Hardee</b>&#39;s may not be around much longer to satisfy their cravings. As impressive as 1,800 stores is, <b>Hardee</b>&#39;s used to have over 3,100 — stores have slowly closed since CKE Restaurants acquired the company in 1997. Here are reasons why <b>Hardee</b>&#39;s might be in danger of biting the dust.
+
+Title: 10 charged in fraud scheme targeting customers at Michigan City Hardees ...
+Link: https://www.nbcchicago.com/news/local/10-charged-in-14k-fraud-scheme-targeting-drive-thru-customers-at-nw-indiana-fast-food-restaurant/3245648/
+Snippet: 10 charged in $14K fraud scheme targeting customers at Northwest Indiana <b>Hardee</b>&#39;s A warrant has been issued for a 10th individual, Dylnn V. Scott, who is accused of felony conspiracy to commit ...
+
+Title: Hardee&#39;s Has Been Closing Doors Across America - MSN
+Link: https://www.msn.com/en-us/foodanddrink/foodnews/hardee-s-has-been-closing-doors-across-america/ar-BB1np4eQ
+Snippet: <b>Hardee’s</b> Is Closing Doors Across America. The brick-and-mortar landscape for restaurants has not had a good run for the past four years or so. A lot started with the pandemic, when most ...
+
+Title: The Untold Truth Of Hardee&#39;s - Mashed
+Link: https://www.mashed.com/141012/the-untold-truth-of-hardees/
+Snippet: Facebook. Wilbur <b>Hardee</b>&#39;s 15-cent hamburgers were a hit with Greenville, North Carolina when he opened his first <b>Hardee</b>&#39;s in 1960. In the first four months he netted a profit of $9,500 and set his sights on growing the business. Unfortunately for <b>Hardee</b>, his vision of expanding came with a heavy price.
+
+Title: Hardee’s Employees Caught Stealing Card Numbers to Bail Out Inmates
+Link: https://www.insideedition.com/hardees-employees-charged-in-drive-thru-fraud-to-bail-out-jail-inmates-sheriff-84017
+Snippet: After noticing those same inmates bonding out immediately after receiving the money, an investigation was opened, which uncovered the <b>Hardee’s</b> scheme, according to authorities. The investigation ...
+
+Title: Michigan City Hardee&#39;s workers ran bond scam, cops say - The Times of ...
+Link: https://www.nwitimes.com/news/local/crime-courts/local-news-la-porte-county-charges-hardees-michigan-city-andrew-hahn-andy-hynek-darren-ward-prince-arnold-kristin-vaschoyck-madiosn-zuk-anisa-higginbotham-hollie-lachapelle-carissa-bealor-lawrence-armstrong-moesha-payne-dylnn-scott/article_203c2eb6-6541-11ee-a77b-93b6d77618d4.html
+Snippet: The release states that the gaggle of <b>Hardee</b>&#39;s workers and other subjects made a total of $14,700 fraudulent charges using drive-thru customers&#39; credit and debit cards. La Porte County Jail ...
+
+Title: Hardee&#39;s And Carl&#39;s Jr. Got Caught In An Immigration Audit ... - HuffPost
+Link: https://www.huffpost.com/entry/carls-jr-immigration-audit-andy-puzder_n_589e34c7e4b0ab2d2b153d15
+Snippet: LeVecke had been using E-Verify for years before his <b>Hardee’s</b> and Carl’s Jr. restaurants were subjected to the audit, Pace said. He had his highest proportion of undocumented workers in Arizona, where E-Verify has been mandatory since 2008.According to Pace, many workers who turn up undocumented in an audit may have come onboard before the use of E-Verify, while others may have bypassed it ...
+
+Title: Carl’s Jr. and Hardee’s Find Strength in Separation
+Link: https://www.qsrmagazine.com/story/carls-jr-and-hardees-find-strength-in-separation/
+Snippet: According to the upcoming QSR 50 (the report runs in August), Carl’s Jr. ended 2023 with 1,066 locations (1,018 franchised) and $1.546 billion in systemwide sales. AUVs were $1.450 million and the U.S. unit count retracted by two, year-over-year. Devillier says Karcher’s legacy remains integral.
+
+Title: Hardee&#39;s Exposed Thousands to Hepatitis; Customers Bring Lawsuit
+Link: https://www.findlaw.com/legalblogs/personal-injury/hardees-exposed-thousands-to-hepatitis-customers-sue/
+Snippet: <b>Hardee</b>&#39;s customers exposed to Hepatitis A Virus (HAV) at two South Carolina locations are suing the burger chain, the Food Poison Journal reports. The class action lawsuit was filed on behalf of thousands of people treated for Hepatitis after eating at <b>Hardee</b>&#39;s restaurants with an infected worker. Earlier this month, on September 17, the state&#39;s health department learned that a person infected ...
+
+Title: Ex-SC DOT official Hardee lied - but no bribes, feds say - The State
+Link: https://www.thestate.com/news/local/crime/article232213127.html
+Snippet: <b>Hardee’s</b> most <b>recent</b> four-year term expired last year, and Gov. Henry McMaster declined to reappoint <b>Hardee</b> to another four-year term. Instead, McMaster named John Burris, president and owner of ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)

@@ -1,0 +1,637 @@
+Susan: Sure, here's a potential strategy to gather information on Del Taco:
+
+1. **Company Information:** Begin by conducting basic research on Del Taco to gain an overall understanding of the company. Resources such as Google, Wikipedia, and Del Taco's official website are good places to start. Look for the company's mission statement, history and major initiatives. 
+
+2. **Financial Information:** Gather financial information on Del Taco, this may require looking at financial news outlets like Forbes, Bloomberg, and CNBC. If Del Taco is a public company, review their latest 10-K and 10-Q report through the U.S. Securities and Exchange Commission's (SEC) EDGAR database to understand the company's financial health, competition, etc. 
+
+3. **Key Decision Makers:** Identify key decision makers in Del Taco. LinkedIn can be an excellent source for this. Look for possible points of leverage by digging into these individuals' professional histories, affiliations, public statements, and media appearances. 
+
+4. **Labour Relations:** Look for any news or reports regarding labour relations involving Del Taco. Check for any lawsuits or disputes between the company and its current or former employees. Websites like Indeed or Glassdoor can sometimes provide insider insights about working conditions within the company. Also check news articles or reports from labor rights organizations for any issues.
+
+5. **Recent Scandals or Controversy:** Investigate any recent (or past) scandals, controversies, or legal issues involving Del Taco, its executives, products or practices. Look for news articles, reports from watchdog groups and even social media posts.
+
+6. **International Influence:** If Del Taco has operations in other countries, investigate whether there is any information available regarding their practices in these locations, as it might provide additional points of leverage.
+
+7. **Consumer Sentiment and Trends:** Understanding public opinion about Del Taco can be useful as well. This can be gauged by reading customer reviews on platforms like Yelp or Google Reviews. Also, look at the company's own social media feeds for customer sentiments and reactions.
+
+8. **Competitors:** It could also be useful to understand who Del Taco's main competitors are, as this could identify potential weak points or strategies being used in the industry.
+
+9. **Sustainability Practices:** As more consumers value ethics and sustainability, understanding Del Taco's stance on these issues could provide leverage points.
+
+Once all this information is collated, it can be synthesized into a research brief, highlighting the key points of interest for the labor union. Always be sure to cite your sources and note down where each piece of information was found for future reference and verifiability.
+Manny: Sure, here is a Python list of search queries for Remi:
+
+```python
+search_queries_for_remi = [
+    "Del Taco company information",
+    "Del Taco financial reports 2021",
+    "Del Taco SEC filings",
+    "Del Taco key executives",
+    "Del Taco executive {exec_name} background",
+    "Del Taco labor relations",
+    "Del Taco employee reviews Glassdoor",
+    "Del Taco lawsuits",
+    "Del Taco scandals",
+    "Del Taco international operations",
+    "Del Taco customer reviews",
+    "Del Taco social media sentiment",
+    "Del Taco main competitors",
+    "Del Taco sustainability practices"
+]
+```
+
+Please remind Remi to replace `{exec_name}` with the name of each key executive they discover during their research.
+Remi: Results for 'Del Taco company information':
+Link: https://deltaco.com/
+Snippet: Official Del <b>Taco</b> (R) website: Find locations, get coupons and Del <b>Taco</b> info, join Del Yeah! Rewards, check out the menu &amp; nutrition info, explore Del <b>Taco</b> careers &amp; franchising.
+Link: https://deltaco.com/history
+Snippet: Official Del <b>Taco</b> (R) website: Find locations, get coupons and Del <b>Taco</b> info, join Del Yeah! Rewards, check out the menu &amp; nutrition info, explore Del <b>Taco</b> careers &amp; franchising.
+Link: https://en.wikipedia.org/wiki/Del_Taco
+Snippet: Del <b>Taco</b> Restaurants, Inc. is an American fast-food restaurant chain that specializes in American-style Mexican cuisine, as well as American foods such as burgers, fries and shakes. Del <b>Taco</b> is led by Brand President Tom Rose, [5] and is headquartered in Lake Forest, California. [6]
+Link: https://deltaco.com/menu
+Snippet: The nutritional <b>information</b> applies to our <b>company</b>-owned Del <b>Taco</b> restaurants. Some of our franchised Del <b>Taco</b> restaurants may use different ingredients in the preparation of some of their menu items.
+Link: https://www.linkedin.com/company/del-taco
+Snippet: Del <b>Taco</b> | 21,446 followers on LinkedIn. Founded in 1964, Del <b>Taco</b>, the Lake Forest, California-based <b>company</b> operates or franchisees nearly 600 restaurants across 16 states.
+Link: https://investors.jackinthebox.com/news/news-details/2022/Jack-in-the-Box-Completes-its-Acquisition-of-Del-Taco/default.aspx
+Snippet: Jack in the Box Inc. (NASDAQ: JACK) announced today that it has completed its previously announced acquisition of Del <b>Taco</b> Restaurants, Inc. (NASDAQ: <b>TACO</b>) for approximately $585 million. With the close of the acquisition, Jack in the Box and Del <b>Taco</b> are now positioned as stronger QSR players with greater scale and the ability to enhance the guest experience while pursuing profitable growth ...
+Link: https://www.forbes.com/companies/del-taco/
+Snippet: Del <b>Taco</b> Lake Forest, California Del <b>Taco</b> <b>Company</b> Stats Industry Restaurants Founded 1964 Headquarters Lake Forest, California Country/Territory United States Employees 7,274 Forbes Lists #471
+Link: https://www.referenceforbusiness.com/history2/37/Del-Taco-Inc.html
+Snippet: Del <b>Taco</b>, Inc. - <b>Company</b> Profile, <b>Information</b>, Business Description, History, Background <b>Information</b> on Del <b>Taco</b>, Inc. 25521 Commercentre Drive Lake Forest, California 92630 U.S.A. <b>Company</b> Perspectives: Del <b>Taco</b> offers menu items that appeal to a broad range of tastes with a strong emphasis on quality and value.
+Link: https://craft.co/del-taco
+Snippet: Del <b>Taco</b> has 5 employees across 35 locations and $527.36 m in annual revenue in FY 2021. See insights on Del <b>Taco</b> including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft.
+Link: https://www.globaldata.com/company-profile/del-taco-restaurants-inc/
+Snippet: Del <b>Taco</b> Restaurants Inc (Del <b>Taco</b>), is a fast-food restaurant chain specializing in American-style Mexican cuisine. The <b>company</b>&#39;s primary activities include food preparation and service, with a focus on drive-thru and dine-in options. Del <b>Taco</b> offers a wide range of products, including tacos, burritos, quesadillas, and nachos, along with ...
+Remi: Results for 'Del Taco company information':
+Link: https://deltaco.com/
+Snippet: Official Del <b>Taco</b> (R) website: Find locations, get coupons and Del <b>Taco</b> info, join Del Yeah! Rewards, check out the menu &amp; nutrition info, explore Del <b>Taco</b> careers &amp; franchising.
+Link: https://deltaco.com/history
+Snippet: Official Del <b>Taco</b> (R) website: Find locations, get coupons and Del <b>Taco</b> info, join Del Yeah! Rewards, check out the menu &amp; nutrition info, explore Del <b>Taco</b> careers &amp; franchising.
+Link: https://en.wikipedia.org/wiki/Del_Taco
+Snippet: Del <b>Taco</b> Restaurants, Inc. is an American fast-food restaurant chain that specializes in American-style Mexican cuisine, as well as American foods such as burgers, fries and shakes. Del <b>Taco</b> is led by Brand President Tom Rose, [5] and is headquartered in Lake Forest, California. [6]
+Link: https://deltaco.com/menu
+Snippet: The nutritional <b>information</b> applies to our <b>company</b>-owned Del <b>Taco</b> restaurants. Some of our franchised Del <b>Taco</b> restaurants may use different ingredients in the preparation of some of their menu items.
+Link: https://www.linkedin.com/company/del-taco
+Snippet: Del <b>Taco</b> | 21,446 followers on LinkedIn. Founded in 1964, Del <b>Taco</b>, the Lake Forest, California-based <b>company</b> operates or franchisees nearly 600 restaurants across 16 states.
+Link: https://investors.jackinthebox.com/news/news-details/2022/Jack-in-the-Box-Completes-its-Acquisition-of-Del-Taco/default.aspx
+Snippet: Jack in the Box Inc. (NASDAQ: JACK) announced today that it has completed its previously announced acquisition of Del <b>Taco</b> Restaurants, Inc. (NASDAQ: <b>TACO</b>) for approximately $585 million. With the close of the acquisition, Jack in the Box and Del <b>Taco</b> are now positioned as stronger QSR players with greater scale and the ability to enhance the guest experience while pursuing profitable growth ...
+Link: https://www.forbes.com/companies/del-taco/
+Snippet: Del <b>Taco</b> Lake Forest, California Del <b>Taco</b> <b>Company</b> Stats Industry Restaurants Founded 1964 Headquarters Lake Forest, California Country/Territory United States Employees 7,274 Forbes Lists #471
+Link: https://www.referenceforbusiness.com/history2/37/Del-Taco-Inc.html
+Snippet: Del <b>Taco</b>, Inc. - <b>Company</b> Profile, <b>Information</b>, Business Description, History, Background <b>Information</b> on Del <b>Taco</b>, Inc. 25521 Commercentre Drive Lake Forest, California 92630 U.S.A. <b>Company</b> Perspectives: Del <b>Taco</b> offers menu items that appeal to a broad range of tastes with a strong emphasis on quality and value.
+Link: https://craft.co/del-taco
+Snippet: Del <b>Taco</b> has 5 employees across 35 locations and $527.36 m in annual revenue in FY 2021. See insights on Del <b>Taco</b> including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft.
+Link: https://www.globaldata.com/company-profile/del-taco-restaurants-inc/
+Snippet: Del <b>Taco</b> Restaurants Inc (Del <b>Taco</b>), is a fast-food restaurant chain specializing in American-style Mexican cuisine. The <b>company</b>&#39;s primary activities include food preparation and service, with a focus on drive-thru and dine-in options. Del <b>Taco</b> offers a wide range of products, including tacos, burritos, quesadillas, and nachos, along with ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Del Taco financial reports 2021':
+Link: https://last10k.com/sec-filings/taco/0001585583-21-000009.htm
+Snippet: Lake Forest, CA. March 8, <b>2021</b> – Del <b>Taco</b> Restaurants, Inc. (“Del <b>Taco</b>” or the “Company”), (NASDAQ: <b>TACO</b>), the second largest Mexican-American quick service restaurant chain by units in the United States, today reported fiscal fourth quarter and fiscal year 2020 <b>financial</b> results for the 16-week and 52-week periods ending December 29, 2020 and provided a business update.
+Link: https://www.businesswire.com/news/home/20211014005989/en/Del-Taco-Restaurants-Inc.-Reports-Fiscal-Third-Quarter-2021-Financial-Results
+Snippet: As of September 7, <b>2021</b>, Del <b>Taco</b>’s debt, net of cash, totaled $102.3 million compared to $106.7 million at the end of fiscal year 2020. At the end of the fiscal third quarter <b>2021</b> the Company ...
+PDF Link: https://s25.q4cdn.com/507451327/files/doc_news/2021/07/22/Del-Taco-Restaurants-Inc.-Reports-Fiscal-Second-Quarter-2021-Financial-Results-(1).pdf
+Link: https://last10k.com/sec-filings/taco/0001585583-21-000022.htm
+Snippet: April 29, <b>2021</b> – Del <b>Taco</b> Restaurants, Inc. (“Del <b>Taco</b>” or the “Company”), (NASDAQ: <b>TACO</b>), the second largest Mexican-American quick service restaurant chain by units in the United States, today reported fiscal first quarter <b>2021</b> <b>financial</b> results for the 12-week period ending March 23, <b>2021</b> and provided a business update.
+Link: https://www.annualreports.com/Company/del-taco-restaurants-inc
+Snippet: 5001-10,000 Employees. Based in Lake Forest, California. Del <b>Taco</b> (NASDAQ: <b>TACO</b>) offers a unique variety of both Mexican and American favorites such as burritos and fries, prepared fresh in every restaurant’s working kitchen with the value and convenience of a drive thru. Del <b>Taco</b>’s menu items taste better because they are made with quality ...
+Link: https://www.sec.gov/Archives/edgar/data/1585583/000158558322000009/taco-20211228.htm
+Snippet: Some <b>statements</b> in this <b>annual</b> <b>report</b> on Form 10-K, including such <b>statements</b> in the following risk factors, constitute forward-looking <b>statements</b>. These forward-looking <b>statements</b> are based on Del <b>Taco</b> management&#39;s current expectations, forecasts and assumption, and involve a number of risks and uncertainties.
+Link: https://www.businesswire.com/news/home/20210429005933/en/Del-Taco-Restaurants-Inc.-Reports-Fiscal-First-Quarter-2021-Financial-Results
+Snippet: Review of Fiscal First Quarter <b>2021</b> <b>Financial</b> Results. Total revenue increased 5.2% to $115.5 million compared to $109.8 million in the fiscal first quarter 2020. Comparable restaurant sales ...
+Link: https://www.businesswire.com/news/home/20210308005782/en/Del-Taco-Restaurants-Inc.-Reports-Fiscal-Fourth-Quarter-and-Fiscal-Year-2020-Financial-Results
+Snippet: Fiscal Year <b>2021</b> Guidelines. ... Additional risks and uncertainties are identified and discussed in Del <b>Taco</b>’s <b>reports</b> filed with the SEC, including under Part I. Item 1A. ... Risk Factors in ...
+Link: https://www.restaurantnewsresource.com/article116653.html
+Snippet: Del <b>Taco</b> Restaurants,<b></b> Inc.<b> Reports</b> Fiscal Second Quarter <b>2021 Financial</b> Results System-Wide Comparable Restaurant Sales Increased 17.8% Compared to the Prior-Year Fiscal Quarter - Income from Operations Growth of 148.5% Compared to Last Year ... As of June 15, <b>2021</b>, Del <b>Taco</b>’s debt, net of cash, totaled $103.0 million compared to $106.7 ...
+Link: https://www.sec.gov/Archives/edgar/data/1585583/000158558322000009/0001585583-22-000009-index.htm
+Snippet: Form 10-K - <b>Annual</b> <b>report</b> [Section 13 and 15(d), not S-K Item 405]: SEC Accession No. 0001585583-22-000009 ... Accepted. 2022-03-07 21:55:25. Documents. 99. Period of <b>Report</b>. <b>2021</b>-12-28. Interactive Data. Document Format Files. Seq Description Document Type Size; 1: 10-K: <b>taco</b>-20211228.htm iXBRL: ... Del <b>Taco</b> Restaurants, Inc. (Filer) CIK ...
+Remi: Results for 'Del Taco financial reports 2021':
+Link: https://last10k.com/sec-filings/taco/0001585583-21-000009.htm
+Snippet: Lake Forest, CA. March 8, <b>2021</b> – Del <b>Taco</b> Restaurants, Inc. (“Del <b>Taco</b>” or the “Company”), (NASDAQ: <b>TACO</b>), the second largest Mexican-American quick service restaurant chain by units in the United States, today reported fiscal fourth quarter and fiscal year 2020 <b>financial</b> results for the 16-week and 52-week periods ending December 29, 2020 and provided a business update.
+Link: https://www.businesswire.com/news/home/20211014005989/en/Del-Taco-Restaurants-Inc.-Reports-Fiscal-Third-Quarter-2021-Financial-Results
+Snippet: As of September 7, <b>2021</b>, Del <b>Taco</b>’s debt, net of cash, totaled $102.3 million compared to $106.7 million at the end of fiscal year 2020. At the end of the fiscal third quarter <b>2021</b> the Company ...
+PDF Link: https://s25.q4cdn.com/507451327/files/doc_news/2021/07/22/Del-Taco-Restaurants-Inc.-Reports-Fiscal-Second-Quarter-2021-Financial-Results-(1).pdf
+Link: https://last10k.com/sec-filings/taco/0001585583-21-000022.htm
+Snippet: April 29, <b>2021</b> – Del <b>Taco</b> Restaurants, Inc. (“Del <b>Taco</b>” or the “Company”), (NASDAQ: <b>TACO</b>), the second largest Mexican-American quick service restaurant chain by units in the United States, today reported fiscal first quarter <b>2021</b> <b>financial</b> results for the 12-week period ending March 23, <b>2021</b> and provided a business update.
+Link: https://www.annualreports.com/Company/del-taco-restaurants-inc
+Snippet: 5001-10,000 Employees. Based in Lake Forest, California. Del <b>Taco</b> (NASDAQ: <b>TACO</b>) offers a unique variety of both Mexican and American favorites such as burritos and fries, prepared fresh in every restaurant’s working kitchen with the value and convenience of a drive thru. Del <b>Taco</b>’s menu items taste better because they are made with quality ...
+Link: https://www.sec.gov/Archives/edgar/data/1585583/000158558322000009/taco-20211228.htm
+Snippet: Some <b>statements</b> in this <b>annual</b> <b>report</b> on Form 10-K, including such <b>statements</b> in the following risk factors, constitute forward-looking <b>statements</b>. These forward-looking <b>statements</b> are based on Del <b>Taco</b> management&#39;s current expectations, forecasts and assumption, and involve a number of risks and uncertainties.
+Link: https://www.businesswire.com/news/home/20210429005933/en/Del-Taco-Restaurants-Inc.-Reports-Fiscal-First-Quarter-2021-Financial-Results
+Snippet: Review of Fiscal First Quarter <b>2021</b> <b>Financial</b> Results. Total revenue increased 5.2% to $115.5 million compared to $109.8 million in the fiscal first quarter 2020. Comparable restaurant sales ...
+Link: https://www.businesswire.com/news/home/20210308005782/en/Del-Taco-Restaurants-Inc.-Reports-Fiscal-Fourth-Quarter-and-Fiscal-Year-2020-Financial-Results
+Snippet: Fiscal Year <b>2021</b> Guidelines. ... Additional risks and uncertainties are identified and discussed in Del <b>Taco</b>’s <b>reports</b> filed with the SEC, including under Part I. Item 1A. ... Risk Factors in ...
+Link: https://www.restaurantnewsresource.com/article116653.html
+Snippet: Del <b>Taco</b> Restaurants,<b></b> Inc.<b> Reports</b> Fiscal Second Quarter <b>2021 Financial</b> Results System-Wide Comparable Restaurant Sales Increased 17.8% Compared to the Prior-Year Fiscal Quarter - Income from Operations Growth of 148.5% Compared to Last Year ... As of June 15, <b>2021</b>, Del <b>Taco</b>’s debt, net of cash, totaled $103.0 million compared to $106.7 ...
+Link: https://www.sec.gov/Archives/edgar/data/1585583/000158558322000009/0001585583-22-000009-index.htm
+Snippet: Form 10-K - <b>Annual</b> <b>report</b> [Section 13 and 15(d), not S-K Item 405]: SEC Accession No. 0001585583-22-000009 ... Accepted. 2022-03-07 21:55:25. Documents. 99. Period of <b>Report</b>. <b>2021</b>-12-28. Interactive Data. Document Format Files. Seq Description Document Type Size; 1: 10-K: <b>taco</b>-20211228.htm iXBRL: ... Del <b>Taco</b> Restaurants, Inc. (Filer) CIK ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Del Taco SEC filings':
+Link: https://www.nasdaq.com/market-activity/stocks/taco/sec-filings?2036=
+Snippet: Find the latest <b>SEC</b> <b>Filings</b> data for Del <b>Taco</b> Restaurants, Inc. Common Stock (<b>TACO</b>) at <b>Nasdaq.com</b>.
+Link: https://www.sec.gov/Archives/edgar/data/1585583/000158558321000063/tacoex99120211014.htm
+Snippet: Lake Forest, CA. October 14, 2021 – Del <b>Taco</b> Restaurants, Inc. (“Del <b>Taco</b>” or the “Company”), (NASDAQ: <b>TACO</b>), the second largest Mexican-American quick service restaurant chain by units in the United States, today reported fiscal third quarter 2021 financial results for the 12-week period ended September 7, 2021. Management Commentary ...
+Link: https://www.sec.gov/Archives/edgar/data/1585583/000158558322000009/0001585583-22-000009-index.htm
+Snippet: Current Page. Form 10-K - Annual report [Section 13 and 15 (d), not S-K Item 405]: <b>SEC</b> Accession No. 0001585583-22-000009. <b>Filing</b> Date. 2022-03-08.
+Link: https://investors.yum.com/financial-information/sec-filings/default.aspx
+Snippet: Yum! Brands RSC, 1900 Colonel Sanders Lane, Louisville, KY 40213, 502.874.8300
+Link: https://last10k.com/sec-filings/taco
+Snippet: Inside Del <b>Taco</b> Restaurants,<b></b> Inc.&#39;s 10-K Annual Report: Financial - Expense Highlight. The decrease was primarily due to lower rent and property tax expense related to a previously closed restaurant for which the lease was assigned to a third party at the end of Fiscal 2019 as well as charges recorded in Fiscal 2019 for accruals related to non-lease executory costs for previously closed ...
+Link: https://last10k.com/sec-filings/taco/0001585583-21-000022.htm
+Snippet: April 29, 2021 – Del <b>Taco</b> Restaurants, Inc. (“Del <b>Taco</b>” or the “Company”), (NASDAQ: <b>TACO</b>), the second largest Mexican-American quick service restaurant chain by units in the United States, today reported fiscal first quarter 2021 financial results for the 12-week period ending March 23, 2021 and provided a business update.
+Link: https://last10k.com/sec-filings/taco/0001585583-21-000009.htm
+Snippet: Lake Forest, CA. March 8, 2021 – Del <b>Taco</b> Restaurants, Inc. (“Del <b>Taco</b>” or the “Company”), (NASDAQ: <b>TACO</b>), the second largest Mexican-American quick service restaurant chain by units in the United States, today reported fiscal fourth quarter and fiscal year 2020 financial results for the 16-week and 52-week periods ending December 29, 2020 and provided a business update.
+Link: https://finance.yahoo.com/quote/TACO/
+Snippet: Find the latest Del <b>Taco</b> Restaurants,<b></b> Inc.<b> (TACO</b>) stock quote, history, news and other vital information to help you with your stock trading and investing. ... <b>SEC</b> <b>Filings</b>. All <b>SEC</b> <b>Filings</b> ...
+Link: https://wallmine.com/nasdaq/taco
+Snippet: Notable <b>SEC</b> <b>filings</b> of Del <b>Taco</b> Restaurants Inc. All <b>filings</b> Last yearly <b>filing</b> Filter. Search. 8-K 8 Mar 2022: ... Del <b>Taco</b>&#39;s menu items taste better because they are made with quality ingredients like fresh grilled chicken and carne asada steak, sliced avocado, freshly grated cheddar cheese, slow-cooked beans made from scratch, and creamy ...
+Link: https://finance.yahoo.com/quote/TACO/sec-filing/
+Snippet: Find the latest <b>Del</b> <b>Taco</b> Restaurants, Inc. (<b>TACO</b>) stock quote, history, news and other vital information to help you with your stock trading and investing.
+Remi: Results for 'Del Taco SEC filings':
+Link: https://www.nasdaq.com/market-activity/stocks/taco/sec-filings?2036=
+Snippet: Find the latest <b>SEC</b> <b>Filings</b> data for Del <b>Taco</b> Restaurants, Inc. Common Stock (<b>TACO</b>) at <b>Nasdaq.com</b>.
+Link: https://www.sec.gov/Archives/edgar/data/1585583/000158558321000063/tacoex99120211014.htm
+Snippet: Lake Forest, CA. October 14, 2021 – Del <b>Taco</b> Restaurants, Inc. (“Del <b>Taco</b>” or the “Company”), (NASDAQ: <b>TACO</b>), the second largest Mexican-American quick service restaurant chain by units in the United States, today reported fiscal third quarter 2021 financial results for the 12-week period ended September 7, 2021. Management Commentary ...
+Link: https://www.sec.gov/Archives/edgar/data/1585583/000158558322000009/0001585583-22-000009-index.htm
+Snippet: Current Page. Form 10-K - Annual report [Section 13 and 15 (d), not S-K Item 405]: <b>SEC</b> Accession No. 0001585583-22-000009. <b>Filing</b> Date. 2022-03-08.
+Link: https://investors.yum.com/financial-information/sec-filings/default.aspx
+Snippet: Yum! Brands RSC, 1900 Colonel Sanders Lane, Louisville, KY 40213, 502.874.8300
+Link: https://last10k.com/sec-filings/taco
+Snippet: Inside Del <b>Taco</b> Restaurants,<b></b> Inc.&#39;s 10-K Annual Report: Financial - Expense Highlight. The decrease was primarily due to lower rent and property tax expense related to a previously closed restaurant for which the lease was assigned to a third party at the end of Fiscal 2019 as well as charges recorded in Fiscal 2019 for accruals related to non-lease executory costs for previously closed ...
+Link: https://last10k.com/sec-filings/taco/0001585583-21-000022.htm
+Snippet: April 29, 2021 – Del <b>Taco</b> Restaurants, Inc. (“Del <b>Taco</b>” or the “Company”), (NASDAQ: <b>TACO</b>), the second largest Mexican-American quick service restaurant chain by units in the United States, today reported fiscal first quarter 2021 financial results for the 12-week period ending March 23, 2021 and provided a business update.
+Link: https://last10k.com/sec-filings/taco/0001585583-21-000009.htm
+Snippet: Lake Forest, CA. March 8, 2021 – Del <b>Taco</b> Restaurants, Inc. (“Del <b>Taco</b>” or the “Company”), (NASDAQ: <b>TACO</b>), the second largest Mexican-American quick service restaurant chain by units in the United States, today reported fiscal fourth quarter and fiscal year 2020 financial results for the 16-week and 52-week periods ending December 29, 2020 and provided a business update.
+Link: https://finance.yahoo.com/quote/TACO/
+Snippet: Find the latest Del <b>Taco</b> Restaurants,<b></b> Inc.<b> (TACO</b>) stock quote, history, news and other vital information to help you with your stock trading and investing. ... <b>SEC</b> <b>Filings</b>. All <b>SEC</b> <b>Filings</b> ...
+Link: https://wallmine.com/nasdaq/taco
+Snippet: Notable <b>SEC</b> <b>filings</b> of Del <b>Taco</b> Restaurants Inc. All <b>filings</b> Last yearly <b>filing</b> Filter. Search. 8-K 8 Mar 2022: ... Del <b>Taco</b>&#39;s menu items taste better because they are made with quality ingredients like fresh grilled chicken and carne asada steak, sliced avocado, freshly grated cheddar cheese, slow-cooked beans made from scratch, and creamy ...
+Link: https://finance.yahoo.com/quote/TACO/sec-filing/
+Snippet: Find the latest <b>Del</b> <b>Taco</b> Restaurants, Inc. (<b>TACO</b>) stock quote, history, news and other vital information to help you with your stock trading and investing.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Del Taco key executives':
+Link: https://craft.co/del-taco/executives
+Snippet: Del <b>Taco</b>&#39;s President and Chief <b>Executive</b> Officer is John D. Cappasola. Other <b>executives</b> include Steven L. Brake, <b>Executive</b> Vice President and Chief Financial Officer; Chad Gretzema, Chief Operating Officer and 1 others. ... Del <b>Taco</b> <b>CEO</b> and <b>Key</b> <b>Executive</b> Team. Header placeholder lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Link: https://www.restaurantdive.com/news/jack-in-the-box-names-new-del-taco-president-tom-rose-chad-gretzema/693513/
+Snippet: Jack in the Box has been working to increase the number of franchised Del Tacos since it acquired the brand back in 2021.Last year, Jack in the Box brought on the Cypress Group to aid in the refranchising of company-owned units.During the company’s most recent earnings call, <b>CEO</b> Darrin Harris said Del <b>Taco</b> has refranchised 66 units in fiscal 2023 and expects to refranchise between 90 and 120 ...
+Link: https://en.wikipedia.org/wiki/Del_Taco
+Snippet: Del <b>Taco</b> Restaurants, Inc. is an American fast-food restaurant chain that specializes in American-style Mexican cuisine, as well as American foods such as burgers, fries and shakes. Del <b>Taco</b> is led by Brand President Tom Rose, [5] and is headquartered in Lake Forest, California. [6] On December 6, 2021, Jack in the Box announced it was acquiring Del <b>Taco</b> for $12.51 per share.
+Link: https://www.comparably.com/companies/del-taco/executive-team
+Snippet: The Del <b>Taco Executive</b> Team is rated a &quot;D&quot; and led by <b>CEO</b> John D. Cappasola Jr.. Del <b>Taco</b> employees rate their <b>Executive</b> Team in the Bottom 20% of similar size companies on Comparably with 5,001-10,000 Employees. The HR department and the Customer Support department are more confident in their <b>Executive</b> Team, while the Customer Success ...
+Link: https://www.linkedin.com/company/del-taco
+Snippet: <b>Del</b> <b>Taco</b> | 21,495 followers on LinkedIn. Founded in 1964, <b>Del</b> <b>Taco</b>, the Lake Forest, California-based company operates or franchisees nearly 600 restaurants across 16 states. <b>Del</b> <b>Taco</b> offers a ...
+Link: https://www.theofficialboard.com/org-chart/del-taco-restaurants-2
+Snippet: www.deltaco.com. has 25 <b>executives</b> - and belongs to Jack in the Box. +1 949 462 7324. Add an <b>executive</b>. Del <b>Taco</b> Restaurants (<b>TACO</b>) News. Anything missing?
+Link: https://www.restaurantbusinessonline.com/leadership/del-taco-names-chad-gretzema-coo
+Snippet: John Cappasola, <b>Del</b> <b>Taco</b>’s <b>CEO</b>, said that Gretzema “brings a wealth of restaurant experience” to the position. “Chad has been a <b>key</b> architect of many of our strategic combined solutions operational improvement efforts and is a trusted partner within the organization who knows how to help teams delivery superior results,” he said.
+Link: https://craft.co/del-taco
+Snippet: Del <b>Taco</b> has 5 employees across 35 locations and $527.36 m in annual revenue in FY 2021. See insights on Del <b>Taco</b> including office locations, competitors, revenue, financials, <b>executives</b>, subsidiaries and more at Craft. Advanced. Product. Solutions. Partners. ... <b>Key</b> People. John D. Cappasola, President and Chief <b>Executive</b> Officer. Linkedin;
+Link: https://www.restaurantbusinessonline.com/leadership/chad-gretzema-named-del-taco-brand-president
+Snippet: Jack in the Box named Chad Gretzema brand president of Del <b>Taco</b> on Friday after John Cappasola stepped down from his role as <b>CEO</b> of the Mexican chain. Gretzema has been with Del <b>Taco</b> since 2012, most recently as the 600-unit chain’s chief operating officer. He has more than 25 years of food and restaurant industry experience and has worked ...
+Link: https://www.restaurantnews.com/del-taco-names-john-d-cappasola-jr-as-chief-executive-officer/
+Snippet: Paul J.B. Murphy, III has been <b>Del</b> <b>Taco</b>’s Chief <b>Executive</b> Officer since February 2009 and served as President from February 2009 through December 2016. ... Moxies Prepares for Major Expansion in ...
+Remi: Results for 'Del Taco key executives':
+Link: https://craft.co/del-taco/executives
+Snippet: Del <b>Taco</b>&#39;s President and Chief <b>Executive</b> Officer is John D. Cappasola. Other <b>executives</b> include Steven L. Brake, <b>Executive</b> Vice President and Chief Financial Officer; Chad Gretzema, Chief Operating Officer and 1 others. ... Del <b>Taco</b> <b>CEO</b> and <b>Key</b> <b>Executive</b> Team. Header placeholder lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Link: https://www.restaurantdive.com/news/jack-in-the-box-names-new-del-taco-president-tom-rose-chad-gretzema/693513/
+Snippet: Jack in the Box has been working to increase the number of franchised Del Tacos since it acquired the brand back in 2021.Last year, Jack in the Box brought on the Cypress Group to aid in the refranchising of company-owned units.During the company’s most recent earnings call, <b>CEO</b> Darrin Harris said Del <b>Taco</b> has refranchised 66 units in fiscal 2023 and expects to refranchise between 90 and 120 ...
+Link: https://en.wikipedia.org/wiki/Del_Taco
+Snippet: Del <b>Taco</b> Restaurants, Inc. is an American fast-food restaurant chain that specializes in American-style Mexican cuisine, as well as American foods such as burgers, fries and shakes. Del <b>Taco</b> is led by Brand President Tom Rose, [5] and is headquartered in Lake Forest, California. [6] On December 6, 2021, Jack in the Box announced it was acquiring Del <b>Taco</b> for $12.51 per share.
+Link: https://www.comparably.com/companies/del-taco/executive-team
+Snippet: The Del <b>Taco Executive</b> Team is rated a &quot;D&quot; and led by <b>CEO</b> John D. Cappasola Jr.. Del <b>Taco</b> employees rate their <b>Executive</b> Team in the Bottom 20% of similar size companies on Comparably with 5,001-10,000 Employees. The HR department and the Customer Support department are more confident in their <b>Executive</b> Team, while the Customer Success ...
+Link: https://www.linkedin.com/company/del-taco
+Snippet: <b>Del</b> <b>Taco</b> | 21,495 followers on LinkedIn. Founded in 1964, <b>Del</b> <b>Taco</b>, the Lake Forest, California-based company operates or franchisees nearly 600 restaurants across 16 states. <b>Del</b> <b>Taco</b> offers a ...
+Link: https://www.theofficialboard.com/org-chart/del-taco-restaurants-2
+Snippet: www.deltaco.com. has 25 <b>executives</b> - and belongs to Jack in the Box. +1 949 462 7324. Add an <b>executive</b>. Del <b>Taco</b> Restaurants (<b>TACO</b>) News. Anything missing?
+Link: https://www.restaurantbusinessonline.com/leadership/del-taco-names-chad-gretzema-coo
+Snippet: John Cappasola, <b>Del</b> <b>Taco</b>’s <b>CEO</b>, said that Gretzema “brings a wealth of restaurant experience” to the position. “Chad has been a <b>key</b> architect of many of our strategic combined solutions operational improvement efforts and is a trusted partner within the organization who knows how to help teams delivery superior results,” he said.
+Link: https://craft.co/del-taco
+Snippet: Del <b>Taco</b> has 5 employees across 35 locations and $527.36 m in annual revenue in FY 2021. See insights on Del <b>Taco</b> including office locations, competitors, revenue, financials, <b>executives</b>, subsidiaries and more at Craft. Advanced. Product. Solutions. Partners. ... <b>Key</b> People. John D. Cappasola, President and Chief <b>Executive</b> Officer. Linkedin;
+Link: https://www.restaurantbusinessonline.com/leadership/chad-gretzema-named-del-taco-brand-president
+Snippet: Jack in the Box named Chad Gretzema brand president of Del <b>Taco</b> on Friday after John Cappasola stepped down from his role as <b>CEO</b> of the Mexican chain. Gretzema has been with Del <b>Taco</b> since 2012, most recently as the 600-unit chain’s chief operating officer. He has more than 25 years of food and restaurant industry experience and has worked ...
+Link: https://www.restaurantnews.com/del-taco-names-john-d-cappasola-jr-as-chief-executive-officer/
+Snippet: Paul J.B. Murphy, III has been <b>Del</b> <b>Taco</b>’s Chief <b>Executive</b> Officer since February 2009 and served as President from February 2009 through December 2016. ... Moxies Prepares for Major Expansion in ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Del Taco executive {exec_name} background':
+Link: https://craft.co/del-taco/executives
+Snippet: Del <b>Taco</b>&#39;s President and Chief <b>Executive</b> Officer is John D. Cappasola. Other executives include Steven L. Brake, <b>Executive</b> Vice President and Chief Financial Officer; Chad Gretzema, Chief Operating Officer and 1 others. See the full leadership team at Craft.
+Link: https://www.zippia.com/del-taco-careers-3321/executives/
+Snippet: Based on our data team&#39;s research, John D. Cappasola Jr is the Del <b>Taco</b> Restaurants&#39;s CEO. Del <b>Taco</b> Restaurants has 7,274 employees, of which 11 are in a leadership position. Here are further demographic highlights of the leadership team: The Del <b>Taco</b> Restaurants <b>executive</b> team is 18% femaleand 82% male. 73%of the management team is White.
+Link: https://www.company-histories.com/Del-Taco-Inc-Company-History.html
+Snippet: Private Company. Founded: 1964. Employees: 5,700. Sales: $388 million (2002) NAIC: 722110 Full-Service Restaurants. Company Perspectives: Del <b>Taco</b> offers menu items that appeal to a broad range of tastes with a strong emphasis on quality and value. The menu includes tacos, burritos, quesadillas, nachos, world famous crinkle cut fries, Double ...
+Link: https://www.datanyze.com/companies/del-taco/10862767
+Snippet: Del <b>Taco</b> Restaurants, Inc. develops, franchises, owns, and operates Del <b>Taco</b> quick-service Mexican-American restaurants in the United States. The companys restaurants offer Mexican inspired and American classic dishes. As of July 27, 2017, it operated 550 restaurants in 15 states. Del <b>Taco</b> Restaurants, Inc. was founded in 1964 and is ...
+Link: https://www.restaurantmagazine.com/del-taco-names-john-d-cappasola-jr-as-chief-executive-officer/
+Snippet: Paul J.B. Murphy, III has been Del <b>Taco</b>’s Chief <b>Executive</b> Officer since February 2009 and served as President from February 2009 through December 2016. Chairman of the Board Lawrence F. Levy commented, “John is a dynamic, people-oriented brand leader who understands strategy and driving business results. John was instrumental in the ...
+Link: https://en.wikipedia.org/wiki/Del_Taco
+Snippet: The first Del <b>Taco</b> restaurant was opened by Ed Hackbarth and David Jameson in Yermo, California, east of Barstow, on September 16, 1964, [1] under the <b>name</b> &quot;Casa Del <b>Taco</b>&quot;. On the first day of business, Del <b>Taco</b> made $169 (the equivalent of $1,660 in 2023 [10]). [1] Success of the first restaurant led to two in Barstow, one in Needles, and a fifth restaurant in Corona (the first Del <b>Taco</b> with ...
+Link: https://www.restaurantnews.com/del-taco-names-john-d-cappasola-jr-as-chief-executive-officer/
+Snippet: Paul J.B. Murphy, III has been Del <b>Taco</b>’s Chief <b>Executive</b> Officer since February 2009 and served as President from February 2009 through December 2016.
+Link: https://www.restaurantbusinessonline.com/leadership/del-taco-names-chad-gretzema-coo
+Snippet: Del <b>Taco</b> on Monday named Chad Gretzema chief operating officer, a newly created position that it hopes will improve operations. Gretzema had been the company’s senior vice president overseeing strategic planning and innovation since 2012. He had previously held positions with Einstein Noah Restaurant Group and Noodles &amp; Co., among other ...
+Link: https://www.cbinsights.com/company/del-taco/people
+Snippet: Del <b>Taco</b> Management Team. Del <b>Taco</b> has 2 executives. Del <b>Taco</b>&#39;s former President is Ron Petty. You&#39;re one click away from the most comprehensive, unmatched analyst expertise in tech, in-depth private company data and a platform that brings it all together. Click Now.
+Link: https://deltaco.com/history
+Snippet: A brave New Venture. Ed Hackbarth and David Jameson opened the first Del <b>Taco</b> in Yermo, CA in 1964. With a menu of 19¢ tacos, tostadas, fries and 24¢ cheeseburgers, Del <b>Taco</b> brought in $169 in sales on its first day in business - the equivalent of 900 tacos. Things were off to a bold start.
+Remi: Results for 'Del Taco executive {exec_name} background':
+Link: https://craft.co/del-taco/executives
+Snippet: Del <b>Taco</b>&#39;s President and Chief <b>Executive</b> Officer is John D. Cappasola. Other executives include Steven L. Brake, <b>Executive</b> Vice President and Chief Financial Officer; Chad Gretzema, Chief Operating Officer and 1 others. See the full leadership team at Craft.
+Link: https://www.zippia.com/del-taco-careers-3321/executives/
+Snippet: Based on our data team&#39;s research, John D. Cappasola Jr is the Del <b>Taco</b> Restaurants&#39;s CEO. Del <b>Taco</b> Restaurants has 7,274 employees, of which 11 are in a leadership position. Here are further demographic highlights of the leadership team: The Del <b>Taco</b> Restaurants <b>executive</b> team is 18% femaleand 82% male. 73%of the management team is White.
+Link: https://www.company-histories.com/Del-Taco-Inc-Company-History.html
+Snippet: Private Company. Founded: 1964. Employees: 5,700. Sales: $388 million (2002) NAIC: 722110 Full-Service Restaurants. Company Perspectives: Del <b>Taco</b> offers menu items that appeal to a broad range of tastes with a strong emphasis on quality and value. The menu includes tacos, burritos, quesadillas, nachos, world famous crinkle cut fries, Double ...
+Link: https://www.datanyze.com/companies/del-taco/10862767
+Snippet: Del <b>Taco</b> Restaurants, Inc. develops, franchises, owns, and operates Del <b>Taco</b> quick-service Mexican-American restaurants in the United States. The companys restaurants offer Mexican inspired and American classic dishes. As of July 27, 2017, it operated 550 restaurants in 15 states. Del <b>Taco</b> Restaurants, Inc. was founded in 1964 and is ...
+Link: https://www.restaurantmagazine.com/del-taco-names-john-d-cappasola-jr-as-chief-executive-officer/
+Snippet: Paul J.B. Murphy, III has been Del <b>Taco</b>’s Chief <b>Executive</b> Officer since February 2009 and served as President from February 2009 through December 2016. Chairman of the Board Lawrence F. Levy commented, “John is a dynamic, people-oriented brand leader who understands strategy and driving business results. John was instrumental in the ...
+Link: https://en.wikipedia.org/wiki/Del_Taco
+Snippet: The first Del <b>Taco</b> restaurant was opened by Ed Hackbarth and David Jameson in Yermo, California, east of Barstow, on September 16, 1964, [1] under the <b>name</b> &quot;Casa Del <b>Taco</b>&quot;. On the first day of business, Del <b>Taco</b> made $169 (the equivalent of $1,660 in 2023 [10]). [1] Success of the first restaurant led to two in Barstow, one in Needles, and a fifth restaurant in Corona (the first Del <b>Taco</b> with ...
+Link: https://www.restaurantnews.com/del-taco-names-john-d-cappasola-jr-as-chief-executive-officer/
+Snippet: Paul J.B. Murphy, III has been Del <b>Taco</b>’s Chief <b>Executive</b> Officer since February 2009 and served as President from February 2009 through December 2016.
+Link: https://www.restaurantbusinessonline.com/leadership/del-taco-names-chad-gretzema-coo
+Snippet: Del <b>Taco</b> on Monday named Chad Gretzema chief operating officer, a newly created position that it hopes will improve operations. Gretzema had been the company’s senior vice president overseeing strategic planning and innovation since 2012. He had previously held positions with Einstein Noah Restaurant Group and Noodles &amp; Co., among other ...
+Link: https://www.cbinsights.com/company/del-taco/people
+Snippet: Del <b>Taco</b> Management Team. Del <b>Taco</b> has 2 executives. Del <b>Taco</b>&#39;s former President is Ron Petty. You&#39;re one click away from the most comprehensive, unmatched analyst expertise in tech, in-depth private company data and a platform that brings it all together. Click Now.
+Link: https://deltaco.com/history
+Snippet: A brave New Venture. Ed Hackbarth and David Jameson opened the first Del <b>Taco</b> in Yermo, CA in 1964. With a menu of 19¢ tacos, tostadas, fries and 24¢ cheeseburgers, Del <b>Taco</b> brought in $169 in sales on its first day in business - the equivalent of 900 tacos. Things were off to a bold start.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Del Taco labor relations':
+Link: https://deltaco.com/careers_paths
+Snippet: Official Del <b>Taco</b> (R) website: Find locations, get coupons and Del <b>Taco</b> info, join Del Yeah! Rewards, check out the menu &amp; nutrition info, explore Del <b>Taco</b> careers &amp; franchising.
+Link: https://www.cirepartners.com/2021/07/28/del-tacos-plan-to-combat-labor-shortage/
+Snippet: Del <b>Taco</b> is going through several <b>labor</b>-based changes as it enters the third quarter. Many of these changes, like initiatives to attract new employees and decrease turnover, are a product of the times. With a <b>labor</b> shortage affecting nearly the entire restaurant industry, Del <b>Taco</b> CEO John Cappasola said the brand developed a holistic recruiting, scheduling, […]
+Link: https://www.columbus.gov/Government/Departments/Human-Resources/Labor-Relations
+Snippet: <b>Labor</b> <b>Relations</b> <b>Labor</b> <b>Relations</b> negotiates and administers all six (6) of the collective bargaining contracts for the city. They work closely with the departments and divisions to administer the contracts and ensure compliance. In addition, <b>Labor</b> <b>Relations</b> conducts disciplinary, fitness for duty and grievance hearings.
+Link: https://deltaco.com/index.php?page=careers_apply
+Snippet: Official Del <b>Taco</b> (R) website: Find locations, get coupons and Del <b>Taco</b> info, join Del Yeah! Rewards, check out the menu &amp; nutrition info, explore Del <b>Taco</b> careers &amp; franchising.
+Link: https://deltaco.com/index.php?page=restaurant_jobs&rid=307
+Snippet: Official Del <b>Taco</b> (R) website: Find locations, get coupons and Del <b>Taco</b> info, join Del Yeah! Rewards, check out the menu &amp; nutrition info, explore Del <b>Taco</b> careers &amp; franchising.
+PDF Link: https://s25.q4cdn.com/507451327/files/doc_news/2021/03/08/Del-Taco-Restaurants-Inc.-Reports-Fiscal-Fourth-Quarter-and-Fiscal-Year-2020-Financial-Results-2021.pdf
+Link: https://www.businesswire.com/news/home/20211014005989/en/Del-Taco-Restaurants-Inc.-Reports-Fiscal-Third-Quarter-2021-Financial-Results
+Snippet: Common Stock Repurchase Program Del <b>Taco</b> repurchased 449,324 shares of common stock at an average price of $9.87 per share for a total of $4.4 million during the fiscal third quarter 2021.
+Link: https://apply.jobappnetwork.com/del-taco/en
+Snippet: Working at Del <b>Taco</b>, you&#39;ll feel proud that you are part of an iconic brand, where we actually grill, shred and chop fresh ingredients. You&#39;ll feel proud that you have a chance to grow and earn more as you work through a realistic and achievable career path. Click on the pictures above to see why you will be &quot;Proud as Del&quot; to work here.
+Link: https://www.businesswire.com/news/home/20210429005933/en/Del-Taco-Restaurants-Inc.-Reports-Fiscal-First-Quarter-2021-Financial-Results
+Snippet: Cappasola concluded, “On the development front, we opened five system-wide Del <b>Taco</b> restaurants during the first quarter and plan to open a dozen system-wide restaurants this year.
+Link: https://locations.deltaco.com/us/oh
+Snippet: Our restaurant is located in <b>Ohio</b>. Have some tasty bites and refreshing drinks and be sure to tell others where to find us as well!
+Remi: Results for 'Del Taco labor relations':
+Link: https://deltaco.com/careers_paths
+Snippet: Official Del <b>Taco</b> (R) website: Find locations, get coupons and Del <b>Taco</b> info, join Del Yeah! Rewards, check out the menu &amp; nutrition info, explore Del <b>Taco</b> careers &amp; franchising.
+Link: https://www.cirepartners.com/2021/07/28/del-tacos-plan-to-combat-labor-shortage/
+Snippet: Del <b>Taco</b> is going through several <b>labor</b>-based changes as it enters the third quarter. Many of these changes, like initiatives to attract new employees and decrease turnover, are a product of the times. With a <b>labor</b> shortage affecting nearly the entire restaurant industry, Del <b>Taco</b> CEO John Cappasola said the brand developed a holistic recruiting, scheduling, […]
+Link: https://www.columbus.gov/Government/Departments/Human-Resources/Labor-Relations
+Snippet: <b>Labor</b> <b>Relations</b> <b>Labor</b> <b>Relations</b> negotiates and administers all six (6) of the collective bargaining contracts for the city. They work closely with the departments and divisions to administer the contracts and ensure compliance. In addition, <b>Labor</b> <b>Relations</b> conducts disciplinary, fitness for duty and grievance hearings.
+Link: https://deltaco.com/index.php?page=careers_apply
+Snippet: Official Del <b>Taco</b> (R) website: Find locations, get coupons and Del <b>Taco</b> info, join Del Yeah! Rewards, check out the menu &amp; nutrition info, explore Del <b>Taco</b> careers &amp; franchising.
+Link: https://deltaco.com/index.php?page=restaurant_jobs&rid=307
+Snippet: Official Del <b>Taco</b> (R) website: Find locations, get coupons and Del <b>Taco</b> info, join Del Yeah! Rewards, check out the menu &amp; nutrition info, explore Del <b>Taco</b> careers &amp; franchising.
+PDF Link: https://s25.q4cdn.com/507451327/files/doc_news/2021/03/08/Del-Taco-Restaurants-Inc.-Reports-Fiscal-Fourth-Quarter-and-Fiscal-Year-2020-Financial-Results-2021.pdf
+Link: https://www.businesswire.com/news/home/20211014005989/en/Del-Taco-Restaurants-Inc.-Reports-Fiscal-Third-Quarter-2021-Financial-Results
+Snippet: Common Stock Repurchase Program Del <b>Taco</b> repurchased 449,324 shares of common stock at an average price of $9.87 per share for a total of $4.4 million during the fiscal third quarter 2021.
+Link: https://apply.jobappnetwork.com/del-taco/en
+Snippet: Working at Del <b>Taco</b>, you&#39;ll feel proud that you are part of an iconic brand, where we actually grill, shred and chop fresh ingredients. You&#39;ll feel proud that you have a chance to grow and earn more as you work through a realistic and achievable career path. Click on the pictures above to see why you will be &quot;Proud as Del&quot; to work here.
+Link: https://www.businesswire.com/news/home/20210429005933/en/Del-Taco-Restaurants-Inc.-Reports-Fiscal-First-Quarter-2021-Financial-Results
+Snippet: Cappasola concluded, “On the development front, we opened five system-wide Del <b>Taco</b> restaurants during the first quarter and plan to open a dozen system-wide restaurants this year.
+Link: https://locations.deltaco.com/us/oh
+Snippet: Our restaurant is located in <b>Ohio</b>. Have some tasty bites and refreshing drinks and be sure to tell others where to find us as well!
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Del Taco employee reviews Glassdoor':
+Link: https://www.glassdoor.com/Reviews/Del-Taco-Reviews-E5620.htm
+Snippet: 889 Del <b>Taco reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.com/Overview/Working-at-Del-Taco-EI_IE5620.11,19.htm
+Snippet: See what <b>employees</b> say it&#39;s like to work at Del <b>Taco</b>. Salaries, <b>reviews</b>, and more - all posted by <b>employees</b> working at Del <b>Taco</b>.
+Link: https://www.glassdoor.co.in/Reviews/Del-Taco-Reviews-E5620.htm
+Snippet: 889 Del <b>Taco reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.com/Reviews/Del-Taco-employee-Reviews-EI_IE5620.0,8_KH9,17.htm
+Snippet: 77 Del <b>Taco</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.indeed.com/cmp/Del-Taco/reviews
+Snippet: 2,421 <b>reviews</b> from Del <b>Taco</b> <b>employees</b> about Del <b>Taco</b> culture, salaries, benefits, work-life balance, management, job security, and more.
+Link: https://www.glassdoor.com.au/Reviews/Del-Taco-decent-hours-Reviews-EI_IE5620.0,8_KH9,21.htm
+Snippet: 84 Del <b>Taco</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.co.in/Reviews/Del-Taco-employee-discount-Reviews-EI_IE5620.0,8_KH9,26.htm
+Snippet: 10 Del <b>Taco</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.ca/Reviews/Del-Taco-Reviews-E5620.htm
+Snippet: 869 Del <b>Taco</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.com/Reviews/Del-Taco-flexible-hours-Reviews-EI_IE5620.0,8_KH9,23.htm
+Snippet: 51 Del <b>Taco</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.co.in/Overview/Working-at-Del-Taco-EI_IE5620.11,19.htm
+Snippet: See what <b>employees</b> say it&#39;s like to work at Del <b>Taco</b>. Salaries, <b>reviews</b>, and more - all posted by <b>employees</b> working at Del <b>Taco</b>.
+Remi: Results for 'Del Taco employee reviews Glassdoor':
+Link: https://www.glassdoor.com/Reviews/Del-Taco-Reviews-E5620.htm
+Snippet: 889 Del <b>Taco reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.com/Overview/Working-at-Del-Taco-EI_IE5620.11,19.htm
+Snippet: See what <b>employees</b> say it&#39;s like to work at Del <b>Taco</b>. Salaries, <b>reviews</b>, and more - all posted by <b>employees</b> working at Del <b>Taco</b>.
+Link: https://www.glassdoor.co.in/Reviews/Del-Taco-Reviews-E5620.htm
+Snippet: 889 Del <b>Taco reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.com/Reviews/Del-Taco-employee-Reviews-EI_IE5620.0,8_KH9,17.htm
+Snippet: 77 Del <b>Taco</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.indeed.com/cmp/Del-Taco/reviews
+Snippet: 2,421 <b>reviews</b> from Del <b>Taco</b> <b>employees</b> about Del <b>Taco</b> culture, salaries, benefits, work-life balance, management, job security, and more.
+Link: https://www.glassdoor.com.au/Reviews/Del-Taco-decent-hours-Reviews-EI_IE5620.0,8_KH9,21.htm
+Snippet: 84 Del <b>Taco</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.co.in/Reviews/Del-Taco-employee-discount-Reviews-EI_IE5620.0,8_KH9,26.htm
+Snippet: 10 Del <b>Taco</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.ca/Reviews/Del-Taco-Reviews-E5620.htm
+Snippet: 869 Del <b>Taco</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.com/Reviews/Del-Taco-flexible-hours-Reviews-EI_IE5620.0,8_KH9,23.htm
+Snippet: 51 Del <b>Taco</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.co.in/Overview/Working-at-Del-Taco-EI_IE5620.11,19.htm
+Snippet: See what <b>employees</b> say it&#39;s like to work at Del <b>Taco</b>. Salaries, <b>reviews</b>, and more - all posted by <b>employees</b> working at Del <b>Taco</b>.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Del Taco lawsuits':
+Link: https://torrezvdeltaco.com/
+Snippet: Fax: (888) 845-6185. Email: info@ilymgroup.com. ILYM GROUP, Inc. www.ilymgroup.com | P.O. Box 2031, Tustin, CA 92781. This website is maintained by ILYM Group, Inc, the Claims Administrator for this settlement. We are a neutral third party engaged to provide information to class members. Torrez V. <b>Del</b> <b>Taco</b>, LLC.
+Link: https://www.restaurantbusinessonline.com/financing/del-taco-pay-50m-settle-wage-hour-lawsuit
+Snippet: By Jonathan Maze on Jun. 13, 2022. The <b>Del</b> <b>Taco</b> acquisition just got a bit costlier for Jack in the Box. The San Diego-based burger chain late on Friday said that <b>Del</b> <b>Taco</b>, which it acquired in March, has agreed to settle a wage-and-hour class action <b>lawsuit</b> out of California for $50 million. The <b>lawsuit</b>, initially filed in Alameda County ...
+PDF Link: https://torrezvdeltaco.com/important-documents/Torrez%20et%20al%20v.%20Del%20Taco,%20LLC%20-%20Class%20Notice.pdf
+Link: https://www.eeoc.gov/newsroom/del-taco-llc-settles-eeoc-sexual-harassment-lawsuit
+Snippet: LOS ANGELES – <b>Del</b> <b>Taco</b>, LLC., a fast-food chain, will pay $1,250,000 and provide other relief to settle a <b>lawsuit</b> which the U.S. Equal Employment Opportunity Commission (EEOC) filed against it alleging sexual harassment and retaliation against female employees, the agency announced today. According to the EEOC’s suit, <b>Del</b> <b>Taco</b>’s general ...
+Link: https://www.nytimes.com/2020/12/02/business/del-taco-sexual-harassment.html
+Snippet: The fast-food chain <b>Del</b> <b>Taco</b> has settled a <b>lawsuit</b> filed by the U.S. Equal Employment Opportunity Commission over its handling of sexual harassment claims, agreeing to pay $1.25 million and accept ...
+PDF Link: https://torrezvdeltaco.com/important-documents/Torrez%20et%20al%20v.%20Del%20Taco,%20LLC%20-%20Information%20Sheet.pdf
+Link: https://www.thenalfa.org/blog/judge-perplexed-with-fee-request-in-del-taco-settlement/
+Snippet: A recent Law 360 story by Bonnie Eslinger, “<b>Del</b> <b>Taco</b> ‘Perplexed’ By Atty Fee Bid in $50M Deal”, reports that a California judge who tentatively awarded <b>Del</b> <b>Taco</b> workers&#39; attorneys $12.5 million in fees for their work securing a $50 million wage deal said he&#39;s &quot;perplexed&quot; by their arguments for $16.7 million, saying they should have included legal authorities supporting the higher ...
+Link: https://www.restaurantdive.com/news/del-taco-to-pay-125m-to-settle-sexual-harassment-lawsuit/591637/
+Snippet: Dive Brief: <b>Del</b> <b>Taco</b> has agreed to pay $1.25 million to settle a <b>lawsuit</b> filed by the U.S. Equal Employment Opportunity Commission alleging sexual harassment and retaliation against female employees, according to a press release. According the the <b>lawsuit</b>, a general manager and shift leader at its Rancho Cucamonga, California, stores sexually harassed young female workers almost daily with ...
+Link: https://finance.yahoo.com/news/del-taco-settles-u-sexual-211000172.html
+Snippet: <b>Del</b> <b>Taco</b> Restaurants Inc agreed to pay $1.25 million and enter a three-year consent decree to settle a U.S. agency&#39;s <b>lawsuit</b> accusing the fast food chain of failing to stop sexual harassment and ...
+Link: https://eeocdeltacosettlement.com/
+Snippet: Phoenix Class Action Administration Solutions www.phoenixclassaction.com | P.O. Box 7208, Orange, CA, 92863. Phoenix Class Action is a neutral third party, engaged to provide information to class members. v 2020062601. Welcome to the website for the EEOC v. <b>Del</b> <b>Taco</b>, LLC <b>Lawsuit</b>.
+Remi: Results for 'Del Taco lawsuits':
+Link: https://torrezvdeltaco.com/
+Snippet: Fax: (888) 845-6185. Email: info@ilymgroup.com. ILYM GROUP, Inc. www.ilymgroup.com | P.O. Box 2031, Tustin, CA 92781. This website is maintained by ILYM Group, Inc, the Claims Administrator for this settlement. We are a neutral third party engaged to provide information to class members. Torrez V. <b>Del</b> <b>Taco</b>, LLC.
+Link: https://www.restaurantbusinessonline.com/financing/del-taco-pay-50m-settle-wage-hour-lawsuit
+Snippet: By Jonathan Maze on Jun. 13, 2022. The <b>Del</b> <b>Taco</b> acquisition just got a bit costlier for Jack in the Box. The San Diego-based burger chain late on Friday said that <b>Del</b> <b>Taco</b>, which it acquired in March, has agreed to settle a wage-and-hour class action <b>lawsuit</b> out of California for $50 million. The <b>lawsuit</b>, initially filed in Alameda County ...
+PDF Link: https://torrezvdeltaco.com/important-documents/Torrez%20et%20al%20v.%20Del%20Taco,%20LLC%20-%20Class%20Notice.pdf
+Link: https://www.eeoc.gov/newsroom/del-taco-llc-settles-eeoc-sexual-harassment-lawsuit
+Snippet: LOS ANGELES – <b>Del</b> <b>Taco</b>, LLC., a fast-food chain, will pay $1,250,000 and provide other relief to settle a <b>lawsuit</b> which the U.S. Equal Employment Opportunity Commission (EEOC) filed against it alleging sexual harassment and retaliation against female employees, the agency announced today. According to the EEOC’s suit, <b>Del</b> <b>Taco</b>’s general ...
+Link: https://www.nytimes.com/2020/12/02/business/del-taco-sexual-harassment.html
+Snippet: The fast-food chain <b>Del</b> <b>Taco</b> has settled a <b>lawsuit</b> filed by the U.S. Equal Employment Opportunity Commission over its handling of sexual harassment claims, agreeing to pay $1.25 million and accept ...
+PDF Link: https://torrezvdeltaco.com/important-documents/Torrez%20et%20al%20v.%20Del%20Taco,%20LLC%20-%20Information%20Sheet.pdf
+Link: https://www.thenalfa.org/blog/judge-perplexed-with-fee-request-in-del-taco-settlement/
+Snippet: A recent Law 360 story by Bonnie Eslinger, “<b>Del</b> <b>Taco</b> ‘Perplexed’ By Atty Fee Bid in $50M Deal”, reports that a California judge who tentatively awarded <b>Del</b> <b>Taco</b> workers&#39; attorneys $12.5 million in fees for their work securing a $50 million wage deal said he&#39;s &quot;perplexed&quot; by their arguments for $16.7 million, saying they should have included legal authorities supporting the higher ...
+Link: https://www.restaurantdive.com/news/del-taco-to-pay-125m-to-settle-sexual-harassment-lawsuit/591637/
+Snippet: Dive Brief: <b>Del</b> <b>Taco</b> has agreed to pay $1.25 million to settle a <b>lawsuit</b> filed by the U.S. Equal Employment Opportunity Commission alleging sexual harassment and retaliation against female employees, according to a press release. According the the <b>lawsuit</b>, a general manager and shift leader at its Rancho Cucamonga, California, stores sexually harassed young female workers almost daily with ...
+Link: https://finance.yahoo.com/news/del-taco-settles-u-sexual-211000172.html
+Snippet: <b>Del</b> <b>Taco</b> Restaurants Inc agreed to pay $1.25 million and enter a three-year consent decree to settle a U.S. agency&#39;s <b>lawsuit</b> accusing the fast food chain of failing to stop sexual harassment and ...
+Link: https://eeocdeltacosettlement.com/
+Snippet: Phoenix Class Action Administration Solutions www.phoenixclassaction.com | P.O. Box 7208, Orange, CA, 92863. Phoenix Class Action is a neutral third party, engaged to provide information to class members. v 2020062601. Welcome to the website for the EEOC v. <b>Del</b> <b>Taco</b>, LLC <b>Lawsuit</b>.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Del Taco scandals':
+Link: https://www.restaurantdive.com/news/del-taco-to-pay-125m-to-settle-sexual-harassment-lawsuit/591637/
+Snippet: <b>Del</b> <b>Taco</b> has agreed to pay $1.25 million to settle a lawsuit filed by the U.S. Equal Employment Opportunity Commission alleging sexual harassment and retaliation against female employees, according to a press release. According the the lawsuit, a general manager and shift leader at its Rancho Cucamonga, California, stores sexually harassed ...
+Link: https://www.npr.org/sections/health-shots/2011/04/22/135539926/with-lawsuit-over-taco-bells-mystery-meat-is-a-mystery-no-longer
+Snippet: A law firm that claimed fast-food company <b>Taco</b> Bell was using too much filler in its beef product said Monday it was calling it quits on the lawsuit. <b>Taco</b> Bell had launched a multimillion dollar ...
+Link: https://www.nytimes.com/2020/12/02/business/del-taco-sexual-harassment.html
+Snippet: The fast-food chain <b>Del</b> <b>Taco</b> has settled a lawsuit filed by the U.S. Equal Employment Opportunity Commission over its handling of sexual harassment claims, agreeing to pay $1.25 million and accept ...
+Link: https://www.valiantlaw.com/blog/2021/march/del-taco-to-pay-1-25-million-in-settlement-for-a/
+Snippet: <b>Del</b> <b>Taco</b> has recently agreed to a $1.25 million settlement after numerous claims of sexual harassment came to light. It was back in 2018 when the fast food chain was investigated and sued by the U.S. Equal Opportunity Commission (EEOC) after employees reported pervasive sexual harassment at a few different locations in the Inland Empire.
+Link: https://www.businessinsider.com/del-taco-sexual-harassment-settlement-reveals-growing-problem-restaurants-2020-12
+Snippet: <b>Del</b> <b>Taco</b> will pay $1.25 million to settle a sexual-harassment lawsuit. Sexual harassment is a massive problem in the restaurant industry, with 2016 survey finding that 40% of female fast-food ...
+Link: https://www.eeoc.gov/newsroom/del-taco-llc-settles-eeoc-sexual-harassment-lawsuit
+Snippet: LOS ANGELES – <b>Del</b> <b>Taco</b>, LLC., a fast-food chain, will pay $1,250,000 and provide other relief to settle a lawsuit which the U.S. Equal Employment Opportunity Commission (EEOC) filed against it alleging sexual harassment and retaliation against female employees, the agency announced today. According to the EEOC’s suit, <b>Del</b> <b>Taco</b>’s general ...
+Link: https://www.eeoc.gov/newsroom/del-taco-owner-sued-eeoc-sexual-harassment-and-retaliation
+Snippet: Gala AZ Holdings, Inc., doing business as <b>Del</b> <b>Taco</b>, violated federal law by subjecting a female employee to sexual harassment and by firing her for her complaint, the U.S. Equal Employment Opportunity Commission (EEOC) charged in a lawsuit it filed today.
+Link: https://www.nasdaq.com/articles/del-taco-settles-u.s.-sexual-harassment-charges-enters-consent-decree-2020-12-02
+Snippet: <b>Del</b> <b>Taco</b> Restaurants Inc agreed to pay $1.25 million and enter a three-year consent decree to settle a U.S. agency&#39;s lawsuit accusing the fast food chain of failing to stop sexual harassment and ...
+Link: https://www.mercurynews.com/2020/12/03/del-taco-to-pay-1-25-million-to-settle-sexual-harassment-lawsuit/
+Snippet: Lake Forest-based <b>Del</b> <b>Taco</b> will pay $1,250,000 to settle a lawsuit alleging sexual harassment against female employees at the company’s Rancho Cucamonga-area locations, federal regulators said ...
+Link: https://news.bloomberglaw.com/daily-labor-report/del-taco-to-pay-1-25-million-to-settle-eeoc-sex-harassment-suit
+Snippet: <b>Del</b> <b>Taco</b> LLC will pay $1.25 million and update its anti-bias policies and training to resolve an EEOC suit alleging it subjected a teen employee and other women to a hostile environment while working at a Rancho Cucamonga, Calif., location and another store, federal court records show.
+Remi: Results for 'Del Taco scandals':
+Link: https://www.restaurantdive.com/news/del-taco-to-pay-125m-to-settle-sexual-harassment-lawsuit/591637/
+Snippet: <b>Del</b> <b>Taco</b> has agreed to pay $1.25 million to settle a lawsuit filed by the U.S. Equal Employment Opportunity Commission alleging sexual harassment and retaliation against female employees, according to a press release. According the the lawsuit, a general manager and shift leader at its Rancho Cucamonga, California, stores sexually harassed ...
+Link: https://www.npr.org/sections/health-shots/2011/04/22/135539926/with-lawsuit-over-taco-bells-mystery-meat-is-a-mystery-no-longer
+Snippet: A law firm that claimed fast-food company <b>Taco</b> Bell was using too much filler in its beef product said Monday it was calling it quits on the lawsuit. <b>Taco</b> Bell had launched a multimillion dollar ...
+Link: https://www.nytimes.com/2020/12/02/business/del-taco-sexual-harassment.html
+Snippet: The fast-food chain <b>Del</b> <b>Taco</b> has settled a lawsuit filed by the U.S. Equal Employment Opportunity Commission over its handling of sexual harassment claims, agreeing to pay $1.25 million and accept ...
+Link: https://www.valiantlaw.com/blog/2021/march/del-taco-to-pay-1-25-million-in-settlement-for-a/
+Snippet: <b>Del</b> <b>Taco</b> has recently agreed to a $1.25 million settlement after numerous claims of sexual harassment came to light. It was back in 2018 when the fast food chain was investigated and sued by the U.S. Equal Opportunity Commission (EEOC) after employees reported pervasive sexual harassment at a few different locations in the Inland Empire.
+Link: https://www.businessinsider.com/del-taco-sexual-harassment-settlement-reveals-growing-problem-restaurants-2020-12
+Snippet: <b>Del</b> <b>Taco</b> will pay $1.25 million to settle a sexual-harassment lawsuit. Sexual harassment is a massive problem in the restaurant industry, with 2016 survey finding that 40% of female fast-food ...
+Link: https://www.eeoc.gov/newsroom/del-taco-llc-settles-eeoc-sexual-harassment-lawsuit
+Snippet: LOS ANGELES – <b>Del</b> <b>Taco</b>, LLC., a fast-food chain, will pay $1,250,000 and provide other relief to settle a lawsuit which the U.S. Equal Employment Opportunity Commission (EEOC) filed against it alleging sexual harassment and retaliation against female employees, the agency announced today. According to the EEOC’s suit, <b>Del</b> <b>Taco</b>’s general ...
+Link: https://www.eeoc.gov/newsroom/del-taco-owner-sued-eeoc-sexual-harassment-and-retaliation
+Snippet: Gala AZ Holdings, Inc., doing business as <b>Del</b> <b>Taco</b>, violated federal law by subjecting a female employee to sexual harassment and by firing her for her complaint, the U.S. Equal Employment Opportunity Commission (EEOC) charged in a lawsuit it filed today.
+Link: https://www.nasdaq.com/articles/del-taco-settles-u.s.-sexual-harassment-charges-enters-consent-decree-2020-12-02
+Snippet: <b>Del</b> <b>Taco</b> Restaurants Inc agreed to pay $1.25 million and enter a three-year consent decree to settle a U.S. agency&#39;s lawsuit accusing the fast food chain of failing to stop sexual harassment and ...
+Link: https://www.mercurynews.com/2020/12/03/del-taco-to-pay-1-25-million-to-settle-sexual-harassment-lawsuit/
+Snippet: Lake Forest-based <b>Del</b> <b>Taco</b> will pay $1,250,000 to settle a lawsuit alleging sexual harassment against female employees at the company’s Rancho Cucamonga-area locations, federal regulators said ...
+Link: https://news.bloomberglaw.com/daily-labor-report/del-taco-to-pay-1-25-million-to-settle-eeoc-sex-harassment-suit
+Snippet: <b>Del</b> <b>Taco</b> LLC will pay $1.25 million and update its anti-bias policies and training to resolve an EEOC suit alleging it subjected a teen employee and other women to a hostile environment while working at a Rancho Cucamonga, Calif., location and another store, federal court records show.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Del Taco international operations':
+Link: https://www.restaurantdive.com/news/del-taco-franchising-surge/707076/
+Snippet: The Mexican QSR chain signed over 138 franchise commitments in fiscal 2023 and plans to be over 90% franchised by 2026, said Van Ingram, Del <b>Taco</b>’s VP of franchise development.
+Link: https://investors.jackinthebox.com/news/news-details/2022/Jack-in-the-Box-Completes-its-Acquisition-of-Del-Taco/default.aspx
+Snippet: Jack in the Box Inc. (NASDAQ: JACK) announced today that it has completed its previously announced acquisition of Del <b>Taco</b> Restaurants, Inc. (NASDAQ: <b>TACO</b>) for approximately $585 million. With the close of the acquisition, Jack in the Box and Del <b>Taco</b> are now positioned as stronger QSR players with greater scale and the ability to enhance the guest experience while pursuing profitable growth ...
+Link: https://www.franchising.com/articles/onebrand_man_del_tacos_largest_operator_continues_to_grow.html
+Snippet: This is where I developed a passion for <b>operations</b> and continuous improvement. Best business decision: Leaving my corporate America job and becoming a Del <b>Taco</b> franchisee. Hardest lesson learned:
+Link: https://investors.jackinthebox.com/news/news-details/2021/Jack-in-the-Box-to-Acquire-Del-Taco-Combining-Two-Challenger-Brands-to-Create-Substantial-Opportunities-for-Growth-and-Increased-Profitability/default.aspx
+Snippet: Founded in 1964, Del <b>Taco</b> serves more than three million guests each week at its approximately 600 restaurants across 16 states. 99% of Del <b>Taco</b> restaurants feature a drive-thru, helping to achieve strong off-premise sales and a diversified daypart mix. Jack in the Box and Del <b>Taco</b> will have more than 2,800 restaurants spanning 25 states with similar guest profiles, menu offerings and company ...
+Link: https://www.franchising.com/news/20210324_del_taco_announces_continued_growth__expansion_after_posting_its_8th_consec.html
+Snippet: Del <b>Taco</b>, the nation’s second largest Mexican quick service restaurant chain, is carrying tremendous momentum into the first quarter of 2021.
+Link: https://www.prnewswire.com/news-releases/del-taco-announces-continued-growth--expansion-after-posting-its-8th-consecutive-year-of-franchise-same-store-sales-growth-301260396.html
+Snippet: &quot;After 20-plus years in restaurant franchising, Del <b>Taco</b> has far exceeded my expectations with clever marketing, smart <b>operations</b> and strong development support,&quot; said Ekstrom.
+Link: https://www.restaurantbusinessonline.com/financing/del-taco-gets-back-its-growth-track
+Snippet: Del <b>Taco</b> gets back on its growth track. The Mexican fast-food chain’s new prototype, opened last month in Orlando, is the centerpiece of a new franchising strategy. By Jonathan Maze on Jan. 19, 2022. A look at Del <b>Taco</b>&#39;s first &quot;Fresh Flex&quot; location in Orlando, Fla./Photos courtesy of Del <b>Taco</b>. Del <b>Taco</b>, the 600-unit Mexican fast-food chain ...
+Link: https://en.wikipedia.org/wiki/Del_Taco
+Snippet: Del <b>Taco</b> Restaurants, Inc. is an American fast-food restaurant chain that specializes in American-style Mexican cuisine, as well as American foods such as burgers, fries and shakes.
+Link: https://www.forbes.com/sites/aliciakelso/2021/12/06/restaurant-industry-consolidation-continues-as-jack-in-the-box-buys-del-taco/
+Snippet: That activity kept up its momentum on Monday as Jack in the Box JACK 0.0% announced a deal to acquire Del <b>Taco</b> for $575 million. The transaction is expected to close in the first quarter of 2022 ...
+Link: https://www.businesswire.com/news/home/20210308005782/en/Del-Taco-Restaurants-Inc.-Reports-Fiscal-Fourth-Quarter-and-Fiscal-Year-2020-Financial-Results
+Snippet: Forward-looking statements include, without limitation, information concerning Del <b>Taco</b>’s possible or assumed future results of <b>operations</b>, business strategies, competitive position, industry ...
+Remi: Results for 'Del Taco international operations':
+Link: https://www.restaurantdive.com/news/del-taco-franchising-surge/707076/
+Snippet: The Mexican QSR chain signed over 138 franchise commitments in fiscal 2023 and plans to be over 90% franchised by 2026, said Van Ingram, Del <b>Taco</b>’s VP of franchise development.
+Link: https://investors.jackinthebox.com/news/news-details/2022/Jack-in-the-Box-Completes-its-Acquisition-of-Del-Taco/default.aspx
+Snippet: Jack in the Box Inc. (NASDAQ: JACK) announced today that it has completed its previously announced acquisition of Del <b>Taco</b> Restaurants, Inc. (NASDAQ: <b>TACO</b>) for approximately $585 million. With the close of the acquisition, Jack in the Box and Del <b>Taco</b> are now positioned as stronger QSR players with greater scale and the ability to enhance the guest experience while pursuing profitable growth ...
+Link: https://www.franchising.com/articles/onebrand_man_del_tacos_largest_operator_continues_to_grow.html
+Snippet: This is where I developed a passion for <b>operations</b> and continuous improvement. Best business decision: Leaving my corporate America job and becoming a Del <b>Taco</b> franchisee. Hardest lesson learned:
+Link: https://investors.jackinthebox.com/news/news-details/2021/Jack-in-the-Box-to-Acquire-Del-Taco-Combining-Two-Challenger-Brands-to-Create-Substantial-Opportunities-for-Growth-and-Increased-Profitability/default.aspx
+Snippet: Founded in 1964, Del <b>Taco</b> serves more than three million guests each week at its approximately 600 restaurants across 16 states. 99% of Del <b>Taco</b> restaurants feature a drive-thru, helping to achieve strong off-premise sales and a diversified daypart mix. Jack in the Box and Del <b>Taco</b> will have more than 2,800 restaurants spanning 25 states with similar guest profiles, menu offerings and company ...
+Link: https://www.franchising.com/news/20210324_del_taco_announces_continued_growth__expansion_after_posting_its_8th_consec.html
+Snippet: Del <b>Taco</b>, the nation’s second largest Mexican quick service restaurant chain, is carrying tremendous momentum into the first quarter of 2021.
+Link: https://www.prnewswire.com/news-releases/del-taco-announces-continued-growth--expansion-after-posting-its-8th-consecutive-year-of-franchise-same-store-sales-growth-301260396.html
+Snippet: &quot;After 20-plus years in restaurant franchising, Del <b>Taco</b> has far exceeded my expectations with clever marketing, smart <b>operations</b> and strong development support,&quot; said Ekstrom.
+Link: https://www.restaurantbusinessonline.com/financing/del-taco-gets-back-its-growth-track
+Snippet: Del <b>Taco</b> gets back on its growth track. The Mexican fast-food chain’s new prototype, opened last month in Orlando, is the centerpiece of a new franchising strategy. By Jonathan Maze on Jan. 19, 2022. A look at Del <b>Taco</b>&#39;s first &quot;Fresh Flex&quot; location in Orlando, Fla./Photos courtesy of Del <b>Taco</b>. Del <b>Taco</b>, the 600-unit Mexican fast-food chain ...
+Link: https://en.wikipedia.org/wiki/Del_Taco
+Snippet: Del <b>Taco</b> Restaurants, Inc. is an American fast-food restaurant chain that specializes in American-style Mexican cuisine, as well as American foods such as burgers, fries and shakes.
+Link: https://www.forbes.com/sites/aliciakelso/2021/12/06/restaurant-industry-consolidation-continues-as-jack-in-the-box-buys-del-taco/
+Snippet: That activity kept up its momentum on Monday as Jack in the Box JACK 0.0% announced a deal to acquire Del <b>Taco</b> for $575 million. The transaction is expected to close in the first quarter of 2022 ...
+Link: https://www.businesswire.com/news/home/20210308005782/en/Del-Taco-Restaurants-Inc.-Reports-Fiscal-Fourth-Quarter-and-Fiscal-Year-2020-Financial-Results
+Snippet: Forward-looking statements include, without limitation, information concerning Del <b>Taco</b>’s possible or assumed future results of <b>operations</b>, business strategies, competitive position, industry ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Del Taco customer reviews':
+Link: https://www.trustpilot.com/review/deltaco.com
+Snippet: The tostada shells were stale could not eat the prices was .30 more the online menu not delivered, the guac was dark brown. The ticket #330 314 010 078 212 @ 2.00pm amount $17.83. This was the first time ordering from Del <b>Taco</b> My phone # is 505-215-1879. Date of experience: April 27, 2023.
+Link: https://www.eatthis.com/del-taco-menu-best-worst/
+Snippet: Del <b>Taco</b>&#39;s breakfast burritos offer a hefty 16-30 grams of protein, depending upon the option, and contain low or no sugar; however, despite their redeeming nutritional qualities in the protein and sugar departments, the same can&#39;t be said for saturated fat, sodium, and calories. The Crispy Bacon Burrito is the worst of Del <b>Taco</b>&#39;s three flavors ...
+Link: https://www.mashed.com/718497/taco-bell-vs-del-taco-which-one-is-better/
+Snippet: Del <b>Taco</b>&#39;s take on a burrito is a lot closer to what you&#39;d find at the roughly 200 million fast casual &quot;gourmet&quot; taquerias that have opened over the past decade. The Epic Burrito is a monster stuffed with rice, whole beans, guacamole, and chicken, all of which blend beautifully. The guacamole tastes fresh, and when topped with some hot sauce ...
+Link: https://www.trustpilot.com/review/deltaco.com?page=2
+Snippet: 21 people have already reviewed Del <b>Taco</b> Restaurants. Read about their experiences and share your own! | Read 21-21 <b>Reviews</b> out of 21. Do you agree with Del <b>Taco</b> Restaurants&#39;s TrustScore? Voice your opinion today and hear what 21 customers have already said. Suggested companies.
+Link: https://www.mashed.com/410684/popular-del-taco-menu-items-ranked-worst-to-best/
+Snippet: 1. Habanero Crispy Chicken <b>Taco</b>. Facebook/Del <b>Taco</b>. If you&#39;re truly looking for the best of the bunch when it comes to Del <b>Taco</b>&#39;s menu, the first thing you have to order is the habanero crispy chicken <b>taco</b>. The first time you bite into this <b>taco</b>, it&#39;s like all your fast food <b>taco</b> dreams are coming true.
+Link: https://uproxx.com/life/del-taco-birria-review/
+Snippet: Birria consomé is a great thing to steep noodles in and with some cilantro, onion, and shredded beef, you have an elevated version of classic Cup Noodles. The consomé tastes great, it has a ...
+Link: https://www.reddit.com/r/fastfood/comments/xbojte/review_del_tacos_epic_tortas/
+Snippet: There was indeed a ton of meat though. Nothing new flavor-wise; like <b>Taco</b> Bell does, these were just a remixing of current ingredients + new bread. At $5 per sandwich, it was probably a good deal for the amount of meat you get. However, when I go to <b>Del</b> <b>Taco</b>, my usual order fills me up for $3, so paying $10 for two of these sandwiches is ...
+Link: https://www.consumerreports.org/health/fast-food-restaurants/na-del-taco/m275612/
+Snippet: About. Del <b>Taco</b> is part of the Fast food restaurants test program at <b>Consumer Reports</b>. In our lab tests, Fast food restaurants models like the Del <b>Taco</b> are rated on multiple criteria, such as ...
+Link: https://www.msn.com/en-us/foodanddrink/foodnews/i-tried-all-the-new-birria-items-at-del-taco-here-s-what-i-d-go-back-for/ar-AA1kRynu
+Snippet: Birria Ramen Photo by EatDrinkLA. The Birria Back Story. Jeremias Aguayo, the Senior Director of R&amp;D at Del <b>Taco</b>, worked for months and went through 16 recipes to bring back a level of ...
+Link: https://www.businessinsider.com/del-taco-review-in-photos-tacos-burger-fries-2022-8
+Snippet: Aug 27, 2022, 4:28 AM PDT. Hollis Johnson/Business Insider. I visited Del <b>Taco</b> for the first time to taste test the food. It was affordable and delicious, with a huge menu. I was most surprised by ...
+Remi: Results for 'Del Taco customer reviews':
+Link: https://www.trustpilot.com/review/deltaco.com
+Snippet: The tostada shells were stale could not eat the prices was .30 more the online menu not delivered, the guac was dark brown. The ticket #330 314 010 078 212 @ 2.00pm amount $17.83. This was the first time ordering from Del <b>Taco</b> My phone # is 505-215-1879. Date of experience: April 27, 2023.
+Link: https://www.eatthis.com/del-taco-menu-best-worst/
+Snippet: Del <b>Taco</b>&#39;s breakfast burritos offer a hefty 16-30 grams of protein, depending upon the option, and contain low or no sugar; however, despite their redeeming nutritional qualities in the protein and sugar departments, the same can&#39;t be said for saturated fat, sodium, and calories. The Crispy Bacon Burrito is the worst of Del <b>Taco</b>&#39;s three flavors ...
+Link: https://www.mashed.com/718497/taco-bell-vs-del-taco-which-one-is-better/
+Snippet: Del <b>Taco</b>&#39;s take on a burrito is a lot closer to what you&#39;d find at the roughly 200 million fast casual &quot;gourmet&quot; taquerias that have opened over the past decade. The Epic Burrito is a monster stuffed with rice, whole beans, guacamole, and chicken, all of which blend beautifully. The guacamole tastes fresh, and when topped with some hot sauce ...
+Link: https://www.trustpilot.com/review/deltaco.com?page=2
+Snippet: 21 people have already reviewed Del <b>Taco</b> Restaurants. Read about their experiences and share your own! | Read 21-21 <b>Reviews</b> out of 21. Do you agree with Del <b>Taco</b> Restaurants&#39;s TrustScore? Voice your opinion today and hear what 21 customers have already said. Suggested companies.
+Link: https://www.mashed.com/410684/popular-del-taco-menu-items-ranked-worst-to-best/
+Snippet: 1. Habanero Crispy Chicken <b>Taco</b>. Facebook/Del <b>Taco</b>. If you&#39;re truly looking for the best of the bunch when it comes to Del <b>Taco</b>&#39;s menu, the first thing you have to order is the habanero crispy chicken <b>taco</b>. The first time you bite into this <b>taco</b>, it&#39;s like all your fast food <b>taco</b> dreams are coming true.
+Link: https://uproxx.com/life/del-taco-birria-review/
+Snippet: Birria consomé is a great thing to steep noodles in and with some cilantro, onion, and shredded beef, you have an elevated version of classic Cup Noodles. The consomé tastes great, it has a ...
+Link: https://www.reddit.com/r/fastfood/comments/xbojte/review_del_tacos_epic_tortas/
+Snippet: There was indeed a ton of meat though. Nothing new flavor-wise; like <b>Taco</b> Bell does, these were just a remixing of current ingredients + new bread. At $5 per sandwich, it was probably a good deal for the amount of meat you get. However, when I go to <b>Del</b> <b>Taco</b>, my usual order fills me up for $3, so paying $10 for two of these sandwiches is ...
+Link: https://www.consumerreports.org/health/fast-food-restaurants/na-del-taco/m275612/
+Snippet: About. Del <b>Taco</b> is part of the Fast food restaurants test program at <b>Consumer Reports</b>. In our lab tests, Fast food restaurants models like the Del <b>Taco</b> are rated on multiple criteria, such as ...
+Link: https://www.msn.com/en-us/foodanddrink/foodnews/i-tried-all-the-new-birria-items-at-del-taco-here-s-what-i-d-go-back-for/ar-AA1kRynu
+Snippet: Birria Ramen Photo by EatDrinkLA. The Birria Back Story. Jeremias Aguayo, the Senior Director of R&amp;D at Del <b>Taco</b>, worked for months and went through 16 recipes to bring back a level of ...
+Link: https://www.businessinsider.com/del-taco-review-in-photos-tacos-burger-fries-2022-8
+Snippet: Aug 27, 2022, 4:28 AM PDT. Hollis Johnson/Business Insider. I visited Del <b>Taco</b> for the first time to taste test the food. It was affordable and delicious, with a huge menu. I was most surprised by ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Del Taco social media sentiment':
+Link: https://www.marketbeat.com/stocks/NASDAQ/TACO/trends-and-sentiment/
+Snippet: What do the trends say about Del <b>Taco</b> Restaurants? View the latest <b>TACO</b> trend and <b>sentiment</b> data at MarketBeat. Skip to main content. Research Tools. All Access Research Tools. Live News Feed ; ... <b>TACO</b> <b>Social</b> <b>Media</b> Mentions. Related Companies and Tools. Related Companies: TAST Stock Trends;
+Link: https://finance.yahoo.com/news/does-social-media-crowd-think-083108917.html
+Snippet: If you are looking for a stock in the Retail-Restaurants industry, Del <b>Taco</b> Restaurants Inc (<b>TACO</b>) could be one to watch closely
+Link: https://www.instagram.com/deltaco/
+Snippet: Del <b>Taco</b> just came out with NEW Beer Battered Crispy Fish Tacos and they got my mom’s seal of approval! 👩🏻🌮 📍: Del <b>Taco</b> x Stone Brewing 👉🏻: @deltaco @stonebrewing #foodblogger #foodie #DelTacoPartner #DelFishTacos #DelXStone #tacos #losangeles #orangecounty #sandiego
+Link: https://hospitalitytech.com/del-taco-rocks-social-media-new-marketing
+Snippet: 10/19/2020. Del <b>Taco</b> has enlisted a hair metal band &quot;with enough passion for hairspray, leopard print spandex and Cholula Crispy Chicken Tacos&quot; to create viral marketing videos. Del <b>Taco</b> Restaurants is among the brands that is leaning into its drive-thru, carry out and expanding its delivery options. As the COVID-19 pandemic continues, many ...
+Link: https://www.globaldata.com/media/business-fundamentals/sentimental-recovery-food-services-sector-driven-del-taco-yum-brands-benefitted-quick-implementation-digital-infrastructure-says-globaldata/
+Snippet: In July 2020, ten of the top 11 global foodservice companies witnessed a recovery in their earnings transcript <b>sentiment</b> score. <b>Sentiment</b> growth in the sector was largely driven by Del <b>Taco</b> Restaurants, which saw over 30% in July 2020*, compared to Q1 2020, according to GlobalData, a leading data, and analytics company.
+Link: https://www.yahoo.com/news/does-social-media-crowd-think-083108917.html
+Snippet: If you are looking for a stock in the Retail-Restaurants industry, Del <b>Taco</b> Restaurants Inc (<b>TACO</b>) could be one to watch closely
+Link: https://www.globaldata.com/store/report/del-taco-restaurants-inc/
+Snippet: Del <b>Taco</b>&#39;s restaurants offer a full range of made-to-order Mexican items such as tacos, burritos, quesadillas, fries, nachos, and American items such as hamburgers, and crinkle-cut fries, and shakes. The menu items are prepared with fresh ingredients including cheddar cheese, lard-free beans slow-cooked from scratch, pico de gallo salsa, and ...
+Link: https://www.qsrweb.com/articles/del-tacos-rebranding-effort-focuses-on-qualityvalue-balance/
+Snippet: The menu. The new menu platforms, called the Buck &amp; Under and New Tastes, are aimed to position Del <b>Taco</b> as a &quot;quality/value&quot; brand, according Murphy. The Buck &amp; Under features 11 items starting at 50 cents, including a mini cheddar quesadilla, value bean and cheese burrito, double beef classic <b>taco</b> and real strawberry lemonade.
+Link: https://last10k.com/sec-filings/taco/0001585583-21-000009.htm
+Snippet: Lake Forest, CA. March 8, 2021 – Del <b>Taco</b> Restaurants, Inc. (“Del <b>Taco</b>” or the “Company”), (NASDAQ: <b>TACO</b>), the second largest Mexican-American quick service restaurant chain by units in the United States, today reported fiscal fourth quarter and fiscal year 2020 financial results for the 16-week and 52-week periods ending December 29, 2020 and provided a business update.
+Link: https://www.forbes.com/companies/del-taco-restaurants/
+Snippet: Del <b>Taco</b> Restaurants Company Stats. As of November 2023. Industry Quick, Fast, Casual ... more businesses — particularly restaurants — are relying on the power of <b>social</b> <b>media</b> marketing to ...
+Remi: Results for 'Del Taco social media sentiment':
+Link: https://www.marketbeat.com/stocks/NASDAQ/TACO/trends-and-sentiment/
+Snippet: What do the trends say about Del <b>Taco</b> Restaurants? View the latest <b>TACO</b> trend and <b>sentiment</b> data at MarketBeat. Skip to main content. Research Tools. All Access Research Tools. Live News Feed ; ... <b>TACO</b> <b>Social</b> <b>Media</b> Mentions. Related Companies and Tools. Related Companies: TAST Stock Trends;
+Link: https://finance.yahoo.com/news/does-social-media-crowd-think-083108917.html
+Snippet: If you are looking for a stock in the Retail-Restaurants industry, Del <b>Taco</b> Restaurants Inc (<b>TACO</b>) could be one to watch closely
+Link: https://www.instagram.com/deltaco/
+Snippet: Del <b>Taco</b> just came out with NEW Beer Battered Crispy Fish Tacos and they got my mom’s seal of approval! 👩🏻🌮 📍: Del <b>Taco</b> x Stone Brewing 👉🏻: @deltaco @stonebrewing #foodblogger #foodie #DelTacoPartner #DelFishTacos #DelXStone #tacos #losangeles #orangecounty #sandiego
+Link: https://hospitalitytech.com/del-taco-rocks-social-media-new-marketing
+Snippet: 10/19/2020. Del <b>Taco</b> has enlisted a hair metal band &quot;with enough passion for hairspray, leopard print spandex and Cholula Crispy Chicken Tacos&quot; to create viral marketing videos. Del <b>Taco</b> Restaurants is among the brands that is leaning into its drive-thru, carry out and expanding its delivery options. As the COVID-19 pandemic continues, many ...
+Link: https://www.globaldata.com/media/business-fundamentals/sentimental-recovery-food-services-sector-driven-del-taco-yum-brands-benefitted-quick-implementation-digital-infrastructure-says-globaldata/
+Snippet: In July 2020, ten of the top 11 global foodservice companies witnessed a recovery in their earnings transcript <b>sentiment</b> score. <b>Sentiment</b> growth in the sector was largely driven by Del <b>Taco</b> Restaurants, which saw over 30% in July 2020*, compared to Q1 2020, according to GlobalData, a leading data, and analytics company.
+Link: https://www.yahoo.com/news/does-social-media-crowd-think-083108917.html
+Snippet: If you are looking for a stock in the Retail-Restaurants industry, Del <b>Taco</b> Restaurants Inc (<b>TACO</b>) could be one to watch closely
+Link: https://www.globaldata.com/store/report/del-taco-restaurants-inc/
+Snippet: Del <b>Taco</b>&#39;s restaurants offer a full range of made-to-order Mexican items such as tacos, burritos, quesadillas, fries, nachos, and American items such as hamburgers, and crinkle-cut fries, and shakes. The menu items are prepared with fresh ingredients including cheddar cheese, lard-free beans slow-cooked from scratch, pico de gallo salsa, and ...
+Link: https://www.qsrweb.com/articles/del-tacos-rebranding-effort-focuses-on-qualityvalue-balance/
+Snippet: The menu. The new menu platforms, called the Buck &amp; Under and New Tastes, are aimed to position Del <b>Taco</b> as a &quot;quality/value&quot; brand, according Murphy. The Buck &amp; Under features 11 items starting at 50 cents, including a mini cheddar quesadilla, value bean and cheese burrito, double beef classic <b>taco</b> and real strawberry lemonade.
+Link: https://last10k.com/sec-filings/taco/0001585583-21-000009.htm
+Snippet: Lake Forest, CA. March 8, 2021 – Del <b>Taco</b> Restaurants, Inc. (“Del <b>Taco</b>” or the “Company”), (NASDAQ: <b>TACO</b>), the second largest Mexican-American quick service restaurant chain by units in the United States, today reported fiscal fourth quarter and fiscal year 2020 financial results for the 16-week and 52-week periods ending December 29, 2020 and provided a business update.
+Link: https://www.forbes.com/companies/del-taco-restaurants/
+Snippet: Del <b>Taco</b> Restaurants Company Stats. As of November 2023. Industry Quick, Fast, Casual ... more businesses — particularly restaurants — are relying on the power of <b>social</b> <b>media</b> marketing to ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Del Taco main competitors':
+Link: https://www.businessinsider.com/taco-bell-vs-del-taco-compared-which-is-better-2020-1
+Snippet: I ate at both <b>Taco</b> Bell and Del <b>Taco</b> to see how the chains compared, and <b>Taco</b> Bell was better in every way except 2. <b>Taco</b> Bell and Del <b>Taco</b> are the two major fast-food chains that sell Tex-Mex ...
+Link: https://www.marketingtutor.net/taco-bell-competitors-alternatives/
+Snippet: <b>Taco</b> Bell’s wider accessibility allows it to outshine <b>competitors</b>, including Del <b>Taco</b>. Moe’s Southwest Grill. Established in 2000, Moe’s Southwest Grill is the latest entrant in the American fast-casual scene. Commonly known as Moe’s, the brand brings an array of Mexican delights like burritos, nachos, tacos, and quesadillas to its ...
+Link: https://www.mashed.com/136037/mexican-fast-food-chains-ranked-from-worst-to-best/
+Snippet: Here, we&#39;ve ranked some of the very worst and very best Mexican, Mexican-inspired, Mexican-ish, and Tex-Mex fast-food chains in the U.S. 10. Chipotle. It&#39;s risky ranking Chipotle at the bottom of a Mexican-American food roundup, considering the sheer size and ferocity of Chipotle&#39;s die-hard fan club. These are fans who didn&#39;t think twice after ...
+Link: https://thekitchencommunity.org/taco-bell-vs-del-taco/
+Snippet: Though it has fewer locations than <b>Taco</b> Bell, with around 600 establishments, Del <b>Taco</b> still offers a diverse menu, including: Traditional tacos with both soft and crunchy shells. A variety of burritos, including those with a focus on freshness like the Epic line. American classics such as burgers, fries, and shakes.
+Link: https://www.mashed.com/718497/taco-bell-vs-del-taco-which-one-is-better/
+Snippet: Matt Meltzer/Mashed. The fried cinnamon dessert offerings at Del <b>Taco</b> and <b>Taco</b> Bell are similar enough we can compare them side by side, but they serve very different purposes. The cinnamon twists at <b>Taco</b> Bell are more of a light, sweet side to counter the spicy <b>main</b> menu. Del <b>Taco</b>&#39;s are straight-up dessert.
+Link: https://www.thedailymeal.com/1042166/biggest-fast-food-rivalries-ranked/
+Snippet: Del <b>Taco</b>, on the other hand, has roughly 600 locations spread across 16 states. Then again, it&#39;s not for lack of trying on Del <b>Taco</b>&#39;s part. Per the Los Angeles Times , the <b>taco</b> franchise first attempted to expand nationwide in the 1990s; more recently in 2021, Del <b>Taco</b> announced plans to open new franchises in Ohio, Virginia, and North Carolina ...
+Link: https://americasrestaurant.com/taco-bell-vs-del-taco/
+Snippet: Its <b>main</b> signature menu item is The Del <b>Taco</b> – a <b>taco</b> made with seasoned beef, lettuce, grated cheddar cheese, and diced tomatoes. ... Overall, the history of these two chains is marked by fierce <b>competition</b> and dedication to serving delicious Mexican-style fast food.
+Link: https://www.businessinsider.com/taco-bell-versus-del-taco-review-2017-4
+Snippet: Kate Taylor. After a routine visit to Del <b>Taco</b>&#39;s drive-thru, we almost drove by <b>Taco</b> Bell due to a dark, malfunctioning &quot;bell&quot; sign. Then came the drive-thru, where we faced an aggravating wait ...
+Link: https://www.owler.com/company/deltaco/competitors
+Snippet: View Profile. Del <b>Taco</b>&#39;s top 13 <b>competitors</b> are El Pollo Loco, Chipotle, Qdoba, <b>Taco</b> Bueno Restaurants, L.P., Naugles Tacos &amp; Burgers, <b>Taco</b> Bell, Fresca&#39;s Mexican Grill, La Salsa, In-N-Out, Wendy&#39;s, <b>Taco</b> John&#39;s, Baja Fresh and Torchy&#39;s Tacos. Together they have raised over 1.2B between their estimated 207.3K employees.
+Link: https://qz.com/taco-bell-del-taco-competition-1851260825
+Snippet: But Del <b>Taco</b> has far fewer locations, with just under 600 U.S. outlets in 16 states, versus <b>Taco</b> Bell’s 8,000 nationwide. It’s an imbalance Del <b>Taco</b> seemingly hopes to address, as the chain ...
+Remi: Results for 'Del Taco main competitors':
+Link: https://www.businessinsider.com/taco-bell-vs-del-taco-compared-which-is-better-2020-1
+Snippet: I ate at both <b>Taco</b> Bell and Del <b>Taco</b> to see how the chains compared, and <b>Taco</b> Bell was better in every way except 2. <b>Taco</b> Bell and Del <b>Taco</b> are the two major fast-food chains that sell Tex-Mex ...
+Link: https://www.marketingtutor.net/taco-bell-competitors-alternatives/
+Snippet: <b>Taco</b> Bell’s wider accessibility allows it to outshine <b>competitors</b>, including Del <b>Taco</b>. Moe’s Southwest Grill. Established in 2000, Moe’s Southwest Grill is the latest entrant in the American fast-casual scene. Commonly known as Moe’s, the brand brings an array of Mexican delights like burritos, nachos, tacos, and quesadillas to its ...
+Link: https://www.mashed.com/136037/mexican-fast-food-chains-ranked-from-worst-to-best/
+Snippet: Here, we&#39;ve ranked some of the very worst and very best Mexican, Mexican-inspired, Mexican-ish, and Tex-Mex fast-food chains in the U.S. 10. Chipotle. It&#39;s risky ranking Chipotle at the bottom of a Mexican-American food roundup, considering the sheer size and ferocity of Chipotle&#39;s die-hard fan club. These are fans who didn&#39;t think twice after ...
+Link: https://thekitchencommunity.org/taco-bell-vs-del-taco/
+Snippet: Though it has fewer locations than <b>Taco</b> Bell, with around 600 establishments, Del <b>Taco</b> still offers a diverse menu, including: Traditional tacos with both soft and crunchy shells. A variety of burritos, including those with a focus on freshness like the Epic line. American classics such as burgers, fries, and shakes.
+Link: https://www.mashed.com/718497/taco-bell-vs-del-taco-which-one-is-better/
+Snippet: Matt Meltzer/Mashed. The fried cinnamon dessert offerings at Del <b>Taco</b> and <b>Taco</b> Bell are similar enough we can compare them side by side, but they serve very different purposes. The cinnamon twists at <b>Taco</b> Bell are more of a light, sweet side to counter the spicy <b>main</b> menu. Del <b>Taco</b>&#39;s are straight-up dessert.
+Link: https://www.thedailymeal.com/1042166/biggest-fast-food-rivalries-ranked/
+Snippet: Del <b>Taco</b>, on the other hand, has roughly 600 locations spread across 16 states. Then again, it&#39;s not for lack of trying on Del <b>Taco</b>&#39;s part. Per the Los Angeles Times , the <b>taco</b> franchise first attempted to expand nationwide in the 1990s; more recently in 2021, Del <b>Taco</b> announced plans to open new franchises in Ohio, Virginia, and North Carolina ...
+Link: https://americasrestaurant.com/taco-bell-vs-del-taco/
+Snippet: Its <b>main</b> signature menu item is The Del <b>Taco</b> – a <b>taco</b> made with seasoned beef, lettuce, grated cheddar cheese, and diced tomatoes. ... Overall, the history of these two chains is marked by fierce <b>competition</b> and dedication to serving delicious Mexican-style fast food.
+Link: https://www.businessinsider.com/taco-bell-versus-del-taco-review-2017-4
+Snippet: Kate Taylor. After a routine visit to Del <b>Taco</b>&#39;s drive-thru, we almost drove by <b>Taco</b> Bell due to a dark, malfunctioning &quot;bell&quot; sign. Then came the drive-thru, where we faced an aggravating wait ...
+Link: https://www.owler.com/company/deltaco/competitors
+Snippet: View Profile. Del <b>Taco</b>&#39;s top 13 <b>competitors</b> are El Pollo Loco, Chipotle, Qdoba, <b>Taco</b> Bueno Restaurants, L.P., Naugles Tacos &amp; Burgers, <b>Taco</b> Bell, Fresca&#39;s Mexican Grill, La Salsa, In-N-Out, Wendy&#39;s, <b>Taco</b> John&#39;s, Baja Fresh and Torchy&#39;s Tacos. Together they have raised over 1.2B between their estimated 207.3K employees.
+Link: https://qz.com/taco-bell-del-taco-competition-1851260825
+Snippet: But Del <b>Taco</b> has far fewer locations, with just under 600 U.S. outlets in 16 states, versus <b>Taco</b> Bell’s 8,000 nationwide. It’s an imbalance Del <b>Taco</b> seemingly hopes to address, as the chain ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Del Taco sustainability practices':
+Link: https://investors.yum.com/news-events/financial-releases/news-details/2021/Yum-Brands-Annual-Global-Citizenship--Sustainability-Report-Showcases-Companys-Commitment-to-Socially-Responsible-Growth-Highlights-Progress-Around-Priority-Areas-of-People-Food-Planet/default.aspx
+Snippet: Yum! Brands, Inc. (NYSE: YUM) today released its annual Global Citizenship <b>Sustainability</b> Report, highlighting the Company’s strategic investments in socially responsible growth, risk management and <b>sustainable</b> stewardship of its people, food and impact on the planet. Yum! and its KFC, Pizza Hut, <b>Taco</b> Bell and The Habit Burger Grill brands made progress in critical areas including climate ...
+Link: https://foodchainmagazine.com/news/del-taco-surpasses-chick-fil-a-as-2024-fast-food-champion/
+Snippet: Del <b>Taco</b> Surpasses Chick-fil-A as 2024 Fast Food Champion In an unexpected twist in the fast food industry, Del <b>Taco</b> has claimed the top spot in the 2024 rankings of fast food and fast casual restaurants, surpassing perennial favorite Chick-fil-A. This annual ranking, highly anticipated by both consumers and industry insiders, reflects the evolving tastes and preferences of the American public.
+Link: https://investors.yum.com/news-events/financial-releases/news-details/2021/Yum-Brands-Announces-Approved-Science-Based-Targets-to-Address-Climate-Change-with-Goal-to-Reduce-Greenhouse-Gas-Emissions-Nearly-50-by-2030/default.aspx
+Snippet: Yum! Brands (NYSE:YUM), parent company of KFC, Pizza Hut, <b>Taco</b> Bell and The Habit Burger Grill restaurants, today announced it will decrease its greenhouse gas (GHG) emissions 46% by 2030 in partnership with its franchisees, suppliers and producers as part of its broader strategy to address climate change. Additionally, Yum! pledged to achieve net-zero emissions by 2050. The science-based ...
+Link: https://quaintel.com/store/report/del-taco-restaurants-inc-company-profile-swot-pestle-porters-five-forces-analysis
+Snippet: By analysing these internal factors, the report provides insights into the company&#39;s <b>sustainability</b> efforts and its alignment with ethical and responsible business <b>practices</b>, Del <b>Taco</b> Restaurants Inc&#39;s current standing and areas for strategic focus.
+Link: https://www.csrhub.com/CSR_and_sustainability_information/DEL-TACO-RESTAURANTS-INC
+Snippet: ESG ratings, impact investing and <b>sustainability</b> data for DEL <b>TACO</b> RESTAURANTS,<b></b> INC., Hotels, Motels &amp; Restaurants and USA. Environment Employees Community Governance.
+Link: https://www.qsrmagazine.com/exclusives/innovation-doesnt-miss-beat-del-taco/
+Snippet: Subscribe. Innovation <b>Doesn’t</b> Miss a Beat at Del <b>Taco</b>. The 600-unit brand has continued to introduce new products and campaigns during COVID-19. Oct 14 2020. Web Exclusives. Share: Tim Hackbardt rejoined Del <b>Taco</b> in early February. Within a month, the CMO—who first worked with Del <b>Taco</b> from 1999–2003—watched his role about-face as the ...
+Link: https://www.greenmatters.com/food/2018/09/26/Z19NWbv/del-taco-beyond-vegan-taco
+Snippet: For my kids and their friends, Del <b>Taco</b> is a routine stop after games or <b>practice</b>. I&#39;m thrilled that they can now, along with all Del <b>Taco</b> customers, enjoy delicious Beyond Tacos and other entrees built with our delicious, <b>sustainable</b>, plant-based meat.
+Link: https://investors.beyondmeat.com/news-releases/news-release-details/leading-mexican-fast-food-restaurant-del-taco-introduces-future
+Snippet: LAKE FOREST, Calif., April 15, 2019 (GLOBE NEWSWIRE) -- Del <b>Taco</b> Restaurants, Inc. (NASDAQ: <b>TACO</b>), the nation’s second leading Mexican quick service restaurant,* today announced the nationwide expansion of the company’s Beyond Tacos, offered in partnership with plant-based leader, Beyond Meat®. Beginning Thursday, April 25 th, Del <b>Taco</b> will become the first national Mexican fast food ...
+Link: https://deltaco.com/files/pdf/2024/animal-welfare-statement-03-2024-v3.pdf?v=1
+Snippet: In accordance with our animal welfare principles, Del <b>Taco</b> partners with poultry suppliers that share our commitment to animal well-being and observe the following requirements: Maintain an animal welfare program that provides oversight and compliance for responsible animal handling throughout the broiler chicken life cycle.
+Link: https://vegnews.com/deltaco
+Snippet: “For my kids and their friends, Del <b>Taco</b> is a routine stop after games or <b>practice</b>. I’m thrilled that they can now, along with Del <b>Taco</b> customers, enjoy delicious Beyond Tacos and other entrées built with our delicious, <b>sustainable</b>, plant-based meat,” Beyond Meat CEO Ethan Brown said.
+Remi: Results for 'Del Taco sustainability practices':
+Link: https://investors.yum.com/news-events/financial-releases/news-details/2021/Yum-Brands-Annual-Global-Citizenship--Sustainability-Report-Showcases-Companys-Commitment-to-Socially-Responsible-Growth-Highlights-Progress-Around-Priority-Areas-of-People-Food-Planet/default.aspx
+Snippet: Yum! Brands, Inc. (NYSE: YUM) today released its annual Global Citizenship <b>Sustainability</b> Report, highlighting the Company’s strategic investments in socially responsible growth, risk management and <b>sustainable</b> stewardship of its people, food and impact on the planet. Yum! and its KFC, Pizza Hut, <b>Taco</b> Bell and The Habit Burger Grill brands made progress in critical areas including climate ...
+Link: https://foodchainmagazine.com/news/del-taco-surpasses-chick-fil-a-as-2024-fast-food-champion/
+Snippet: Del <b>Taco</b> Surpasses Chick-fil-A as 2024 Fast Food Champion In an unexpected twist in the fast food industry, Del <b>Taco</b> has claimed the top spot in the 2024 rankings of fast food and fast casual restaurants, surpassing perennial favorite Chick-fil-A. This annual ranking, highly anticipated by both consumers and industry insiders, reflects the evolving tastes and preferences of the American public.
+Link: https://investors.yum.com/news-events/financial-releases/news-details/2021/Yum-Brands-Announces-Approved-Science-Based-Targets-to-Address-Climate-Change-with-Goal-to-Reduce-Greenhouse-Gas-Emissions-Nearly-50-by-2030/default.aspx
+Snippet: Yum! Brands (NYSE:YUM), parent company of KFC, Pizza Hut, <b>Taco</b> Bell and The Habit Burger Grill restaurants, today announced it will decrease its greenhouse gas (GHG) emissions 46% by 2030 in partnership with its franchisees, suppliers and producers as part of its broader strategy to address climate change. Additionally, Yum! pledged to achieve net-zero emissions by 2050. The science-based ...
+Link: https://quaintel.com/store/report/del-taco-restaurants-inc-company-profile-swot-pestle-porters-five-forces-analysis
+Snippet: By analysing these internal factors, the report provides insights into the company&#39;s <b>sustainability</b> efforts and its alignment with ethical and responsible business <b>practices</b>, Del <b>Taco</b> Restaurants Inc&#39;s current standing and areas for strategic focus.
+Link: https://www.csrhub.com/CSR_and_sustainability_information/DEL-TACO-RESTAURANTS-INC
+Snippet: ESG ratings, impact investing and <b>sustainability</b> data for DEL <b>TACO</b> RESTAURANTS,<b></b> INC., Hotels, Motels &amp; Restaurants and USA. Environment Employees Community Governance.
+Link: https://www.qsrmagazine.com/exclusives/innovation-doesnt-miss-beat-del-taco/
+Snippet: Subscribe. Innovation <b>Doesn’t</b> Miss a Beat at Del <b>Taco</b>. The 600-unit brand has continued to introduce new products and campaigns during COVID-19. Oct 14 2020. Web Exclusives. Share: Tim Hackbardt rejoined Del <b>Taco</b> in early February. Within a month, the CMO—who first worked with Del <b>Taco</b> from 1999–2003—watched his role about-face as the ...
+Link: https://www.greenmatters.com/food/2018/09/26/Z19NWbv/del-taco-beyond-vegan-taco
+Snippet: For my kids and their friends, Del <b>Taco</b> is a routine stop after games or <b>practice</b>. I&#39;m thrilled that they can now, along with all Del <b>Taco</b> customers, enjoy delicious Beyond Tacos and other entrees built with our delicious, <b>sustainable</b>, plant-based meat.
+Link: https://investors.beyondmeat.com/news-releases/news-release-details/leading-mexican-fast-food-restaurant-del-taco-introduces-future
+Snippet: LAKE FOREST, Calif., April 15, 2019 (GLOBE NEWSWIRE) -- Del <b>Taco</b> Restaurants, Inc. (NASDAQ: <b>TACO</b>), the nation’s second leading Mexican quick service restaurant,* today announced the nationwide expansion of the company’s Beyond Tacos, offered in partnership with plant-based leader, Beyond Meat®. Beginning Thursday, April 25 th, Del <b>Taco</b> will become the first national Mexican fast food ...
+Link: https://deltaco.com/files/pdf/2024/animal-welfare-statement-03-2024-v3.pdf?v=1
+Snippet: In accordance with our animal welfare principles, Del <b>Taco</b> partners with poultry suppliers that share our commitment to animal well-being and observe the following requirements: Maintain an animal welfare program that provides oversight and compliance for responsible animal handling throughout the broiler chicken life cycle.
+Link: https://vegnews.com/deltaco
+Snippet: “For my kids and their friends, Del <b>Taco</b> is a routine stop after games or <b>practice</b>. I’m thrilled that they can now, along with Del <b>Taco</b> customers, enjoy delicious Beyond Tacos and other entrées built with our delicious, <b>sustainable</b>, plant-based meat,” Beyond Meat CEO Ethan Brown said.
+Error handling Remi's results: invalid syntax (<string>, line 1)

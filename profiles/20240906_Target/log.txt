@@ -1,0 +1,529 @@
+Susan: Certainly, here are the steps we can follow:
+
+1. **Company Website:** We will start with the official website of Target. The site can provide substantial information about the company including its latest financial reports, news, and identifying decision makers via an 'About Us' or 'Leadership' page.
+
+2. **Financial Performance:** Next, we can check financial websites such as Yahoo Finance, Google Finance, Bloomberg etc. for Target’s financial data such as earnings statements and balance sheets. 
+
+3. **Decision Makers:** Key decision makers can be identified through the company’s website, but also by news articles, interviews and profiles on platforms like LinkedIn. Google search on each of these decision makers can provide additional insights regarding their professional background and possible points of leverage.
+
+4. **Labor Relations:** We need to research on worker's issues and labor relations related to Target. This can be done by checking labor rights websites, union websites, news articles or relevant government websites. Key topics to investigate would be about wages, working conditions, worker benefits, and union activity.
+
+5. **Scandals and Legal Issues:** Any recent scandals or lawsuits can also become points of leverage. Researching through news archives on reputable sites such as The Guardian, The New York Times, etc. and legal databases can help find any such news in recent years.
+
+6. **Online Presence:** The company's social media platforms like Twitter, Facebook, Instagram and LinkedIn could hold a plethora of information, including customer reviews, any praiseworthy or problematic conduct, and responses to recent events or scandals.
+
+7. **Comments and Reviews:** Online forums and review websites such as Glassdoor or Indeed can provide valuable insights into the experiences of current and past employees.
+
+8. **Corporate Responsibility:** Research the company's corporate social responsibility initiatives and community involvement, as these could provide additional points of leverage.
+
+After gathering all the relevant data, we must compile it into a comprehensive research brief, identifying the company's financial standing, key decision makers and their leverage points, labor relations status, recent scandals, and other possible points of leverage.
+Manny: Certainly, here's a list of search queries Remi should perform:
+
+```python
+search_queries_for_remi = [
+    "Target Corporation financial report 2021",
+    "Target Corporation key decision makers",
+    "Target Corporation labor relations news",
+    "Target Corporation scandals",
+    "Reviews from Target Corporation employees on Glassdoor"
+]
+```
+Remi: Results for 'Target Corporation financial report 2021':
+Title: Annual Reports and Archive - Target Corporate
+Link: https://corporate.target.com/investors/annual/annual-reports-and-archive
+Snippet: <b>2021</b> EEO-1 <b>Report</b>; 2022 EEO-1 <b>Report</b>; Racial Equity Action and Change; Team Members &amp; Guests. ... <b>Target</b>&#39;s <b>annual</b> <b>report</b> includes the 10-K filing ... <b>Target</b> <b>Corporation</b> 1000 Nicollet Mall (TPN-1220) Minneapolis, MN 55403 +1-800-775-3110 investorrelations@<b>target.com</b>.
+Body Content: Content could not be retrieved.
+
+Title: 2021 Annual Report - Target Corporate
+Link: https://corporate.target.com/investors/annual/2021-annual-report
+Snippet: In <b>2021</b>, we grew comparable sales by 12.7%, on top of record growth in 2020. Our digital growth continued to outpace the industry, driven by our unique ability to fulfill more than 95% of all sales, physical and digital, from our stores. And we solidified the huge market-share gains we saw in 2020 across our core merchandising categories.
+Body Content: Content could not be retrieved.
+
+PDF Link: https://corporate.target.com/getmedia/47f21e1d-6732-4e40-a7fb-3fb1c8510466/2021-Target-Annual-Report.pdf
+Title: tgt-20210130 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/27419/000002741921000010/tgt-20210130.htm
+Snippet: <b>Target</b> <b>Corporation</b> (<b>Target</b>, the <b>Corporation</b> or the Company) was incorporated in Minnesota in 1902. ... Our <b>Annual</b> <b>Report</b> on Form 10-K, quarterly <b>reports</b> on Form 10-Q, current <b>reports</b> on Form 8-K, proxy statements, and amendments to those <b>reports</b> filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act are available free of ...
+Body Content: Content could not be retrieved.
+
+Title: Target Corp (TGT) 10-K Annual Report March 2021 - Last10K.com
+Link: https://last10k.com/sec-filings/tgt/0000027419-21-000010.htm
+Snippet: The following information was filed by <b>Target</b> <b>Corp</b> (TGT) on Tuesday, March 2, <b>2021</b> as an 8K 2.02 statement, which is an earnings press release pertaining to results of operations and <b>financial</b> condition. It may be helpful to assess the quality of management by comparing the information in the press release to the information in the accompanying ...
+Body Content: Content could not be retrieved.
+
+Title: EDGAR Filing Documents for 0000027419-21-000010 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/27419/000002741921000010/0000027419-21-000010-index.htm
+Snippet: Form 10-K - <b>Annual</b> <b>report</b> [Section 13 and 15 (d), not S-K Item 405]: <b>SEC</b> Accession No. 0000027419-21-000010. Filing Date. <b>2021</b>-03-10.
+Body Content: Content could not be retrieved.
+
+Title: tgt-20220129 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/27419/000002741922000007/tgt-20220129.htm
+Snippet: <b>Target</b> <b>Corporation</b> (<b>Target</b>, the <b>Corporation</b>, or the Company) was incorporated in Minnesota in 1902. ... Our <b>Annual</b> <b>Report</b> on Form 10-K, quarterly <b>reports</b> on Form 10-Q, current <b>reports</b> on Form 8-K, proxy statements, and amendments to those <b>reports</b> filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act are available free of ...
+Body Content: Content could not be retrieved.
+
+Title: Target Corporation Reports Fourth Quarter and Full-Year 2021 Earnings
+Link: https://www.prnewswire.com/news-releases/target-corporation-reports-fourth-quarter-and-full-year-2021-earnings-301492243.html
+Snippet: The Company reported fourth-quarter GAAP earnings per share (EPS) from continuing operations of $3.21, compared with $2.73 in 2020, and $14.10 for full-year <b>2021</b>, compared with $8.64 in 2020 ...
+Body Content: Content could not be retrieved.
+
+PDF Link: https://dq06ugkuram52.cloudfront.net/files/15061900/40959792.pdf
+Title: 2023 Annual Report - Target Corporate
+Link: https://corporate.target.com/investors/annual/2023-annual-report
+Snippet: Altogether, our 2023 profit performance, plus improving sales and traffic trends, position us for top- and bottom-line growth in 2024 and for years to come. Over time, we expect to grow revenue by an average of about 4 percent per year, adding tens of billions of dollars on top of the $107 billion our team delivered last year.
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Target Corporation financial report 2021':
+Title: Annual Reports and Archive - Target Corporate
+Link: https://corporate.target.com/investors/annual/annual-reports-and-archive
+Snippet: <b>2021</b> EEO-1 <b>Report</b>; 2022 EEO-1 <b>Report</b>; Racial Equity Action and Change; Team Members &amp; Guests. ... <b>Target</b>&#39;s <b>annual</b> <b>report</b> includes the 10-K filing ... <b>Target</b> <b>Corporation</b> 1000 Nicollet Mall (TPN-1220) Minneapolis, MN 55403 +1-800-775-3110 investorrelations@<b>target.com</b>.
+Body Content: Content could not be retrieved.
+
+Title: 2021 Annual Report - Target Corporate
+Link: https://corporate.target.com/investors/annual/2021-annual-report
+Snippet: In <b>2021</b>, we grew comparable sales by 12.7%, on top of record growth in 2020. Our digital growth continued to outpace the industry, driven by our unique ability to fulfill more than 95% of all sales, physical and digital, from our stores. And we solidified the huge market-share gains we saw in 2020 across our core merchandising categories.
+Body Content: Content could not be retrieved.
+
+PDF Link: https://corporate.target.com/getmedia/47f21e1d-6732-4e40-a7fb-3fb1c8510466/2021-Target-Annual-Report.pdf
+Title: tgt-20210130 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/27419/000002741921000010/tgt-20210130.htm
+Snippet: <b>Target</b> <b>Corporation</b> (<b>Target</b>, the <b>Corporation</b> or the Company) was incorporated in Minnesota in 1902. ... Our <b>Annual</b> <b>Report</b> on Form 10-K, quarterly <b>reports</b> on Form 10-Q, current <b>reports</b> on Form 8-K, proxy statements, and amendments to those <b>reports</b> filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act are available free of ...
+Body Content: Content could not be retrieved.
+
+Title: Target Corp (TGT) 10-K Annual Report March 2021 - Last10K.com
+Link: https://last10k.com/sec-filings/tgt/0000027419-21-000010.htm
+Snippet: The following information was filed by <b>Target</b> <b>Corp</b> (TGT) on Tuesday, March 2, <b>2021</b> as an 8K 2.02 statement, which is an earnings press release pertaining to results of operations and <b>financial</b> condition. It may be helpful to assess the quality of management by comparing the information in the press release to the information in the accompanying ...
+Body Content: Content could not be retrieved.
+
+Title: EDGAR Filing Documents for 0000027419-21-000010 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/27419/000002741921000010/0000027419-21-000010-index.htm
+Snippet: Form 10-K - <b>Annual</b> <b>report</b> [Section 13 and 15 (d), not S-K Item 405]: <b>SEC</b> Accession No. 0000027419-21-000010. Filing Date. <b>2021</b>-03-10.
+Body Content: Content could not be retrieved.
+
+Title: tgt-20220129 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/27419/000002741922000007/tgt-20220129.htm
+Snippet: <b>Target</b> <b>Corporation</b> (<b>Target</b>, the <b>Corporation</b>, or the Company) was incorporated in Minnesota in 1902. ... Our <b>Annual</b> <b>Report</b> on Form 10-K, quarterly <b>reports</b> on Form 10-Q, current <b>reports</b> on Form 8-K, proxy statements, and amendments to those <b>reports</b> filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act are available free of ...
+Body Content: Content could not be retrieved.
+
+Title: Target Corporation Reports Fourth Quarter and Full-Year 2021 Earnings
+Link: https://www.prnewswire.com/news-releases/target-corporation-reports-fourth-quarter-and-full-year-2021-earnings-301492243.html
+Snippet: The Company reported fourth-quarter GAAP earnings per share (EPS) from continuing operations of $3.21, compared with $2.73 in 2020, and $14.10 for full-year <b>2021</b>, compared with $8.64 in 2020 ...
+Body Content: Content could not be retrieved.
+
+PDF Link: https://dq06ugkuram52.cloudfront.net/files/15061900/40959792.pdf
+Title: 2023 Annual Report - Target Corporate
+Link: https://corporate.target.com/investors/annual/2023-annual-report
+Snippet: Altogether, our 2023 profit performance, plus improving sales and traffic trends, position us for top- and bottom-line growth in 2024 and for years to come. Over time, we expect to grow revenue by an average of about 4 percent per year, adding tens of billions of dollars on top of the $107 billion our team delivered last year.
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Target Corporation key decision makers':
+Title: Our Corporate Strategy | Target
+Link: https://corporate.target.com/about/purpose-history/our-corporate-strategy
+Snippet: Our durable business model is designed to stand the test of time and differentiate us in the marketplace. Over the years, we’ve built a foundation that serves our current and future guests, team members, vendors, communities and shareholders well — and delivers strong results — no matter how the environment around us evolves.It’s the framework that guides us as we live out Target’s ...
+Body Content: Content could not be retrieved.
+
+Title: Target&#39;s Organizational Structure [Interactive Chart] Organimi
+Link: https://www.organimi.com/organizational-structures/target/
+Snippet: Target <b>Corporation</b> is an American retail company that was founded on June 24, 1902. ... Target’s Executive Leadership Team consists of top-level executives who oversee the overall strategic direction and <b>decision</b>-<b>making</b> for the company. ... (CMO), Chief Human Resources Officer (CHRO), and other <b>key</b> executives. They provide leadership and ...
+Body Content: Content could not be retrieved.
+
+Title: Target CorpExecutive &amp; Employee Information - GlobalData
+Link: https://www.globaldata.com/Company-Profile/target-corp/executives/
+Snippet: The following section provides information on Target <b>Corp</b>’s senior management, executives, CEO and <b>key</b> <b>decision</b> <b>makers</b> and their roles in the organization. For more insight into Target <b>Corp</b>&#39;s management and employees, unlock the full data with our company analytics monitoring tool.
+Body Content: Content could not be retrieved.
+
+Title: Target Corporation - Wikipedia
+Link: https://en.wikipedia.org/wiki/Target_Corporation
+Snippet: Target <b>Corporation</b> is an American retail <b>corporation</b> that operates a chain of discount department stores and hypermarkets, headquartered in Minneapolis, Minnesota.It is the seventh-largest retailer in the United States, and a component of the S&amp;P 500 Index. [3] The company is one of the largest American-owned private employers in the United States.. The <b>corporation</b> was founded in Minneapolis ...
+Body Content: Content could not be retrieved.
+
+Title: Target Company Profile | Management and Employees List - Datanyze
+Link: https://www.datanyze.com/companies/target/37536530
+Snippet: Minneapolis-based Target <b>Corporation</b> (NYSE: TGT) serves guests at nearly 1800 stores and at Target.com. Since 1946, Target has given 5 percent of its profit to communities, that giving equals more than $4 million a week. ... Target Executive Team &amp; <b>Key</b> <b>Decision</b> <b>Makers</b>. Name &amp; Title Social Contact Info; Lan Pham. President. Email. Phone. Reveal ...
+Body Content: Content could not be retrieved.
+
+Title: Corporate Governance | Target Corporation
+Link: https://corporate.target.com/sustainability-governance/governance-and-reporting/corporate-governance
+Snippet: Our Code guides our team’s <b>decision</b>-<b>making</b> and helps us draw on shared values to bring our purpose to life. The Code also guides our leadership team. Learn more Annual reports and proxy information ... Target Board of Directors c/o <b>Corporate</b> Secretary 1000 Nicollet Mall, TPS-2670 Minneapolis, Minnesota 55403.
+Body Content: Content could not be retrieved.
+
+Title: Target Corporation: Strategic Analysis and Recommendations - LinkedIn
+Link: https://www.linkedin.com/pulse/target-corporation-strategic-analysis-recommendations-zahmatkesh
+Snippet: Target <b>corporation</b> is on the list of S&amp;P 500 with market value of 110.57 billion dollars as of January 7th, 2022 (Value.Today, 2022). Target is a popular store due to its multiple locations and ...
+Body Content: Content could not be retrieved.
+
+Title: Target Is Doing The Right Thing By Investing Heavily In ... - Forbes
+Link: https://www.forbes.com/sites/shelleykohan/2020/06/18/target-is-doing-the-right-thing-by-investing-heavily-in-employees-and-customers/
+Snippet: The bottom line: Sales are up but profits are down. Target’s first-quarter operating income margin rate was 2.4% in 2020 compared to 6.4% in 2019. The gross margin rate was 25.1%, compared to 29 ...
+Body Content: Content could not be retrieved.
+
+Title: Sustainability &amp; Governance Priorities | Target Corporation
+Link: https://corporate.target.com/sustainability-governance/governance-and-reporting/priorities
+Snippet: We are committed to and accountable for reporting our progress and continually examining issues that are most important to our business. Target conducts sustainability and governance priority assessments regularly by engaging <b>key</b> stakeholders and seeking their insights to identify, understand and validate <b>key</b> issues affecting our business.
+Body Content: Content could not be retrieved.
+
+Title: Target Corporation SWOT, PESTLE, Porters Five Force and ... - Quaintel
+Link: https://quaintel.com/store/report/target-corporation-company-profile-swot-pestle-value-chain-analysis
+Snippet: Target <b>Corporation</b>’s Strategic Standing:- The report presents a comprehensive assessment of the Target <b>Corporation</b>&#39;s strategic standing, incorporating <b>key</b> elements such as ESG (Environmental, Social, and Governance) spotlight, SWOT and PESTLE Analysis. By analysing these internal factors, the report provides insights into the company&#39;s ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Target Corporation key decision makers':
+Title: Our Corporate Strategy | Target
+Link: https://corporate.target.com/about/purpose-history/our-corporate-strategy
+Snippet: Our durable business model is designed to stand the test of time and differentiate us in the marketplace. Over the years, we’ve built a foundation that serves our current and future guests, team members, vendors, communities and shareholders well — and delivers strong results — no matter how the environment around us evolves.It’s the framework that guides us as we live out Target’s ...
+Body Content: Content could not be retrieved.
+
+Title: Target&#39;s Organizational Structure [Interactive Chart] Organimi
+Link: https://www.organimi.com/organizational-structures/target/
+Snippet: Target <b>Corporation</b> is an American retail company that was founded on June 24, 1902. ... Target’s Executive Leadership Team consists of top-level executives who oversee the overall strategic direction and <b>decision</b>-<b>making</b> for the company. ... (CMO), Chief Human Resources Officer (CHRO), and other <b>key</b> executives. They provide leadership and ...
+Body Content: Content could not be retrieved.
+
+Title: Target CorpExecutive &amp; Employee Information - GlobalData
+Link: https://www.globaldata.com/Company-Profile/target-corp/executives/
+Snippet: The following section provides information on Target <b>Corp</b>’s senior management, executives, CEO and <b>key</b> <b>decision</b> <b>makers</b> and their roles in the organization. For more insight into Target <b>Corp</b>&#39;s management and employees, unlock the full data with our company analytics monitoring tool.
+Body Content: Content could not be retrieved.
+
+Title: Target Corporation - Wikipedia
+Link: https://en.wikipedia.org/wiki/Target_Corporation
+Snippet: Target <b>Corporation</b> is an American retail <b>corporation</b> that operates a chain of discount department stores and hypermarkets, headquartered in Minneapolis, Minnesota.It is the seventh-largest retailer in the United States, and a component of the S&amp;P 500 Index. [3] The company is one of the largest American-owned private employers in the United States.. The <b>corporation</b> was founded in Minneapolis ...
+Body Content: Content could not be retrieved.
+
+Title: Target Company Profile | Management and Employees List - Datanyze
+Link: https://www.datanyze.com/companies/target/37536530
+Snippet: Minneapolis-based Target <b>Corporation</b> (NYSE: TGT) serves guests at nearly 1800 stores and at Target.com. Since 1946, Target has given 5 percent of its profit to communities, that giving equals more than $4 million a week. ... Target Executive Team &amp; <b>Key</b> <b>Decision</b> <b>Makers</b>. Name &amp; Title Social Contact Info; Lan Pham. President. Email. Phone. Reveal ...
+Body Content: Content could not be retrieved.
+
+Title: Corporate Governance | Target Corporation
+Link: https://corporate.target.com/sustainability-governance/governance-and-reporting/corporate-governance
+Snippet: Our Code guides our team’s <b>decision</b>-<b>making</b> and helps us draw on shared values to bring our purpose to life. The Code also guides our leadership team. Learn more Annual reports and proxy information ... Target Board of Directors c/o <b>Corporate</b> Secretary 1000 Nicollet Mall, TPS-2670 Minneapolis, Minnesota 55403.
+Body Content: Content could not be retrieved.
+
+Title: Target Corporation: Strategic Analysis and Recommendations - LinkedIn
+Link: https://www.linkedin.com/pulse/target-corporation-strategic-analysis-recommendations-zahmatkesh
+Snippet: Target <b>corporation</b> is on the list of S&amp;P 500 with market value of 110.57 billion dollars as of January 7th, 2022 (Value.Today, 2022). Target is a popular store due to its multiple locations and ...
+Body Content: Content could not be retrieved.
+
+Title: Target Is Doing The Right Thing By Investing Heavily In ... - Forbes
+Link: https://www.forbes.com/sites/shelleykohan/2020/06/18/target-is-doing-the-right-thing-by-investing-heavily-in-employees-and-customers/
+Snippet: The bottom line: Sales are up but profits are down. Target’s first-quarter operating income margin rate was 2.4% in 2020 compared to 6.4% in 2019. The gross margin rate was 25.1%, compared to 29 ...
+Body Content: Content could not be retrieved.
+
+Title: Sustainability &amp; Governance Priorities | Target Corporation
+Link: https://corporate.target.com/sustainability-governance/governance-and-reporting/priorities
+Snippet: We are committed to and accountable for reporting our progress and continually examining issues that are most important to our business. Target conducts sustainability and governance priority assessments regularly by engaging <b>key</b> stakeholders and seeking their insights to identify, understand and validate <b>key</b> issues affecting our business.
+Body Content: Content could not be retrieved.
+
+Title: Target Corporation SWOT, PESTLE, Porters Five Force and ... - Quaintel
+Link: https://quaintel.com/store/report/target-corporation-company-profile-swot-pestle-value-chain-analysis
+Snippet: Target <b>Corporation</b>’s Strategic Standing:- The report presents a comprehensive assessment of the Target <b>Corporation</b>&#39;s strategic standing, incorporating <b>key</b> elements such as ESG (Environmental, Social, and Governance) spotlight, SWOT and PESTLE Analysis. By analysing these internal factors, the report provides insights into the company&#39;s ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Target Corporation labor relations news':
+Title: Colorado Target workers plan to file unfair labor practice charges ...
+Link: https://www.foxbusiness.com/lifestyle/colorado-target-workers-file-unfair-labor-practice-charges-unionbusting-tactics
+Snippet: <b>Target</b> workers at a store in Colorado plan to file unfair practice <b>labor</b> charges against the Minneapolis-based <b>corporation</b>, alleging the seventh largest U.S. retailer by sales is trying to block ...
+Body Content: Content could not be retrieved.
+
+Title: Target settles suit claiming its hiring system discriminated
+Link: https://apnews.com/target-settles-suit-claiming-its-hiring-system-discriminated-dee51240d572486c8866ddaf20324e5a
+Snippet: NEW YORK (AP) — <b>Target</b> has agreed to settle a lawsuit that said its hiring process, which automatically rejected people with criminal backgrounds, disproportionately kept blacks and Hispanics from getting entry-level jobs at its stores. As part of the settlement, <b>Target</b> will pay more than $3.7 million and will hire outside experts to review ...
+Body Content: Content could not be retrieved.
+
+Title: Press and Media | Target Corporation
+Link: https://corporate.target.com/press
+Snippet: Everything you need to tell our story. This is your source for all things press related for <b>Target</b> — press releases, fact sheets, contact info, logos, b-roll and multimedia assets, answers to common questions and additional <b>corporate</b> information. Use the links below to find exactly what you&#39;re looking for, or scroll down the page to browse ...
+Body Content: Content could not be retrieved.
+
+Title: News, sport and opinion from the Guardian&#39;s US edition | The Guardian
+Link: https://www.theguardian.com/us-news/2022/feb/10/target-directs-managers-prevent-workers-from-unionizing
+Snippet: We would like to show you a description here but the site won’t allow us.
+Body Content: Content could not be retrieved.
+
+Title: Pueblo Target workers trying to unionize, allege unfair labor practices
+Link: https://www.chieftain.com/story/business/2022/09/07/pueblo-target-workers-trying-to-unionize-allege-unfair-labor-practices/65475242007/
+Snippet: <b>Target</b>&#39;s statement said the retail <b>corporation</b> wants its employees to be &quot;better off for working at <b>Target</b>&quot; and noted its &quot;industry-leading starting wage range of $15 to $24 per hour&quot; and other ...
+Body Content: Content could not be retrieved.
+
+Title: Target Gets Worker’s Discrimination, Retaliation Claims Trimmed
+Link: https://news.bloomberglaw.com/litigation/target-gets-workers-discrimination-retaliation-claims-trimmed
+Snippet: Didn’t ask court to toss disability discrimination claim. <b>Target</b> <b>Corp</b>. is free of claims that it discriminated against a worker because of his sexual orientation and retaliated against him for speaking up about the alleged mistreatment, a federal judge said. The former employee didn’t plausibly allege that heterosexual workers received ...
+Body Content: Content could not be retrieved.
+
+Title: Supply Chain Labor &amp; Human Rights Policies - Target Corporate
+Link: https://corporate.target.com/sustainability-governance/responsible-supply-chains/human-rights/policies
+Snippet: We are committed to working with supply chain partners and industry experts to prevent, identify and eradicate forced <b>labor</b> in our global manufacturing supply chains. We identify risk of forced <b>labor</b> through our responsible sourcing audit process, audit history and a variety of risk intelligence sources. We also closely monitor and collaborate ...
+Body Content: Content could not be retrieved.
+
+Title: Target Corporate: News &amp; Features
+Link: https://corporate.target.com/news-features
+Snippet: Keep an eye on this space for the latest <b>news</b> and stories from <b>Target</b> — from company announcements to design partnerships to profiles of our team in action. ... Grants &amp; <b>Corporate</b> Giving. <b>Target</b> Circle Community Giving; <b>Target</b> Foundation. Hometown; National; ... Supply Chain <b>Labor</b> &amp; Human Rights Policies; Animal Welfare; Responsible Sourcing ...
+Body Content: Content could not be retrieved.
+
+Title: Target Corporation - National Labor Relations Board
+Link: https://www.nlrb.gov/case/29-CA-030908
+Snippet: The E-Filing applications, including E-Filing, My Account Portal, and Online Charge and Petition, may be unavailable periodically between Saturday, May 18, 2024, at 6:00 AM ET and Sunday, May 19, 2024, at 4:00 PM ET for routine maintenance.
+Body Content: Content could not be retrieved.
+
+Title: Target Announces Updates to Leadership Team - PR Newswire
+Link: https://www.prnewswire.com/news-releases/target-announces-updates-to-leadership-team-301540707.html
+Snippet: MINNEAPOLIS, May 5, 2022 /PRNewswire/ --<b>Target</b> <b>Corporation</b> (NYSE: TGT) today announced a number of updates to its leadership team. This includes a new role for the company, focused on further ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Target Corporation labor relations news':
+Title: Colorado Target workers plan to file unfair labor practice charges ...
+Link: https://www.foxbusiness.com/lifestyle/colorado-target-workers-file-unfair-labor-practice-charges-unionbusting-tactics
+Snippet: <b>Target</b> workers at a store in Colorado plan to file unfair practice <b>labor</b> charges against the Minneapolis-based <b>corporation</b>, alleging the seventh largest U.S. retailer by sales is trying to block ...
+Body Content: Content could not be retrieved.
+
+Title: Target settles suit claiming its hiring system discriminated
+Link: https://apnews.com/target-settles-suit-claiming-its-hiring-system-discriminated-dee51240d572486c8866ddaf20324e5a
+Snippet: NEW YORK (AP) — <b>Target</b> has agreed to settle a lawsuit that said its hiring process, which automatically rejected people with criminal backgrounds, disproportionately kept blacks and Hispanics from getting entry-level jobs at its stores. As part of the settlement, <b>Target</b> will pay more than $3.7 million and will hire outside experts to review ...
+Body Content: Content could not be retrieved.
+
+Title: Press and Media | Target Corporation
+Link: https://corporate.target.com/press
+Snippet: Everything you need to tell our story. This is your source for all things press related for <b>Target</b> — press releases, fact sheets, contact info, logos, b-roll and multimedia assets, answers to common questions and additional <b>corporate</b> information. Use the links below to find exactly what you&#39;re looking for, or scroll down the page to browse ...
+Body Content: Content could not be retrieved.
+
+Title: News, sport and opinion from the Guardian&#39;s US edition | The Guardian
+Link: https://www.theguardian.com/us-news/2022/feb/10/target-directs-managers-prevent-workers-from-unionizing
+Snippet: We would like to show you a description here but the site won’t allow us.
+Body Content: Content could not be retrieved.
+
+Title: Pueblo Target workers trying to unionize, allege unfair labor practices
+Link: https://www.chieftain.com/story/business/2022/09/07/pueblo-target-workers-trying-to-unionize-allege-unfair-labor-practices/65475242007/
+Snippet: <b>Target</b>&#39;s statement said the retail <b>corporation</b> wants its employees to be &quot;better off for working at <b>Target</b>&quot; and noted its &quot;industry-leading starting wage range of $15 to $24 per hour&quot; and other ...
+Body Content: Content could not be retrieved.
+
+Title: Target Gets Worker’s Discrimination, Retaliation Claims Trimmed
+Link: https://news.bloomberglaw.com/litigation/target-gets-workers-discrimination-retaliation-claims-trimmed
+Snippet: Didn’t ask court to toss disability discrimination claim. <b>Target</b> <b>Corp</b>. is free of claims that it discriminated against a worker because of his sexual orientation and retaliated against him for speaking up about the alleged mistreatment, a federal judge said. The former employee didn’t plausibly allege that heterosexual workers received ...
+Body Content: Content could not be retrieved.
+
+Title: Supply Chain Labor &amp; Human Rights Policies - Target Corporate
+Link: https://corporate.target.com/sustainability-governance/responsible-supply-chains/human-rights/policies
+Snippet: We are committed to working with supply chain partners and industry experts to prevent, identify and eradicate forced <b>labor</b> in our global manufacturing supply chains. We identify risk of forced <b>labor</b> through our responsible sourcing audit process, audit history and a variety of risk intelligence sources. We also closely monitor and collaborate ...
+Body Content: Content could not be retrieved.
+
+Title: Target Corporate: News &amp; Features
+Link: https://corporate.target.com/news-features
+Snippet: Keep an eye on this space for the latest <b>news</b> and stories from <b>Target</b> — from company announcements to design partnerships to profiles of our team in action. ... Grants &amp; <b>Corporate</b> Giving. <b>Target</b> Circle Community Giving; <b>Target</b> Foundation. Hometown; National; ... Supply Chain <b>Labor</b> &amp; Human Rights Policies; Animal Welfare; Responsible Sourcing ...
+Body Content: Content could not be retrieved.
+
+Title: Target Corporation - National Labor Relations Board
+Link: https://www.nlrb.gov/case/29-CA-030908
+Snippet: The E-Filing applications, including E-Filing, My Account Portal, and Online Charge and Petition, may be unavailable periodically between Saturday, May 18, 2024, at 6:00 AM ET and Sunday, May 19, 2024, at 4:00 PM ET for routine maintenance.
+Body Content: Content could not be retrieved.
+
+Title: Target Announces Updates to Leadership Team - PR Newswire
+Link: https://www.prnewswire.com/news-releases/target-announces-updates-to-leadership-team-301540707.html
+Snippet: MINNEAPOLIS, May 5, 2022 /PRNewswire/ --<b>Target</b> <b>Corporation</b> (NYSE: TGT) today announced a number of updates to its leadership team. This includes a new role for the company, focused on further ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Target Corporation scandals':
+Title: The 10 Biggest Target Lawsuits in Company History - Lawyer Inc
+Link: https://lawyerinc.com/biggest-target-lawsuits/
+Snippet: <b>Target</b> <b>Corp</b>. is an American mass-market retailer owning stores in all 50 US states and the District of Columbia. The company has more than 400,000 employees, fulfilling its signature tagline “Expect More. Pay Less” since 1994. As of 2021, it generated $106 billion in revenue thanks to large-scale food and general merchandise discount offers ...
+Body Content: Content could not be retrieved.
+
+Title: Target sued by investor over backlash to LGBTQ merchandise - NBC News
+Link: https://www.nbcnews.com/nbc-out/out-news/target-sued-investor-backlash-lgbtq-merchandise-rcna98963
+Snippet: A conservative legal organization sued <b>Target</b> on Tuesday on behalf of an investor, due to the company&#39;s LGBTQ Pride Month merchandise. ... <b>Target</b> <b>Corp</b>. et al., No. 23-00599, U.S. District Court ...
+Body Content: Content could not be retrieved.
+
+Title: Target to Pay $18.5 Million to 47 States in Security Breach Settlement
+Link: https://www.nytimes.com/2017/05/23/business/target-security-breach-settlement.html
+Snippet: By Rachel Abrams. May 23, 2017. <b>Target</b> will pay $18.5 million to 47 states and the District of Columbia as part of a settlement with state attorneys general over a huge security breach that ...
+Body Content: Content could not be retrieved.
+
+Title: Target estimates breach affected up to 110 million - NBC News
+Link: https://www.nbcnews.com/business/business-news/target-says-stolen-info-data-breach-hit-70-million-people-flna2D11894083
+Snippet: The massive data heist at <b>Target</b> stores across the country was more massive than previously revealed, with the retailer saying at least 70 to 110 million customers were hit -- making it one of the ...
+Body Content: Content could not be retrieved.
+
+Title: Target Settles 2013 Hacked Customer Data Breach For $18.5 Million
+Link: https://www.nbcnews.com/business/business-news/target-settles-2013-hacked-customer-data-breach-18-5-million-n764031
+Snippet: Retail giant <b>Target</b> agreed this week to pay $18.5 million to settle claims by 47 states and the District of Columbia and resolve a multi-state investigation into a massive data breach in late 2013.
+Body Content: Content could not be retrieved.
+
+Title: The Target boycott over its “satanic” pride collection, explained - Vox
+Link: https://www.vox.com/politics/2023/5/25/23737338/target-abprallen-pride-boycott-bud-light-trans-controversy-stock-price
+Snippet: <b>Target</b> has offered products celebrating Pride Month for years, generally without much pushback. Indeed, <b>Target</b>’s CEO, Brian Cornell, said on a podcast in mid-May that the company’s focus on ...
+Body Content: Content could not be retrieved.
+
+Title: Target Case Charts Path for ‘Go Woke, Go Broke’ Securities Suits
+Link: https://news.bloomberglaw.com/securities-law/target-case-charts-path-for-go-woke-go-broke-securities-suits
+Snippet: A conservative group’s lawsuit accusing <b>Target</b> <b>Corp</b>. of misleading investors about financial risks from LGBTQ Pride marketing underscores a new line of attack against companies over their diversity and inclusion initiatives.. <b>Target</b> was sued this month by America First Legal Foundation, a nonprofit led by former Trump adviser Stephen Miller. The long shot complaint alleges <b>Target</b>, which ...
+Body Content: Content could not be retrieved.
+
+Title: Target is being held hostage by an anti-LGBTQ campaign
+Link: https://www.cnn.com/2023/05/25/business/target-lgbtq-merchandise-pressure-trans/index.html
+Snippet: During every Pride Month in June for the past decade, <b>Target</b> has sold merchandise for LGBTQ customers, employees and allies. But this year, <b>Target</b> faced an anti-LGBTQ campaign that went viral on ...
+Body Content: Content could not be retrieved.
+
+Title: Target sued by investor over backlash to LGBTQ merchandise
+Link: https://www.reuters.com/legal/target-sued-by-investor-over-backlash-lgbtq-merchandise-2023-08-09/
+Snippet: Companies. <b>Target</b> <b>Corp</b>. Follow. Aug 8 (<b>Reuters</b>) - A conservative legal organization sued <b>Target</b> (TGT.N) on Tuesday on behalf of an investor, saying the retailer misrepresented the adequacy of its ...
+Body Content: Content could not be retrieved.
+
+Title: Conservative legal group sues Target over Pride month collection - The ...
+Link: https://www.washingtonpost.com/business/2023/08/14/target-shareholder-lawsuit/
+Snippet: August 14, 2023 at 5:48 p.m. EDT. A conservative legal group led by a former adviser to President Donald Trump is suing <b>Target</b> over shareholder losses in the wake of boycotts of its Pride Month ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Target Corporation scandals':
+Title: The 10 Biggest Target Lawsuits in Company History - Lawyer Inc
+Link: https://lawyerinc.com/biggest-target-lawsuits/
+Snippet: <b>Target</b> <b>Corp</b>. is an American mass-market retailer owning stores in all 50 US states and the District of Columbia. The company has more than 400,000 employees, fulfilling its signature tagline “Expect More. Pay Less” since 1994. As of 2021, it generated $106 billion in revenue thanks to large-scale food and general merchandise discount offers ...
+Body Content: Content could not be retrieved.
+
+Title: Target sued by investor over backlash to LGBTQ merchandise - NBC News
+Link: https://www.nbcnews.com/nbc-out/out-news/target-sued-investor-backlash-lgbtq-merchandise-rcna98963
+Snippet: A conservative legal organization sued <b>Target</b> on Tuesday on behalf of an investor, due to the company&#39;s LGBTQ Pride Month merchandise. ... <b>Target</b> <b>Corp</b>. et al., No. 23-00599, U.S. District Court ...
+Body Content: Content could not be retrieved.
+
+Title: Target to Pay $18.5 Million to 47 States in Security Breach Settlement
+Link: https://www.nytimes.com/2017/05/23/business/target-security-breach-settlement.html
+Snippet: By Rachel Abrams. May 23, 2017. <b>Target</b> will pay $18.5 million to 47 states and the District of Columbia as part of a settlement with state attorneys general over a huge security breach that ...
+Body Content: Content could not be retrieved.
+
+Title: Target estimates breach affected up to 110 million - NBC News
+Link: https://www.nbcnews.com/business/business-news/target-says-stolen-info-data-breach-hit-70-million-people-flna2D11894083
+Snippet: The massive data heist at <b>Target</b> stores across the country was more massive than previously revealed, with the retailer saying at least 70 to 110 million customers were hit -- making it one of the ...
+Body Content: Content could not be retrieved.
+
+Title: Target Settles 2013 Hacked Customer Data Breach For $18.5 Million
+Link: https://www.nbcnews.com/business/business-news/target-settles-2013-hacked-customer-data-breach-18-5-million-n764031
+Snippet: Retail giant <b>Target</b> agreed this week to pay $18.5 million to settle claims by 47 states and the District of Columbia and resolve a multi-state investigation into a massive data breach in late 2013.
+Body Content: Content could not be retrieved.
+
+Title: The Target boycott over its “satanic” pride collection, explained - Vox
+Link: https://www.vox.com/politics/2023/5/25/23737338/target-abprallen-pride-boycott-bud-light-trans-controversy-stock-price
+Snippet: <b>Target</b> has offered products celebrating Pride Month for years, generally without much pushback. Indeed, <b>Target</b>’s CEO, Brian Cornell, said on a podcast in mid-May that the company’s focus on ...
+Body Content: Content could not be retrieved.
+
+Title: Target Case Charts Path for ‘Go Woke, Go Broke’ Securities Suits
+Link: https://news.bloomberglaw.com/securities-law/target-case-charts-path-for-go-woke-go-broke-securities-suits
+Snippet: A conservative group’s lawsuit accusing <b>Target</b> <b>Corp</b>. of misleading investors about financial risks from LGBTQ Pride marketing underscores a new line of attack against companies over their diversity and inclusion initiatives.. <b>Target</b> was sued this month by America First Legal Foundation, a nonprofit led by former Trump adviser Stephen Miller. The long shot complaint alleges <b>Target</b>, which ...
+Body Content: Content could not be retrieved.
+
+Title: Target is being held hostage by an anti-LGBTQ campaign
+Link: https://www.cnn.com/2023/05/25/business/target-lgbtq-merchandise-pressure-trans/index.html
+Snippet: During every Pride Month in June for the past decade, <b>Target</b> has sold merchandise for LGBTQ customers, employees and allies. But this year, <b>Target</b> faced an anti-LGBTQ campaign that went viral on ...
+Body Content: Content could not be retrieved.
+
+Title: Target sued by investor over backlash to LGBTQ merchandise
+Link: https://www.reuters.com/legal/target-sued-by-investor-over-backlash-lgbtq-merchandise-2023-08-09/
+Snippet: Companies. <b>Target</b> <b>Corp</b>. Follow. Aug 8 (<b>Reuters</b>) - A conservative legal organization sued <b>Target</b> (TGT.N) on Tuesday on behalf of an investor, saying the retailer misrepresented the adequacy of its ...
+Body Content: Content could not be retrieved.
+
+Title: Conservative legal group sues Target over Pride month collection - The ...
+Link: https://www.washingtonpost.com/business/2023/08/14/target-shareholder-lawsuit/
+Snippet: August 14, 2023 at 5:48 p.m. EDT. A conservative legal group led by a former adviser to President Donald Trump is suing <b>Target</b> over shareholder losses in the wake of boycotts of its Pride Month ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Reviews from Target Corporation employees on Glassdoor':
+Title: Target Reviews: What Is It Like to Work At Target? | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Target-Reviews-E194.htm
+Snippet: <b>Target</b> has an overall rating of 3.5 out of 5, based on over 86,714 <b>reviews</b> left anonymously by <b>employees</b>. 58% of <b>employees</b> would recommend working at <b>Target</b> to a friend and 46% have a positive outlook for the business. This rating has decreased by 1% over the last 12 months.
+Body Content: Content could not be retrieved.
+
+Title: Target Corporate Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Target-Corporate-Reviews-EI_IE194.0,6_KO7,16.htm
+Snippet: Show more insights. <b>Corporate</b> <b>employees</b> have rated <b>Target</b> with 4.2 out of 5 stars, based on 17 company <b>reviews</b> <b>on Glassdoor</b>. This indicates that most <b>Corporate</b> professionals have an excellent working experience there. <b>Target</b> is rated in line with the average (within 1 standard deviation) by <b>Corporate</b> professionals compared to other employers ...
+Body Content: Content could not be retrieved.
+
+Title: Target Employee Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Target-Employee-Reviews-EI_IE194.0,6_KO7,15.htm
+Snippet: <b>Employee</b> professionals rate their compensation and benefits at <b>Target</b> with 4.0 out of 5 stars based on 110 anonymously submitted <b>employee</b> <b>reviews</b>. This is 16.2% better than the company average rating for salary and benefits. Find out more about and . 63% of would recommend their employer to a friend.
+Body Content: Content could not be retrieved.
+
+Title: Target Reviews: What Is It Like to Work At Target? | Glassdoor
+Link: https://www.glassdoor.ca/Reviews/Target-Reviews-E194.htm
+Snippet: <b>Target</b> has an <b>employee</b> rating of 3.5 out of 5 stars, based on 84,074 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The <b>Target</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Retail and wholesale industry (3.5 stars). Read more
+Body Content: Content could not be retrieved.
+
+Title: Target Reviews - Glassdoor
+Link: https://www.glassdoor.sg/Reviews/Target-Reviews-E194.htm
+Snippet: 61% approve of CEO. <b>Target</b> has an <b>employee</b> rating of 3.5 out of 5 stars, based on 83,911 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The <b>Target</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Retail and wholesale industry (3.5 stars).
+Body Content: Content could not be retrieved.
+
+Title: Target Reviews: What Is It Like to Work At Target? | Glassdoor
+Link: https://www.glassdoor.com.au/Reviews/Target-Reviews-E194.htm
+Snippet: Cons. Can be a high-stress environment, due to <b>Target</b>&#39;s culture being both fast paced and heavily guest accommodating (lots of &quot;make it right&quot; situations), frequently to the chagrin of coworkers. Most stressful during holiday rushes and (especially) before <b>corporate</b> visits. Team-member-only work areas can be quite heavily cluttered at times due ...
+Body Content: Content could not be retrieved.
+
+Title: Target Reviews - Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Target-Reviews-E194.htm
+Snippet: 95% approve of CEO. <b>Target</b> has an <b>employee</b> rating of 4.3 out of 5 stars, based on 49,726 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have an excellent working experience there. The <b>Target</b> <b>employee</b> rating is 25% above average for employers within the Retail and wholesale industry (3.4 stars). Read more.
+Body Content: Content could not be retrieved.
+
+Title: Working at Target | Glassdoor
+Link: https://www.glassdoor.sg/Overview/Working-at-Target-EI_IE194.11,17.htm
+Snippet: Overall, 60% of <b>employees</b> would recommend working at <b>Target</b> to a friend. This is based on 84,079 anonymously submitted <b>reviews</b> <b>on Glassdoor</b>. This is based on 84,079 anonymously submitted <b>reviews</b> <b>on Glassdoor</b>.
+Body Content: Content could not be retrieved.
+
+Title: Working at Target - Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-Target-EI_IE194.11,17.htm
+Snippet: Minneapolis, MN. 10000+ <b>Employees</b>. 5 Locations. Type: Company - Public (TGT) Founded in 1962. Revenue: $10+ billion (USD) General Merchandise &amp; Superstores. As a Fortune 50 company with more than 400,000 team members worldwide, <b>Target</b> is an iconic brand and one of America&#39;s leading retailers. Working at <b>Target</b> means the opportunity to help all ...
+Body Content: Content could not be retrieved.
+
+Title: target corporation Reviews | Glassdoor.co.in
+Link: https://www.glassdoor.co.in/Reviews/target-corporation-reviews-SRCH_KE0,18.htm
+Snippet: <b>Employee</b> <b>reviews</b> for companies matching &quot;<b>target corporation</b>&quot;. 626 results for employers related to &quot;<b>target corporation</b>&quot;.
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Reviews from Target Corporation employees on Glassdoor':
+Title: Target Reviews: What Is It Like to Work At Target? | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Target-Reviews-E194.htm
+Snippet: <b>Target</b> has an overall rating of 3.5 out of 5, based on over 86,714 <b>reviews</b> left anonymously by <b>employees</b>. 58% of <b>employees</b> would recommend working at <b>Target</b> to a friend and 46% have a positive outlook for the business. This rating has decreased by 1% over the last 12 months.
+Body Content: Content could not be retrieved.
+
+Title: Target Corporate Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Target-Corporate-Reviews-EI_IE194.0,6_KO7,16.htm
+Snippet: Show more insights. <b>Corporate</b> <b>employees</b> have rated <b>Target</b> with 4.2 out of 5 stars, based on 17 company <b>reviews</b> <b>on Glassdoor</b>. This indicates that most <b>Corporate</b> professionals have an excellent working experience there. <b>Target</b> is rated in line with the average (within 1 standard deviation) by <b>Corporate</b> professionals compared to other employers ...
+Body Content: Content could not be retrieved.
+
+Title: Target Employee Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Target-Employee-Reviews-EI_IE194.0,6_KO7,15.htm
+Snippet: <b>Employee</b> professionals rate their compensation and benefits at <b>Target</b> with 4.0 out of 5 stars based on 110 anonymously submitted <b>employee</b> <b>reviews</b>. This is 16.2% better than the company average rating for salary and benefits. Find out more about and . 63% of would recommend their employer to a friend.
+Body Content: Content could not be retrieved.
+
+Title: Target Reviews: What Is It Like to Work At Target? | Glassdoor
+Link: https://www.glassdoor.ca/Reviews/Target-Reviews-E194.htm
+Snippet: <b>Target</b> has an <b>employee</b> rating of 3.5 out of 5 stars, based on 84,074 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The <b>Target</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Retail and wholesale industry (3.5 stars). Read more
+Body Content: Content could not be retrieved.
+
+Title: Target Reviews - Glassdoor
+Link: https://www.glassdoor.sg/Reviews/Target-Reviews-E194.htm
+Snippet: 61% approve of CEO. <b>Target</b> has an <b>employee</b> rating of 3.5 out of 5 stars, based on 83,911 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The <b>Target</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Retail and wholesale industry (3.5 stars).
+Body Content: Content could not be retrieved.
+
+Title: Target Reviews: What Is It Like to Work At Target? | Glassdoor
+Link: https://www.glassdoor.com.au/Reviews/Target-Reviews-E194.htm
+Snippet: Cons. Can be a high-stress environment, due to <b>Target</b>&#39;s culture being both fast paced and heavily guest accommodating (lots of &quot;make it right&quot; situations), frequently to the chagrin of coworkers. Most stressful during holiday rushes and (especially) before <b>corporate</b> visits. Team-member-only work areas can be quite heavily cluttered at times due ...
+Body Content: Content could not be retrieved.
+
+Title: Target Reviews - Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Target-Reviews-E194.htm
+Snippet: 95% approve of CEO. <b>Target</b> has an <b>employee</b> rating of 4.3 out of 5 stars, based on 49,726 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have an excellent working experience there. The <b>Target</b> <b>employee</b> rating is 25% above average for employers within the Retail and wholesale industry (3.4 stars). Read more.
+Body Content: Content could not be retrieved.
+
+Title: Working at Target | Glassdoor
+Link: https://www.glassdoor.sg/Overview/Working-at-Target-EI_IE194.11,17.htm
+Snippet: Overall, 60% of <b>employees</b> would recommend working at <b>Target</b> to a friend. This is based on 84,079 anonymously submitted <b>reviews</b> <b>on Glassdoor</b>. This is based on 84,079 anonymously submitted <b>reviews</b> <b>on Glassdoor</b>.
+Body Content: Content could not be retrieved.
+
+Title: Working at Target - Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-Target-EI_IE194.11,17.htm
+Snippet: Minneapolis, MN. 10000+ <b>Employees</b>. 5 Locations. Type: Company - Public (TGT) Founded in 1962. Revenue: $10+ billion (USD) General Merchandise &amp; Superstores. As a Fortune 50 company with more than 400,000 team members worldwide, <b>Target</b> is an iconic brand and one of America&#39;s leading retailers. Working at <b>Target</b> means the opportunity to help all ...
+Body Content: Content could not be retrieved.
+
+Title: target corporation Reviews | Glassdoor.co.in
+Link: https://www.glassdoor.co.in/Reviews/target-corporation-reviews-SRCH_KE0,18.htm
+Snippet: <b>Employee</b> <b>reviews</b> for companies matching &quot;<b>target corporation</b>&quot;. 626 results for employers related to &quot;<b>target corporation</b>&quot;.
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)

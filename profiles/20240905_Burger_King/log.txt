@@ -1,0 +1,66 @@
+Susan: Here are the steps we will follow to collect information about Burger King.
+
+1. **Publicly Available Financial Information**: Begin researching financial information about Burger King. Look for annual reports, income statements, balance sheets, and cash flow statements available on the company’s website or financial news sources like Bloomberg, Yahoo Finance, or MSN Money. Focus on understanding the company's financial health, major expenses, sources of revenue, and financial trends.
+
+2. **Key Decision Makers**: Use resources like Linkedin, Bloomberg, and the Burger King official website to identify the company's executives and board members. Obtain profiles and biographies of these individuals to understand their business backgrounds and potential points of leverage, such as personal interests or charities they are involved with.
+
+3. **News on Labor Relations**: Use platforms like Google News or databases like LexisNexis to search for news reports concerning labor relations at Burger King. Look for information related to strikes, negotiations, lawsuits related to labor rights, employee benefits and labor turnover.
+
+4. **Recent Scandals and Lawsuits**: Gather information about recent controversies, lawsuits, and scandals that have involved Burger King. These may include issues related to food safety, poor workplace practices, or other negative publicity.
+
+5. **Other Possible Points of Leverage**: Look for any other information that could be used as leverage such as problems related to their supply chain, customer complaints, or environmental issues. Look for patterns of behavior that could expose potential weaknesses or vulnerabilities.
+
+6. **Social Media Presence**: Check Burger King's social media platforms. This may help give an insight into the company’s latest updates, marketing strategies, promotional offers, customer complaints, and overall public opinion about the brand.
+
+7. **Competitor Analysis**: Research other competitors in the fast-food industry, such as McDonald's and Wendy’s. Understanding their strategies could help to highlight the strengths and weaknesses of Burger King.
+
+8. **SWOT Analysis**: Finally, based on the information gathered, conduct a SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) on Burger King. This analysis will summarize the company’s competitive position and potential points of leverage.
+
+Remember to continuously update the information, as important events, financial situations, and executive roles may change.
+Manny: Here are some potential follow-up questions to ask:
+
+1. **Publicly Available Financial Information**: Could you outline what specific elements we should look for within the financial statements that will provide us the most valuable information?
+    
+2. **Key Decision Makers**: After we identify these decision makers, how deep should we go in researching their personal interests and backgrounds? When does it become too invasive?
+   
+3. **News on Labor Relations**: Could you provide more guidance on the type of labor relations news that would be relevant to our research?
+   
+4. **Recent Scandals and Lawsuits**: What time frame should we consider when looking at recent scandals? Would something from five years ago still be considered recent?
+   
+5. **Other Possible Points of Leverage**: Can you give more examples of other possible points of leverage?
+   
+6. **Social Media Presence**: How do we quantify social media sentiments and use it in our research?
+   
+7. **Competitor Analysis**: What specific aspects should we consider when analyzing competitors of Burger King?
+
+8. **SWOT Analysis**: How do we weigh the various points in our SWOT analysis or are all points considered equal? Can you provide an example of how to do a SWOT analysis for a company like Burger King?
+
+These questions will better help us understand how to approach this research and provide the most valuable and comprehensive information possible.
+Manny: Sure, here is the python list object containing specific search queries for Remi:
+
+```python
+search_queries_for_remi = [
+    "Burger King annual reports",
+    "Burger King income statements",
+    "Burger King balance sheet",
+    "Burger King cash flow statement",
+    "Burger King key executives",
+    "Burger King board members",
+    "Burger King major shareholders",
+    "Burger King labor relations",
+    "Burger King labor rights lawsuits",
+    "Burger King strikes",
+    "Burger King recent controversies",
+    "Burger King lawsuits",
+    "Burger King food safety issues",
+    "Burger King supply chain problems",
+    "Burger King customer complaints",
+    "Burger King environmental issues",
+    "Burger King social media sentiment analysis",
+    "Burger King marketing strategies",
+    "Burger King competitor analysis",
+    "Burger King SWOT analysis",
+]
+```
+Remi can adapt these queries as needed depending on the search results.
+

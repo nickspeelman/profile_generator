@@ -1,0 +1,48 @@
+Susan: To gather information on McDonald's, we would need a methodical and comprehensive approach. Here's a possible strategy:
+
+1. **Corporate Websites and Documents:** Start with the official website of McDonald's. Go through their “About us” and "Our Leadership" sections to understand the company, its operations, its history, and its key decision makers. Review their annual reports and financial statements for information about their overall financial health. 
+
+2. **Market and Industry Reports:** Look for industry reports published by agencies like IBISWorld, Statista, or Mintel for a broader understanding of McDonald's position within the fast food industry. These reports may provide insight into industry trends, the company's market share, its major competitors, etc.
+
+3. **News Sources:** Search online news sources for articles related to McDonald's, especially those related to their labor relations. This could include disputes, strikes, patterns of employment, etc. Notable sources could be Wall Street Journal, The New York Times, and dedicated trade publications within the food and hospitality industry.
+
+4. **Look into Decision Makers:** LinkedIn can be a good source to know more about the key decision makers mentioned on the corporate website. It helps to understand the professional networks of these individuals.
+
+5. **Legal Filings:** Publicly-available legal documents can provide information about recent or outstanding legal issues, including labor disputes or lawsuits filed by or against the company.
+
+6. **Social Media Monitoring:** Monitor McDonald's social media profiles for insights on company news, promotions and how they interact with their employees and customers. Twitter, YouTube, and Facebook are good starting points.
+
+7. **Trade Unions and Employee Reviews:** Check websites of relevant trade unions to understand McDonald's dealings with them. Websites like Glassdoor and Indeed can provide insights from employees' perspectives - about labor issues, work conditions, general employee morale, etc. 
+
+8. **Public Perception and CSR:** Examine McDonald's Corporate Social Responsibility initiatives and any public opinion surveys that could provide insights into the company's reputation. Conversely, look into any scandals or controversies that could damage this image.
+
+Remember to verify the information from multiple sources to ensure it's accurate and up to date. As a strategist, it is also crucial to identify potential leverage points, opportunities, or weaknesses that could be used in negotiations or campaigns.
+Manny: Sure, here is a Python list object named 'search_queries_for_remi' containing specific search queries to perform:
+
+```python
+search_queries_for_remi = [
+    "McDonald's official website",
+    "McDonald's corporate structure",
+    "McDonald's key decision makers",
+    "McDonald's annual financial report",
+    "Fast food industry market report",
+    "McDonald's corporate news",
+    "McDonald's labor disputes",
+    "McDonald's employment news",
+    "McDonald's LinkedIn",
+    "McDonald's legal issues",
+    "McDonald's CEO profile",
+    "McDonald's social media policies",
+    "McDonald's Glassdoor reviews",
+    "McDonald's Indeed reviews",
+    "Trade unions and McDonald's",
+    "McDonald's corporate social responsibility initiatives",
+    "McDonald's reputation survey",
+    "McDonald's scandal news",
+    "McDonald's market share fast food industry",
+    "McDonald's major competitors",
+    "News articles on McDonald's labor relations"
+]
+```
+
+Remi can perform these searches on different search engines for comprehensive results. She may also need to adjust some queries depending on the specifics of the information she finds.

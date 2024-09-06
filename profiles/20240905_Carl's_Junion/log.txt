@@ -1,0 +1,779 @@
+Susan: 1. Start with the Company's Webpage and Online Profiles:
+   The official website of "Carl's Junior" would serve as a primary source of information. Look for information about the company's executives, their mission, and vision, their recent financial reports. Also, check their social media profiles for updates, recent events, and customer reviews.
+
+2. Financial Information:
+   For obtaining financial information, we can refer to online financial databases such as Businessweek, Forbes, Yahoo Finance, and SEC filings. Look for recent financial reports, reviews from financial analysts, and other relevant financial statistics.
+
+3. Key Decision Makers:
+   Identify the main decision-makers in the company. Look up their profiles on LinkedIn, read articles about them, see if they've had any interviews or written any articles/blogs. Identify their strengths, business philosophy, or even personal interests that could offer potential points of leverage.
+
+4. Labor Relations:
+   Search for news articles, press releases, or official company statements regarding their labor practices and employee relations policy. Look for any allegations of unfair labor practices, strikes, worker lawsuits, unions, or collective bargaining agreements.
+
+5. Recent news/scandals:
+   Search for recent news or scandals related to Carl’s Jr. A good starting point is to set up Google Alerts for terms like "Carl's Jr. scandal," "Carl's Jr. lawsuit," or "Carl's Jr. labor rights." Remember, even past issues hold relevance as they can show past company behavior or vulnerabilities.
+
+6. Workforce Information: 
+   Search for the size and composition of their workforce, potential issues linked to the turnover rate, employee satisfaction or complaints.
+
+7. Online Forums and Reviews:
+   Websites like Glassdoor, Indeed, or Reddit are platforms where employees anonymously discuss their work experience. Look for common issues, genuine praises, or complaints.
+
+8. Competitors Overview:
+   Comparing Carl's Jr. with its close competitors can also offer leverage points and reveal its strengths and weaknesses which can be used to our advantage.
+
+Remember, the aim should be to extract maximum information using only openly available resources on the web. Be careful to verify the information from multiple sources to avoid any errors.
+Manny: Sure, here's the code
+
+```python
+search_queries_for_remi = [
+    "Carl's Junior financial report 2021",
+    "Carl's Junior executive board",
+    "Carl's Junior CEO profile",
+    "Carl's Junior labor relations",
+    "Carl's Junior lawsuits",
+    "Carl's Junior employment practices",
+    "Carl's Junior wage practices",
+    "Carl's Junior worker's compensation",
+    "Carl's Junior employee benefits",
+    "Carl's Junior union relations",
+    "Carl's Junior scandal news",
+    "Carl's Junior competitor analysis",
+    "Carl's Junior SWOT",
+    "Carl's Junior locations and no of employees",
+    "Carl's Junior employee reviews Glassdoor",
+    "Carl's Junior employee reviews Indeed",
+    "Carl's Junior Reddit reviews"
+]
+```
+
+Make sure Remi follows through with these queries and searches for each of them thoroughly to retrieve comprehensive information.
+Remi: Results for 'Carl's Junior financial report 2021':
+Link: https://www.carlsjr.com/pressroom
+Snippet: Sep 06, 2023. <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s Hire New Marketing and <b>Financial</b> Chiefs. Aug 21, 2023. <b>Carl</b>&#39;s <b>Jr</b>. Announces Limited-Time Big Char Chile Burger and Salted Caramel Pretzel Shake. Jul 20, 2023. <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s raise $1 million and counting for military veterans and families. Jul 20, 2023.
+Link: https://www.restaurantbusinessonline.com/top-500-chains-2021/carls-jr
+Snippet: 2020 was a year like no other and played a massive role in the Technomic Top 500 Chain Restaurant <b>Report</b>. Take a deep dive with RB into the 2020 was a year like no other and played a massive role in the Technomic Top 500 Chain Restaurant <b>Report</b>. ... <b>Carl</b>&#39;s <b>Jr</b>. Facebook; Twitter; LinkedIn; Top 500 Year: <b>2021</b>: 2020 U.S. Sales ($000,000) $1,281 ...
+Link: https://www.forbes.com/sites/aliciakelso/2021/07/14/carls-jr-marks-80th-anniversary-milestone-with-sales-and-growth-momentum/
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. <b>Carl’s</b> <b>Jr</b>. CEO Ned Lyerly has been with the chain for nearly 40 years, citing a strong “family culture” that prioritizes customer service as a major driver of his loyalty. That ...
+Link: https://incfact.com/company/carlsjrrestaurants-anaheim-ca/
+Snippet: What is the company&#39;s size? (<b>Annual</b> sales and employees) <b>Carl</b>&#39;s <b>JR.</b> Restaurants&#39;s <b>annual</b> revenues are $10 - $100 million (see exact revenue data) What industry is the company in? <b>Carl</b>&#39;s <b>JR.</b> Restaurants is classified as operating in the Full-Service Restaurants industry, NAICS Code 722511. <b>Carl</b>&#39;s <b>JR.</b> Restaurants <b>Annual</b> Revenue and Growth Rate
+Link: https://www.forbes.com/sites/aliciakelso/2022/05/10/carls-jr-and-hardees-are-going-through-a-systemwide-transformation-that-includes-exterior-technology-and-menu-updates/
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s parent company CKE Restaurants Holdings Inc. announced a holistic reimaging effort that is expected to be completed in the next four to six years and cost about $500 million.
+Link: https://www.forbes.com/sites/aliciakelso/2021/05/10/cke-restaurants-evolves-into-a-global-operation-with-1000th-international-milestone/
+Snippet: CKE Restaurants, parent company of <b>Carl’s</b> <b>Jr</b>. and Hardee’s, today announced the opening of its 1,000th international restaurant. The milestone restaurant is located in Madrid, Spain, and comes ...
+Link: https://en.wikipedia.org/wiki/Carl%27s_Jr.
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC is an American fast-food restaurant chain owned by CKE Restaurant Holdings, Inc., who also owns Hardee&#39;s, with franchisees in North and South America, Asia, Oceania, Europe, and Africa.. In 2016, Entrepreneur listed <b>Carl</b>&#39;s <b>Jr</b>. as No. 54 on their Top Franchise 500 list, which ranks the overall <b>financial</b> strength, stability, and growth rate for the top 500 franchises ...
+Link: https://www.nrn.com/companies/carl-s-jr
+Snippet: <b>Carl’s Jr</b>. was founded in 1956 by <b>Carl</b> Karcher, so-named because it was a smaller version of his full-service restaurant, <b>Carl’s</b> Drive-in Barbecue, with the opening of two locations in Anaheim ...
+Link: https://www.spglobal.com/ratings/en/research/pdf-articles/210616-presale-hardee-s-funding-llc-carl-s-jr-funding-llc-series-2021-1-12001649
+Snippet: Hardee&#39;s Funding LLC/<b>Carl</b>&#39;s <b>Jr</b>. Funding LLC&#39;s series <b>2021</b>-1 issuance is a $180 million corporate securitization of CKE Restaurants Holdings Inc.&#39;s (CKE) business. CKE will use the proceeds for general corporate purposes as well as transaction fees and expenses. The series <b>2021</b>-1 class A-2 fixed-rate notes will be collateralized by existing and future domestic and international franchise ...
+PDF Link: https://www.spglobal.com/_assets/documents/ratings/research/11733014.pdf
+Remi: Results for 'Carl's Junior financial report 2021':
+Link: https://www.carlsjr.com/pressroom
+Snippet: Sep 06, 2023. <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s Hire New Marketing and <b>Financial</b> Chiefs. Aug 21, 2023. <b>Carl</b>&#39;s <b>Jr</b>. Announces Limited-Time Big Char Chile Burger and Salted Caramel Pretzel Shake. Jul 20, 2023. <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s raise $1 million and counting for military veterans and families. Jul 20, 2023.
+Link: https://www.restaurantbusinessonline.com/top-500-chains-2021/carls-jr
+Snippet: 2020 was a year like no other and played a massive role in the Technomic Top 500 Chain Restaurant <b>Report</b>. Take a deep dive with RB into the 2020 was a year like no other and played a massive role in the Technomic Top 500 Chain Restaurant <b>Report</b>. ... <b>Carl</b>&#39;s <b>Jr</b>. Facebook; Twitter; LinkedIn; Top 500 Year: <b>2021</b>: 2020 U.S. Sales ($000,000) $1,281 ...
+Link: https://www.forbes.com/sites/aliciakelso/2021/07/14/carls-jr-marks-80th-anniversary-milestone-with-sales-and-growth-momentum/
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. <b>Carl’s</b> <b>Jr</b>. CEO Ned Lyerly has been with the chain for nearly 40 years, citing a strong “family culture” that prioritizes customer service as a major driver of his loyalty. That ...
+Link: https://incfact.com/company/carlsjrrestaurants-anaheim-ca/
+Snippet: What is the company&#39;s size? (<b>Annual</b> sales and employees) <b>Carl</b>&#39;s <b>JR.</b> Restaurants&#39;s <b>annual</b> revenues are $10 - $100 million (see exact revenue data) What industry is the company in? <b>Carl</b>&#39;s <b>JR.</b> Restaurants is classified as operating in the Full-Service Restaurants industry, NAICS Code 722511. <b>Carl</b>&#39;s <b>JR.</b> Restaurants <b>Annual</b> Revenue and Growth Rate
+Link: https://www.forbes.com/sites/aliciakelso/2022/05/10/carls-jr-and-hardees-are-going-through-a-systemwide-transformation-that-includes-exterior-technology-and-menu-updates/
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s parent company CKE Restaurants Holdings Inc. announced a holistic reimaging effort that is expected to be completed in the next four to six years and cost about $500 million.
+Link: https://www.forbes.com/sites/aliciakelso/2021/05/10/cke-restaurants-evolves-into-a-global-operation-with-1000th-international-milestone/
+Snippet: CKE Restaurants, parent company of <b>Carl’s</b> <b>Jr</b>. and Hardee’s, today announced the opening of its 1,000th international restaurant. The milestone restaurant is located in Madrid, Spain, and comes ...
+Link: https://en.wikipedia.org/wiki/Carl%27s_Jr.
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC is an American fast-food restaurant chain owned by CKE Restaurant Holdings, Inc., who also owns Hardee&#39;s, with franchisees in North and South America, Asia, Oceania, Europe, and Africa.. In 2016, Entrepreneur listed <b>Carl</b>&#39;s <b>Jr</b>. as No. 54 on their Top Franchise 500 list, which ranks the overall <b>financial</b> strength, stability, and growth rate for the top 500 franchises ...
+Link: https://www.nrn.com/companies/carl-s-jr
+Snippet: <b>Carl’s Jr</b>. was founded in 1956 by <b>Carl</b> Karcher, so-named because it was a smaller version of his full-service restaurant, <b>Carl’s</b> Drive-in Barbecue, with the opening of two locations in Anaheim ...
+Link: https://www.spglobal.com/ratings/en/research/pdf-articles/210616-presale-hardee-s-funding-llc-carl-s-jr-funding-llc-series-2021-1-12001649
+Snippet: Hardee&#39;s Funding LLC/<b>Carl</b>&#39;s <b>Jr</b>. Funding LLC&#39;s series <b>2021</b>-1 issuance is a $180 million corporate securitization of CKE Restaurants Holdings Inc.&#39;s (CKE) business. CKE will use the proceeds for general corporate purposes as well as transaction fees and expenses. The series <b>2021</b>-1 class A-2 fixed-rate notes will be collateralized by existing and future domestic and international franchise ...
+PDF Link: https://www.spglobal.com/_assets/documents/ratings/research/11733014.pdf
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior executive board':
+Link: https://craft.co/carls-jr/executives
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. <b>Carls</b> <b>Jr</b>&#39;s Chief Information Officer is Darla Morse. See the full leadership team at Craft.
+Link: https://www.restaurantbusinessonline.com/leadership/carls-jr-gets-new-brand-president-its-parent-company-restructures
+Snippet: By Jonathan Maze on Apr. 03, 2024. Former Yum Brands <b>executive</b> Blake Devillier was named brand president of <b>Carl’s</b> <b>Jr</b>. in the U.S., as its parent company CKE Restaurants continues a restructuring of the company’s leadership. Devillier will be one of three presidents who will report to CEO Max Wetzel. Chris Bode was named president of Hardee ...
+Link: https://www.restaurantbusinessonline.com/leadership/max-wetzel-named-ceo-carls-jr-hardees-parent
+Snippet: By Jonathan Maze on Mar. 17, 2023. The owner of <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s has named Max Wetzel CEO. / Photo courtesy of CKE Restaurants. CKE Restaurants, the owner of the Hardee’s and <b>Carl’s</b> <b>Jr</b>. chains, on Friday named Max Wetzel CEO, effective immediately. He takes over for Ned Lyerly, who had been CEO of the burger chain operator for four ...
+Link: https://www.restaurantbusinessonline.com/leadership/owner-hardees-carls-jr-adds-pair-new-executives
+Snippet: The Franklin, Tenn.-based owner of Hardee’s and <b>Carl’s</b> <b>Jr</b>., on Wednesday named Jennifer Tate CMO and Mike Lenihan CFO. The two will report to Wetzel, who was named CEO of the burger chains in May. Tate comes to the company from Cracker Barrel, where she was the chief marketing officer. She also spent a decade with Darden Restaurants ...
+Link: https://www.carlsjr.com/carl-s-jr-and-hardee-s-hire-new-marketing-and-financial-chiefs
+Snippet: FRANKLIN, Tenn., Sept. 6, 2023 /PRNewswire/ -- CKE Restaurants Holdings Inc. (CKE), company of the brands <b>Carl</b>&#39;s <b>Jr</b>.® and Hardee&#39;s®, announced today the appointment of Jennifer Tate to the position of chief marketing officer and Mike Lenihan to chief financial officer effective immediately. Tate comes from Cracker Barrel Old Country Store ...
+Link: https://en.wikipedia.org/wiki/Carl%27s_Jr.
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC is an American fast-food restaurant chain owned by CKE Restaurant Holdings, Inc., who also owns Hardee&#39;s, with franchisees in North and South America, Asia, Oceania, Europe, and Africa.. In 2016, Entrepreneur listed <b>Carl</b>&#39;s <b>Jr</b>. as No. 54 on their Top Franchise 500 list, which ranks the overall financial strength, stability, and growth rate for the top 500 franchises ...
+Link: https://www.cbinsights.com/company/carls-jr/people
+Snippet: Explore {<b>Carl</b>&#39;s <b>Jr</b>.&#39;s key management people. Discover current leadership team members including founders, CEO, other executives and <b>board</b> directors.
+Link: https://www.nrn.com/quick-service/carl-s-jr-and-hardee-s-parent-cke-names-former-papa-john-s-executive-max-wetzel-ceo
+Snippet: <b>Carl’s</b> <b>Jr</b>. and Hardee’s parent CKE names former Papa John’s <b>executive</b> Max Wetzel CEO. Wetzel replaces Ned Lyerly. Bret Thorn | Mar 17, 2023. Max Wetzel has been named CEO of CKE Restaurant ...
+Link: https://en.wikipedia.org/wiki/CKE_Restaurants
+Snippet: CKE Restaurants Holdings, Inc. (an acronym for <b>Carl</b> Karcher Enterprises) is an American fast food corporation and is the parent organization for the <b>Carl</b>&#39;s <b>Jr</b>., Hardee&#39;s, Green Burrito, and Red Burrito brands. [4] [5] CKE Restaurants is headquartered in Franklin, Tennessee.[6]In October 2020, CKE Restaurants operated or franchised to locations in 44 US states and 43 foreign countries and US ...
+Link: https://www.carlsjr.com/contact-us
+Snippet: CORP OFFICE. CKE RESTAURANTS HOLDINGS, INC. 6700 Tower Circle, Suite 1000 Franklin, TN 37067
+Remi: Results for 'Carl's Junior executive board':
+Link: https://craft.co/carls-jr/executives
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. <b>Carls</b> <b>Jr</b>&#39;s Chief Information Officer is Darla Morse. See the full leadership team at Craft.
+Link: https://www.restaurantbusinessonline.com/leadership/carls-jr-gets-new-brand-president-its-parent-company-restructures
+Snippet: By Jonathan Maze on Apr. 03, 2024. Former Yum Brands <b>executive</b> Blake Devillier was named brand president of <b>Carl’s</b> <b>Jr</b>. in the U.S., as its parent company CKE Restaurants continues a restructuring of the company’s leadership. Devillier will be one of three presidents who will report to CEO Max Wetzel. Chris Bode was named president of Hardee ...
+Link: https://www.restaurantbusinessonline.com/leadership/max-wetzel-named-ceo-carls-jr-hardees-parent
+Snippet: By Jonathan Maze on Mar. 17, 2023. The owner of <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s has named Max Wetzel CEO. / Photo courtesy of CKE Restaurants. CKE Restaurants, the owner of the Hardee’s and <b>Carl’s</b> <b>Jr</b>. chains, on Friday named Max Wetzel CEO, effective immediately. He takes over for Ned Lyerly, who had been CEO of the burger chain operator for four ...
+Link: https://www.restaurantbusinessonline.com/leadership/owner-hardees-carls-jr-adds-pair-new-executives
+Snippet: The Franklin, Tenn.-based owner of Hardee’s and <b>Carl’s</b> <b>Jr</b>., on Wednesday named Jennifer Tate CMO and Mike Lenihan CFO. The two will report to Wetzel, who was named CEO of the burger chains in May. Tate comes to the company from Cracker Barrel, where she was the chief marketing officer. She also spent a decade with Darden Restaurants ...
+Link: https://www.carlsjr.com/carl-s-jr-and-hardee-s-hire-new-marketing-and-financial-chiefs
+Snippet: FRANKLIN, Tenn., Sept. 6, 2023 /PRNewswire/ -- CKE Restaurants Holdings Inc. (CKE), company of the brands <b>Carl</b>&#39;s <b>Jr</b>.® and Hardee&#39;s®, announced today the appointment of Jennifer Tate to the position of chief marketing officer and Mike Lenihan to chief financial officer effective immediately. Tate comes from Cracker Barrel Old Country Store ...
+Link: https://en.wikipedia.org/wiki/Carl%27s_Jr.
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC is an American fast-food restaurant chain owned by CKE Restaurant Holdings, Inc., who also owns Hardee&#39;s, with franchisees in North and South America, Asia, Oceania, Europe, and Africa.. In 2016, Entrepreneur listed <b>Carl</b>&#39;s <b>Jr</b>. as No. 54 on their Top Franchise 500 list, which ranks the overall financial strength, stability, and growth rate for the top 500 franchises ...
+Link: https://www.cbinsights.com/company/carls-jr/people
+Snippet: Explore {<b>Carl</b>&#39;s <b>Jr</b>.&#39;s key management people. Discover current leadership team members including founders, CEO, other executives and <b>board</b> directors.
+Link: https://www.nrn.com/quick-service/carl-s-jr-and-hardee-s-parent-cke-names-former-papa-john-s-executive-max-wetzel-ceo
+Snippet: <b>Carl’s</b> <b>Jr</b>. and Hardee’s parent CKE names former Papa John’s <b>executive</b> Max Wetzel CEO. Wetzel replaces Ned Lyerly. Bret Thorn | Mar 17, 2023. Max Wetzel has been named CEO of CKE Restaurant ...
+Link: https://en.wikipedia.org/wiki/CKE_Restaurants
+Snippet: CKE Restaurants Holdings, Inc. (an acronym for <b>Carl</b> Karcher Enterprises) is an American fast food corporation and is the parent organization for the <b>Carl</b>&#39;s <b>Jr</b>., Hardee&#39;s, Green Burrito, and Red Burrito brands. [4] [5] CKE Restaurants is headquartered in Franklin, Tennessee.[6]In October 2020, CKE Restaurants operated or franchised to locations in 44 US states and 43 foreign countries and US ...
+Link: https://www.carlsjr.com/contact-us
+Snippet: CORP OFFICE. CKE RESTAURANTS HOLDINGS, INC. 6700 Tower Circle, Suite 1000 Franklin, TN 37067
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior CEO profile':
+Link: https://www.restaurantbusinessonline.com/leadership/max-wetzel-named-ceo-carls-jr-hardees-parent
+Snippet: Max Wetzel named <b>CEO</b> of <b>Carl</b>&#39;s <b>Jr</b>., Hardee&#39;s parent The former Papa Johns operations chief will take over as <b>CEO</b> of CKE Restaurants for Ned Lyerly. By Jonathan Maze on Mar. 17, 2023 The owner of <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s has named Max Wetzel <b>CEO</b>. / Photo courtesy of CKE Restaurants.
+Link: https://en.wikipedia.org/wiki/Carl%27s_Jr.
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC is an American fast-food restaurant chain owned by CKE Restaurant Holdings, Inc., who also owns Hardee&#39;s, with franchisees in North and South America, Asia, Oceania, Europe, and Africa .
+Link: https://www.carlsjr.com/about-us
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>.® has become known as the place to go all across the West for juicy, delicious charbroiled burgers. Come learn all about the <b>Carl</b>&#39;s <b>Jr</b>. company!
+Link: https://www.restaurantbusinessonline.com/leadership/carls-jr-gets-new-brand-president-its-parent-company-restructures
+Snippet: Former Yum Brands <b>executive</b> Blake Devillier was named brand president of <b>Carl’s</b> <b>Jr</b>. in the U.S., as its parent company CKE Restaurants continues a restructuring of the company’s leadership.
+Link: https://en.wikipedia.org/wiki/Andrew_Puzder
+Snippet: Andrew Franklin Puzder (born July 11, 1950) is an American attorney, author, and businessman. He is the former <b>chief executive officer</b> of CKE Restaurants, the parent company of Hardee&#39;s and <b>Carl</b>&#39;s <b>Jr</b>., a position he held from September 2000 to March 2017. [1] He was previously a commercial trial lawyer in private practice from 1978 to 1995 who handled many high-<b>profile</b> cases and was active in ...
+Link: https://www.nrn.com/quick-service/carl-s-jr-and-hardee-s-parent-cke-names-former-papa-john-s-executive-max-wetzel-ceo
+Snippet: Max Wetzel has been named <b>CEO</b> of CKE Restaurant Holdings, the parent company of quick service chains <b>Carl’s</b> <b>Jr</b>. and Hardee’s, the company based in Franklin, Tenn., announced Friday.
+Link: https://www.restaurantbusinessonline.com/leadership/owner-hardees-carls-jr-adds-pair-new-executives
+Snippet: The Franklin, Tenn.-based owner of Hardee’s and <b>Carl’s</b> <b>Jr</b>., on Wednesday named Jennifer Tate CMO and Mike Lenihan CFO. The two will report to Wetzel, who was named <b>CEO</b> of the burger chains in May. Tate comes to the company from Cracker Barrel, where she was the chief marketing officer. She also spent a decade with Darden Restaurants ...
+Link: https://www.qsrweb.com/news/hardees-carls-jr-parent-company-names-former-papa-johns-exec-as-ceo/
+Snippet: CKE Restaurants Holdings Inc., parent company of <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s, has appointed Max Wetzel as <b>CEO</b> effective immediately, according to a press release. Wetzel previously served as COO of Papa John&#39;s International.
+Link: https://www.qsrmagazine.com/story/carls-jr-and-hardees-find-strength-in-separation/
+Snippet: <b>Carl’s</b> <b>Jr</b>. and Hardee’s Find Strength in Separation. The two legacy brands now have specific leadership—and plans to win over customers. <b>Carl</b>&#39;s <b>Jr</b>. is forging ahead with a focus on bold flavors. As leadership began to form under Max Wetzel, who assumed the <b>CEO</b> post of CKE Restaurants in March 2023, migrating over after a four-year run ...
+Link: https://www.qsrmagazine.com/growth/hardees-carls-jr-parent-names-max-wetzel-ceo/
+Snippet: Hardee’s and <b>Carl’s</b> <b>Jr</b>. parent CKE Restaurants named former Papa Johns <b>executive</b> Max Wetzel its new <b>CEO</b>, effective immediately. He joined Papa Johns in November 2019 as chief commercial and marketing officer and advanced to chief operating officer in May 2022. Prior to restaurants, Wetzel spent time at PPG Industries and The Kraft Heinz Company. […]
+Remi: Results for 'Carl's Junior CEO profile':
+Link: https://www.restaurantbusinessonline.com/leadership/max-wetzel-named-ceo-carls-jr-hardees-parent
+Snippet: Max Wetzel named <b>CEO</b> of <b>Carl</b>&#39;s <b>Jr</b>., Hardee&#39;s parent The former Papa Johns operations chief will take over as <b>CEO</b> of CKE Restaurants for Ned Lyerly. By Jonathan Maze on Mar. 17, 2023 The owner of <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s has named Max Wetzel <b>CEO</b>. / Photo courtesy of CKE Restaurants.
+Link: https://en.wikipedia.org/wiki/Carl%27s_Jr.
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC is an American fast-food restaurant chain owned by CKE Restaurant Holdings, Inc., who also owns Hardee&#39;s, with franchisees in North and South America, Asia, Oceania, Europe, and Africa .
+Link: https://www.carlsjr.com/about-us
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>.® has become known as the place to go all across the West for juicy, delicious charbroiled burgers. Come learn all about the <b>Carl</b>&#39;s <b>Jr</b>. company!
+Link: https://www.restaurantbusinessonline.com/leadership/carls-jr-gets-new-brand-president-its-parent-company-restructures
+Snippet: Former Yum Brands <b>executive</b> Blake Devillier was named brand president of <b>Carl’s</b> <b>Jr</b>. in the U.S., as its parent company CKE Restaurants continues a restructuring of the company’s leadership.
+Link: https://en.wikipedia.org/wiki/Andrew_Puzder
+Snippet: Andrew Franklin Puzder (born July 11, 1950) is an American attorney, author, and businessman. He is the former <b>chief executive officer</b> of CKE Restaurants, the parent company of Hardee&#39;s and <b>Carl</b>&#39;s <b>Jr</b>., a position he held from September 2000 to March 2017. [1] He was previously a commercial trial lawyer in private practice from 1978 to 1995 who handled many high-<b>profile</b> cases and was active in ...
+Link: https://www.nrn.com/quick-service/carl-s-jr-and-hardee-s-parent-cke-names-former-papa-john-s-executive-max-wetzel-ceo
+Snippet: Max Wetzel has been named <b>CEO</b> of CKE Restaurant Holdings, the parent company of quick service chains <b>Carl’s</b> <b>Jr</b>. and Hardee’s, the company based in Franklin, Tenn., announced Friday.
+Link: https://www.restaurantbusinessonline.com/leadership/owner-hardees-carls-jr-adds-pair-new-executives
+Snippet: The Franklin, Tenn.-based owner of Hardee’s and <b>Carl’s</b> <b>Jr</b>., on Wednesday named Jennifer Tate CMO and Mike Lenihan CFO. The two will report to Wetzel, who was named <b>CEO</b> of the burger chains in May. Tate comes to the company from Cracker Barrel, where she was the chief marketing officer. She also spent a decade with Darden Restaurants ...
+Link: https://www.qsrweb.com/news/hardees-carls-jr-parent-company-names-former-papa-johns-exec-as-ceo/
+Snippet: CKE Restaurants Holdings Inc., parent company of <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s, has appointed Max Wetzel as <b>CEO</b> effective immediately, according to a press release. Wetzel previously served as COO of Papa John&#39;s International.
+Link: https://www.qsrmagazine.com/story/carls-jr-and-hardees-find-strength-in-separation/
+Snippet: <b>Carl’s</b> <b>Jr</b>. and Hardee’s Find Strength in Separation. The two legacy brands now have specific leadership—and plans to win over customers. <b>Carl</b>&#39;s <b>Jr</b>. is forging ahead with a focus on bold flavors. As leadership began to form under Max Wetzel, who assumed the <b>CEO</b> post of CKE Restaurants in March 2023, migrating over after a four-year run ...
+Link: https://www.qsrmagazine.com/growth/hardees-carls-jr-parent-names-max-wetzel-ceo/
+Snippet: Hardee’s and <b>Carl’s</b> <b>Jr</b>. parent CKE Restaurants named former Papa Johns <b>executive</b> Max Wetzel its new <b>CEO</b>, effective immediately. He joined Papa Johns in November 2019 as chief commercial and marketing officer and advanced to chief operating officer in May 2022. Prior to restaurants, Wetzel spent time at PPG Industries and The Kraft Heinz Company. […]
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior labor relations':
+Link: https://www.nlrb.gov/case/16-CA-191846
+Snippet: National <b>Labor</b> <b>Relations</b> Board. Sign out. View Your Dashboard. National <b>Labor</b> <b>Relations</b> Board. Sign in with Login.gov. Most Popular Pages. Who We Are; National <b>Labor</b> <b>Relations</b> Act; ... Charged Party / Respondent Employer <b>CARL&#39;S</b> <b>JR</b>. AUSTIN, TX 78748-1668 : Related Cases. Related Cases data is not available. Content in Other Languages. Español ...
+Link: https://www.restaurant365.com/blog/carls-jr-franchisee-cooks-up-a-plan-to-combat-increasing-minimum-wage/
+Snippet: One of Restaurant365’s <b>Carl’s</b> <b>Jr</b>. franchisors shared concern over the newest law to be passed in California that that will require QSR brands to adjust their minimum wage to $20/hour starting in April of 2024. With approximately 70% of <b>Carl’s</b> <b>Jr</b>. locations being in California, they are looking for innovative ways to overcome this new ...
+Link: https://hbsp.harvard.edu/product/W20030-PDF-ENG
+Snippet: In April 2019, <b>Carl&#39;s</b> <b>Jr</b>. Restaurants LLC (<b>Carl&#39;s</b> <b>Jr</b>.), an American fast-food restaurant chain, faced an important decision. The company was up against strong competition from both traditional players in the fast-food market and newer competitors in the fast-casual dining market. In 2017, <b>Carl&#39;s</b> <b>Jr</b>. had stopped using the provocative ads it had become known for, and in 2018, the company ended a ...
+Link: https://www.law360.com/articles/987997/carl-s-jr-loses-nlrb-case-after-failing-to-respond
+Snippet: In the first National <b>Labor</b> <b>Relations</b> Board decision to include both its newest members Bill Emanuel and Marvin Kaplan, the agency on Tuesday ruled against a <b>Carl&#39;s</b> <b>Jr</b>. facility in Los Angeles ...
+Link: https://news.bloomberglaw.com/daily-labor-report/carls-jr-ceo-to-step-down-following-failed-labor-secretary-bid
+Snippet: CKE Restaurants Holdings Inc. Chief Executive Officer Andy Puzder, who made an unsuccessful bid to become U.S. <b>labor</b> secretary earlier this year, said he will step down as leader of the fast-food chain. Puzder will hand the reins next month to Jason Marker, who most recently ran Kentucky Fried Chicken in the U.S. for Yum!
+Link: https://teamster.org/2014/08/drivers-carls-jr-contractor-mbm-corp-win-teamster-representation/
+Snippet: – The National <b>Labor</b> <b>Relations</b> Board recently announced the certification of Teamsters Local 63 as the bargaining representative for 72 drivers at MBM Corporation in Ontario, Calif. Drivers at <b>Carl’s</b> <b>Jr</b>. Contractor MBM Corp.<b></b> Win Teamster Representation - International Brotherhood of Teamsters
+Link: https://www.nlrb.gov/case/28-CA-284443
+Snippet: National <b>Labor</b> <b>Relations</b> Board. Sign in with Login.gov. Most Popular Pages. Who We Are; National <b>Labor</b> <b>Relations</b> Act; Cases &amp; Decisions; Recent Charges &amp; Petitions Filings ... Contact Us; Frequently Asked Questions; <b>Carls</b> <b>Jr</b>. E-File Follow. Sign into MyNLRB to follow cases and receive updates. What is this? Case Number: 28-CA-284443 Date Filed ...
+Link: https://www.fastcompany.com/3066397/the-secretary-of-labor-brought-to-you-by-carls-jr-is-our-latest-idiocracy-moment
+Snippet: When you’ve got a President-Elect who rates women on a 10-point scale, it’s hard to be shocked by a Secretary of <b>Labor</b> who defended <b>Carl’s</b> <b>Jr</b>. ads that feature scantily clad models fellating ...
+Link: https://www.carlsjr.com/carl-s-jr-launches-2024-founders-scholarship-application
+Snippet: In order to apply for the scholarship, students must live in one of the 16 states with <b>Carl&#39;s</b> <b>Jr</b>. locations, soon to include Florida, be less than 26 years old and be incoming freshmen at an accredited college or university. Applications are due by 3 p.m. PT on April 4, 2024. Follow <b>Carl&#39;s</b> <b>Jr</b>. on social media for brand news and special offers:
+Link: https://www.carlsjr.com/
+Snippet: <b>Carl&#39;s</b> <b>Jr</b>. is more than 1,100 restaurants strong, all across the U.S. Explore opportunities to join our network of franchisees and become a part of the <b>Carl&#39;s</b> <b>Jr</b>. family. Learn More.
+Remi: Results for 'Carl's Junior labor relations':
+Link: https://www.nlrb.gov/case/16-CA-191846
+Snippet: National <b>Labor</b> <b>Relations</b> Board. Sign out. View Your Dashboard. National <b>Labor</b> <b>Relations</b> Board. Sign in with Login.gov. Most Popular Pages. Who We Are; National <b>Labor</b> <b>Relations</b> Act; ... Charged Party / Respondent Employer <b>CARL&#39;S</b> <b>JR</b>. AUSTIN, TX 78748-1668 : Related Cases. Related Cases data is not available. Content in Other Languages. Español ...
+Link: https://www.restaurant365.com/blog/carls-jr-franchisee-cooks-up-a-plan-to-combat-increasing-minimum-wage/
+Snippet: One of Restaurant365’s <b>Carl’s</b> <b>Jr</b>. franchisors shared concern over the newest law to be passed in California that that will require QSR brands to adjust their minimum wage to $20/hour starting in April of 2024. With approximately 70% of <b>Carl’s</b> <b>Jr</b>. locations being in California, they are looking for innovative ways to overcome this new ...
+Link: https://hbsp.harvard.edu/product/W20030-PDF-ENG
+Snippet: In April 2019, <b>Carl&#39;s</b> <b>Jr</b>. Restaurants LLC (<b>Carl&#39;s</b> <b>Jr</b>.), an American fast-food restaurant chain, faced an important decision. The company was up against strong competition from both traditional players in the fast-food market and newer competitors in the fast-casual dining market. In 2017, <b>Carl&#39;s</b> <b>Jr</b>. had stopped using the provocative ads it had become known for, and in 2018, the company ended a ...
+Link: https://www.law360.com/articles/987997/carl-s-jr-loses-nlrb-case-after-failing-to-respond
+Snippet: In the first National <b>Labor</b> <b>Relations</b> Board decision to include both its newest members Bill Emanuel and Marvin Kaplan, the agency on Tuesday ruled against a <b>Carl&#39;s</b> <b>Jr</b>. facility in Los Angeles ...
+Link: https://news.bloomberglaw.com/daily-labor-report/carls-jr-ceo-to-step-down-following-failed-labor-secretary-bid
+Snippet: CKE Restaurants Holdings Inc. Chief Executive Officer Andy Puzder, who made an unsuccessful bid to become U.S. <b>labor</b> secretary earlier this year, said he will step down as leader of the fast-food chain. Puzder will hand the reins next month to Jason Marker, who most recently ran Kentucky Fried Chicken in the U.S. for Yum!
+Link: https://teamster.org/2014/08/drivers-carls-jr-contractor-mbm-corp-win-teamster-representation/
+Snippet: – The National <b>Labor</b> <b>Relations</b> Board recently announced the certification of Teamsters Local 63 as the bargaining representative for 72 drivers at MBM Corporation in Ontario, Calif. Drivers at <b>Carl’s</b> <b>Jr</b>. Contractor MBM Corp.<b></b> Win Teamster Representation - International Brotherhood of Teamsters
+Link: https://www.nlrb.gov/case/28-CA-284443
+Snippet: National <b>Labor</b> <b>Relations</b> Board. Sign in with Login.gov. Most Popular Pages. Who We Are; National <b>Labor</b> <b>Relations</b> Act; Cases &amp; Decisions; Recent Charges &amp; Petitions Filings ... Contact Us; Frequently Asked Questions; <b>Carls</b> <b>Jr</b>. E-File Follow. Sign into MyNLRB to follow cases and receive updates. What is this? Case Number: 28-CA-284443 Date Filed ...
+Link: https://www.fastcompany.com/3066397/the-secretary-of-labor-brought-to-you-by-carls-jr-is-our-latest-idiocracy-moment
+Snippet: When you’ve got a President-Elect who rates women on a 10-point scale, it’s hard to be shocked by a Secretary of <b>Labor</b> who defended <b>Carl’s</b> <b>Jr</b>. ads that feature scantily clad models fellating ...
+Link: https://www.carlsjr.com/carl-s-jr-launches-2024-founders-scholarship-application
+Snippet: In order to apply for the scholarship, students must live in one of the 16 states with <b>Carl&#39;s</b> <b>Jr</b>. locations, soon to include Florida, be less than 26 years old and be incoming freshmen at an accredited college or university. Applications are due by 3 p.m. PT on April 4, 2024. Follow <b>Carl&#39;s</b> <b>Jr</b>. on social media for brand news and special offers:
+Link: https://www.carlsjr.com/
+Snippet: <b>Carl&#39;s</b> <b>Jr</b>. is more than 1,100 restaurants strong, all across the U.S. Explore opportunities to join our network of franchisees and become a part of the <b>Carl&#39;s</b> <b>Jr</b>. family. Learn More.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior lawsuits':
+Link: https://ochoavckesettlement.com/
+Snippet: You are eligible to receive money from an employee <b>lawsuit</b> (“<b>Lawsuit</b>”) against CKE Restaurants Holdings, Inc., <b>Carl’s</b> <b>Jr</b>. Restaurants, LLC, <b>Carl’s</b> <b>Jr</b>. Funding, LLC (“CKE”). The <b>Lawsuit</b> was filed by former employees Salvador Ochoa and Hermelinda Aguilar (“Plaintiffs”) and seeks payment of (1) back wages, meal and rest period ...
+Link: https://www.latimes.com/local/lanow/la-me-ln-puzder-lawsuit-20170208-story.html
+Snippet: One current and one former <b>Carl’s</b> <b>Jr</b>. employee filed a class-action <b>lawsuit</b> in Los Angeles Wednesday, alleging that <b>Carl</b> Karcher Enterprises LLC and its franchisees colluded to suppress wages by ...
+Link: https://www.classaction.org/news/lawsuit-claims-hardees-carls-jr-assistant-managers-owed-unpaid-overtime-wages
+Snippet: A proposed collective action out of Colorado claims assistant managers at over 300 Hardee’s and <b>Carl’s</b> <b>Jr</b>. restaurants have been misclassified as non-exempt from receiving overtime wages. According to the 19-page <b>lawsuit</b>, defendants Capstone Restaurant Group, LLC and Summit Restaurant Holdings, LLC, operate approximately 300 franchised ...
+Link: https://socalrecord.com/stories/657187487-carl-s-jr-accused-of-improperly-allowing-drive-thru-tech-vendor-to-record-drive-thru-customers-ordering-food
+Snippet: The <b>lawsuit</b> seeks to expand the action to include potentially millions of people who ordered at <b>Carl&#39;s</b> <b>Jr</b>. restaurant drive-thrus in California. The plaintiffs are seeking statutory damages of $5,000 per alleged violation of the CIPA law, multiplied across potentially millions of alleged violations.
+Link: https://cookcountyrecord.com/stories/510638943-where-s-the-restaurant-lawsuit-alleges-leaders-of-hardee-s-carl-s-jr-franchise-operation-ran-real-estate-scheme
+Snippet: The grandsons of <b>Carl’s</b> <b>Jr</b>. founder <b>Carl</b> Karcher are facing a <b>lawsuit</b> saying they swindled companies in a real estate scheme that involved promising to open restaurants that never materialized. On Sept. 16, investors with the corporate entities known as KMK Group, LLC and Nine Crown, LLC filed suit in federal court in Chicago, suing brothers Jason and <b>Carl</b> LeVecke and two companies in which ...
+Link: https://www.pacermonitor.com/public/case/10193337/Carls_Jr_Restaurants_LLC_v_6Points_Food_Services_Ltd_et_al
+Snippet: Tuesday, January 19, 2016: 17 17 2 pgs order Minutes of In Chambers Order/Directive - no proceeding held Wed 01/20 8:39 AM MINUTE ORDER IN CHAMBERS re: Plaintiff <b>Carl&#39;s</b> <b>Jr</b>. Restaurants LLC&#39;s Response to Order to Show Cause [Dkt. 15] by Judge George H. King: In light of the Response&#39;s assertions, it is now clear that Plaintiff is a citizen of Delaware and California, and that all Defendants are ...
+Link: https://lawstreetmedia.com/news/agriculture/owner-of-hardees-and-carls-jr-adds-its-claims-to-chicken-antitrust-consolidated-suit/
+Snippet: The locations on the West Coast are known as <b>Carl’s</b> <b>Jr</b>. while locations on the East Coast are known as Hardee’s. ... The defendants named in the <b>lawsuit</b> include those in the consolidated ...
+Link: https://www.mashed.com/635809/the-reason-hardees-and-carls-jr-filed-a-lawsuit-against-jack-in-the-box/
+Snippet: To fully understand the <b>lawsuit</b>, it&#39;s important to know two things. One, Hardee&#39;s and <b>Carl&#39;s</b> <b>Jr</b>. serve burgers made from Angus beef that comes from a specific breed of cattle. Two, at the time, Jack in the Box was selling a sirloin burger, which is a cut of meat. In a commercial, Jack in the Box implied that &quot;Angus&quot; meat came from the cow&#39;s ...
+Link: https://topclassactions.com/lawsuit-settlements/lawsuit-news/los-angeles-demands-carls-jr-pay-for-alleged-minimum-wage-violations/
+Snippet: The city alleged that <b>Carl’s</b> <b>Jr</b>. failed to pay employees the state’s minimum wage rate of $10.50 per hour between July 1 and Dec. 31, 2016. The investigation revealed employees worked at seven out of the 13 <b>Carl’s</b> <b>Jr</b>. chain locations in Los Angeles and were paid $10 or $10.25 per hour instead of the standard of $10.50.
+Link: https://www.yourlawyer.com/lawsuits/carls-jr-settles-race-claim/
+Snippet: <b>Carl’s</b> <b>Jr</b>. Settle Race Claim. The parent company of <b>Carl’s</b> <b>Jr</b>. burger chain has agreed to pay $255,000 to settle claims that a shift manager at an Elk Grove restaurant told co-workers that he had “white pride,” used racial epithets and flashed white power signs while on the job, the U.S. Equal Employment Opportunity Commission announced Wednesday.
+Remi: Results for 'Carl's Junior lawsuits':
+Link: https://ochoavckesettlement.com/
+Snippet: You are eligible to receive money from an employee <b>lawsuit</b> (“<b>Lawsuit</b>”) against CKE Restaurants Holdings, Inc., <b>Carl’s</b> <b>Jr</b>. Restaurants, LLC, <b>Carl’s</b> <b>Jr</b>. Funding, LLC (“CKE”). The <b>Lawsuit</b> was filed by former employees Salvador Ochoa and Hermelinda Aguilar (“Plaintiffs”) and seeks payment of (1) back wages, meal and rest period ...
+Link: https://www.latimes.com/local/lanow/la-me-ln-puzder-lawsuit-20170208-story.html
+Snippet: One current and one former <b>Carl’s</b> <b>Jr</b>. employee filed a class-action <b>lawsuit</b> in Los Angeles Wednesday, alleging that <b>Carl</b> Karcher Enterprises LLC and its franchisees colluded to suppress wages by ...
+Link: https://www.classaction.org/news/lawsuit-claims-hardees-carls-jr-assistant-managers-owed-unpaid-overtime-wages
+Snippet: A proposed collective action out of Colorado claims assistant managers at over 300 Hardee’s and <b>Carl’s</b> <b>Jr</b>. restaurants have been misclassified as non-exempt from receiving overtime wages. According to the 19-page <b>lawsuit</b>, defendants Capstone Restaurant Group, LLC and Summit Restaurant Holdings, LLC, operate approximately 300 franchised ...
+Link: https://socalrecord.com/stories/657187487-carl-s-jr-accused-of-improperly-allowing-drive-thru-tech-vendor-to-record-drive-thru-customers-ordering-food
+Snippet: The <b>lawsuit</b> seeks to expand the action to include potentially millions of people who ordered at <b>Carl&#39;s</b> <b>Jr</b>. restaurant drive-thrus in California. The plaintiffs are seeking statutory damages of $5,000 per alleged violation of the CIPA law, multiplied across potentially millions of alleged violations.
+Link: https://cookcountyrecord.com/stories/510638943-where-s-the-restaurant-lawsuit-alleges-leaders-of-hardee-s-carl-s-jr-franchise-operation-ran-real-estate-scheme
+Snippet: The grandsons of <b>Carl’s</b> <b>Jr</b>. founder <b>Carl</b> Karcher are facing a <b>lawsuit</b> saying they swindled companies in a real estate scheme that involved promising to open restaurants that never materialized. On Sept. 16, investors with the corporate entities known as KMK Group, LLC and Nine Crown, LLC filed suit in federal court in Chicago, suing brothers Jason and <b>Carl</b> LeVecke and two companies in which ...
+Link: https://www.pacermonitor.com/public/case/10193337/Carls_Jr_Restaurants_LLC_v_6Points_Food_Services_Ltd_et_al
+Snippet: Tuesday, January 19, 2016: 17 17 2 pgs order Minutes of In Chambers Order/Directive - no proceeding held Wed 01/20 8:39 AM MINUTE ORDER IN CHAMBERS re: Plaintiff <b>Carl&#39;s</b> <b>Jr</b>. Restaurants LLC&#39;s Response to Order to Show Cause [Dkt. 15] by Judge George H. King: In light of the Response&#39;s assertions, it is now clear that Plaintiff is a citizen of Delaware and California, and that all Defendants are ...
+Link: https://lawstreetmedia.com/news/agriculture/owner-of-hardees-and-carls-jr-adds-its-claims-to-chicken-antitrust-consolidated-suit/
+Snippet: The locations on the West Coast are known as <b>Carl’s</b> <b>Jr</b>. while locations on the East Coast are known as Hardee’s. ... The defendants named in the <b>lawsuit</b> include those in the consolidated ...
+Link: https://www.mashed.com/635809/the-reason-hardees-and-carls-jr-filed-a-lawsuit-against-jack-in-the-box/
+Snippet: To fully understand the <b>lawsuit</b>, it&#39;s important to know two things. One, Hardee&#39;s and <b>Carl&#39;s</b> <b>Jr</b>. serve burgers made from Angus beef that comes from a specific breed of cattle. Two, at the time, Jack in the Box was selling a sirloin burger, which is a cut of meat. In a commercial, Jack in the Box implied that &quot;Angus&quot; meat came from the cow&#39;s ...
+Link: https://topclassactions.com/lawsuit-settlements/lawsuit-news/los-angeles-demands-carls-jr-pay-for-alleged-minimum-wage-violations/
+Snippet: The city alleged that <b>Carl’s</b> <b>Jr</b>. failed to pay employees the state’s minimum wage rate of $10.50 per hour between July 1 and Dec. 31, 2016. The investigation revealed employees worked at seven out of the 13 <b>Carl’s</b> <b>Jr</b>. chain locations in Los Angeles and were paid $10 or $10.25 per hour instead of the standard of $10.50.
+Link: https://www.yourlawyer.com/lawsuits/carls-jr-settles-race-claim/
+Snippet: <b>Carl’s</b> <b>Jr</b>. Settle Race Claim. The parent company of <b>Carl’s</b> <b>Jr</b>. burger chain has agreed to pay $255,000 to settle claims that a shift manager at an Elk Grove restaurant told co-workers that he had “white pride,” used racial epithets and flashed white power signs while on the job, the U.S. Equal Employment Opportunity Commission announced Wednesday.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior employment practices':
+Link: https://www.indeed.com/cmp/Carl%27s-Jr.
+Snippet: Find out what works well at <b>Carl</b>&#39;s <b>Jr</b>. from the people who know best. Get the inside scoop on jobs, salaries, top office locations, and CEO insights. Compare pay for popular roles and read about the team’s work-life balance. Uncover why <b>Carl</b>&#39;s <b>Jr</b>. is the best company for you.
+Link: https://www.carlsjr.com/join-our-team
+Snippet: FIND MY <b>CARL</b>&#39;S <b>JR</b> Gift Cards Join Our Team Franchising Menu Offers My Rewards ORDER NOW
+Link: https://www.glassdoor.com/Overview/Working-at-Carl-s-Jr-EI_IE328664.11,20.htm
+Snippet: See what employees say it&#39;s like to work at <b>Carl</b>&#39;s <b>Jr</b>. Salaries, reviews, and more - all posted by employees working at <b>Carl</b>&#39;s <b>Jr</b>.
+Link: https://www.workstream.us/j/f0dcdc1d/carls-jr?locale=en
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> Careers and Jobs Founded in 1941, <b>Carl</b>&#39;s <b>Jr</b>. has been a West Coast favorite for almost 80 years, known for our iconic charbroiled burgers. Today, we have more than 1,000 locations across the U.S. and serves 28 countries worldwide.
+Link: https://www.indeed.com/q-Carl's-Jr-jobs.html
+Snippet: 254 <b>Carl</b>&#39;s <b>Jr</b> jobs available on <b>Indeed.com</b>. Apply to Crew Member, Team Member, <b>Carl</b>&#39;s <b>Jr</b> On Abbott Road Is Hiring! Starting At $14/hour! and more!
+Link: https://www.carlsjr.com/contact-us
+Snippet: CONTACT US While our roots are in California, CKE is based in Franklin, Tennessee. Explore career opportunities, press inquiries, and our brand assets to learn more about who <b>Carl</b>&#39;s <b>Jr</b>. is.
+Link: https://www.glassdoor.com/Jobs/Carl-s-Jr-Jobs-E328664.htm
+Snippet: Search job openings at <b>Carl</b> S <b>Jr</b>. 2291 <b>Carl</b> S <b>Jr</b> jobs including salaries, ratings, and reviews, posted by <b>Carl</b> S <b>Jr</b> employees.
+Link: https://www.workstream.us/j/8e35be34/carls-jr?locale=en
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Careers and Jobs We are passionate about using our business to serve the communities we operate in, which starts with taking care of our team members so they can take care of our guests! We believe every member of our team is essential and we work hard to treat everyone with dignity, respect, and offer them skills to better themselves and their future.
+Link: https://www.workstream.us/j/87c09f41/carls-jr?locale=en
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> Careers and Jobs Founded in 1941, <b>Carl</b>&#39;s <b>Jr</b>. has been a West Coast favorite for almost 80 years, known for our iconic charbroiled burgers. Today, we have more than 1,000 locations across the U.S. and serves 28 countries worldwide.
+Link: https://www.indeed.com/cmp/Carl's-Jr./job-titles
+Snippet: Working at <b>Carl</b>&#39;s <b>Jr</b>. Select a job title to read reviews and discover what it’s like to work in that position.
+Remi: Results for 'Carl's Junior employment practices':
+Link: https://www.indeed.com/cmp/Carl%27s-Jr.
+Snippet: Find out what works well at <b>Carl</b>&#39;s <b>Jr</b>. from the people who know best. Get the inside scoop on jobs, salaries, top office locations, and CEO insights. Compare pay for popular roles and read about the team’s work-life balance. Uncover why <b>Carl</b>&#39;s <b>Jr</b>. is the best company for you.
+Link: https://www.carlsjr.com/join-our-team
+Snippet: FIND MY <b>CARL</b>&#39;S <b>JR</b> Gift Cards Join Our Team Franchising Menu Offers My Rewards ORDER NOW
+Link: https://www.glassdoor.com/Overview/Working-at-Carl-s-Jr-EI_IE328664.11,20.htm
+Snippet: See what employees say it&#39;s like to work at <b>Carl</b>&#39;s <b>Jr</b>. Salaries, reviews, and more - all posted by employees working at <b>Carl</b>&#39;s <b>Jr</b>.
+Link: https://www.workstream.us/j/f0dcdc1d/carls-jr?locale=en
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> Careers and Jobs Founded in 1941, <b>Carl</b>&#39;s <b>Jr</b>. has been a West Coast favorite for almost 80 years, known for our iconic charbroiled burgers. Today, we have more than 1,000 locations across the U.S. and serves 28 countries worldwide.
+Link: https://www.indeed.com/q-Carl's-Jr-jobs.html
+Snippet: 254 <b>Carl</b>&#39;s <b>Jr</b> jobs available on <b>Indeed.com</b>. Apply to Crew Member, Team Member, <b>Carl</b>&#39;s <b>Jr</b> On Abbott Road Is Hiring! Starting At $14/hour! and more!
+Link: https://www.carlsjr.com/contact-us
+Snippet: CONTACT US While our roots are in California, CKE is based in Franklin, Tennessee. Explore career opportunities, press inquiries, and our brand assets to learn more about who <b>Carl</b>&#39;s <b>Jr</b>. is.
+Link: https://www.glassdoor.com/Jobs/Carl-s-Jr-Jobs-E328664.htm
+Snippet: Search job openings at <b>Carl</b> S <b>Jr</b>. 2291 <b>Carl</b> S <b>Jr</b> jobs including salaries, ratings, and reviews, posted by <b>Carl</b> S <b>Jr</b> employees.
+Link: https://www.workstream.us/j/8e35be34/carls-jr?locale=en
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Careers and Jobs We are passionate about using our business to serve the communities we operate in, which starts with taking care of our team members so they can take care of our guests! We believe every member of our team is essential and we work hard to treat everyone with dignity, respect, and offer them skills to better themselves and their future.
+Link: https://www.workstream.us/j/87c09f41/carls-jr?locale=en
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> Careers and Jobs Founded in 1941, <b>Carl</b>&#39;s <b>Jr</b>. has been a West Coast favorite for almost 80 years, known for our iconic charbroiled burgers. Today, we have more than 1,000 locations across the U.S. and serves 28 countries worldwide.
+Link: https://www.indeed.com/cmp/Carl's-Jr./job-titles
+Snippet: Working at <b>Carl</b>&#39;s <b>Jr</b>. Select a job title to read reviews and discover what it’s like to work in that position.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior wage practices':
+Link: https://www.restaurant365.com/blog/carls-jr-franchisee-cooks-up-a-plan-to-combat-increasing-minimum-wage/
+Snippet: One of Restaurant365’s <b>Carl’s</b> <b>Jr</b>. franchisors shared concern over the newest law to be passed in California that that will require QSR brands to adjust their minimum <b>wage</b> to $20/hour starting in April of 2024. With approximately 70% of <b>Carl’s</b> <b>Jr</b>. locations being in California, they are looking for innovative ways to overcome this new ...
+Link: https://www.glassdoor.com/Salary/Carl-s-Jr-Salaries-E328664.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> <b>pay</b> FAQs. How much does <b>Carl</b>&#39;s <b>Jr</b> <b>pay</b>? The average <b>Carl</b>&#39;s <b>Jr</b> <b>salary</b> ranges from approximately $26,691 per year (estimate) for . The average <b>Carl</b>&#39;s <b>Jr</b> hourly <b>pay</b> ranges from approximately $12 per hour (estimate) for . <b>Carl</b>&#39;s <b>Jr</b> employees rate the overall compensation and benefits package 2.8/5 stars.
+Link: https://www.payscale.com/research/US/Employer=Carl%27s_Jr./Hourly_Rate
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. pays its employees an average of $13.44 an hour. Hourly <b>pay</b> at <b>Carl</b>&#39;s <b>Jr</b>. ranges from an average of $9.69 to $19.81 an hour. <b>Carl</b>&#39;s <b>Jr</b>. employees with the job title Crew Leader make the ...
+Link: https://www.glassdoor.com/Hourly-Pay/Carl-s-Jr-Hourly-Pay-E328664.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> <b>pay</b> FAQs. How much does <b>Carl</b>&#39;s <b>Jr</b> <b>pay</b>? The average <b>Carl</b>&#39;s <b>Jr</b> <b>salary</b> ranges from approximately $26,691 per year (estimate) for . The average <b>Carl</b>&#39;s <b>Jr</b> hourly <b>pay</b> ranges from approximately $12 per hour (estimate) for . <b>Carl</b>&#39;s <b>Jr</b> employees rate the overall compensation and benefits package 2.9/5 stars.
+Link: https://www.glassdoor.com/Hourly-Pay/Carl-s-Jr-Hourly-Pay-EI_IE328664.0,9_IM508.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> Hourly <b>Pay</b>. 62 salaries (for 31 job titles) Updated 5/4/2023. How much do <b>Carl</b>&#39;s <b>Jr</b> employees make? Glassdoor provides our best prediction for total <b>pay</b> in today&#39;s job market, along with other types of <b>pay</b> like cash bonuses, stock bonuses, profit sharing, sales commissions, and tips. Our model gets smarter over time as more people ...
+Link: https://www.franchisechatter.com/2017/01/31/fdd-talk-the-carls-jr-franchise-opportunity-financial-performance-analysis-estimated-costs-and-other-important-stuff-you-need-to-know/
+Snippet: The company changed hands again on November 20, 2013, when Roark Capital Group agreed to acquire CKE from Apollo for $1.65–$1.75 billion. As of March 2016, CKE (the parent company of <b>Carl’s</b> <b>Jr</b>. and Hardee’s) has a total of 3,664 franchised and company-operated restaurants in 44 states and 38 countries and U.S. territories.
+Link: https://klinedinstlaw.com/employment-law/carls-jr-minimum-wage-violation
+Snippet: Through its Office of <b>Wage</b> Standards (“OWS”), the City of Los Angeles has taken an aggressive enforcement stance on its minimum <b>wage</b> requirements. The OWS investigated complaints made by employees of <b>Carl’s</b> <b>Jr</b>., and has alleged that since July 1, 2016, <b>Carl’s</b> <b>Jr</b>. paid 37 of its employees less than the $10.50 per hour required.
+Link: https://www.indeed.com/cmp/Carl's-Jr./salaries?location=US%2FCA
+Snippet: Salaries. California. Average <b>Carl</b>&#39;s <b>Jr</b>. hourly <b>pay</b> ranges from approximately $15.50 per hour for Customer Service Associate / Cashier to $31.67 per hour for Customer Service Representative. The average <b>Carl</b>&#39;s <b>Jr</b>. <b>salary</b> ranges from approximately $17,000 per year for Food Service Worker to $92,197 per year for District Manager.
+Link: https://www.indeed.com/cmp/Carl's-Jr./salaries?location=US%2FAZ
+Snippet: 3.6. 3.7K reviews. 15K salaries. 2.1K job openings. <b>Carl</b>&#39;s <b>Jr</b>. Salaries. Arizona. Average <b>Carl</b>&#39;s <b>Jr</b>. hourly <b>pay</b> ranges from approximately $13.42 per hour for Cashier to $16.51 per hour for Shift Leader. The average <b>Carl</b>&#39;s <b>Jr</b>. <b>salary</b> ranges from approximately $43,928 per year for Restaurant Manager to $47,376 per year for General Manager.
+Link: https://www.comparably.com/companies/carls/salaries
+Snippet: The average estimated annual <b>salary</b>, including base and bonus, at <b>Carl</b>&#39;s <b>Jr</b> is $144,350, or $69 per hour, while the estimated median <b>salary</b> is $122,578, or $58 per hour. At <b>Carl</b>&#39;s <b>Jr</b>, the highest paid job is a General Counsel at $279,211 annually and the lowest is an Admin Assistant at $46,018 annually. Average <b>Carl</b>&#39;s <b>Jr</b> salaries by department ...
+Remi: Results for 'Carl's Junior wage practices':
+Link: https://www.restaurant365.com/blog/carls-jr-franchisee-cooks-up-a-plan-to-combat-increasing-minimum-wage/
+Snippet: One of Restaurant365’s <b>Carl’s</b> <b>Jr</b>. franchisors shared concern over the newest law to be passed in California that that will require QSR brands to adjust their minimum <b>wage</b> to $20/hour starting in April of 2024. With approximately 70% of <b>Carl’s</b> <b>Jr</b>. locations being in California, they are looking for innovative ways to overcome this new ...
+Link: https://www.glassdoor.com/Salary/Carl-s-Jr-Salaries-E328664.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> <b>pay</b> FAQs. How much does <b>Carl</b>&#39;s <b>Jr</b> <b>pay</b>? The average <b>Carl</b>&#39;s <b>Jr</b> <b>salary</b> ranges from approximately $26,691 per year (estimate) for . The average <b>Carl</b>&#39;s <b>Jr</b> hourly <b>pay</b> ranges from approximately $12 per hour (estimate) for . <b>Carl</b>&#39;s <b>Jr</b> employees rate the overall compensation and benefits package 2.8/5 stars.
+Link: https://www.payscale.com/research/US/Employer=Carl%27s_Jr./Hourly_Rate
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. pays its employees an average of $13.44 an hour. Hourly <b>pay</b> at <b>Carl</b>&#39;s <b>Jr</b>. ranges from an average of $9.69 to $19.81 an hour. <b>Carl</b>&#39;s <b>Jr</b>. employees with the job title Crew Leader make the ...
+Link: https://www.glassdoor.com/Hourly-Pay/Carl-s-Jr-Hourly-Pay-E328664.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> <b>pay</b> FAQs. How much does <b>Carl</b>&#39;s <b>Jr</b> <b>pay</b>? The average <b>Carl</b>&#39;s <b>Jr</b> <b>salary</b> ranges from approximately $26,691 per year (estimate) for . The average <b>Carl</b>&#39;s <b>Jr</b> hourly <b>pay</b> ranges from approximately $12 per hour (estimate) for . <b>Carl</b>&#39;s <b>Jr</b> employees rate the overall compensation and benefits package 2.9/5 stars.
+Link: https://www.glassdoor.com/Hourly-Pay/Carl-s-Jr-Hourly-Pay-EI_IE328664.0,9_IM508.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> Hourly <b>Pay</b>. 62 salaries (for 31 job titles) Updated 5/4/2023. How much do <b>Carl</b>&#39;s <b>Jr</b> employees make? Glassdoor provides our best prediction for total <b>pay</b> in today&#39;s job market, along with other types of <b>pay</b> like cash bonuses, stock bonuses, profit sharing, sales commissions, and tips. Our model gets smarter over time as more people ...
+Link: https://www.franchisechatter.com/2017/01/31/fdd-talk-the-carls-jr-franchise-opportunity-financial-performance-analysis-estimated-costs-and-other-important-stuff-you-need-to-know/
+Snippet: The company changed hands again on November 20, 2013, when Roark Capital Group agreed to acquire CKE from Apollo for $1.65–$1.75 billion. As of March 2016, CKE (the parent company of <b>Carl’s</b> <b>Jr</b>. and Hardee’s) has a total of 3,664 franchised and company-operated restaurants in 44 states and 38 countries and U.S. territories.
+Link: https://klinedinstlaw.com/employment-law/carls-jr-minimum-wage-violation
+Snippet: Through its Office of <b>Wage</b> Standards (“OWS”), the City of Los Angeles has taken an aggressive enforcement stance on its minimum <b>wage</b> requirements. The OWS investigated complaints made by employees of <b>Carl’s</b> <b>Jr</b>., and has alleged that since July 1, 2016, <b>Carl’s</b> <b>Jr</b>. paid 37 of its employees less than the $10.50 per hour required.
+Link: https://www.indeed.com/cmp/Carl's-Jr./salaries?location=US%2FCA
+Snippet: Salaries. California. Average <b>Carl</b>&#39;s <b>Jr</b>. hourly <b>pay</b> ranges from approximately $15.50 per hour for Customer Service Associate / Cashier to $31.67 per hour for Customer Service Representative. The average <b>Carl</b>&#39;s <b>Jr</b>. <b>salary</b> ranges from approximately $17,000 per year for Food Service Worker to $92,197 per year for District Manager.
+Link: https://www.indeed.com/cmp/Carl's-Jr./salaries?location=US%2FAZ
+Snippet: 3.6. 3.7K reviews. 15K salaries. 2.1K job openings. <b>Carl</b>&#39;s <b>Jr</b>. Salaries. Arizona. Average <b>Carl</b>&#39;s <b>Jr</b>. hourly <b>pay</b> ranges from approximately $13.42 per hour for Cashier to $16.51 per hour for Shift Leader. The average <b>Carl</b>&#39;s <b>Jr</b>. <b>salary</b> ranges from approximately $43,928 per year for Restaurant Manager to $47,376 per year for General Manager.
+Link: https://www.comparably.com/companies/carls/salaries
+Snippet: The average estimated annual <b>salary</b>, including base and bonus, at <b>Carl</b>&#39;s <b>Jr</b> is $144,350, or $69 per hour, while the estimated median <b>salary</b> is $122,578, or $58 per hour. At <b>Carl</b>&#39;s <b>Jr</b>, the highest paid job is a General Counsel at $279,211 annually and the lowest is an Admin Assistant at $46,018 annually. Average <b>Carl</b>&#39;s <b>Jr</b> salaries by department ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior worker's compensation':
+Link: https://www.glassdoor.com/Salary/Carl-s-Jr-Salaries-E328664.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> pay FAQs. How much does <b>Carl</b>&#39;s <b>Jr</b> pay? The average <b>Carl</b>&#39;s <b>Jr</b> salary ranges from approximately $26,691 per year (estimate) for . The average <b>Carl</b>&#39;s <b>Jr</b> hourly pay ranges from approximately $12 per hour (estimate) for . <b>Carl</b>&#39;s <b>Jr</b> employees rate the overall <b>compensation</b> and benefits package 2.8/5 stars.
+Link: https://www.workerscomp-attorney.com/company/carls-jr
+Snippet: <b>Workers</b>’ <b>comp</b> claims are very detailed and complicated, so you should consult a <b>workers</b>’ <b>compensation</b> attorney before filing a <b>workers</b>’ <b>comp</b> claim against <b>Carl’s</b> <b>Jr</b>. Company Profile: <b>Carl’s</b> <b>Jr</b>. CKE Restaurant Holdings, Inc. has restaurants located throughout the Midwestern and Southern U.S. using the name Hardee’s and <b>Carl’s</b> <b>Jr</b> ...
+Link: https://www.job-applications.com/carls-jr-crew-member/
+Snippet: Additionally, <b>Carl’s</b> <b>Jr</b>. offers employee benefits like paid time off, education reimbursement, paid training, and meal discounts to qualified entry-level <b>workers</b>. Crew members often advance to managerial roles at <b>Carl’s</b> <b>Jr</b>. and enjoy the lucrative salary options and generous employment benefits that accompany such positions.
+Link: https://www.sullivanoncomp.com/blog/sure-log-request-medical-evaluation
+Snippet: Certi-Fresh Foods, Inc., 2018 Cal. Wrk. <b>Comp</b>. P.D. LEXIS 58, the WCAB upheld a WCJ&#39;s decision that an applicant&#39;s request for a chiropractic panel pursuant to § 4060 was premature and invalid because a delay letter did not qualify as a &quot;mailing of a request for a medical evaluation pursuant to Section 4060.&quot;
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews
+Snippet: 3,653 reviews from <b>Carl</b>&#39;s <b>Jr</b>. employees about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, benefits, work-life balance, management, ... except the lazy <b>worker</b>&#39;s. The managers and shift leads always counted on me but barely got any help and was doing a two persons job. ... 2.8 out of 5 stars for <b>Compensation</b>/Benefits. 3.1. Job Security/Advancement. 3.1 out of ...
+Link: https://www.payscale.com/research/US/Employer=Carl%27s_Jr./Salary
+Snippet: The average salary for <b>Carl</b>&#39;s <b>Jr.</b> employees is $46,379 in 2024. Visit <b>PayScale</b> to research <b>Carl</b>&#39;s <b>Jr</b>. salaries, bonuses, reviews, benefits, and more!
+Link: https://www.indeed.com/cmp/Carl%27s-Jr.
+Snippet: Find out what works well at <b>Carl</b>&#39;s <b>Jr</b>. from the people who know best. Get the inside scoop on jobs, salaries, top office locations, and CEO insights. Compare pay for popular roles and read about the team’s work-life balance. Uncover why <b>Carl</b>&#39;s <b>Jr</b>. is the best company for you.
+Link: https://www.carlsjr.com/careers
+Snippet: OUR WINNING COMBO. <b>Carl</b>&#39;s <b>Jr</b>. is a place where you can hit the ground running in an environment that encourages personal growth and promotes all who strive to advance. It’s our WINNING COMBO. No matter where you start, the sky’s the limit. Here you can put your potential to work with allies who support your vision for success.
+Link: https://www.glassdoor.com/Reviews/Carl-s-Jr-worker-Reviews-EI_IE328664.0,9_KH10,16.htm
+Snippet: 71 <b>Carl</b>&#39;s <b>Jr</b> reviews. A free inside look at company reviews and salaries posted anonymously by employees.
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews?ftopic=paybenefits
+Snippet: Work can be pretty taxing when it’s slow and you need to find things to do. A lot of cleaning and detailing involved. Pay is good but ever since the 20$ an hour raise hours are being cut drastically. Good place to work for a good start. Management is awesome and great to work with. They do care a lot about their employees.
+Remi: Results for 'Carl's Junior worker's compensation':
+Link: https://www.glassdoor.com/Salary/Carl-s-Jr-Salaries-E328664.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> pay FAQs. How much does <b>Carl</b>&#39;s <b>Jr</b> pay? The average <b>Carl</b>&#39;s <b>Jr</b> salary ranges from approximately $26,691 per year (estimate) for . The average <b>Carl</b>&#39;s <b>Jr</b> hourly pay ranges from approximately $12 per hour (estimate) for . <b>Carl</b>&#39;s <b>Jr</b> employees rate the overall <b>compensation</b> and benefits package 2.8/5 stars.
+Link: https://www.workerscomp-attorney.com/company/carls-jr
+Snippet: <b>Workers</b>’ <b>comp</b> claims are very detailed and complicated, so you should consult a <b>workers</b>’ <b>compensation</b> attorney before filing a <b>workers</b>’ <b>comp</b> claim against <b>Carl’s</b> <b>Jr</b>. Company Profile: <b>Carl’s</b> <b>Jr</b>. CKE Restaurant Holdings, Inc. has restaurants located throughout the Midwestern and Southern U.S. using the name Hardee’s and <b>Carl’s</b> <b>Jr</b> ...
+Link: https://www.job-applications.com/carls-jr-crew-member/
+Snippet: Additionally, <b>Carl’s</b> <b>Jr</b>. offers employee benefits like paid time off, education reimbursement, paid training, and meal discounts to qualified entry-level <b>workers</b>. Crew members often advance to managerial roles at <b>Carl’s</b> <b>Jr</b>. and enjoy the lucrative salary options and generous employment benefits that accompany such positions.
+Link: https://www.sullivanoncomp.com/blog/sure-log-request-medical-evaluation
+Snippet: Certi-Fresh Foods, Inc., 2018 Cal. Wrk. <b>Comp</b>. P.D. LEXIS 58, the WCAB upheld a WCJ&#39;s decision that an applicant&#39;s request for a chiropractic panel pursuant to § 4060 was premature and invalid because a delay letter did not qualify as a &quot;mailing of a request for a medical evaluation pursuant to Section 4060.&quot;
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews
+Snippet: 3,653 reviews from <b>Carl</b>&#39;s <b>Jr</b>. employees about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, benefits, work-life balance, management, ... except the lazy <b>worker</b>&#39;s. The managers and shift leads always counted on me but barely got any help and was doing a two persons job. ... 2.8 out of 5 stars for <b>Compensation</b>/Benefits. 3.1. Job Security/Advancement. 3.1 out of ...
+Link: https://www.payscale.com/research/US/Employer=Carl%27s_Jr./Salary
+Snippet: The average salary for <b>Carl</b>&#39;s <b>Jr.</b> employees is $46,379 in 2024. Visit <b>PayScale</b> to research <b>Carl</b>&#39;s <b>Jr</b>. salaries, bonuses, reviews, benefits, and more!
+Link: https://www.indeed.com/cmp/Carl%27s-Jr.
+Snippet: Find out what works well at <b>Carl</b>&#39;s <b>Jr</b>. from the people who know best. Get the inside scoop on jobs, salaries, top office locations, and CEO insights. Compare pay for popular roles and read about the team’s work-life balance. Uncover why <b>Carl</b>&#39;s <b>Jr</b>. is the best company for you.
+Link: https://www.carlsjr.com/careers
+Snippet: OUR WINNING COMBO. <b>Carl</b>&#39;s <b>Jr</b>. is a place where you can hit the ground running in an environment that encourages personal growth and promotes all who strive to advance. It’s our WINNING COMBO. No matter where you start, the sky’s the limit. Here you can put your potential to work with allies who support your vision for success.
+Link: https://www.glassdoor.com/Reviews/Carl-s-Jr-worker-Reviews-EI_IE328664.0,9_KH10,16.htm
+Snippet: 71 <b>Carl</b>&#39;s <b>Jr</b> reviews. A free inside look at company reviews and salaries posted anonymously by employees.
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews?ftopic=paybenefits
+Snippet: Work can be pretty taxing when it’s slow and you need to find things to do. A lot of cleaning and detailing involved. Pay is good but ever since the 20$ an hour raise hours are being cut drastically. Good place to work for a good start. Management is awesome and great to work with. They do care a lot about their employees.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior employee benefits':
+Link: https://www.glassdoor.com/Benefits/Carl-s-Jr-US-Benefits-EI_IE328664.0,9_IL.10,12_IN1.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr benefits</b> and perks, including insurance <b>benefits</b>, retirement <b>benefits</b>, and vacation policy. Reported anonymously by <b>Carl</b>&#39;s <b>Jr</b> <b>employees</b>.
+Link: https://www.carlsjr.com/careers
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. is a place where you can hit the ground running in an environment that encourages personal growth and promotes all who strive to advance. It’s our WINNING COMBO. No matter where you start, the sky’s the limit. Here you can put your potential to work with allies who support your vision for success. Ready for your next step?
+Link: https://www.indeed.com/cmp/Carl%27s-Jr.
+Snippet: Find out what works well at <b>Carl</b>&#39;s <b>Jr</b>. from the people who know best. Get the inside scoop on jobs, salaries, top office locations, and CEO insights. Compare pay for popular roles and read about the team’s work-life balance. Uncover why <b>Carl</b>&#39;s <b>Jr</b>. is the best company for you.
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews?ftopic=paybenefits
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Pay &amp; <b>Benefits</b> reviews Review this company Job Title All Location United States 3,649 reviews Ratings by category Clear 3.3 Work-Life Balance 2.8 Pay &amp; <b>Benefits</b> 3.1 Job Security &amp; Advancement 3.2 Management 3.3 Culture Search reviews Search Sort by Helpfulness Rating Date Language Found 943 reviews matching the search See all 4,853 ...
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews
+Snippet: 3,653 reviews from <b>Carl</b>&#39;s <b>Jr</b>. <b>employees</b> about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, <b>benefits</b>, work-life balance, management, job security, and more.
+Link: https://www.carlsjr.com/join-our-team
+Snippet: FIND MY <b>CARL</b>&#39;S <b>JR</b> Gift Cards Join Our Team Franchising Menu Offers My Rewards ORDER NOW
+Link: https://www.glassdoor.com/Benefits/Carl-s-Jr-Employee-Discount-US-BNFT34_E328664_N1.htm
+Snippet: What <b>Employee</b> Discount <b>benefit</b> do <b>Carl</b>&#39;s <b>Jr</b> <b>employees</b> get? <b>Carl</b>&#39;s <b>Jr Employee</b> Discount, reported anonymously by <b>Carl</b>&#39;s <b>Jr</b> <b>employees</b>.
+Link: https://www.glassdoor.com/Benefits/Carl-s-Jr-Health-Insurance-US-BNFT1_E328664_N1.htm
+Snippet: What Health Insurance <b>benefit</b> do <b>Carl</b>&#39;s <b>Jr</b> <b>employees</b> get? <b>Carl</b>&#39;s <b>Jr</b> Health Insurance, reported anonymously by <b>Carl</b>&#39;s <b>Jr</b> <b>employees</b>.
+Link: https://www.payscale.com/research/US/Employer=Carl%27s_Jr./Benefits
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. <b>employee</b> <b>benefits</b> and perks data. Find information about retirement plans, insurance <b>benefits</b>, paid time off, reviews, and more.
+Link: https://www.job-applications.com/carls-jr-crew-member/
+Snippet: Other <b>Benefits</b> Additionally, <b>Carl’s</b> <b>Jr</b>. offers <b>employee</b> <b>benefits</b> like paid time off, education reimbursement, paid training, and meal discounts to qualified entry-level workers. Crew members often advance to managerial roles at <b>Carl’s</b> <b>Jr</b>. and enjoy the lucrative salary options and generous employment <b>benefits</b> that accompany such positions ...
+Remi: Results for 'Carl's Junior employee benefits':
+Link: https://www.glassdoor.com/Benefits/Carl-s-Jr-US-Benefits-EI_IE328664.0,9_IL.10,12_IN1.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr benefits</b> and perks, including insurance <b>benefits</b>, retirement <b>benefits</b>, and vacation policy. Reported anonymously by <b>Carl</b>&#39;s <b>Jr</b> <b>employees</b>.
+Link: https://www.carlsjr.com/careers
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. is a place where you can hit the ground running in an environment that encourages personal growth and promotes all who strive to advance. It’s our WINNING COMBO. No matter where you start, the sky’s the limit. Here you can put your potential to work with allies who support your vision for success. Ready for your next step?
+Link: https://www.indeed.com/cmp/Carl%27s-Jr.
+Snippet: Find out what works well at <b>Carl</b>&#39;s <b>Jr</b>. from the people who know best. Get the inside scoop on jobs, salaries, top office locations, and CEO insights. Compare pay for popular roles and read about the team’s work-life balance. Uncover why <b>Carl</b>&#39;s <b>Jr</b>. is the best company for you.
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews?ftopic=paybenefits
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Pay &amp; <b>Benefits</b> reviews Review this company Job Title All Location United States 3,649 reviews Ratings by category Clear 3.3 Work-Life Balance 2.8 Pay &amp; <b>Benefits</b> 3.1 Job Security &amp; Advancement 3.2 Management 3.3 Culture Search reviews Search Sort by Helpfulness Rating Date Language Found 943 reviews matching the search See all 4,853 ...
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews
+Snippet: 3,653 reviews from <b>Carl</b>&#39;s <b>Jr</b>. <b>employees</b> about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, <b>benefits</b>, work-life balance, management, job security, and more.
+Link: https://www.carlsjr.com/join-our-team
+Snippet: FIND MY <b>CARL</b>&#39;S <b>JR</b> Gift Cards Join Our Team Franchising Menu Offers My Rewards ORDER NOW
+Link: https://www.glassdoor.com/Benefits/Carl-s-Jr-Employee-Discount-US-BNFT34_E328664_N1.htm
+Snippet: What <b>Employee</b> Discount <b>benefit</b> do <b>Carl</b>&#39;s <b>Jr</b> <b>employees</b> get? <b>Carl</b>&#39;s <b>Jr Employee</b> Discount, reported anonymously by <b>Carl</b>&#39;s <b>Jr</b> <b>employees</b>.
+Link: https://www.glassdoor.com/Benefits/Carl-s-Jr-Health-Insurance-US-BNFT1_E328664_N1.htm
+Snippet: What Health Insurance <b>benefit</b> do <b>Carl</b>&#39;s <b>Jr</b> <b>employees</b> get? <b>Carl</b>&#39;s <b>Jr</b> Health Insurance, reported anonymously by <b>Carl</b>&#39;s <b>Jr</b> <b>employees</b>.
+Link: https://www.payscale.com/research/US/Employer=Carl%27s_Jr./Benefits
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. <b>employee</b> <b>benefits</b> and perks data. Find information about retirement plans, insurance <b>benefits</b>, paid time off, reviews, and more.
+Link: https://www.job-applications.com/carls-jr-crew-member/
+Snippet: Other <b>Benefits</b> Additionally, <b>Carl’s</b> <b>Jr</b>. offers <b>employee</b> <b>benefits</b> like paid time off, education reimbursement, paid training, and meal discounts to qualified entry-level workers. Crew members often advance to managerial roles at <b>Carl’s</b> <b>Jr</b>. and enjoy the lucrative salary options and generous employment <b>benefits</b> that accompany such positions ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior union relations':
+Link: https://www.carlsjr.com/contact-us
+Snippet: CORP OFFICE. CKE RESTAURANTS HOLDINGS, INC. 6700 Tower Circle, Suite 1000 Franklin, TN 37067
+Link: https://www.carlsjr.com/
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. is more than 1,100 restaurants strong, all across the U.S. Explore opportunities to join our network of franchisees and become a part of the <b>Carl</b>&#39;s <b>Jr</b>. family. Learn More.
+Link: https://www.prnewswire.com/news-releases/carls-jr-enters-master-franchise-agreement-in-the-russian-federation-to-activate-growth-301360751.html
+Snippet: With both a US and international footprint, <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC and Hardee&#39;s Restaurants LLC have over 3,900 franchised or company-operated restaurants in 44 states and 40 foreign countries ...
+Link: https://www.nlrb.gov/case/16-CA-191846
+Snippet: <b>Relations</b> Board. Menu. Regional Locations; FAQs; Contact Us; E-Filing Service Desk; MyNLRB; ... Charging Party <b>Union</b> SOUTHERN WORKERS ORGANIZING COMMITTEE: RALEIGH, NC 27601-1847 : Charged Party / Respondent Employer <b>CARL</b>&#39;S <b>JR</b>. AUSTIN, TX 78748-1668 : Related Cases. Related Cases data is not available. Content in Other Languages. Español ...
+Link: https://www.qsrweb.com/news/carls-jr-hardees-parent-company-announces-revamped-operating-structure/
+Snippet: CKE Restaurants Holdings, Inc., owner, operator and franchisor of <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s, has a new operating structure that combines restaurant operations and supply chain under John Dunion, a 25-year company veteran, as chief operating officer. The structure will drive focus on brand operations, accountability, ownership and execution across ...
+Link: https://www.ktvu.com/news/carls-jr-workers-in-san-jose-to-strike-over-hazardous-working-conditions
+Snippet: Published March 6, 2024 9:37am PST. San Jose. KTVU FOX 2. Cooks and cashiers at a <b>Carl</b>&#39;s <b>Jr</b>. in San Jose are planning to strike on Wednesday afternoon to protest what they view as ‘hazardous ...
+Link: https://www.restaurantbusinessonline.com/leadership/john-dunion-named-coo-carls-jr-hardees
+Snippet: By Jonathan Maze on Oct. 12, 2021. Photo courtesy of CKE Restaurants. CKE Restaurants, the parent company of <b>Carl’s</b> <b>Jr</b>. and Hardee’s, is combining its operations and supply chain management under new Chief Operating Officer John Dunion, the company announced on Tuesday. The new structure is designed to improve operations and execution ...
+Link: https://en.wikipedia.org/wiki/Carl%27s_Jr.
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC is an American fast-food restaurant chain owned by CKE Restaurant Holdings, Inc., who also owns Hardee&#39;s, with franchisees in North and South America, Asia, Oceania, Europe, and Africa.. In 2016, Entrepreneur listed <b>Carl</b>&#39;s <b>Jr</b>. as No. 54 on their Top Franchise 500 list, which ranks the overall financial strength, stability, and growth rate for the top 500 franchises ...
+Link: https://www.prnewswire.com/news-releases/cke-restaurants--franchise-community-investing-half-a-billion-dollars-in-revolutionary-restaurant--digital-transformations-301543606.html
+Snippet: Updates to <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s locations will meet needs of consumers, team members and franchisees alike. FRANKLIN, Tenn., May 10, 2022 /PRNewswire/ -- CKE Restaurants Holdings, Inc., parent ...
+Link: https://www.prnewswire.com/news-releases/carls-jr-continues-european-expansion-with-new-partnership-in-switzerland-301672838.html
+Snippet: With both a U.S. and International footprint, <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC and Hardee&#39;s Restaurants LLC have nearly 4,000 franchised or company-operated restaurants in 44 US states and more than 38 ...
+Remi: Results for 'Carl's Junior union relations':
+Link: https://www.carlsjr.com/contact-us
+Snippet: CORP OFFICE. CKE RESTAURANTS HOLDINGS, INC. 6700 Tower Circle, Suite 1000 Franklin, TN 37067
+Link: https://www.carlsjr.com/
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. is more than 1,100 restaurants strong, all across the U.S. Explore opportunities to join our network of franchisees and become a part of the <b>Carl</b>&#39;s <b>Jr</b>. family. Learn More.
+Link: https://www.prnewswire.com/news-releases/carls-jr-enters-master-franchise-agreement-in-the-russian-federation-to-activate-growth-301360751.html
+Snippet: With both a US and international footprint, <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC and Hardee&#39;s Restaurants LLC have over 3,900 franchised or company-operated restaurants in 44 states and 40 foreign countries ...
+Link: https://www.nlrb.gov/case/16-CA-191846
+Snippet: <b>Relations</b> Board. Menu. Regional Locations; FAQs; Contact Us; E-Filing Service Desk; MyNLRB; ... Charging Party <b>Union</b> SOUTHERN WORKERS ORGANIZING COMMITTEE: RALEIGH, NC 27601-1847 : Charged Party / Respondent Employer <b>CARL</b>&#39;S <b>JR</b>. AUSTIN, TX 78748-1668 : Related Cases. Related Cases data is not available. Content in Other Languages. Español ...
+Link: https://www.qsrweb.com/news/carls-jr-hardees-parent-company-announces-revamped-operating-structure/
+Snippet: CKE Restaurants Holdings, Inc., owner, operator and franchisor of <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s, has a new operating structure that combines restaurant operations and supply chain under John Dunion, a 25-year company veteran, as chief operating officer. The structure will drive focus on brand operations, accountability, ownership and execution across ...
+Link: https://www.ktvu.com/news/carls-jr-workers-in-san-jose-to-strike-over-hazardous-working-conditions
+Snippet: Published March 6, 2024 9:37am PST. San Jose. KTVU FOX 2. Cooks and cashiers at a <b>Carl</b>&#39;s <b>Jr</b>. in San Jose are planning to strike on Wednesday afternoon to protest what they view as ‘hazardous ...
+Link: https://www.restaurantbusinessonline.com/leadership/john-dunion-named-coo-carls-jr-hardees
+Snippet: By Jonathan Maze on Oct. 12, 2021. Photo courtesy of CKE Restaurants. CKE Restaurants, the parent company of <b>Carl’s</b> <b>Jr</b>. and Hardee’s, is combining its operations and supply chain management under new Chief Operating Officer John Dunion, the company announced on Tuesday. The new structure is designed to improve operations and execution ...
+Link: https://en.wikipedia.org/wiki/Carl%27s_Jr.
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC is an American fast-food restaurant chain owned by CKE Restaurant Holdings, Inc., who also owns Hardee&#39;s, with franchisees in North and South America, Asia, Oceania, Europe, and Africa.. In 2016, Entrepreneur listed <b>Carl</b>&#39;s <b>Jr</b>. as No. 54 on their Top Franchise 500 list, which ranks the overall financial strength, stability, and growth rate for the top 500 franchises ...
+Link: https://www.prnewswire.com/news-releases/cke-restaurants--franchise-community-investing-half-a-billion-dollars-in-revolutionary-restaurant--digital-transformations-301543606.html
+Snippet: Updates to <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s locations will meet needs of consumers, team members and franchisees alike. FRANKLIN, Tenn., May 10, 2022 /PRNewswire/ -- CKE Restaurants Holdings, Inc., parent ...
+Link: https://www.prnewswire.com/news-releases/carls-jr-continues-european-expansion-with-new-partnership-in-switzerland-301672838.html
+Snippet: With both a U.S. and International footprint, <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC and Hardee&#39;s Restaurants LLC have nearly 4,000 franchised or company-operated restaurants in 44 US states and more than 38 ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior scandal news':
+Link: https://www.news.com.au/lifestyle/food/restaurants-bars/hope-to-serve-you-again-in-the-future-sad-sign-as-carls-jr-collapses/news-story/0869e61cade855882c8f205b6000e9d5
+Snippet: <b>Carl’s</b> <b>Jr</b> had bold plans to enter the Australian market, revealing it had planned to open 300 restaurants in Australia from 2016. The first store opened on the NSW Central Coast in Bateau Bay.
+Link: https://10play.com.au/theproject/articles/carls-jr-to-shut-aussie-stores-after-going-into-voluntary-administration/tpa240730yintf
+Snippet: Twenty-four stores across the country are affected, and hundreds of jobs were set to be lost. KPMG voluntary administrators have now assumed day-to-day control of CJ’s Group. In a statement, KPMG Australia said they would be focusing on “stabilising” the operations of the Group. “We will be conducting an immediate sale process of the ...
+Link: https://www.cbc.ca/news/canada/calgary/franchisee-violates-food-safety-regulations-1.4250469
+Snippet: A <b>Carl</b>&#39;s <b>Jr</b>. franchisee has been caught on video violating at least 10 food safety regulations. Jack Webb co-owns the fast food restaurant in Red Deer, Alta. CBC <b>News</b> has exclusively obtained the ...
+Link: https://www.latimes.com/archives/la-xpm-2005-may-24-fi-paris24-story.html
+Snippet: Critics Are Saying ‘That’s Too Hot’ of Sexy <b>Carl’s</b> <b>Jr</b>. Ad. By Meg James. May 24, 2005 12 AM PT. Times Staff Writer. As in a racy music video, a scantily clad Paris Hilton cavorts with a ...
+Link: https://www.theaustralian.com.au/business/retail/us-burger-chain-carls-jr-has-lurched-into-administration-in-australia/news-story/19dd8ead73afffca3fc473b01109b386
+Snippet: Picture: <b>News</b> Regional Media. The flamboyant US burger chain <b>Carl’s</b> <b>Jr</b> has placed its Australian stores into voluntary administration after its ambitious dreams to open as many as 300 stores ...
+Link: https://www.mashed.com/494407/the-untold-truth-of-carls-jr/
+Snippet: Learn about the history, menu, and controversies of <b>Carl</b>&#39;s <b>Jr</b>., a fast food chain that started as a hot dog stand in Los Angeles and expanded across the US. Find out how <b>Carl</b>&#39;s <b>Jr</b>. introduced salad bars, turkey burgers, Beyond Meat, and more to the industry.
+Link: https://www.cbc.ca/news/canada/calgary/food-safety-expert-talks-carl-s-jr-video-scandal-1.4260669
+Snippet: It&#39;s a question that might be on the mind of a few Albertans after videos of a <b>Carl</b>&#39;s <b>Jr</b>. co-franchisee in Red Deer mishandling food surfaced this week. &#39;Disgusting behaviour&#39; caught on video at ...
+Link: https://www.deseret.com/utah/2023/6/15/23761829/man-tried-burn-down-carls-jr-denied-free-food/
+Snippet: Police arrested a man Tuesday who they say tried to burn down a <b>Carl</b>&#39;s <b>Jr</b>. restaurant in Salt Lake City after being denied free food. Police say Thomas John Lingle, 65, went into a <b>Carl</b>&#39;s <b>Jr</b>., 1654 S. Redwood Road, Monday night and asked for free food. He was refused, and threatened to kill the employees before he left, according to a police ...
+Link: https://www.nytimes.com/2019/11/13/business/media/new-carls-jr-ads.html
+Snippet: <b>Carl’s</b> <b>Jr</b>. and Hardee’s brought in $3.6 billion in sales in the United States last year, down from recent years, according to the research firm Technomic. CKE will now try to turn its fortunes ...
+Link: https://www.restaurantbusinessonline.com/leadership/carls-jr-gets-new-brand-president-its-parent-company-restructures
+Snippet: CKE Restaurants, the parent company of <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s, has appointed three presidents to lead the two brands and their international development. The company, owned by Roark Capital, is looking to revitalize its struggling fast-food chains amid weak sales and closures.
+Remi: Results for 'Carl's Junior scandal news':
+Link: https://www.news.com.au/lifestyle/food/restaurants-bars/hope-to-serve-you-again-in-the-future-sad-sign-as-carls-jr-collapses/news-story/0869e61cade855882c8f205b6000e9d5
+Snippet: <b>Carl’s</b> <b>Jr</b> had bold plans to enter the Australian market, revealing it had planned to open 300 restaurants in Australia from 2016. The first store opened on the NSW Central Coast in Bateau Bay.
+Link: https://10play.com.au/theproject/articles/carls-jr-to-shut-aussie-stores-after-going-into-voluntary-administration/tpa240730yintf
+Snippet: Twenty-four stores across the country are affected, and hundreds of jobs were set to be lost. KPMG voluntary administrators have now assumed day-to-day control of CJ’s Group. In a statement, KPMG Australia said they would be focusing on “stabilising” the operations of the Group. “We will be conducting an immediate sale process of the ...
+Link: https://www.cbc.ca/news/canada/calgary/franchisee-violates-food-safety-regulations-1.4250469
+Snippet: A <b>Carl</b>&#39;s <b>Jr</b>. franchisee has been caught on video violating at least 10 food safety regulations. Jack Webb co-owns the fast food restaurant in Red Deer, Alta. CBC <b>News</b> has exclusively obtained the ...
+Link: https://www.latimes.com/archives/la-xpm-2005-may-24-fi-paris24-story.html
+Snippet: Critics Are Saying ‘That’s Too Hot’ of Sexy <b>Carl’s</b> <b>Jr</b>. Ad. By Meg James. May 24, 2005 12 AM PT. Times Staff Writer. As in a racy music video, a scantily clad Paris Hilton cavorts with a ...
+Link: https://www.theaustralian.com.au/business/retail/us-burger-chain-carls-jr-has-lurched-into-administration-in-australia/news-story/19dd8ead73afffca3fc473b01109b386
+Snippet: Picture: <b>News</b> Regional Media. The flamboyant US burger chain <b>Carl’s</b> <b>Jr</b> has placed its Australian stores into voluntary administration after its ambitious dreams to open as many as 300 stores ...
+Link: https://www.mashed.com/494407/the-untold-truth-of-carls-jr/
+Snippet: Learn about the history, menu, and controversies of <b>Carl</b>&#39;s <b>Jr</b>., a fast food chain that started as a hot dog stand in Los Angeles and expanded across the US. Find out how <b>Carl</b>&#39;s <b>Jr</b>. introduced salad bars, turkey burgers, Beyond Meat, and more to the industry.
+Link: https://www.cbc.ca/news/canada/calgary/food-safety-expert-talks-carl-s-jr-video-scandal-1.4260669
+Snippet: It&#39;s a question that might be on the mind of a few Albertans after videos of a <b>Carl</b>&#39;s <b>Jr</b>. co-franchisee in Red Deer mishandling food surfaced this week. &#39;Disgusting behaviour&#39; caught on video at ...
+Link: https://www.deseret.com/utah/2023/6/15/23761829/man-tried-burn-down-carls-jr-denied-free-food/
+Snippet: Police arrested a man Tuesday who they say tried to burn down a <b>Carl</b>&#39;s <b>Jr</b>. restaurant in Salt Lake City after being denied free food. Police say Thomas John Lingle, 65, went into a <b>Carl</b>&#39;s <b>Jr</b>., 1654 S. Redwood Road, Monday night and asked for free food. He was refused, and threatened to kill the employees before he left, according to a police ...
+Link: https://www.nytimes.com/2019/11/13/business/media/new-carls-jr-ads.html
+Snippet: <b>Carl’s</b> <b>Jr</b>. and Hardee’s brought in $3.6 billion in sales in the United States last year, down from recent years, according to the research firm Technomic. CKE will now try to turn its fortunes ...
+Link: https://www.restaurantbusinessonline.com/leadership/carls-jr-gets-new-brand-president-its-parent-company-restructures
+Snippet: CKE Restaurants, the parent company of <b>Carl</b>&#39;s <b>Jr</b>. and Hardee&#39;s, has appointed three presidents to lead the two brands and their international development. The company, owned by Roark Capital, is looking to revitalize its struggling fast-food chains amid weak sales and closures.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior competitor analysis':
+Link: https://blog.osum.com/carl-s-jr-swot-analysis/
+Snippet: To better understand the position of <b>Carl’s</b> <b>Jr</b> in the fast food industry, it is essential to conduct a SWOT <b>analysis</b>, which assesses the brand’s internal strengths and weaknesses, as well as external opportunities and threats. This <b>analysis</b> helps determine the <b>competitive</b> position of <b>Carl’s</b> <b>Jr</b> and guides strategic planning.
+Link: https://www.mbaskool.com/swot-analysis/food-and-beverages/10370-carls-jr.html
+Snippet: <b>Carl’s</b> <b>Jr</b> Weaknesses. Many <b>competitors</b> offering similar products. Low differentiation and low brand recall is a concern. These were the weaknesses in the <b>Carl’s</b> <b>Jr</b> SWOT <b>Analysis</b>. The weaknesses of a brand are certain aspects of its business which it can improve.
+Link: https://blog.osum.com/weaknesses-of-carl-s-jr/
+Snippet: Weaknesses of <b>Carl’s</b> <b>Jr</b>: <b>Competitive</b> Landscape. When conducting a SWOT <b>analysis</b> of <b>Carl’s</b> <b>Jr</b>, it is important to assess the <b>competitive</b> landscape in which the fast-food chain operates. <b>Carl’s</b> <b>Jr</b> faces specific weaknesses in terms of its limited presence outside of the Western U.S. and the intense <b>competition</b> within the fast-food industry.
+Link: https://hbsp.harvard.edu/product/W20030-PDF-ENG
+Snippet: In April 2019, <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC (<b>Carl</b>&#39;s <b>Jr</b>.), an American fast-food restaurant chain, faced an important decision. The company was up against strong <b>competition</b> from both traditional players in the fast-food market and newer <b>competitors</b> in the fast-casual dining market. In 2017, <b>Carl</b>&#39;s <b>Jr</b>. had stopped using the provocative ads it had become known for, and in 2018, the company ended a ...
+Link: https://blog.osum.com/threats-to-carl-s-jr/
+Snippet: Market Saturation and <b>Competition</b>. One of the primary threats to <b>Carl’s</b> <b>Jr</b> is the market saturation and intense <b>competition</b> within the fast-food industry. As more and more fast-food chains enter the market, the <b>competition</b> for customers’ attention and loyalty becomes fiercer. <b>Carl’s</b> <b>Jr</b> must continuously differentiate itself, innovate, and ...
+Link: https://craft.co/carls-jr/competitors
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. <b>Carls</b> <b>Jr</b>&#39;s main <b>competitors</b> include Arby&#39;s, Havmor, LE DUFF and Jollibee Foods. Compare <b>Carls</b> <b>Jr</b> to its <b>competitors</b> by revenue, employee growth and other metrics at Craft.
+Link: https://www.businessinsider.com/mcdonalds-vs-carls-jr-comparison-difference-2020-1
+Snippet: Sure, there&#39;s that little golden star. But what <b>Carl</b>&#39;s <b>Jr</b>. is often known for is its controversial 2000s advertising strategy that relied on skimpily clad supermodels taking big, suggestive bites ...
+Link: https://www.thecasecentre.org/products/view?id=167400
+Snippet: Abstract. In April 2019, <b>Carl</b>&#39;s <b>Jr</b> Restaurants LLC (<b>Carl</b>&#39;s <b>Jr</b>), an American fast-food restaurant chain, faced an important decision. The company was up against strong <b>competition</b> from both traditional players in the fast-food market and newer <b>competitors</b> in the fast-casual dining market.
+Link: https://pitchbook.com/profiles/company/354826-00
+Snippet: Our data operations team has logged over 3.5 million hours researching, organizing, and integrating the information you need most. Information on valuation, funding, acquisitions, investors, and executives for <b>Carl</b>&#39;s <b>Jr</b>.. Use the PitchBook Platform to explore the full profile.
+Link: https://incfact.com/company/carlsjrrestaurants-franklin-tn/
+Snippet: Future <b>Competition</b>: <b>Carl</b>&#39;s <b>JR</b>. Restaurants&#39;s Fastest Growing <b>Competitors</b> These companies are in the same general field as <b>Carl</b>&#39;s <b>JR</b>. Restaurants and are rapidly expanding. Companies may grow organically or through acquisition. In some cases apparently high growth rates may be caused by data that weren&#39;t available in previous years.
+Remi: Results for 'Carl's Junior competitor analysis':
+Link: https://blog.osum.com/carl-s-jr-swot-analysis/
+Snippet: To better understand the position of <b>Carl’s</b> <b>Jr</b> in the fast food industry, it is essential to conduct a SWOT <b>analysis</b>, which assesses the brand’s internal strengths and weaknesses, as well as external opportunities and threats. This <b>analysis</b> helps determine the <b>competitive</b> position of <b>Carl’s</b> <b>Jr</b> and guides strategic planning.
+Link: https://www.mbaskool.com/swot-analysis/food-and-beverages/10370-carls-jr.html
+Snippet: <b>Carl’s</b> <b>Jr</b> Weaknesses. Many <b>competitors</b> offering similar products. Low differentiation and low brand recall is a concern. These were the weaknesses in the <b>Carl’s</b> <b>Jr</b> SWOT <b>Analysis</b>. The weaknesses of a brand are certain aspects of its business which it can improve.
+Link: https://blog.osum.com/weaknesses-of-carl-s-jr/
+Snippet: Weaknesses of <b>Carl’s</b> <b>Jr</b>: <b>Competitive</b> Landscape. When conducting a SWOT <b>analysis</b> of <b>Carl’s</b> <b>Jr</b>, it is important to assess the <b>competitive</b> landscape in which the fast-food chain operates. <b>Carl’s</b> <b>Jr</b> faces specific weaknesses in terms of its limited presence outside of the Western U.S. and the intense <b>competition</b> within the fast-food industry.
+Link: https://hbsp.harvard.edu/product/W20030-PDF-ENG
+Snippet: In April 2019, <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC (<b>Carl</b>&#39;s <b>Jr</b>.), an American fast-food restaurant chain, faced an important decision. The company was up against strong <b>competition</b> from both traditional players in the fast-food market and newer <b>competitors</b> in the fast-casual dining market. In 2017, <b>Carl</b>&#39;s <b>Jr</b>. had stopped using the provocative ads it had become known for, and in 2018, the company ended a ...
+Link: https://blog.osum.com/threats-to-carl-s-jr/
+Snippet: Market Saturation and <b>Competition</b>. One of the primary threats to <b>Carl’s</b> <b>Jr</b> is the market saturation and intense <b>competition</b> within the fast-food industry. As more and more fast-food chains enter the market, the <b>competition</b> for customers’ attention and loyalty becomes fiercer. <b>Carl’s</b> <b>Jr</b> must continuously differentiate itself, innovate, and ...
+Link: https://craft.co/carls-jr/competitors
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. <b>Carls</b> <b>Jr</b>&#39;s main <b>competitors</b> include Arby&#39;s, Havmor, LE DUFF and Jollibee Foods. Compare <b>Carls</b> <b>Jr</b> to its <b>competitors</b> by revenue, employee growth and other metrics at Craft.
+Link: https://www.businessinsider.com/mcdonalds-vs-carls-jr-comparison-difference-2020-1
+Snippet: Sure, there&#39;s that little golden star. But what <b>Carl</b>&#39;s <b>Jr</b>. is often known for is its controversial 2000s advertising strategy that relied on skimpily clad supermodels taking big, suggestive bites ...
+Link: https://www.thecasecentre.org/products/view?id=167400
+Snippet: Abstract. In April 2019, <b>Carl</b>&#39;s <b>Jr</b> Restaurants LLC (<b>Carl</b>&#39;s <b>Jr</b>), an American fast-food restaurant chain, faced an important decision. The company was up against strong <b>competition</b> from both traditional players in the fast-food market and newer <b>competitors</b> in the fast-casual dining market.
+Link: https://pitchbook.com/profiles/company/354826-00
+Snippet: Our data operations team has logged over 3.5 million hours researching, organizing, and integrating the information you need most. Information on valuation, funding, acquisitions, investors, and executives for <b>Carl</b>&#39;s <b>Jr</b>.. Use the PitchBook Platform to explore the full profile.
+Link: https://incfact.com/company/carlsjrrestaurants-franklin-tn/
+Snippet: Future <b>Competition</b>: <b>Carl</b>&#39;s <b>JR</b>. Restaurants&#39;s Fastest Growing <b>Competitors</b> These companies are in the same general field as <b>Carl</b>&#39;s <b>JR</b>. Restaurants and are rapidly expanding. Companies may grow organically or through acquisition. In some cases apparently high growth rates may be caused by data that weren&#39;t available in previous years.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior SWOT':
+Link: https://www.mbaskool.com/swot-analysis/food-and-beverages/10370-carls-jr.html
+Snippet: <b>SWOT</b> analysis of <b>Carl’s</b> <b>Jr</b> analyses the brand/company with its strengths, weaknesses, opportunities &amp; threats. The article also includes <b>Carl’s</b> <b>Jr</b> target market, segmentation, positioning &amp; Unique Selling Proposition (USP).
+Link: https://blog.osum.com/carl-s-jr-swot-analysis/
+Snippet: To better understand the position of <b>Carl’s</b> <b>Jr</b> in the fast food industry, it is essential to conduct a <b>SWOT</b> analysis, which assesses the brand’s internal strengths and weaknesses, as well as external opportunities and threats. This analysis helps determine the competitive position of <b>Carl’s</b> <b>Jr</b> and guides strategic planning.
+Link: https://blog.osum.com/weaknesses-of-carl-s-jr/
+Snippet: Gain valuable insights into <b>Carl</b>&#39;s <b>Jr</b>&#39;s performance and competitive position with our comprehensive <b>SWOT</b> analysis. Explore their strengths, weaknesses, opportunities, and threats.
+Link: https://blog.osum.com/threats-to-carl-s-jr/
+Snippet: Discover insights into <b>Carl</b>&#39;s <b>Jr</b>&#39;s strengths, weaknesses, and its place in the fast food market through our comprehensive <b>SWOT</b> analysis. Learn how the brand is faring amidst industry challenges.
+Link: https://incfact.com/company/carlsjrrestaurants-anaheim-ca/
+Snippet: What is the company&#39;s size? (Annual sales and employees) <b>Carl</b>&#39;s <b>JR.</b> Restaurants&#39;s annual revenues are $10 - $100 million (see exact revenue data) What industry is the company in? <b>Carl</b>&#39;s <b>JR.</b> Restaurants is classified as operating in the Full-Service Restaurants industry, NAICS Code 722511.
+Link: https://hbsp.harvard.edu/product/W20030-PDF-ENG
+Snippet: In April 2019, <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC (<b>Carl</b>&#39;s <b>Jr</b>.), an American fast-food restaurant chain, faced an important decision. The company was up against strong competition from both traditional players in the fast-food market and newer competitors in the fast-casual dining market. In 2017, <b>Carl</b>&#39;s <b>Jr</b>. had stopped using the provocative ads it had become known for, and in 2018, the company ended a ...
+Link: https://www.forbes.com/sites/aliciakelso/2021/07/14/carls-jr-marks-80th-anniversary-milestone-with-sales-and-growth-momentum/
+Snippet: According to CEO Ned Lyerly, <b>Carl</b>&#39;s <b>Jr</b>. is experiencing record high average unit volumes and has experienced four consecutive quarters of same-store sales growth. The company is favorably ...
+Link: https://www.restaurantbusinessonline.com/top-500-chains-2020/carls-jr
+Snippet: For complete Top 500 data, including each chain’s sales, units and YOY change, average unit volume, and company/franchise units, as well as Technomic’s analysis, growth forecast and more: <b>Carl</b>&#39;s <b>Jr</b>.
+Link: https://en.wikipedia.org/wiki/Carl%27s_Jr.
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC is an American fast-food restaurant chain owned by CKE Restaurant Holdings, Inc., who also owns Hardee&#39;s, with franchisees in North and South America, Asia, Oceania, Europe, and Africa .
+Link: https://www.wikiwealth.wikidot.com/swot-analysis:carl-s-jr
+Snippet: What is a <b>SWOT</b> Analysis? It is a way of evaluating the strengths, weaknesses, opportunities, and threats that affect something. See WikiWealth&#39;s <b>SWOT</b> tutorial for help. Remember, vote up the most important comments. Check out WikiWealth&#39;s entire database of free <b>SWOT</b> reports or use our <b>SWOT</b> analysis generator to create your own <b>SWOT</b> template.
+Remi: Results for 'Carl's Junior SWOT':
+Link: https://www.mbaskool.com/swot-analysis/food-and-beverages/10370-carls-jr.html
+Snippet: <b>SWOT</b> analysis of <b>Carl’s</b> <b>Jr</b> analyses the brand/company with its strengths, weaknesses, opportunities &amp; threats. The article also includes <b>Carl’s</b> <b>Jr</b> target market, segmentation, positioning &amp; Unique Selling Proposition (USP).
+Link: https://blog.osum.com/carl-s-jr-swot-analysis/
+Snippet: To better understand the position of <b>Carl’s</b> <b>Jr</b> in the fast food industry, it is essential to conduct a <b>SWOT</b> analysis, which assesses the brand’s internal strengths and weaknesses, as well as external opportunities and threats. This analysis helps determine the competitive position of <b>Carl’s</b> <b>Jr</b> and guides strategic planning.
+Link: https://blog.osum.com/weaknesses-of-carl-s-jr/
+Snippet: Gain valuable insights into <b>Carl</b>&#39;s <b>Jr</b>&#39;s performance and competitive position with our comprehensive <b>SWOT</b> analysis. Explore their strengths, weaknesses, opportunities, and threats.
+Link: https://blog.osum.com/threats-to-carl-s-jr/
+Snippet: Discover insights into <b>Carl</b>&#39;s <b>Jr</b>&#39;s strengths, weaknesses, and its place in the fast food market through our comprehensive <b>SWOT</b> analysis. Learn how the brand is faring amidst industry challenges.
+Link: https://incfact.com/company/carlsjrrestaurants-anaheim-ca/
+Snippet: What is the company&#39;s size? (Annual sales and employees) <b>Carl</b>&#39;s <b>JR.</b> Restaurants&#39;s annual revenues are $10 - $100 million (see exact revenue data) What industry is the company in? <b>Carl</b>&#39;s <b>JR.</b> Restaurants is classified as operating in the Full-Service Restaurants industry, NAICS Code 722511.
+Link: https://hbsp.harvard.edu/product/W20030-PDF-ENG
+Snippet: In April 2019, <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC (<b>Carl</b>&#39;s <b>Jr</b>.), an American fast-food restaurant chain, faced an important decision. The company was up against strong competition from both traditional players in the fast-food market and newer competitors in the fast-casual dining market. In 2017, <b>Carl</b>&#39;s <b>Jr</b>. had stopped using the provocative ads it had become known for, and in 2018, the company ended a ...
+Link: https://www.forbes.com/sites/aliciakelso/2021/07/14/carls-jr-marks-80th-anniversary-milestone-with-sales-and-growth-momentum/
+Snippet: According to CEO Ned Lyerly, <b>Carl</b>&#39;s <b>Jr</b>. is experiencing record high average unit volumes and has experienced four consecutive quarters of same-store sales growth. The company is favorably ...
+Link: https://www.restaurantbusinessonline.com/top-500-chains-2020/carls-jr
+Snippet: For complete Top 500 data, including each chain’s sales, units and YOY change, average unit volume, and company/franchise units, as well as Technomic’s analysis, growth forecast and more: <b>Carl</b>&#39;s <b>Jr</b>.
+Link: https://en.wikipedia.org/wiki/Carl%27s_Jr.
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC is an American fast-food restaurant chain owned by CKE Restaurant Holdings, Inc., who also owns Hardee&#39;s, with franchisees in North and South America, Asia, Oceania, Europe, and Africa .
+Link: https://www.wikiwealth.wikidot.com/swot-analysis:carl-s-jr
+Snippet: What is a <b>SWOT</b> Analysis? It is a way of evaluating the strengths, weaknesses, opportunities, and threats that affect something. See WikiWealth&#39;s <b>SWOT</b> tutorial for help. Remember, vote up the most important comments. Check out WikiWealth&#39;s entire database of free <b>SWOT</b> reports or use our <b>SWOT</b> analysis generator to create your own <b>SWOT</b> template.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior locations and no of employees':
+Link: https://en.wikipedia.org/wiki/Carl%27s_Jr.
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC is an American fast-food restaurant chain owned by CKE Restaurant Holdings, Inc., who also owns Hardee&#39;s, with franchisees in North and South America, Asia, Oceania, Europe, and Africa.. In 2016, Entrepreneur listed <b>Carl</b>&#39;s <b>Jr</b>. as <b>No</b>. 54 on their Top Franchise 500 list, which ranks the overall financial strength, stability, and growth rate for the top 500 franchises ...
+Link: https://brilliantmaps.com/us-locations/carls-jr-locations-usa/
+Snippet: Here are the key details of <b>Carl’s</b> <b>Jr</b> <b>locations</b> in each US state: Name: <b>Carl’s</b> <b>Jr</b>. Business Type: Fast Food Chains. Number of US <b>locations</b>: 1,065. Number of States With a <b>Location</b>: 15. Number of Cities With a <b>Location</b>: 563. Number <b>of Employees</b>: Unknown. 2023 Revenue: Unknown. Revenue per <b>location</b>: Unknown. Revenue per <b>employee</b>: Unknown
+Link: https://www.carlsjr.com/about-us
+Snippet: The 60s brought vast expansion for the Karchers, who operated 24 <b>Carl</b>&#39;s <b>Jr</b>.&#39;s and became <b>Carl</b> Karcher Enterprises, Inc., as they rennovated all dining rooms and streamlined menus. 1970s By 1977, more than 200 <b>locations</b> served California, and <b>Carl</b>&#39;s <b>Jr</b>. became the first quick-serve restaurant to offer salad bars at all 200 <b>locations</b>.
+Link: https://craft.co/carls-jr
+Snippet: <b>Carls Jr</b> is a provider of fast-food products. It offers burgers, salads, sides, desserts, beverages, hand-breaded chicken, beverages, and more. Type Subsidiary Status Active HQ Santa Ana, CA, US | view all <b>locations</b> Website https://www.<b>carlsjr</b>.com ... 2 <b>locations</b> detected. Santa Ana, CA ...
+Link: https://www.carlsjr.com/fact-sheet
+Snippet: HISTORY | Founded by industry pioneer <b>Carl</b> N. Karcher, <b>Carl</b>&#39;s <b>Jr</b>.® restaurants have been a West Coast favorite for more than 75 years. Using $15 in savings and borrowing $311 on their Plymouth automobile, <b>Carl</b> and his wife, Margaret, purchased a single hot dog cart in 1941 in Los Angeles. The Karchers soon grew their small business ...
+Link: https://locations.carlsjr.com/
+Snippet: Browse all <b>Carl</b>&#39;s <b>Jr</b>. <b>locations</b> in the United States to find a <b>Carl</b>&#39;s <b>Jr</b>. near you! 39B5055C-56F0-11EE-A579-F1A718A79617 ajax? Locator::Base COUNTRY US,CA. Find My <b>Carl</b>&#39;s <b>Jr</b>. Gift Cards; Join Our Team; Franchising; Open mobile menu. Order Now. Menu; Offers; My Rewards ...
+Link: https://www.indeed.com/cmp/Carl's-Jr./locations
+Snippet: See all <b>Carl</b>&#39;s <b>Jr.</b> office <b>locations</b>. Work wellbeing score is 66 out of 100
+Link: https://en.wikipedia.org/wiki/CKE_Restaurants
+Snippet: CKE Restaurants Holdings, Inc. (an acronym for <b>Carl</b> Karcher Enterprises) is an American fast food corporation and is the parent organization for the <b>Carl</b>&#39;s <b>Jr</b>., Hardee&#39;s, Green Burrito, and Red Burrito brands. [4] [5] CKE Restaurants is headquartered in Franklin, Tennessee.[6]In October 2020, CKE Restaurants operated or franchised to <b>locations</b> in 44 US states and 43 foreign countries and US ...
+Link: https://www.indeed.com/cmp/Carl%27s-Jr.
+Snippet: Find out what works well at <b>Carl</b>&#39;s <b>Jr</b>. from the people who know best. Get the inside scoop on jobs, salaries, top office <b>locations</b>, and CEO insights. Compare pay for popular roles and read about the team’s work-life balance. Uncover why <b>Carl</b>&#39;s <b>Jr</b>. is the best company for you.
+Link: https://www.indeed.com/cmp/Carl's-Jr./about
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. on Instagram <b>Carl</b>&#39;s <b>Jr</b>. website. Tweets by CarlsJr. Come see what’s going on inside <b>Carl</b>&#39;s <b>Jr</b>., including the company culture, <b>employee</b> work-life benefits, and business goals. Discover all the key insights that make people want to work here. Read about the office <b>locations</b>, company history, leadership teams, and <b>employee</b> perks.
+Remi: Results for 'Carl's Junior locations and no of employees':
+Link: https://en.wikipedia.org/wiki/Carl%27s_Jr.
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Restaurants LLC is an American fast-food restaurant chain owned by CKE Restaurant Holdings, Inc., who also owns Hardee&#39;s, with franchisees in North and South America, Asia, Oceania, Europe, and Africa.. In 2016, Entrepreneur listed <b>Carl</b>&#39;s <b>Jr</b>. as <b>No</b>. 54 on their Top Franchise 500 list, which ranks the overall financial strength, stability, and growth rate for the top 500 franchises ...
+Link: https://brilliantmaps.com/us-locations/carls-jr-locations-usa/
+Snippet: Here are the key details of <b>Carl’s</b> <b>Jr</b> <b>locations</b> in each US state: Name: <b>Carl’s</b> <b>Jr</b>. Business Type: Fast Food Chains. Number of US <b>locations</b>: 1,065. Number of States With a <b>Location</b>: 15. Number of Cities With a <b>Location</b>: 563. Number <b>of Employees</b>: Unknown. 2023 Revenue: Unknown. Revenue per <b>location</b>: Unknown. Revenue per <b>employee</b>: Unknown
+Link: https://www.carlsjr.com/about-us
+Snippet: The 60s brought vast expansion for the Karchers, who operated 24 <b>Carl</b>&#39;s <b>Jr</b>.&#39;s and became <b>Carl</b> Karcher Enterprises, Inc., as they rennovated all dining rooms and streamlined menus. 1970s By 1977, more than 200 <b>locations</b> served California, and <b>Carl</b>&#39;s <b>Jr</b>. became the first quick-serve restaurant to offer salad bars at all 200 <b>locations</b>.
+Link: https://craft.co/carls-jr
+Snippet: <b>Carls Jr</b> is a provider of fast-food products. It offers burgers, salads, sides, desserts, beverages, hand-breaded chicken, beverages, and more. Type Subsidiary Status Active HQ Santa Ana, CA, US | view all <b>locations</b> Website https://www.<b>carlsjr</b>.com ... 2 <b>locations</b> detected. Santa Ana, CA ...
+Link: https://www.carlsjr.com/fact-sheet
+Snippet: HISTORY | Founded by industry pioneer <b>Carl</b> N. Karcher, <b>Carl</b>&#39;s <b>Jr</b>.® restaurants have been a West Coast favorite for more than 75 years. Using $15 in savings and borrowing $311 on their Plymouth automobile, <b>Carl</b> and his wife, Margaret, purchased a single hot dog cart in 1941 in Los Angeles. The Karchers soon grew their small business ...
+Link: https://locations.carlsjr.com/
+Snippet: Browse all <b>Carl</b>&#39;s <b>Jr</b>. <b>locations</b> in the United States to find a <b>Carl</b>&#39;s <b>Jr</b>. near you! 39B5055C-56F0-11EE-A579-F1A718A79617 ajax? Locator::Base COUNTRY US,CA. Find My <b>Carl</b>&#39;s <b>Jr</b>. Gift Cards; Join Our Team; Franchising; Open mobile menu. Order Now. Menu; Offers; My Rewards ...
+Link: https://www.indeed.com/cmp/Carl's-Jr./locations
+Snippet: See all <b>Carl</b>&#39;s <b>Jr.</b> office <b>locations</b>. Work wellbeing score is 66 out of 100
+Link: https://en.wikipedia.org/wiki/CKE_Restaurants
+Snippet: CKE Restaurants Holdings, Inc. (an acronym for <b>Carl</b> Karcher Enterprises) is an American fast food corporation and is the parent organization for the <b>Carl</b>&#39;s <b>Jr</b>., Hardee&#39;s, Green Burrito, and Red Burrito brands. [4] [5] CKE Restaurants is headquartered in Franklin, Tennessee.[6]In October 2020, CKE Restaurants operated or franchised to <b>locations</b> in 44 US states and 43 foreign countries and US ...
+Link: https://www.indeed.com/cmp/Carl%27s-Jr.
+Snippet: Find out what works well at <b>Carl</b>&#39;s <b>Jr</b>. from the people who know best. Get the inside scoop on jobs, salaries, top office <b>locations</b>, and CEO insights. Compare pay for popular roles and read about the team’s work-life balance. Uncover why <b>Carl</b>&#39;s <b>Jr</b>. is the best company for you.
+Link: https://www.indeed.com/cmp/Carl's-Jr./about
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. on Instagram <b>Carl</b>&#39;s <b>Jr</b>. website. Tweets by CarlsJr. Come see what’s going on inside <b>Carl</b>&#39;s <b>Jr</b>., including the company culture, <b>employee</b> work-life benefits, and business goals. Discover all the key insights that make people want to work here. Read about the office <b>locations</b>, company history, leadership teams, and <b>employee</b> perks.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior employee reviews Glassdoor':
+Link: https://www.glassdoor.com/Reviews/Carl-s-Jr-Reviews-E328664.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> has an <b>employee</b> rating of 3.4 out of 5 stars, based on 1,193 company <b>reviews</b> on <b>Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The <b>Carl</b>&#39;s <b>Jr</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Restaurants &amp; Food Service industry (3.7 stars).
+Link: https://www.glassdoor.com/Overview/Working-at-Carl-s-Jr-EI_IE328664.11,20.htm
+Snippet: Candidates give an average difficulty score of 1.7 out of 5 (where 5 is the highest level of difficulty) for their job interview at <b>Carl</b>&#39;s <b>Jr</b>. How do <b>employees</b> rate the business outlook for <b>Carl</b>&#39;s <b>Jr</b>? 39% of <b>employees</b> think that <b>Carl</b>&#39;s <b>Jr</b> has a positive business outlook.
+Link: https://www.glassdoor.co.uk/Reviews/Carl-s-Jr-Reviews-E328664.htm
+Snippet: 54% of <b>Carl</b>&#39;s <b>Jr</b> <b>employees</b> would recommend working there to a friend based on <b>Glassdoor</b> <b>reviews</b>. <b>Employees</b> also rated <b>Carl</b>&#39;s <b>Jr</b> 3.0 out of 5 for work life balance, 3.1 for culture and values and 3.2 for career opportunities.
+Link: https://www.glassdoor.com/Reviews/Carl-s-Jr-US-Reviews-EI_IE328664.0,9_IL.10,12_IN1.htm
+Snippet: 614 <b>Carl</b>&#39;s <b>Jr</b> <b>reviews</b> in United States of America. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.sg/Reviews/Carl-s-Jr-Reviews-E328664.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> has an overall rating of 3.3 out of 5, based on over 1,474 <b>reviews</b> left anonymously by <b>employees</b>. 53% of <b>employees</b> would recommend working at <b>Carl</b>&#39;s <b>Jr</b> to a friend and 40% have a positive outlook for the business. This rating has decreased by -2% over the last 12 months.
+Link: https://www.glassdoor.ca/Reviews/Carl-s-Jr-people-Reviews-EI_IE328664.0,9_KH10,16.htm
+Snippet: 139 <b>Carl</b>&#39;s <b>Jr</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.co.in/Reviews/Employee-Review-Carl-s-Jr-RVW61373420.htm
+Snippet: Within three months, I received a thirty cent raise. My hard work is seen and appreciated by my managers, and this shows through the opportunities for advancement. The scholarship opportunities are fantastic and appreciated. Not only that, but as...
+Link: https://www.glassdoor.com.au/Reviews/Carl-s-Jr-Casual-Employee-Reviews-EI_IE328664.0,9_KO10,25.htm
+Snippet: 1 <b>Carl</b>&#39;s <b>Jr</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.com/Reviews/Carl-s-Jr-wage-Reviews-EI_IE328664.0,9_KH10,14.htm
+Snippet: 34 <b>Carl</b>&#39;s <b>Jr</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.co.in/Reviews/Employee-Review-Carl-s-Jr-RVW14366051.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Is this your company? This employer has not claimed their Employer Profile and is missing out on connecting with our community. Connect with our community. Claim your Free Employer Profile to start telling your employer brand story to reach top talent. <b>Carl</b>&#39;s <b>Jr</b>. Add a <b>Review</b>. Overview. 1.4T. <b>Reviews</b>.
+Remi: Results for 'Carl's Junior employee reviews Glassdoor':
+Link: https://www.glassdoor.com/Reviews/Carl-s-Jr-Reviews-E328664.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> has an <b>employee</b> rating of 3.4 out of 5 stars, based on 1,193 company <b>reviews</b> on <b>Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The <b>Carl</b>&#39;s <b>Jr</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Restaurants &amp; Food Service industry (3.7 stars).
+Link: https://www.glassdoor.com/Overview/Working-at-Carl-s-Jr-EI_IE328664.11,20.htm
+Snippet: Candidates give an average difficulty score of 1.7 out of 5 (where 5 is the highest level of difficulty) for their job interview at <b>Carl</b>&#39;s <b>Jr</b>. How do <b>employees</b> rate the business outlook for <b>Carl</b>&#39;s <b>Jr</b>? 39% of <b>employees</b> think that <b>Carl</b>&#39;s <b>Jr</b> has a positive business outlook.
+Link: https://www.glassdoor.co.uk/Reviews/Carl-s-Jr-Reviews-E328664.htm
+Snippet: 54% of <b>Carl</b>&#39;s <b>Jr</b> <b>employees</b> would recommend working there to a friend based on <b>Glassdoor</b> <b>reviews</b>. <b>Employees</b> also rated <b>Carl</b>&#39;s <b>Jr</b> 3.0 out of 5 for work life balance, 3.1 for culture and values and 3.2 for career opportunities.
+Link: https://www.glassdoor.com/Reviews/Carl-s-Jr-US-Reviews-EI_IE328664.0,9_IL.10,12_IN1.htm
+Snippet: 614 <b>Carl</b>&#39;s <b>Jr</b> <b>reviews</b> in United States of America. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.sg/Reviews/Carl-s-Jr-Reviews-E328664.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> has an overall rating of 3.3 out of 5, based on over 1,474 <b>reviews</b> left anonymously by <b>employees</b>. 53% of <b>employees</b> would recommend working at <b>Carl</b>&#39;s <b>Jr</b> to a friend and 40% have a positive outlook for the business. This rating has decreased by -2% over the last 12 months.
+Link: https://www.glassdoor.ca/Reviews/Carl-s-Jr-people-Reviews-EI_IE328664.0,9_KH10,16.htm
+Snippet: 139 <b>Carl</b>&#39;s <b>Jr</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.co.in/Reviews/Employee-Review-Carl-s-Jr-RVW61373420.htm
+Snippet: Within three months, I received a thirty cent raise. My hard work is seen and appreciated by my managers, and this shows through the opportunities for advancement. The scholarship opportunities are fantastic and appreciated. Not only that, but as...
+Link: https://www.glassdoor.com.au/Reviews/Carl-s-Jr-Casual-Employee-Reviews-EI_IE328664.0,9_KO10,25.htm
+Snippet: 1 <b>Carl</b>&#39;s <b>Jr</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.com/Reviews/Carl-s-Jr-wage-Reviews-EI_IE328664.0,9_KH10,14.htm
+Snippet: 34 <b>Carl</b>&#39;s <b>Jr</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Link: https://www.glassdoor.co.in/Reviews/Employee-Review-Carl-s-Jr-RVW14366051.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Is this your company? This employer has not claimed their Employer Profile and is missing out on connecting with our community. Connect with our community. Claim your Free Employer Profile to start telling your employer brand story to reach top talent. <b>Carl</b>&#39;s <b>Jr</b>. Add a <b>Review</b>. Overview. 1.4T. <b>Reviews</b>.
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior employee reviews Indeed':
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews
+Snippet: <b>Indeed</b> Featured review. The most useful review selected by <b>Indeed</b>. Work can be pretty taxing when it’s slow and you need to find things to do. A lot of cleaning and detailing involved. Pay is good but ever since the 20$ an hour raise hours are being cut drastically. Good place to work for a good start. Management is awesome and great to work ...
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews?fcountry=ALL
+Snippet: 4,858 reviews from <b>Carl</b>&#39;s <b>Jr</b>. employees about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, benefits, work-life balance, management, job security, ... <b>Carl</b>&#39;s <b>Jr</b>. <b>Employee</b> Reviews Review this company. Job Title. All. Location. All. Ratings by category. 3.3 Work-Life ... The most useful review selected by <b>Indeed</b>. Loved my coworkers fun and laid back workplace ...
+Link: https://www.indeed.com/cmp/Carl's-Jr./browse-reviews
+Snippet: Browse Reviews from <b>Carl</b>&#39;s <b>Jr</b>. employees about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, benefits, work-life balance, management, job security, and more.
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews?fjobtitle=Shift+Leader&fcountry=US
+Snippet: 439 reviews from <b>Carl</b>&#39;s <b>Jr</b>. employees about working as a Shift Leader at <b>Carl</b>&#39;s <b>Jr</b>.. Learn about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, benefits, work-life balance, management, job security, and more.
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews?fcountry=ALL&ftext=california
+Snippet: Reviews from <b>Carl</b>&#39;s <b>Jr</b>. employees about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, benefits, work-life balance, management, job security, and more.
+Link: https://ca.indeed.com/cmp/Carl's-Jr./reviews
+Snippet: 95 reviews from <b>Carl</b>&#39;s <b>Jr</b>. employees about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, benefits, work-life balance, management, job security, ... <b>Carl</b>&#39;s <b>Jr</b>. <b>Employee</b> Reviews Review this company. Job Title. All. Location. Canada 95 reviews. Ratings by category. ... The most useful review selected by <b>Indeed</b>.
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews?fcountry=US&floc=Salinas%2C+CA
+Snippet: Productive, fun and great experience. Fryer and grill cook (Former <b>Employee</b>) - Salinas, CA - June 2, 2017. <b>Carl</b>&#39;s <b>Jr</b>. was a great first job experience for me. Made a lot of new friend&#39;s from my coworkers. Pay and hours were great until new management came in and the hours and the feel of communication wasn&#39;t there anymore which lost my interest ...
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews?fcountry=US&floc=Fresno%2C+CA
+Snippet: Reviews from <b>Carl</b>&#39;s <b>Jr</b>. employees about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, benefits, work-life balance, management, job security, ... <b>Carl</b>&#39;s <b>Jr</b>. <b>Employee</b> Reviews in Fresno, CA Review this company. Job Title. All. Location. Fresno, CA 42 reviews. ... The most useful review selected by <b>Indeed</b>. Working at <b>Carls</b> <b>Jr</b> was a great first job. I learned to ...
+Link: https://bh.indeed.com/cmp/Carl's-Jr./reviews/5-stars?id=e6b07bf32b547a3b
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. <b>Carl</b>&#39;s <b>Jr</b>. <b>Employee</b> Review. 5.0. Job Work/Life Balance. Compensation/Benefits. Job Security/Advancement. Management. Job Culture. 5 stars. Cashier (Former <b>Employee</b>) - Visalia, CA - November 7, 2022. What is the best part of working at the company? good environment
+Link: https://ca.indeed.com/cmp/Carl's-Jr./reviews?ftopic=mgmt
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Work wellbeing score is 60 out of 100. 60. 3.5 out of 5 stars. ...
+Remi: Results for 'Carl's Junior employee reviews Indeed':
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews
+Snippet: <b>Indeed</b> Featured review. The most useful review selected by <b>Indeed</b>. Work can be pretty taxing when it’s slow and you need to find things to do. A lot of cleaning and detailing involved. Pay is good but ever since the 20$ an hour raise hours are being cut drastically. Good place to work for a good start. Management is awesome and great to work ...
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews?fcountry=ALL
+Snippet: 4,858 reviews from <b>Carl</b>&#39;s <b>Jr</b>. employees about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, benefits, work-life balance, management, job security, ... <b>Carl</b>&#39;s <b>Jr</b>. <b>Employee</b> Reviews Review this company. Job Title. All. Location. All. Ratings by category. 3.3 Work-Life ... The most useful review selected by <b>Indeed</b>. Loved my coworkers fun and laid back workplace ...
+Link: https://www.indeed.com/cmp/Carl's-Jr./browse-reviews
+Snippet: Browse Reviews from <b>Carl</b>&#39;s <b>Jr</b>. employees about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, benefits, work-life balance, management, job security, and more.
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews?fjobtitle=Shift+Leader&fcountry=US
+Snippet: 439 reviews from <b>Carl</b>&#39;s <b>Jr</b>. employees about working as a Shift Leader at <b>Carl</b>&#39;s <b>Jr</b>.. Learn about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, benefits, work-life balance, management, job security, and more.
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews?fcountry=ALL&ftext=california
+Snippet: Reviews from <b>Carl</b>&#39;s <b>Jr</b>. employees about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, benefits, work-life balance, management, job security, and more.
+Link: https://ca.indeed.com/cmp/Carl's-Jr./reviews
+Snippet: 95 reviews from <b>Carl</b>&#39;s <b>Jr</b>. employees about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, benefits, work-life balance, management, job security, ... <b>Carl</b>&#39;s <b>Jr</b>. <b>Employee</b> Reviews Review this company. Job Title. All. Location. Canada 95 reviews. Ratings by category. ... The most useful review selected by <b>Indeed</b>.
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews?fcountry=US&floc=Salinas%2C+CA
+Snippet: Productive, fun and great experience. Fryer and grill cook (Former <b>Employee</b>) - Salinas, CA - June 2, 2017. <b>Carl</b>&#39;s <b>Jr</b>. was a great first job experience for me. Made a lot of new friend&#39;s from my coworkers. Pay and hours were great until new management came in and the hours and the feel of communication wasn&#39;t there anymore which lost my interest ...
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews?fcountry=US&floc=Fresno%2C+CA
+Snippet: Reviews from <b>Carl</b>&#39;s <b>Jr</b>. employees about <b>Carl</b>&#39;s <b>Jr</b>. culture, salaries, benefits, work-life balance, management, job security, ... <b>Carl</b>&#39;s <b>Jr</b>. <b>Employee</b> Reviews in Fresno, CA Review this company. Job Title. All. Location. Fresno, CA 42 reviews. ... The most useful review selected by <b>Indeed</b>. Working at <b>Carls</b> <b>Jr</b> was a great first job. I learned to ...
+Link: https://bh.indeed.com/cmp/Carl's-Jr./reviews/5-stars?id=e6b07bf32b547a3b
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. <b>Carl</b>&#39;s <b>Jr</b>. <b>Employee</b> Review. 5.0. Job Work/Life Balance. Compensation/Benefits. Job Security/Advancement. Management. Job Culture. 5 stars. Cashier (Former <b>Employee</b>) - Visalia, CA - November 7, 2022. What is the best part of working at the company? good environment
+Link: https://ca.indeed.com/cmp/Carl's-Jr./reviews?ftopic=mgmt
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. Work wellbeing score is 60 out of 100. 60. 3.5 out of 5 stars. ...
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Carl's Junior Reddit reviews':
+Link: https://www.reddit.com/r/CarlsJr/
+Snippet: Just went to a <b>Carl’s</b> <b>Jr</b> with what I can only say was the stupidest AI trying to take drive through orders. If this is the future, fuck fast food. Hire real people, or at minimum display what is being ordered on a screen so you can check for accuracy. God damn that was irritating. Another <b>Carl’s</b> <b>Jr</b> failure….
+Link: https://www.reddit.com/r/fastfood/comments/9jkhd9/just_went_to_carls_jr_for_the_first_time_in_a/
+Snippet: The /r/FastFood subreddit is for news, <b>reviews</b>, and discussions of fast food (aka quick-service), fast casual, and casual restaurants -- covering everything fast food from multinational chains, regional and local chains, independent and chain cafeterias and all-you-can-eat restaurants, independent and chain diners, independent hole-in-the-wall restaurants, convenience store and gas station ...
+Link: https://www.reddit.com/r/CarlsJr/comments/lyxg8s/the_absolute_best_burger_carls_jr/
+Snippet: 576 subscribers in the CarlsJr community. The /r/FastFood subreddit is for news, <b>reviews</b>, and discussions of fast food (aka quick-service), fast casual, and casual restaurants -- covering everything fast food from multinational chains, regional and local chains, independent and chain cafeterias and all-you-can-eat restaurants, independent and chain diners, independent hole-in-the-wall ...
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews
+Snippet: Work can be pretty taxing when it’s slow and you need to find things to do. A lot of cleaning and detailing involved. Pay is good but ever since the 20$ an hour raise hours are being cut drastically. Good place to work for a good start. Management is awesome and great to work with. They do care a lot about their employees.
+Link: https://www.glassdoor.com/Reviews/Carl-s-Jr-Reviews-E328664.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> has an overall rating of 3.4 out of 5, based on over 1,548 <b>reviews</b> left anonymously by employees. 52% of employees would recommend working at <b>Carl</b>&#39;s <b>Jr</b> to a friend and 46% have a positive outlook for the business. This rating has improved by 1% over the last 12 months.
+Link: https://www.ranker.com/list/best-carls-jr-menu-items/ranker-food
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. has long been a favorite destination for fast food lovers, known for its irresistible menu packed with delicious options. Whether you’re craving <b>Carl</b>&#39;s <b>Jr</b>. burgers, fries, and more, there’s something to satisfy every appetite. The chain&#39;s commitment to quality and flavor continues to attract fans who appreciate the robust taste ...
+Link: https://www.yelp.com/brands/carls-jr
+Snippet: About <b>Carl</b>&#39;s <b>Jr</b>. <b>Carl</b>&#39;s <b>Jr</b>. has an average rating of 2.2 from 30829 <b>reviews</b>. The rating indicates that most customers are generally dissatisfied. The official website is carlsjr.com. <b>Carl</b>&#39;s <b>Jr</b>. is popular for Restaurants, Fast Food, Burgers. <b>Carl</b>&#39;s <b>Jr</b>. has 585 locations on <b>Yelp</b> across the US.
+Link: https://www.youtube.com/watch?v=d0UeNer4TSU
+Snippet: This <b>review</b> features the NEW CHICKEN TENDER WRAPS over at <b>Carl</b>&#39;s <b>Jr</b>.® and there are 3 FLAVORS TO GO IN ON! That&#39;s right! Get ready for the BBQ, RANCH AND SAN...
+Link: https://www.brandeating.com/2021/07/review-carls-jr-hand-breaded-chicken-sandwich.html
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>.&#39;s Hand-Breaded Chicken Sandwich features a chicken breast filet dipped in buttermilk, lightly-breaded, and then deep-fried until crispy. The filet comes served with garlic pickles and mayo on a toasted potato bun. It&#39;s priced at $6.99 in my area, which is a sizeable premium compared to the $4 to $5 pricing that most new fast food chain chicken sandwiches are going for.
+Link: https://www.trustpilot.com/review/carlsjr.com?page=5
+Snippet: 1 <b>review</b>. US. Feb 18, 2024. <b>Carl</b>&#39;s <b>Jr</b> app is terrible. Promotions will not properly credit and restaurant personnel just claim they can do nothing to help or honor promotions. <b>Carl</b>&#39;s <b>Jr</b> app is terrible. Promotion. Date of experience: February 18, 2024. Useful.
+Remi: Results for 'Carl's Junior Reddit reviews':
+Link: https://www.reddit.com/r/CarlsJr/
+Snippet: Just went to a <b>Carl’s</b> <b>Jr</b> with what I can only say was the stupidest AI trying to take drive through orders. If this is the future, fuck fast food. Hire real people, or at minimum display what is being ordered on a screen so you can check for accuracy. God damn that was irritating. Another <b>Carl’s</b> <b>Jr</b> failure….
+Link: https://www.reddit.com/r/fastfood/comments/9jkhd9/just_went_to_carls_jr_for_the_first_time_in_a/
+Snippet: The /r/FastFood subreddit is for news, <b>reviews</b>, and discussions of fast food (aka quick-service), fast casual, and casual restaurants -- covering everything fast food from multinational chains, regional and local chains, independent and chain cafeterias and all-you-can-eat restaurants, independent and chain diners, independent hole-in-the-wall restaurants, convenience store and gas station ...
+Link: https://www.reddit.com/r/CarlsJr/comments/lyxg8s/the_absolute_best_burger_carls_jr/
+Snippet: 576 subscribers in the CarlsJr community. The /r/FastFood subreddit is for news, <b>reviews</b>, and discussions of fast food (aka quick-service), fast casual, and casual restaurants -- covering everything fast food from multinational chains, regional and local chains, independent and chain cafeterias and all-you-can-eat restaurants, independent and chain diners, independent hole-in-the-wall ...
+Link: https://www.indeed.com/cmp/Carl's-Jr./reviews
+Snippet: Work can be pretty taxing when it’s slow and you need to find things to do. A lot of cleaning and detailing involved. Pay is good but ever since the 20$ an hour raise hours are being cut drastically. Good place to work for a good start. Management is awesome and great to work with. They do care a lot about their employees.
+Link: https://www.glassdoor.com/Reviews/Carl-s-Jr-Reviews-E328664.htm
+Snippet: <b>Carl</b>&#39;s <b>Jr</b> has an overall rating of 3.4 out of 5, based on over 1,548 <b>reviews</b> left anonymously by employees. 52% of employees would recommend working at <b>Carl</b>&#39;s <b>Jr</b> to a friend and 46% have a positive outlook for the business. This rating has improved by 1% over the last 12 months.
+Link: https://www.ranker.com/list/best-carls-jr-menu-items/ranker-food
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>. has long been a favorite destination for fast food lovers, known for its irresistible menu packed with delicious options. Whether you’re craving <b>Carl</b>&#39;s <b>Jr</b>. burgers, fries, and more, there’s something to satisfy every appetite. The chain&#39;s commitment to quality and flavor continues to attract fans who appreciate the robust taste ...
+Link: https://www.yelp.com/brands/carls-jr
+Snippet: About <b>Carl</b>&#39;s <b>Jr</b>. <b>Carl</b>&#39;s <b>Jr</b>. has an average rating of 2.2 from 30829 <b>reviews</b>. The rating indicates that most customers are generally dissatisfied. The official website is carlsjr.com. <b>Carl</b>&#39;s <b>Jr</b>. is popular for Restaurants, Fast Food, Burgers. <b>Carl</b>&#39;s <b>Jr</b>. has 585 locations on <b>Yelp</b> across the US.
+Link: https://www.youtube.com/watch?v=d0UeNer4TSU
+Snippet: This <b>review</b> features the NEW CHICKEN TENDER WRAPS over at <b>Carl</b>&#39;s <b>Jr</b>.® and there are 3 FLAVORS TO GO IN ON! That&#39;s right! Get ready for the BBQ, RANCH AND SAN...
+Link: https://www.brandeating.com/2021/07/review-carls-jr-hand-breaded-chicken-sandwich.html
+Snippet: <b>Carl</b>&#39;s <b>Jr</b>.&#39;s Hand-Breaded Chicken Sandwich features a chicken breast filet dipped in buttermilk, lightly-breaded, and then deep-fried until crispy. The filet comes served with garlic pickles and mayo on a toasted potato bun. It&#39;s priced at $6.99 in my area, which is a sizeable premium compared to the $4 to $5 pricing that most new fast food chain chicken sandwiches are going for.
+Link: https://www.trustpilot.com/review/carlsjr.com?page=5
+Snippet: 1 <b>review</b>. US. Feb 18, 2024. <b>Carl</b>&#39;s <b>Jr</b> app is terrible. Promotions will not properly credit and restaurant personnel just claim they can do nothing to help or honor promotions. <b>Carl</b>&#39;s <b>Jr</b> app is terrible. Promotion. Date of experience: February 18, 2024. Useful.
+Error handling Remi's results: invalid syntax (<string>, line 1)

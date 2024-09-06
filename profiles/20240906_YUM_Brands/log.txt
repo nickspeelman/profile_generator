@@ -1,0 +1,538 @@
+Susan: To gather information on YUM Brands, a strategic and systematic approach will ensure that all relevant details are included. Let's lay out a step-by-step plan:
+
+1. **Identify Key Data Sources:** We should identify the main sources of information such as YUM Brands' official website, its LinkedIn profile, financial news outlets (Forbes, Bloomberg, Reuters), business databases (Hoovers, PrivCo), regulators' sites (SEC for financials), and social media channels including Twitter and Facebook for public sentiment and latest news.
+
+2. **Financial Information:** The primary source of financial data should be the YUM Brand's annual reports, quarterly results, and SEC filings. We must summarize the company's revenue, profits, debt, market share, and key future investment plans. Financial news sites can add context and expert opinions.
+
+3. **Key Decision Makers:** We should identify the senior leadership team and the Board of Directors. Their profiles can be found on the official website and perhaps more detailed view on their LinkedIn profiles. Any significant career achievements, possible conflicts of interest, or personal details that could act as leverage points can be noted.
+
+4. **Labor Relations:** For information related to labor relations, we can track company news, lawsuits, strikes, or disputes involving YUM Brands. We can also review union websites, labor right's groups, and local news outlets.
+
+5. **Recent Scandals:** Public news outlets, trade publications and social media monitoring can help identify any recent company controversies or scandals.
+
+6. **Additional Leverage Points:** CSR initiatives, brand reputation, public sentiment, customer complaints, and environmental issues can provide more leverage points. In addition, examining the company's supply chain, major partnerships and sponsorships can provide additional details. 
+
+Lastly, organizing the information in a coherent manner will be critical. The final research brief should be a digestible summary that tells a story about YUM Brands from a financial and labor relations perspective.
+
+Remember to always cross verify information from multiple sources to ensure its credibility before using it in your report. 
+
+This process can be labor-intensive and take several days or even a week to complete, but will provide a comprehensive view of YUM Brands.
+Manny: Sure, here's a Python list of five search queries that Remi should perform:
+
+```python
+search_queries_for_remi = [
+    "site:sec.gov YUM Brands annual report",
+    "YUM Brands board of directors LinkedIn profiles",
+    "YUM Brands labor disputes or strikes",
+    "YUM Brands recent scandals or controversies",
+    "YUM Brands supply chain partners"
+]
+```
+These queries should give Remi information on YUM Brands' financials, key decision makers, labor relations, recent controversies, and significant business partnerships.
+Remi: Results for 'site:sec.gov YUM Brands annual report':
+PDF Link: https://www.sec.gov/Archives/edgar/data/1041061/000119312524088462/d871572dars.pdf
+Title: Document - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106123000003/a8kex991282023.htm
+Snippet: Yum! <b>Brands</b> <b>Reports</b> Fourth-Quarter Results and Increases Dividend. Industry Record Full-Year 4,560 Gross Unit Openings. ... set forth under the captions “Risk Factors” and “Forward-Looking Statements” in our most recently filed <b>Annual</b> <b>Report</b> on Form 10-K and Quarterly <b>Report</b> on Form 10-Q) for additional detail about factors that could ...
+Body Content: Content could not be retrieved.
+
+Title: Document - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106121000007/a8kex991242021.htm
+Snippet: Yum! <b>Brands</b> <b>Reports</b> Fourth-Quarter Results, Primed to Grow in 2021 and Beyond; ... set forth under the captions “Risk Factors” and “Forward-Looking Statements” in our most recently filed <b>Annual</b> <b>Report</b> on Form 10-K and Quarterly <b>Report</b> on Form 10-Q) for additional detail about factors that could affect our financial and other results ...
+Body Content: Content could not be retrieved.
+
+Title: yum-20201231 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106121000012/yum-20201231.htm
+Snippet: <b>ANNUAL</b> <b>REPORT</b> PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES ... Yum! <b>Brands</b>, Inc. (referred to herein as “YUM”, the “Registrant” or the “Company”), was incorporated under the laws of the state of North Carolina in 1997. The principal executive offices of YUM are located at 1441 Gardiner Lane, Louisville, Kentucky 40213, and the ...
+Body Content: Content could not be retrieved.
+
+Title: Document - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106123000014/a8kex991532023.htm
+Snippet: <b>Brands</b>, Inc. • 1900 Colonel Sanders Lane • Louisville, KY 40213 • P: 502 874-8300 • investors.yum.com. • Taco Bell Division opened 79 gross new restaurants in 16 countries. • Taco Bell U.S. system sales grew 11% and Taco Bell International system sales excluding foreign currency grew 25%. • Taco Bell U.S. same-store sales grew 9% ...
+Body Content: Content could not be retrieved.
+
+Title: Document - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106123000046/a8kex9911112023.htm
+Snippet: Yum! <b>Brands</b> <b>Reports</b> Third-Quarter Results . 10% System Sales Growth Driven by 6% Same-Store Sales Growth and 6% Unit Growth; ... set forth under the captions “Risk Factors” and “Forward-Looking Statements” in our most recently filed <b>Annual</b> <b>Report</b> on Form 10-K and Quarterly <b>Report</b> on Form 10-Q) for additional detail about factors that ...
+Body Content: Content could not be retrieved.
+
+Title: yum-20240331 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106124000020/yum-20240331.htm
+Snippet: YUM! <b>BRANDS</b>, INC. AND SUBSIDIARIES: Quarters ended March 31, 2024 and 2023 ... the accompanying Financial Statements be read in conjunction with the Consolidated Financial Statements included in our <b>Annual</b> <b>Report</b> on Form 10-K for the fiscal year ended December 31, 2023 (“2023 Form 10-K”). ...
+Body Content: Content could not be retrieved.
+
+Title: Document - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106124000029/a8kex991862024.htm
+Snippet: Yum! <b>Brands</b> <b>Reports</b> Second-Quarter Results +6% GAAP Operating Profit Growth and +10% Core Operating Profit Growth. ... set forth under the captions “Risk Factors” and “Forward-Looking Statements” in our most recently filed <b>Annual</b> <b>Report</b> on Form 10-K and Quarterly <b>Report</b> on Form 10-Q) for additional detail about factors that could affect ...
+Body Content: Content could not be retrieved.
+
+Title: Document - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106122000029/a8kex991832022.htm
+Snippet: Yum! <b>Brands</b> <b>Reports</b> Second-Quarter Results; 781 Gross Unit Openings and Digital System Sales of Nearly $6B; ... set forth under the captions “Risk Factors” and “Forward-Looking Statements” in our most recently filed <b>Annual</b> <b>Report</b> on Form 10-K and Quarterly <b>Report</b> on Form 10-Q) for additional detail about factors that could affect our ...
+Body Content: Content could not be retrieved.
+
+Title: Document - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106124000026/form11k2024.htm
+Snippet: <b>ANNUAL</b> <b>REPORT</b> PURSUANT TO SECTION 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934: FOR THE FISCAL YEAR ENDED DECEMBER 31, 2023 . OR ... We have audited the accompanying statements of net assets available for benefits of YUM! <b>Brands</b> 401(k) Plan (the Plan) as of December 31, 2023 and 2022, the related statement of changes in net assets available for ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'site:sec.gov YUM Brands annual report':
+PDF Link: https://www.sec.gov/Archives/edgar/data/1041061/000119312524088462/d871572dars.pdf
+Title: Document - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106123000003/a8kex991282023.htm
+Snippet: Yum! <b>Brands</b> <b>Reports</b> Fourth-Quarter Results and Increases Dividend. Industry Record Full-Year 4,560 Gross Unit Openings. ... set forth under the captions “Risk Factors” and “Forward-Looking Statements” in our most recently filed <b>Annual</b> <b>Report</b> on Form 10-K and Quarterly <b>Report</b> on Form 10-Q) for additional detail about factors that could ...
+Body Content: Content could not be retrieved.
+
+Title: Document - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106121000007/a8kex991242021.htm
+Snippet: Yum! <b>Brands</b> <b>Reports</b> Fourth-Quarter Results, Primed to Grow in 2021 and Beyond; ... set forth under the captions “Risk Factors” and “Forward-Looking Statements” in our most recently filed <b>Annual</b> <b>Report</b> on Form 10-K and Quarterly <b>Report</b> on Form 10-Q) for additional detail about factors that could affect our financial and other results ...
+Body Content: Content could not be retrieved.
+
+Title: yum-20201231 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106121000012/yum-20201231.htm
+Snippet: <b>ANNUAL</b> <b>REPORT</b> PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES ... Yum! <b>Brands</b>, Inc. (referred to herein as “YUM”, the “Registrant” or the “Company”), was incorporated under the laws of the state of North Carolina in 1997. The principal executive offices of YUM are located at 1441 Gardiner Lane, Louisville, Kentucky 40213, and the ...
+Body Content: Content could not be retrieved.
+
+Title: Document - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106123000014/a8kex991532023.htm
+Snippet: <b>Brands</b>, Inc. • 1900 Colonel Sanders Lane • Louisville, KY 40213 • P: 502 874-8300 • investors.yum.com. • Taco Bell Division opened 79 gross new restaurants in 16 countries. • Taco Bell U.S. system sales grew 11% and Taco Bell International system sales excluding foreign currency grew 25%. • Taco Bell U.S. same-store sales grew 9% ...
+Body Content: Content could not be retrieved.
+
+Title: Document - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106123000046/a8kex9911112023.htm
+Snippet: Yum! <b>Brands</b> <b>Reports</b> Third-Quarter Results . 10% System Sales Growth Driven by 6% Same-Store Sales Growth and 6% Unit Growth; ... set forth under the captions “Risk Factors” and “Forward-Looking Statements” in our most recently filed <b>Annual</b> <b>Report</b> on Form 10-K and Quarterly <b>Report</b> on Form 10-Q) for additional detail about factors that ...
+Body Content: Content could not be retrieved.
+
+Title: yum-20240331 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106124000020/yum-20240331.htm
+Snippet: YUM! <b>BRANDS</b>, INC. AND SUBSIDIARIES: Quarters ended March 31, 2024 and 2023 ... the accompanying Financial Statements be read in conjunction with the Consolidated Financial Statements included in our <b>Annual</b> <b>Report</b> on Form 10-K for the fiscal year ended December 31, 2023 (“2023 Form 10-K”). ...
+Body Content: Content could not be retrieved.
+
+Title: Document - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106124000029/a8kex991862024.htm
+Snippet: Yum! <b>Brands</b> <b>Reports</b> Second-Quarter Results +6% GAAP Operating Profit Growth and +10% Core Operating Profit Growth. ... set forth under the captions “Risk Factors” and “Forward-Looking Statements” in our most recently filed <b>Annual</b> <b>Report</b> on Form 10-K and Quarterly <b>Report</b> on Form 10-Q) for additional detail about factors that could affect ...
+Body Content: Content could not be retrieved.
+
+Title: Document - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106122000029/a8kex991832022.htm
+Snippet: Yum! <b>Brands</b> <b>Reports</b> Second-Quarter Results; 781 Gross Unit Openings and Digital System Sales of Nearly $6B; ... set forth under the captions “Risk Factors” and “Forward-Looking Statements” in our most recently filed <b>Annual</b> <b>Report</b> on Form 10-K and Quarterly <b>Report</b> on Form 10-Q) for additional detail about factors that could affect our ...
+Body Content: Content could not be retrieved.
+
+Title: Document - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1041061/000104106124000026/form11k2024.htm
+Snippet: <b>ANNUAL</b> <b>REPORT</b> PURSUANT TO SECTION 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934: FOR THE FISCAL YEAR ENDED DECEMBER 31, 2023 . OR ... We have audited the accompanying statements of net assets available for benefits of YUM! <b>Brands</b> 401(k) Plan (the Plan) as of December 31, 2023 and 2022, the related statement of changes in net assets available for ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'YUM Brands board of directors LinkedIn profiles':
+Title: Yum! Brands Leadership Team
+Link: https://www.yum.com/wps/portal/yumbrands/Yumbrands/company/about-yum-brands/yum-board-of-directors
+Snippet: <b>Director</b> since 2015 | Non-Executive Chair, Yum! <b>Brands</b> Chairman and Chief Executive Officer, Target Corporation <b>Board</b> <b>of Directors</b>. Tanya Domier. <b>Director</b> since 2018 | Chief Executive Officer, Advantage Solutions ... <b>Board</b> <b>of Directors</b>,Yum! Leadership. David Gibbs. Chief Executive Officer, Yum! <b>Brands</b>, Inc. Yum! Leadership. Tracy Skeans.
+Body Content: Content could not be retrieved.
+
+Title: Yum! Brands on LinkedIn: #lifeatyum
+Link: https://www.linkedin.com/feed/update/urn:li:share:7217169238241730560/?updateEntityUrn=urn:li:fs_updateV2:(urn:li:share:7217169238241730560,FEED_DETAIL,EMPTY,DEFAULT,false)&actorCompanyId=3409
+Snippet: Yum! <b>Brands</b>. We’re continuing our #LifeatYUM series to share our unrivaled culture and spotlight our incredible talent. This week, meet Kaitlyn Yocom, CPA, manager of investor relations at Yum ...
+Body Content: Content could not be retrieved.
+
+Title: Jonathan Blum - Senior Vice President, Chief Public Affairs ... - LinkedIn
+Link: https://www.linkedin.com/in/jonathan-blum-48b398a
+Snippet: <b>Brands</b> · Experience: Yum! <b>Brands</b> · Education: Western New England College School of Law · Location: Louisville · 2 connections on <b>LinkedIn</b>. ... Emeritus <b>Board</b> <b>Director</b> Kindred Healthcare, Inc ...
+Body Content: Content could not be retrieved.
+
+Title: Yum! Brands - LinkedIn
+Link: https://www.linkedin.com/company/yum-brands
+Snippet: Yum!<b> Brands</b> | 262,832 followers on <b>LinkedIn</b>. Building the world&#39;s most loved, trusted and fastest-growing restaurant <b>brands</b>. | Yum!<b> Brands</b>, Inc., based in Louisville, Kentucky, and its ...
+Body Content: Content could not be retrieved.
+
+Title: Lisa Johnson - Senior Director, Organizational Development ... - LinkedIn
+Link: https://www.linkedin.com/in/lisa-johnson-ba390610
+Snippet: Jul 2021 - Present 2 years 5 months. As Senior <b>Director</b> of Yum!&#39;s Organizational Development and Learning, I lead a team to design and deliver enterprise-wide development experiences to above ...
+Body Content: Content could not be retrieved.
+
+Title: Board of Directors - Yum! Brands
+Link: https://investors.yum.com/governance/board-of-directors/default.aspx
+Snippet: The <b>Board</b> <b>of Directors</b> determines <b>directors</b>’ independence based on the rules of the New York Stock Exchange. Building the world’s most loved, most trusted and fastest-growing restaurant <b>brands</b>. Company; Good Growth Strategy ... Yum! <b>Brands</b> RSC, 1900 Colonel Sanders Lane, Louisville, KY 40213, 502.874.8300 ...
+Body Content: Content could not be retrieved.
+
+Title: Alecia Berry - Yum! Brands - LinkedIn
+Link: https://www.linkedin.com/in/alecia-berry-83466221
+Snippet: <b>Brands</b> · Location: Louisville · 500+ connections on <b>LinkedIn</b>. View Alecia Berry’s <b>profile</b> on <b>LinkedIn</b>, a professional community of 1 billion members. Global public affairs, ESG and corporate ...
+Body Content: Content could not be retrieved.
+
+Title: David Gibbs - yum.com
+Link: https://www.yum.com/wps/portal/yumbrands/Yumbrands/company/about-yum-brands/senior-officers-and-leadership-team/leadership-detail/david+gibbs
+Snippet: Gibbs also served as Yum! Chief Strategy Officer during which time he revamped Yum! <b>Brands</b>’ global restaurant operations model, as Pizza Hut U.S. CFO and in various real estate and restaurant development leadership roles in KFC, Pizza Hut and Taco Bell. In addition to his role at Yum!, Gibbs serves on the <b>Board</b> <b>of Directors</b> of Under Armour, Inc.
+Body Content: Content could not be retrieved.
+
+Title: Amelia Rickert-Murphy - Director, Legal - Yum! Brands - LinkedIn
+Link: https://www.linkedin.com/in/amelia-murphy-esq
+Snippet: <b>Brands</b> · Education: Cornell Law School · Location: Baltimore · 500+ connections on <b>LinkedIn</b>. View Amelia Rickert-Murphy’s <b>profile</b> on <b>LinkedIn</b>, a professional community of 1 billion members.
+Body Content: Content could not be retrieved.
+
+Title: Amanda Bledsoe - LinkedIn
+Link: https://www.linkedin.com/in/abledsoe
+Snippet: Based in Louisville, Kentucky, and with 50,000+ restaurants in more than 150 countries, Yum! <b>Brands</b> is the world’s largest restaurant company and parent of KFC, Pizza Hut, Taco Bell and The ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'YUM Brands board of directors LinkedIn profiles':
+Title: Yum! Brands Leadership Team
+Link: https://www.yum.com/wps/portal/yumbrands/Yumbrands/company/about-yum-brands/yum-board-of-directors
+Snippet: <b>Director</b> since 2015 | Non-Executive Chair, Yum! <b>Brands</b> Chairman and Chief Executive Officer, Target Corporation <b>Board</b> <b>of Directors</b>. Tanya Domier. <b>Director</b> since 2018 | Chief Executive Officer, Advantage Solutions ... <b>Board</b> <b>of Directors</b>,Yum! Leadership. David Gibbs. Chief Executive Officer, Yum! <b>Brands</b>, Inc. Yum! Leadership. Tracy Skeans.
+Body Content: Content could not be retrieved.
+
+Title: Yum! Brands on LinkedIn: #lifeatyum
+Link: https://www.linkedin.com/feed/update/urn:li:share:7217169238241730560/?updateEntityUrn=urn:li:fs_updateV2:(urn:li:share:7217169238241730560,FEED_DETAIL,EMPTY,DEFAULT,false)&actorCompanyId=3409
+Snippet: Yum! <b>Brands</b>. We’re continuing our #LifeatYUM series to share our unrivaled culture and spotlight our incredible talent. This week, meet Kaitlyn Yocom, CPA, manager of investor relations at Yum ...
+Body Content: Content could not be retrieved.
+
+Title: Jonathan Blum - Senior Vice President, Chief Public Affairs ... - LinkedIn
+Link: https://www.linkedin.com/in/jonathan-blum-48b398a
+Snippet: <b>Brands</b> · Experience: Yum! <b>Brands</b> · Education: Western New England College School of Law · Location: Louisville · 2 connections on <b>LinkedIn</b>. ... Emeritus <b>Board</b> <b>Director</b> Kindred Healthcare, Inc ...
+Body Content: Content could not be retrieved.
+
+Title: Yum! Brands - LinkedIn
+Link: https://www.linkedin.com/company/yum-brands
+Snippet: Yum!<b> Brands</b> | 262,832 followers on <b>LinkedIn</b>. Building the world&#39;s most loved, trusted and fastest-growing restaurant <b>brands</b>. | Yum!<b> Brands</b>, Inc., based in Louisville, Kentucky, and its ...
+Body Content: Content could not be retrieved.
+
+Title: Lisa Johnson - Senior Director, Organizational Development ... - LinkedIn
+Link: https://www.linkedin.com/in/lisa-johnson-ba390610
+Snippet: Jul 2021 - Present 2 years 5 months. As Senior <b>Director</b> of Yum!&#39;s Organizational Development and Learning, I lead a team to design and deliver enterprise-wide development experiences to above ...
+Body Content: Content could not be retrieved.
+
+Title: Board of Directors - Yum! Brands
+Link: https://investors.yum.com/governance/board-of-directors/default.aspx
+Snippet: The <b>Board</b> <b>of Directors</b> determines <b>directors</b>’ independence based on the rules of the New York Stock Exchange. Building the world’s most loved, most trusted and fastest-growing restaurant <b>brands</b>. Company; Good Growth Strategy ... Yum! <b>Brands</b> RSC, 1900 Colonel Sanders Lane, Louisville, KY 40213, 502.874.8300 ...
+Body Content: Content could not be retrieved.
+
+Title: Alecia Berry - Yum! Brands - LinkedIn
+Link: https://www.linkedin.com/in/alecia-berry-83466221
+Snippet: <b>Brands</b> · Location: Louisville · 500+ connections on <b>LinkedIn</b>. View Alecia Berry’s <b>profile</b> on <b>LinkedIn</b>, a professional community of 1 billion members. Global public affairs, ESG and corporate ...
+Body Content: Content could not be retrieved.
+
+Title: David Gibbs - yum.com
+Link: https://www.yum.com/wps/portal/yumbrands/Yumbrands/company/about-yum-brands/senior-officers-and-leadership-team/leadership-detail/david+gibbs
+Snippet: Gibbs also served as Yum! Chief Strategy Officer during which time he revamped Yum! <b>Brands</b>’ global restaurant operations model, as Pizza Hut U.S. CFO and in various real estate and restaurant development leadership roles in KFC, Pizza Hut and Taco Bell. In addition to his role at Yum!, Gibbs serves on the <b>Board</b> <b>of Directors</b> of Under Armour, Inc.
+Body Content: Content could not be retrieved.
+
+Title: Amelia Rickert-Murphy - Director, Legal - Yum! Brands - LinkedIn
+Link: https://www.linkedin.com/in/amelia-murphy-esq
+Snippet: <b>Brands</b> · Education: Cornell Law School · Location: Baltimore · 500+ connections on <b>LinkedIn</b>. View Amelia Rickert-Murphy’s <b>profile</b> on <b>LinkedIn</b>, a professional community of 1 billion members.
+Body Content: Content could not be retrieved.
+
+Title: Amanda Bledsoe - LinkedIn
+Link: https://www.linkedin.com/in/abledsoe
+Snippet: Based in Louisville, Kentucky, and with 50,000+ restaurants in more than 150 countries, Yum! <b>Brands</b> is the world’s largest restaurant company and parent of KFC, Pizza Hut, Taco Bell and The ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'YUM Brands labor disputes or strikes':
+Title: 9,500 hotel workers end strikes, noting no progress on negotiations
+Link: https://www.hoteldive.com/news/hotel-strikes-end-boston-honolulu/726068/
+Snippet: Dive Brief: The hotel worker <b>strikes</b> that saw more than 10,000 workers across the country walk off the job last weekend have — mostly — ended, according to hospitality union Unite Here.; Some 700 workers at the Hilton San Diego Bayfront will remain on an open-ended <b>strike</b>, but all others who walked out on Sunday and Monday have returned to work, the union said.
+Body Content: Content could not be retrieved.
+
+Title: Some U.S. Hotels Face Worker Strikes as Labor Disputes Intensify
+Link: https://skift.com/2024/09/03/u-s-hotel-workers-on-strike-what-to-know/
+Snippet: About 200 hotel workers in Baltimore joined a multi-day <b>strike</b> by about 10,000 U.S. hotel workers nationwide as <b>labor</b> <b>disputes</b> heat up.
+Body Content: Content could not be retrieved.
+
+Title: YUM! BRANDS HUMAN RIGHTS &amp; LABOR PRACTICES POLICY
+Link: https://www.yum.com/wps/wcm/connect/yumbrands/c46006d8-a0ea-45bb-99ff-f77b4fadffcf/Human+Rights+and+Labor+Practices+Policy.pdf?MOD=AJPERES&CVID=n8OWUVK
+Snippet: In 2020, <b>Yum</b>! established a global membership with Sedex, one of the world’s leading ethical trade membership organizations that works with businesses to create more responsible and sustainable business practices. Sedex enables the assessment of risk at each supplier site, across four main areas – <b>labor</b> standards,
+Body Content: Content could not be retrieved.
+
+Title: Abebe v. Yum! Brands, Inc. et al (4:23-cv-00682), Texas Eastern ...
+Link: https://www.pacermonitor.com/public/case/49728022/Abebe_v_Yum_Brands,_Inc_et_al
+Snippet: <b>Brands</b>, Inc. et al (4:23-cv-00682), Texas Eastern District Court. Abebe v. <b>Yum</b>! <b>Brands</b>, Inc. et al. ORDER denying 30 Motion to <b>Strike</b> Portions of Azania Abebe&#39;s Declaration. Signed by District Judge Amos L. Mazzant, III on 8/21/2024. (rpc) MEMORANDUM OPINION AND ORDER. It is ORDERED that Defendants <b>Yum</b>!
+Body Content: Content could not be retrieved.
+
+Title: Labor disputes of 2023 led to some of the largest work stoppages in ...
+Link: https://www.pewresearch.org/short-reads/2024/01/04/2023-saw-some-of-the-biggest-hardest-fought-labor-disputes-in-recent-decades/
+Snippet: Workers in a SAG-AFTRA picket line at Sony Pictures Studios in Culver City, California, on Oct. 11, 2023. (Apu Gomes/Getty Images) The nearly four-month actors’ <b>strike</b> against major Hollywood production studios in 2023 was the second-largest <b>labor</b> <b>dispute</b> in the United States in at least three decades, according to a <b>Pew Research Center</b> analysis of federal data through Nov. 30.
+Body Content: Content could not be retrieved.
+
+Title: McDonald&#39;s, Starbucks, Yum Brands earnings: Israel/Gaza protest ...
+Link: https://fortune.com/2024/02/18/fast-food-protests-earnings-israel-gaza-mcdonalds-starbucks-taco-bell/
+Snippet: BY Sunny Nagpaul. February 18, 2024, 3:00 AM PST. McDonald’s reported a rare sales miss in its-fourth quarter earnings report earlier this month. Starbucks is forecasting slower growth for the ...
+Body Content: Content could not be retrieved.
+
+Title: Yum! Brands pledges $3 million to advance equality and social justice
+Link: https://www.yum.com/wps/portal/yumbrands/yumbrands/news/company-stories-article/yum!+brands+pledges+3+million+to+advance+equality+and+social+justice
+Snippet: As a start, <b>Yum</b>! <b>Brands</b>, KFC, Pizza Hut, Taco Bell and The Habit Burger Grill are collectively pledging $3 million to social justice efforts led by the NAACP Legal Defense and Educational Fund, American Civil Liberties Union and nonprofits fighting for social justice in our hometown of Louisville, Kentucky, which has been devastated by the deaths of Breonna Taylor and David McAtee. Of this ...
+Body Content: Content could not be retrieved.
+
+Title: Thousands of US workers are on strike today. Here&#39;s a rundown of major ...
+Link: https://apnews.com/article/labor-strikes-us-uaw-kaiser-hollywood-9c3d6d63c70078f1dd769ccadc81a06b
+Snippet: Doctors are also not participating in the <b>strike</b>, and Kaiser said it was bringing in thousands of temporary workers. UAW <b>strike</b> nears 3-week mark, with 25,000 on the picket lines. In an unprecedented <b>labor</b> campaign against three major car companies, some 25,000 auto workers have joined picket lines in recent weeks
+Body Content: Content could not be retrieved.
+
+Title: Yum! Brands - Human Rights &amp; Labor Practices Policy
+Link: https://www.business-humanrights.org/en/latest-news/yum-brands-human-rights-labor-practices-policy/
+Snippet: <b>Brands</b> - Grievance Mechanisms. 1 Jan 2016. Disclosure. <b>Yum</b>! <b>Brands</b> - Human Rights &amp; <b>Labor</b> Practices Policy. 1 Jan 2015. Disclosure. <b>Yum</b>! <b>Brands</b> - Our Values.
+Body Content: Content could not be retrieved.
+
+Title: Ethics &amp; Human Rights - yum.com
+Link: https://www.yum.com/wps/portal/yumbrands/Yumbrands/impact/people/ethics-and-human-rights
+Snippet: Sedex assesses risk at each supplier site, across four main areas – <b>labor</b> standards, health and safety, business ethics and environment – and uses a combination of self-assessments and third-party, ethical audits, to determine both potential and actual exposure. ... <b>Yum</b>! <b>Brands</b> RSC, 1900 Colonel Sanders Lane, Louisville, KY 40213, 502.874.8300.
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'YUM Brands labor disputes or strikes':
+Title: 9,500 hotel workers end strikes, noting no progress on negotiations
+Link: https://www.hoteldive.com/news/hotel-strikes-end-boston-honolulu/726068/
+Snippet: Dive Brief: The hotel worker <b>strikes</b> that saw more than 10,000 workers across the country walk off the job last weekend have — mostly — ended, according to hospitality union Unite Here.; Some 700 workers at the Hilton San Diego Bayfront will remain on an open-ended <b>strike</b>, but all others who walked out on Sunday and Monday have returned to work, the union said.
+Body Content: Content could not be retrieved.
+
+Title: Some U.S. Hotels Face Worker Strikes as Labor Disputes Intensify
+Link: https://skift.com/2024/09/03/u-s-hotel-workers-on-strike-what-to-know/
+Snippet: About 200 hotel workers in Baltimore joined a multi-day <b>strike</b> by about 10,000 U.S. hotel workers nationwide as <b>labor</b> <b>disputes</b> heat up.
+Body Content: Content could not be retrieved.
+
+Title: YUM! BRANDS HUMAN RIGHTS &amp; LABOR PRACTICES POLICY
+Link: https://www.yum.com/wps/wcm/connect/yumbrands/c46006d8-a0ea-45bb-99ff-f77b4fadffcf/Human+Rights+and+Labor+Practices+Policy.pdf?MOD=AJPERES&CVID=n8OWUVK
+Snippet: In 2020, <b>Yum</b>! established a global membership with Sedex, one of the world’s leading ethical trade membership organizations that works with businesses to create more responsible and sustainable business practices. Sedex enables the assessment of risk at each supplier site, across four main areas – <b>labor</b> standards,
+Body Content: Content could not be retrieved.
+
+Title: Abebe v. Yum! Brands, Inc. et al (4:23-cv-00682), Texas Eastern ...
+Link: https://www.pacermonitor.com/public/case/49728022/Abebe_v_Yum_Brands,_Inc_et_al
+Snippet: <b>Brands</b>, Inc. et al (4:23-cv-00682), Texas Eastern District Court. Abebe v. <b>Yum</b>! <b>Brands</b>, Inc. et al. ORDER denying 30 Motion to <b>Strike</b> Portions of Azania Abebe&#39;s Declaration. Signed by District Judge Amos L. Mazzant, III on 8/21/2024. (rpc) MEMORANDUM OPINION AND ORDER. It is ORDERED that Defendants <b>Yum</b>!
+Body Content: Content could not be retrieved.
+
+Title: Labor disputes of 2023 led to some of the largest work stoppages in ...
+Link: https://www.pewresearch.org/short-reads/2024/01/04/2023-saw-some-of-the-biggest-hardest-fought-labor-disputes-in-recent-decades/
+Snippet: Workers in a SAG-AFTRA picket line at Sony Pictures Studios in Culver City, California, on Oct. 11, 2023. (Apu Gomes/Getty Images) The nearly four-month actors’ <b>strike</b> against major Hollywood production studios in 2023 was the second-largest <b>labor</b> <b>dispute</b> in the United States in at least three decades, according to a <b>Pew Research Center</b> analysis of federal data through Nov. 30.
+Body Content: Content could not be retrieved.
+
+Title: McDonald&#39;s, Starbucks, Yum Brands earnings: Israel/Gaza protest ...
+Link: https://fortune.com/2024/02/18/fast-food-protests-earnings-israel-gaza-mcdonalds-starbucks-taco-bell/
+Snippet: BY Sunny Nagpaul. February 18, 2024, 3:00 AM PST. McDonald’s reported a rare sales miss in its-fourth quarter earnings report earlier this month. Starbucks is forecasting slower growth for the ...
+Body Content: Content could not be retrieved.
+
+Title: Yum! Brands pledges $3 million to advance equality and social justice
+Link: https://www.yum.com/wps/portal/yumbrands/yumbrands/news/company-stories-article/yum!+brands+pledges+3+million+to+advance+equality+and+social+justice
+Snippet: As a start, <b>Yum</b>! <b>Brands</b>, KFC, Pizza Hut, Taco Bell and The Habit Burger Grill are collectively pledging $3 million to social justice efforts led by the NAACP Legal Defense and Educational Fund, American Civil Liberties Union and nonprofits fighting for social justice in our hometown of Louisville, Kentucky, which has been devastated by the deaths of Breonna Taylor and David McAtee. Of this ...
+Body Content: Content could not be retrieved.
+
+Title: Thousands of US workers are on strike today. Here&#39;s a rundown of major ...
+Link: https://apnews.com/article/labor-strikes-us-uaw-kaiser-hollywood-9c3d6d63c70078f1dd769ccadc81a06b
+Snippet: Doctors are also not participating in the <b>strike</b>, and Kaiser said it was bringing in thousands of temporary workers. UAW <b>strike</b> nears 3-week mark, with 25,000 on the picket lines. In an unprecedented <b>labor</b> campaign against three major car companies, some 25,000 auto workers have joined picket lines in recent weeks
+Body Content: Content could not be retrieved.
+
+Title: Yum! Brands - Human Rights &amp; Labor Practices Policy
+Link: https://www.business-humanrights.org/en/latest-news/yum-brands-human-rights-labor-practices-policy/
+Snippet: <b>Brands</b> - Grievance Mechanisms. 1 Jan 2016. Disclosure. <b>Yum</b>! <b>Brands</b> - Human Rights &amp; <b>Labor</b> Practices Policy. 1 Jan 2015. Disclosure. <b>Yum</b>! <b>Brands</b> - Our Values.
+Body Content: Content could not be retrieved.
+
+Title: Ethics &amp; Human Rights - yum.com
+Link: https://www.yum.com/wps/portal/yumbrands/Yumbrands/impact/people/ethics-and-human-rights
+Snippet: Sedex assesses risk at each supplier site, across four main areas – <b>labor</b> standards, health and safety, business ethics and environment – and uses a combination of self-assessments and third-party, ethical audits, to determine both potential and actual exposure. ... <b>Yum</b>! <b>Brands</b> RSC, 1900 Colonel Sanders Lane, Louisville, KY 40213, 502.874.8300.
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'YUM Brands recent scandals or controversies':
+Title: Yum! Brands Inc. warns that the effects of a China supplier scandal ...
+Link: https://www.nrn.com/same-store-sales/yum-effects-china-supplier-scandal-could-deepen
+Snippet: <b>Yum</b>! <b>Brands</b> Inc. warned late Wednesday that the sales impact of the <b>recent</b> Chinese meat-vendor <b>scandal</b> could deepen. “The result has been a significant, negative impact to same-store sales at ...
+Body Content: Content could not be retrieved.
+
+Title: Yum, McDonald&#39;s apologize as new China food scandal hits - Yahoo Finance
+Link: https://finance.yahoo.com/news/yum-mcdonalds-shanghai-food-safety-investigation-012633194--sector.html
+Snippet: Mon, Jul 21, 2014, 2:36 PM. By Adam Jourdan and Lisa Baertlein SHANGHAI/LOS ANGELES (Reuters) - <b>Yum</b> <b>Brands</b> Inc and McDonald&#39;s Corp are facing a new food safety scare in China, denting the fast ...
+Body Content: Content could not be retrieved.
+
+Title: Yum Brands faces class action suits from employees after ransomware ...
+Link: https://www.cybersecuritydive.com/news/yum-brands-class-action-suits-employees-ransomware/650394/
+Snippet: <b>Yum</b> <b>Brands</b> is facing class action litigation in U.S. federal and state courts in connection with the January ransomware attack, the company said in a filing with the Securities and Exchange Commission last week.. The company said several class action lawsuits were filed in April by current and former employees alleging privacy violations in connection with the attack.
+Body Content: Content could not be retrieved.
+
+Title: Yum Brands Discloses Data Breach Following Ransomware Attack
+Link: https://www.securityweek.com/yum-brands-discloses-data-breach-following-ransomware-attack/
+Snippet: April 11, 2023. KFC, Pizza Hut, and Taco Bell parent company <b>Yum</b> <b>Brands</b> has confirmed that personally identifiable information (PII) was compromised in a January 2023 ransomware attack. Initially disclosed on January 18, the cyberattack resulted in <b>Yum</b> taking systems offline to contain the incident and closing roughly 300 restaurants in the UK ...
+Body Content: Content could not be retrieved.
+
+Title: Yum, Yum, Yum: Another Food Safety Scandal Rocks Multinationals in ...
+Link: https://www.cfr.org/blog/yum-yum-yum-another-food-safety-scandal-rocks-multinationals-china
+Snippet: More on: China. Health. It was a bad week for the crown jewels of the U.S. fast food industry. At the end of July, Louisiana-based <b>Yum</b>! <b>Brands</b>, which owns Kentucky Fried Chicken and Pizza Hut ...
+Body Content: Content could not be retrieved.
+
+Title: January 2023 Yum! Brands Data Breach Impacted Scores of Employees, Job ...
+Link: https://www.classaction.org/news/january-2023-yum-brands-data-breach-impacted-scores-of-employees-job-applicants-class-action-says
+Snippet: <b>Yum</b>! <b>Brands</b> faces a proposed class action lawsuit in the wake of a massive data breach disclosed in January 2023 that compromised the sensitive information of a yet-unknown number of current and former employees and job applicants of the company’s stable of fast food restaurants.
+Body Content: Content could not be retrieved.
+
+Title: Yum Brands alleges Grubhub ‘improperly terminated’ deal in lawsuit
+Link: https://www.restaurantdive.com/news/yum-brands-alleges-grubhub-improperly-terminated-deal-in-lawsuit/579691/
+Snippet: The lawsuit alleges Grubhub CEO Matt Maloney “improperly terminated” its contract with <b>Yum</b> in early June, claiming the restaurant giant’s partnerships with Uber Eats and Postmates violated terms of that 2018 deal, which <b>Yum</b> denies. According to the suit, the contract between the two companies includes a $50 million termination fee for <b>Yum</b> ...
+Body Content: Content could not be retrieved.
+
+Title: Yum, McDonald&#39;s apologize as new China food scandal hits
+Link: https://www.reuters.com/article/business/yum-mcdonalds-apologize-as-new-china-food-scandal-hits-idUSKBN0FQ01O/
+Snippet: McDonald&#39;s and <b>Yum</b> are the top two <b>brands</b> by sales in China&#39;s $174 billion fast-food market, according to Euromonitor, but face a challenge as local firms try to tempt cost-conscious diners with ...
+Body Content: Content could not be retrieved.
+
+Title: McDonald’s and <b>Yum</b> <b>Brands</b> Face New <b>Food Safety</b> Issues in China
+Link: https://fooddigital.com/franchising/mcdonalds-and-yum-brands-face-new-food-safety-issues-china
+Snippet: <b>Yum</b> <b>Brands</b>, still struggling to regain public approval in China after a <b>scandal</b> with its KFC chicken supplier in 2012, echoed similar sentiments. “We will not tolerate any violations of government laws and regulations from our suppliers,” a <b>Yum</b> China representative told Reuters, reportedly noting that its locations had strict orders to seal ...
+Body Content: Content could not be retrieved.
+
+Title: Why Yum Brands had its first negative quarter since the pandemic
+Link: https://www.nrn.com/first-bite/why-yum-brands-had-its-first-negative-quarter-pandemic
+Snippet: Technology was the focal point of that optimism, with CEO David Gibbs noting that Q1 marked the first time the <b>Yum</b> system surpassed over 50% in digital sales, representing about $30 billion in ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'YUM Brands recent scandals or controversies':
+Title: Yum! Brands Inc. warns that the effects of a China supplier scandal ...
+Link: https://www.nrn.com/same-store-sales/yum-effects-china-supplier-scandal-could-deepen
+Snippet: <b>Yum</b>! <b>Brands</b> Inc. warned late Wednesday that the sales impact of the <b>recent</b> Chinese meat-vendor <b>scandal</b> could deepen. “The result has been a significant, negative impact to same-store sales at ...
+Body Content: Content could not be retrieved.
+
+Title: Yum, McDonald&#39;s apologize as new China food scandal hits - Yahoo Finance
+Link: https://finance.yahoo.com/news/yum-mcdonalds-shanghai-food-safety-investigation-012633194--sector.html
+Snippet: Mon, Jul 21, 2014, 2:36 PM. By Adam Jourdan and Lisa Baertlein SHANGHAI/LOS ANGELES (Reuters) - <b>Yum</b> <b>Brands</b> Inc and McDonald&#39;s Corp are facing a new food safety scare in China, denting the fast ...
+Body Content: Content could not be retrieved.
+
+Title: Yum Brands faces class action suits from employees after ransomware ...
+Link: https://www.cybersecuritydive.com/news/yum-brands-class-action-suits-employees-ransomware/650394/
+Snippet: <b>Yum</b> <b>Brands</b> is facing class action litigation in U.S. federal and state courts in connection with the January ransomware attack, the company said in a filing with the Securities and Exchange Commission last week.. The company said several class action lawsuits were filed in April by current and former employees alleging privacy violations in connection with the attack.
+Body Content: Content could not be retrieved.
+
+Title: Yum Brands Discloses Data Breach Following Ransomware Attack
+Link: https://www.securityweek.com/yum-brands-discloses-data-breach-following-ransomware-attack/
+Snippet: April 11, 2023. KFC, Pizza Hut, and Taco Bell parent company <b>Yum</b> <b>Brands</b> has confirmed that personally identifiable information (PII) was compromised in a January 2023 ransomware attack. Initially disclosed on January 18, the cyberattack resulted in <b>Yum</b> taking systems offline to contain the incident and closing roughly 300 restaurants in the UK ...
+Body Content: Content could not be retrieved.
+
+Title: Yum, Yum, Yum: Another Food Safety Scandal Rocks Multinationals in ...
+Link: https://www.cfr.org/blog/yum-yum-yum-another-food-safety-scandal-rocks-multinationals-china
+Snippet: More on: China. Health. It was a bad week for the crown jewels of the U.S. fast food industry. At the end of July, Louisiana-based <b>Yum</b>! <b>Brands</b>, which owns Kentucky Fried Chicken and Pizza Hut ...
+Body Content: Content could not be retrieved.
+
+Title: January 2023 Yum! Brands Data Breach Impacted Scores of Employees, Job ...
+Link: https://www.classaction.org/news/january-2023-yum-brands-data-breach-impacted-scores-of-employees-job-applicants-class-action-says
+Snippet: <b>Yum</b>! <b>Brands</b> faces a proposed class action lawsuit in the wake of a massive data breach disclosed in January 2023 that compromised the sensitive information of a yet-unknown number of current and former employees and job applicants of the company’s stable of fast food restaurants.
+Body Content: Content could not be retrieved.
+
+Title: Yum Brands alleges Grubhub ‘improperly terminated’ deal in lawsuit
+Link: https://www.restaurantdive.com/news/yum-brands-alleges-grubhub-improperly-terminated-deal-in-lawsuit/579691/
+Snippet: The lawsuit alleges Grubhub CEO Matt Maloney “improperly terminated” its contract with <b>Yum</b> in early June, claiming the restaurant giant’s partnerships with Uber Eats and Postmates violated terms of that 2018 deal, which <b>Yum</b> denies. According to the suit, the contract between the two companies includes a $50 million termination fee for <b>Yum</b> ...
+Body Content: Content could not be retrieved.
+
+Title: Yum, McDonald&#39;s apologize as new China food scandal hits
+Link: https://www.reuters.com/article/business/yum-mcdonalds-apologize-as-new-china-food-scandal-hits-idUSKBN0FQ01O/
+Snippet: McDonald&#39;s and <b>Yum</b> are the top two <b>brands</b> by sales in China&#39;s $174 billion fast-food market, according to Euromonitor, but face a challenge as local firms try to tempt cost-conscious diners with ...
+Body Content: Content could not be retrieved.
+
+Title: McDonald’s and <b>Yum</b> <b>Brands</b> Face New <b>Food Safety</b> Issues in China
+Link: https://fooddigital.com/franchising/mcdonalds-and-yum-brands-face-new-food-safety-issues-china
+Snippet: <b>Yum</b> <b>Brands</b>, still struggling to regain public approval in China after a <b>scandal</b> with its KFC chicken supplier in 2012, echoed similar sentiments. “We will not tolerate any violations of government laws and regulations from our suppliers,” a <b>Yum</b> China representative told Reuters, reportedly noting that its locations had strict orders to seal ...
+Body Content: Content could not be retrieved.
+
+Title: Why Yum Brands had its first negative quarter since the pandemic
+Link: https://www.nrn.com/first-bite/why-yum-brands-had-its-first-negative-quarter-pandemic
+Snippet: Technology was the focal point of that optimism, with CEO David Gibbs noting that Q1 marked the first time the <b>Yum</b> system surpassed over 50% in digital sales, representing about $30 billion in ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'YUM Brands supply chain partners':
+Title: Home - RSCS - Restaurant Supply Chain Solutions
+Link: https://rscs.com/
+Snippet: Restaurant <b>Supply</b> <b>Chain</b> Solutions (RSCS), based in Louisville, KY, is the largest procurement cooperative in the quick-service restaurant industry. RSCS is the exclusive <b>supply</b> <b>chain</b> management organization for <b>Yum</b>! <b>Brands</b>, Inc. and its four national restaurant <b>brands</b> (KFC, Pizza Hut, Taco Bell and The Habit Burger Grill).
+Body Content: Content could not be retrieved.
+
+Title: How Yum! Brands is making its supply chain more sustainable
+Link: https://www.yum.com/wps/portal/yumbrands/Yumbrands/news/company-stories-article/How%20Yum%20Brands%20is%20making%20its%20supply%20chain%20more%20sustainable
+Snippet: <b>Brands</b> is making its <b>supply</b> <b>chain</b> more sustainable. The KFC, Pizza Hut, Taco Bell and The Habit Burger Grill parent company is investing in partnerships with dairy, beef and poultry suppliers to reduce carbon emissions and develop more resilient agricultural practices. The effects of climate change can have a major impact on the global food ...
+Body Content: Content could not be retrieved.
+
+Title: Supply Chain Partners - RSCS
+Link: https://rscs.com/supply-chain-partners/
+Snippet: If you are a supplier or distributor and have not been set up for system access, please contact the RSCS Help Desk at 502-896-5939 or email PCHelpDesk@rscs.com. If you are an employee of <b>Yum</b>! <b>Brands</b> and do not have a username, please email <b>Yum</b>! <b>Brands</b> Partner Visibility Access.
+Body Content: Content could not be retrieved.
+
+Title: Yum! Brands Annual Citizenship &amp; Sustainability Report Showcases ...
+Link: https://www.yum.com/wps/portal/yumbrands/Yumbrands/news/press-releases/yum!%20brands%20annual%20citizenship%20and%20sustainability%20report%20showcases%20progress%20around%20people,%20food%20and%20planet%20pillars
+Snippet: <b>Yum</b>! <b>Brands</b> Annual Citizenship &amp; Sustainability Report Showcases Progress around People, Food and Planet Pillars Today, <b>Yum</b>! <b>Brands</b>, Inc. (NYSE: <b>YUM</b>) released its annual Global Citizenship &amp; Sustainability Report, highlighting the Company’s progress on key issues that include less carbon, better packaging and more equality.
+Body Content: Content could not be retrieved.
+
+Title: Restaurant Supply Chain Solutions, LLC - A Yum! Brands Co-op
+Link: https://www.linkedin.com/company/ufpc
+Snippet: RSCS is the exclusive <b>supply</b> <b>chain</b> management organization for <b>Yum</b>! <b>Brands</b>, Inc. and its three national restaurant systems: KFC, Pizza Hut and Taco Bell. Based in Louisville, Ky., <b>Yum</b>!
+Body Content: Content could not be retrieved.
+
+Title: Yum! Brands Supplier Transition - SQFI
+Link: https://go.sqfi.com/yum-brands-supplier-transition
+Snippet: SQFI food safety certification is now accepted by <b>Yum</b>! <b>Brands</b> for their <b>supply</b> <b>chain</b> <b>partners</b>. Food producers, processors, packaging manufacturers, and storage and distribution <b>partners</b> to <b>Yum</b>! <b>Brands</b> certified to a GFSI benchmarked standard, such as the SQF Food Safety Code, will not be required to have the additional <b>Yum</b>! food safety audit ...
+Body Content: Content could not be retrieved.
+
+Title: How Yum! Brands Is Making Its Supply Chain More Sustainable - Yahoo Finance
+Link: https://finance.yahoo.com/news/yum-brands-making-supply-chain-181500526.html
+Snippet: How <b>Yum</b>! <b>Brands</b> Is Making Its <b>Supply</b> <b>Chain</b> More Sustainable. <b>Yum</b>! <b>Brands</b>. Thu, Dec 14, 2023, 1:15 PM 5 min read. ... engaging with sector and industry <b>partners</b> from land use to animal feed, and ...
+Body Content: Content could not be retrieved.
+
+Title: Yum! Brands&#39; new packaging policy has the potential to make a global impact
+Link: https://www.yum.com/wps/portal/yumbrands/Yumbrands/news/company-stories-article/Yum+Brands+new+packaging+policy
+Snippet: <b>Yum</b>!’s new policy, led by increased investments in circularity, which is the creation of a product with the intent that it gets recycled and thus goes back into the <b>supply</b> <b>chain</b>, consists of the following three measures: The elimination of unnecessary packaging. The shift to more sustainable materials. The support of better recycling systems ...
+Body Content: Content could not be retrieved.
+
+Title: Partner Visibility - RSCS
+Link: https://apps.rscs.com/Partner/
+Snippet: Restaurant <b>Supply Chain</b> Solutions provides a view into our business — and yours. RSCS has developed a system to give our trading <b>partners</b> and <b>Yum</b>! <b>Brands</b> the vital <b>supply</b> <b>chain</b> information they need to be strategic in today’s QSR environment! We are confident that providing you this information through an enhanced technology platform will ...
+Body Content: Content could not be retrieved.
+
+Title: Beyond Meat® Announces Global Strategic Partnership with Yum! Brands to ...
+Link: https://www.beyondmeat.com/en-US/press/beyond-meat-announces-global-strategic-partnership-with-yum-brands-to-offer-signature-plant-based-menu-items
+Snippet: <b>Brands</b> to Offer Signature Plant-Based Menu Items El Segundo, CA February 25, 2021 – Beyond Meat, Inc. (NASDAQ: BYND) today announced a global strategic partnership with <b>Yum</b>! <b>Brands</b> (NYSE: <b>YUM</b>) to co-create and offer craveable and innovative plant-based protein menu items that can only be found at KFC, Pizza Hut and Taco Bell over the next ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'YUM Brands supply chain partners':
+Title: Home - RSCS - Restaurant Supply Chain Solutions
+Link: https://rscs.com/
+Snippet: Restaurant <b>Supply</b> <b>Chain</b> Solutions (RSCS), based in Louisville, KY, is the largest procurement cooperative in the quick-service restaurant industry. RSCS is the exclusive <b>supply</b> <b>chain</b> management organization for <b>Yum</b>! <b>Brands</b>, Inc. and its four national restaurant <b>brands</b> (KFC, Pizza Hut, Taco Bell and The Habit Burger Grill).
+Body Content: Content could not be retrieved.
+
+Title: How Yum! Brands is making its supply chain more sustainable
+Link: https://www.yum.com/wps/portal/yumbrands/Yumbrands/news/company-stories-article/How%20Yum%20Brands%20is%20making%20its%20supply%20chain%20more%20sustainable
+Snippet: <b>Brands</b> is making its <b>supply</b> <b>chain</b> more sustainable. The KFC, Pizza Hut, Taco Bell and The Habit Burger Grill parent company is investing in partnerships with dairy, beef and poultry suppliers to reduce carbon emissions and develop more resilient agricultural practices. The effects of climate change can have a major impact on the global food ...
+Body Content: Content could not be retrieved.
+
+Title: Supply Chain Partners - RSCS
+Link: https://rscs.com/supply-chain-partners/
+Snippet: If you are a supplier or distributor and have not been set up for system access, please contact the RSCS Help Desk at 502-896-5939 or email PCHelpDesk@rscs.com. If you are an employee of <b>Yum</b>! <b>Brands</b> and do not have a username, please email <b>Yum</b>! <b>Brands</b> Partner Visibility Access.
+Body Content: Content could not be retrieved.
+
+Title: Yum! Brands Annual Citizenship &amp; Sustainability Report Showcases ...
+Link: https://www.yum.com/wps/portal/yumbrands/Yumbrands/news/press-releases/yum!%20brands%20annual%20citizenship%20and%20sustainability%20report%20showcases%20progress%20around%20people,%20food%20and%20planet%20pillars
+Snippet: <b>Yum</b>! <b>Brands</b> Annual Citizenship &amp; Sustainability Report Showcases Progress around People, Food and Planet Pillars Today, <b>Yum</b>! <b>Brands</b>, Inc. (NYSE: <b>YUM</b>) released its annual Global Citizenship &amp; Sustainability Report, highlighting the Company’s progress on key issues that include less carbon, better packaging and more equality.
+Body Content: Content could not be retrieved.
+
+Title: Restaurant Supply Chain Solutions, LLC - A Yum! Brands Co-op
+Link: https://www.linkedin.com/company/ufpc
+Snippet: RSCS is the exclusive <b>supply</b> <b>chain</b> management organization for <b>Yum</b>! <b>Brands</b>, Inc. and its three national restaurant systems: KFC, Pizza Hut and Taco Bell. Based in Louisville, Ky., <b>Yum</b>!
+Body Content: Content could not be retrieved.
+
+Title: Yum! Brands Supplier Transition - SQFI
+Link: https://go.sqfi.com/yum-brands-supplier-transition
+Snippet: SQFI food safety certification is now accepted by <b>Yum</b>! <b>Brands</b> for their <b>supply</b> <b>chain</b> <b>partners</b>. Food producers, processors, packaging manufacturers, and storage and distribution <b>partners</b> to <b>Yum</b>! <b>Brands</b> certified to a GFSI benchmarked standard, such as the SQF Food Safety Code, will not be required to have the additional <b>Yum</b>! food safety audit ...
+Body Content: Content could not be retrieved.
+
+Title: How Yum! Brands Is Making Its Supply Chain More Sustainable - Yahoo Finance
+Link: https://finance.yahoo.com/news/yum-brands-making-supply-chain-181500526.html
+Snippet: How <b>Yum</b>! <b>Brands</b> Is Making Its <b>Supply</b> <b>Chain</b> More Sustainable. <b>Yum</b>! <b>Brands</b>. Thu, Dec 14, 2023, 1:15 PM 5 min read. ... engaging with sector and industry <b>partners</b> from land use to animal feed, and ...
+Body Content: Content could not be retrieved.
+
+Title: Yum! Brands&#39; new packaging policy has the potential to make a global impact
+Link: https://www.yum.com/wps/portal/yumbrands/Yumbrands/news/company-stories-article/Yum+Brands+new+packaging+policy
+Snippet: <b>Yum</b>!’s new policy, led by increased investments in circularity, which is the creation of a product with the intent that it gets recycled and thus goes back into the <b>supply</b> <b>chain</b>, consists of the following three measures: The elimination of unnecessary packaging. The shift to more sustainable materials. The support of better recycling systems ...
+Body Content: Content could not be retrieved.
+
+Title: Partner Visibility - RSCS
+Link: https://apps.rscs.com/Partner/
+Snippet: Restaurant <b>Supply Chain</b> Solutions provides a view into our business — and yours. RSCS has developed a system to give our trading <b>partners</b> and <b>Yum</b>! <b>Brands</b> the vital <b>supply</b> <b>chain</b> information they need to be strategic in today’s QSR environment! We are confident that providing you this information through an enhanced technology platform will ...
+Body Content: Content could not be retrieved.
+
+Title: Beyond Meat® Announces Global Strategic Partnership with Yum! Brands to ...
+Link: https://www.beyondmeat.com/en-US/press/beyond-meat-announces-global-strategic-partnership-with-yum-brands-to-offer-signature-plant-based-menu-items
+Snippet: <b>Brands</b> to Offer Signature Plant-Based Menu Items El Segundo, CA February 25, 2021 – Beyond Meat, Inc. (NASDAQ: BYND) today announced a global strategic partnership with <b>Yum</b>! <b>Brands</b> (NYSE: <b>YUM</b>) to co-create and offer craveable and innovative plant-based protein menu items that can only be found at KFC, Pizza Hut and Taco Bell over the next ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)

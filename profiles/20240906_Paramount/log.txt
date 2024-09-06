@@ -1,0 +1,525 @@
+Susan: Sure, here's a possible strategy we can follow:
+
+1. **Setting the Parameters**: This involves deciding exactly what is to be researched about Paramount. As the company is in the entertainment industry, reports related to their financial performance, labor relations, and key executives and stakeholders will be crucial.
+
+2. **Financial Information research**: We will look for financial reports, which they likely publish annually. These can be sourced from their website or financial news websites. It’s also beneficial to monitor stock performance and analysis from financial experts.
+
+3. **Key Decision Makers**: This information can be sourced from the company's website, LinkedIn and their official press releases. The objective is to identify key people in the organization, their roles, and any potential points of leverage. 
+
+4. **Labor Relations**: Check Industrial Relations Court decisions, news websites, business reports, and forums that could highlight any history of industrial action or disputes involving Paramount employees.
+
+5. **Scandals & other points of leverage**: Online newspapers, industry blogs, social media platforms, or any online source hosting current news or discussions about the company will be useful. These will provide information on recent controversies or scandals connected to Paramount.
+
+6. **Data Compilation**: Finally, once all the relevant information has been gathered, it must be compiled in an objective, concise, and coherent manner.
+
+Remember that the most recent information is often the most relevant, so it would be beneficial to sort data from newest to oldest. Also, beware of bias in reports and articles, always cross-verify facts from multiple sources to ensure accuracy.
+Manny: Sure, here's a python list containing specific search queries Remi can perform:
+
+```python
+search_queries_for_remi = [
+    "Paramount Pictures annual financial report 2021",
+    "Paramount Pictures executive team",
+    "Paramount Pictures labor relations news",
+    "Paramount Pictures recent scandals",
+    "Paramount Pictures key stakeholders",
+]
+```
+Remi: Results for 'Paramount Pictures annual financial report 2021':
+Title: 0000813828-22-000005 | 10-K | Paramount
+Link: https://ir.paramount.com/sec-filings/sec-filing/10-k/0000813828-22-000005
+Snippet: Document Details. Form 10-K. Filing Date. Feb 15, 2022. Document Date. Dec 31, <b>2021</b>. Form Description. <b>Annual</b> <b>report</b> which provides a comprehensive overview of the company for the past year. Filing Group.
+Body Content: Content could not be retrieved.
+
+Title: Investor Relations - Paramount
+Link: https://ir.paramount.com/investor-relations/
+Snippet: Investor Contacts. See our shareholder services page for full details. You may automatically receive <b>Paramount</b> <b>financial</b> information by email. Please enter your preferences for email notifications below and click &quot;Submit.&quot; Our email alerts provide automated opt-out methods as well as complete contact information.
+Body Content: Content could not be retrieved.
+
+Title: Paramount - AnnualReports.com
+Link: https://www.annualreports.com/Company/paramount
+Snippet: <b>Paramount</b>. <b>Paramount</b> is a leading media and entertainment company that creates premium content and experiences for audiences worldwide. Driven by iconic studios, networks and streaming services, <b>Paramount</b>&#39;s portfolio of consumer brands includes CBS, Showtime Networks, <b>Paramount</b> <b>Pictures</b>, Nickelodeon, MTV, Comedy Central, BET, Paramount+, Pluto ...
+Body Content: Content could not be retrieved.
+
+Title: SEC Filings - Paramount
+Link: https://ir.paramount.com/sec-filings/paramount
+Snippet: Quarterly <b>report</b> which provides a continuing view of a company&#39;s <b>financial</b> position. 10-Q: View HTML. 0000813828-24-000053.pdf. 0000813828-24-000053.xls. EX-101.SCH - XBRL TAXONOMY EXTENSION SCHEMA. Aug 07, 2024: ... You may automatically receive <b>Paramount</b> <b>financial</b> information by email. Please enter your preferences for email notifications ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Announces Fourth Quarter 2021 Results
+Link: https://www.businesswire.com/news/home/20220222006094/en/Paramount-Announces-Fourth-Quarter-2021-Results
+Snippet: <b>Paramount</b> Group, Inc. (NYSE: PGRE) reported net income of $1.2 million and Core FFO of $52.8 million for the quarter ended December 31, <b>2021</b>. The Company also leased 1,016,900 square feet in <b>2021</b> ...
+Body Content: Content could not be retrieved.
+
+PDF Link: https://app.stocklight.com/stocks/us/nasdaq-para/paramount-global/annual-reports/nasdaq-para-2021-10K-21674775.pdf
+Title: Paramount Global - Annual Report: 2021 (Form 10-K)
+Link: https://annual-statements.com/company/paramount-global/annual-report-2021-form-10k-313485
+Snippet: At December 31, <b>2021</b> and 2020, the notional amount of all foreign currency contracts was $1.94 billion and $1.27 billion, respectively. For <b>2021</b>, $1.38 billion related to future production costs and $564 million related to our foreign currency balances and other expected foreign currency cash flows.
+Body Content: Content could not be retrieved.
+
+Title: Paramount Global (PARA) 10K Annual Reports &amp; 10Q SEC Filings - Last10K.com
+Link: https://last10k.com/sec-filings/para
+Snippet: Find the latest <b>financial</b> results and performance of <b>Paramount</b> Global (PARA) for the fiscal year ending December 31, 2023. Compare the 8K earnings press release and the 10-K <b>annual</b> <b>report</b> for revenue, operating income, cash flow, and other metrics.
+Body Content: Content could not be retrieved.
+
+Title: PARA | Paramount Global Cl B Annual Income Statement - WSJ
+Link: https://www.wsj.com/market-data/quotes/PARA/financials/annual/income-statement
+Snippet: Overview. Fiscal year is January-December. All values USD Millions. <b>Paramount</b> Global Cl B <b>annual</b> income statement. View PARA <b>financial</b> statements in full, including balance sheets and ratios.
+Body Content: Content could not be retrieved.
+
+PDF Link: https://annualreport.stocklight.com/nyse/pgre/23635732.pdf
+Remi: Results for 'Paramount Pictures annual financial report 2021':
+Title: 0000813828-22-000005 | 10-K | Paramount
+Link: https://ir.paramount.com/sec-filings/sec-filing/10-k/0000813828-22-000005
+Snippet: Document Details. Form 10-K. Filing Date. Feb 15, 2022. Document Date. Dec 31, <b>2021</b>. Form Description. <b>Annual</b> <b>report</b> which provides a comprehensive overview of the company for the past year. Filing Group.
+Body Content: Content could not be retrieved.
+
+Title: Investor Relations - Paramount
+Link: https://ir.paramount.com/investor-relations/
+Snippet: Investor Contacts. See our shareholder services page for full details. You may automatically receive <b>Paramount</b> <b>financial</b> information by email. Please enter your preferences for email notifications below and click &quot;Submit.&quot; Our email alerts provide automated opt-out methods as well as complete contact information.
+Body Content: Content could not be retrieved.
+
+Title: Paramount - AnnualReports.com
+Link: https://www.annualreports.com/Company/paramount
+Snippet: <b>Paramount</b>. <b>Paramount</b> is a leading media and entertainment company that creates premium content and experiences for audiences worldwide. Driven by iconic studios, networks and streaming services, <b>Paramount</b>&#39;s portfolio of consumer brands includes CBS, Showtime Networks, <b>Paramount</b> <b>Pictures</b>, Nickelodeon, MTV, Comedy Central, BET, Paramount+, Pluto ...
+Body Content: Content could not be retrieved.
+
+Title: SEC Filings - Paramount
+Link: https://ir.paramount.com/sec-filings/paramount
+Snippet: Quarterly <b>report</b> which provides a continuing view of a company&#39;s <b>financial</b> position. 10-Q: View HTML. 0000813828-24-000053.pdf. 0000813828-24-000053.xls. EX-101.SCH - XBRL TAXONOMY EXTENSION SCHEMA. Aug 07, 2024: ... You may automatically receive <b>Paramount</b> <b>financial</b> information by email. Please enter your preferences for email notifications ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Announces Fourth Quarter 2021 Results
+Link: https://www.businesswire.com/news/home/20220222006094/en/Paramount-Announces-Fourth-Quarter-2021-Results
+Snippet: <b>Paramount</b> Group, Inc. (NYSE: PGRE) reported net income of $1.2 million and Core FFO of $52.8 million for the quarter ended December 31, <b>2021</b>. The Company also leased 1,016,900 square feet in <b>2021</b> ...
+Body Content: Content could not be retrieved.
+
+PDF Link: https://app.stocklight.com/stocks/us/nasdaq-para/paramount-global/annual-reports/nasdaq-para-2021-10K-21674775.pdf
+Title: Paramount Global - Annual Report: 2021 (Form 10-K)
+Link: https://annual-statements.com/company/paramount-global/annual-report-2021-form-10k-313485
+Snippet: At December 31, <b>2021</b> and 2020, the notional amount of all foreign currency contracts was $1.94 billion and $1.27 billion, respectively. For <b>2021</b>, $1.38 billion related to future production costs and $564 million related to our foreign currency balances and other expected foreign currency cash flows.
+Body Content: Content could not be retrieved.
+
+Title: Paramount Global (PARA) 10K Annual Reports &amp; 10Q SEC Filings - Last10K.com
+Link: https://last10k.com/sec-filings/para
+Snippet: Find the latest <b>financial</b> results and performance of <b>Paramount</b> Global (PARA) for the fiscal year ending December 31, 2023. Compare the 8K earnings press release and the 10-K <b>annual</b> <b>report</b> for revenue, operating income, cash flow, and other metrics.
+Body Content: Content could not be retrieved.
+
+Title: PARA | Paramount Global Cl B Annual Income Statement - WSJ
+Link: https://www.wsj.com/market-data/quotes/PARA/financials/annual/income-statement
+Snippet: Overview. Fiscal year is January-December. All values USD Millions. <b>Paramount</b> Global Cl B <b>annual</b> income statement. View PARA <b>financial</b> statements in full, including balance sheets and ratios.
+Body Content: Content could not be retrieved.
+
+PDF Link: https://annualreport.stocklight.com/nyse/pgre/23635732.pdf
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Paramount Pictures executive team':
+Title: Leadership - Paramount
+Link: https://www.paramount.com/about/leadership
+Snippet: Susan Schuman. Nominating and Governance Committee Chair, Compensation Committee Member. Paramount is one of the world’s leading producers of premium entertainment content that connects billions of people in nearly every country in the world.
+Body Content: Content could not be retrieved.
+
+Title: List of Paramount Pictures executives - Wikipedia
+Link: https://en.wikipedia.org/wiki/List_of_Paramount_Pictures_executives
+Snippet: Paramount Communications (1989–1994) Original Viacom (1994–2006) Second Viacom (2006–2019) Paramount Global (2019–present) (known as ViacomCBS from 2019 to 2022) Parent: Paramount Motion <b>Pictures</b> Group: Website: www.paramount.com
+Body Content: Content could not be retrieved.
+
+Title: PARAMOUNT GLOBAL ANNOUNCES NEW LEADERSHIP | Paramount
+Link: https://ir.paramount.com/news-releases/news-release-details/paramount-global-announces-new-leadership
+Snippet: To lead and oversee the company moving forward, Paramount Global has established an Office of the CEO, consisting of three senior company <b>executives</b>: George Cheeks, President and CEO of CBS; Chris McCarthy, President and CEO, Showtime/MTV Entertainment Studios and Paramount Media Networks; and Brian Robbins, President and CEO of Paramount <b>Pictures</b> and Nickelodeon.
+Body Content: Content could not be retrieved.
+
+Title: ViacomCBS Announces Leadership Transition at Paramount Pictures
+Link: https://www.businesswire.com/news/home/20210913005797/en/ViacomCBS-Announces-Leadership-Transition-at-Paramount-Pictures
+Snippet: Contacts. Media Contacts Justin Dini <b>Executive</b> Vice President, Corporate Communications (212) 846-2724 justin.dini@viacomcbs.com Chris Petrikin EVP Paramount Global Communications &amp; Corporate ...
+Body Content: Content could not be retrieved.
+
+Title: Brian Robbins Officially Tapped to Lead Paramount - Variety
+Link: https://variety.com/2021/film/news/brian-robbins-new-paramount-ceo-chairman-1235063441/
+Snippet: Brian Robbins Officially Tapped to Lead Paramount. Brian Robbins has officially been named president and CEO of Paramount <b>Pictures</b>, replacing Jim Gianopulos as head of the studio behind the ...
+Body Content: Content could not be retrieved.
+
+Title: ViacomCBS taps Brian Robbins as Paramount Pictures CEO
+Link: https://www.cnbc.com/2021/09/13/viacomcbs-taps-brian-robbins-as-paramount-pictures-ceo-.html
+Snippet: ViacomCBS named Brian Robbins as the CEO of Paramount <b>Pictures</b>, in addition to his work with Nickelodeon. Robbins will oversee all of the films produced for streaming service Paramount+, and its ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Pictures Revamp Made Official By ViacomCBS: Jim ... - Deadline
+Link: https://deadline.com/2021/09/paramount-pictures-revamp-viacomcbs-jim-gianopulos-brian-robbins-david-nevins-1234832516/
+Snippet: The transition plan for Paramount <b>Pictures</b> is officially set, with ViacomCBS confirming Jim Gianopulos will exit and Brian Robbins will add leadership of the studio to his growing portfolio.. The ...
+Body Content: Content could not be retrieved.
+
+Title: List of Paramount Pictures executives - Wikiwand articles
+Link: https://www.wikiwand.com/en/articles/List_of_Paramount_Pictures_executives
+Snippet: List of Paramount <b>Pictures executives</b>. From Wikipedia, the free encyclopedia. The following is a list of Paramount <b>Pictures executives</b>. Quick Facts Company type, Industry ... Paramount <b>Pictures</b> Corporation; Company type: Subsidiary: Industry: Motion <b>pictures</b>: Founded: 1912: Headquarters:
+Body Content: Content could not be retrieved.
+
+Title: Brian Robbins to Become Chairman and CEO of Paramount Pictures - Variety
+Link: https://variety.com/2021/film/news/brian-robbins-paramount-pictures-chairman-ceo-1235060868/
+Snippet: Variety Plus Icon Read Next: George Clooney, Daniel Craig, Fernando Alonso … the Stars Align to Celebrate the Unveiling of Aston Martin’s Vanquish in Venice: ‘It’s a Masterpiece’
+Body Content: Content could not be retrieved.
+
+Title: Viacom Announces Leadership Transition at Paramount Pictures | Paramount
+Link: https://ir.viacom.com/news-releases/news-release-details/viacom-announces-leadership-transition-paramount-pictures
+Snippet: February 22, 2017. Viacom Announces Leadership Transition at Paramount <b>Pictures</b> 14.9 KB. Brad Grey to Step Down as Chairman and CEO. NEW YORK -- (BUSINESS WIRE)-- Viacom Inc. (NASDAQ: VIAB, VIA) today announced that Brad Grey will step down from his role as Chairman and Chief <b>Executive</b> Officer of Paramount <b>Pictures</b>.
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Paramount Pictures executive team':
+Title: Leadership - Paramount
+Link: https://www.paramount.com/about/leadership
+Snippet: Susan Schuman. Nominating and Governance Committee Chair, Compensation Committee Member. Paramount is one of the world’s leading producers of premium entertainment content that connects billions of people in nearly every country in the world.
+Body Content: Content could not be retrieved.
+
+Title: List of Paramount Pictures executives - Wikipedia
+Link: https://en.wikipedia.org/wiki/List_of_Paramount_Pictures_executives
+Snippet: Paramount Communications (1989–1994) Original Viacom (1994–2006) Second Viacom (2006–2019) Paramount Global (2019–present) (known as ViacomCBS from 2019 to 2022) Parent: Paramount Motion <b>Pictures</b> Group: Website: www.paramount.com
+Body Content: Content could not be retrieved.
+
+Title: PARAMOUNT GLOBAL ANNOUNCES NEW LEADERSHIP | Paramount
+Link: https://ir.paramount.com/news-releases/news-release-details/paramount-global-announces-new-leadership
+Snippet: To lead and oversee the company moving forward, Paramount Global has established an Office of the CEO, consisting of three senior company <b>executives</b>: George Cheeks, President and CEO of CBS; Chris McCarthy, President and CEO, Showtime/MTV Entertainment Studios and Paramount Media Networks; and Brian Robbins, President and CEO of Paramount <b>Pictures</b> and Nickelodeon.
+Body Content: Content could not be retrieved.
+
+Title: ViacomCBS Announces Leadership Transition at Paramount Pictures
+Link: https://www.businesswire.com/news/home/20210913005797/en/ViacomCBS-Announces-Leadership-Transition-at-Paramount-Pictures
+Snippet: Contacts. Media Contacts Justin Dini <b>Executive</b> Vice President, Corporate Communications (212) 846-2724 justin.dini@viacomcbs.com Chris Petrikin EVP Paramount Global Communications &amp; Corporate ...
+Body Content: Content could not be retrieved.
+
+Title: Brian Robbins Officially Tapped to Lead Paramount - Variety
+Link: https://variety.com/2021/film/news/brian-robbins-new-paramount-ceo-chairman-1235063441/
+Snippet: Brian Robbins Officially Tapped to Lead Paramount. Brian Robbins has officially been named president and CEO of Paramount <b>Pictures</b>, replacing Jim Gianopulos as head of the studio behind the ...
+Body Content: Content could not be retrieved.
+
+Title: ViacomCBS taps Brian Robbins as Paramount Pictures CEO
+Link: https://www.cnbc.com/2021/09/13/viacomcbs-taps-brian-robbins-as-paramount-pictures-ceo-.html
+Snippet: ViacomCBS named Brian Robbins as the CEO of Paramount <b>Pictures</b>, in addition to his work with Nickelodeon. Robbins will oversee all of the films produced for streaming service Paramount+, and its ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Pictures Revamp Made Official By ViacomCBS: Jim ... - Deadline
+Link: https://deadline.com/2021/09/paramount-pictures-revamp-viacomcbs-jim-gianopulos-brian-robbins-david-nevins-1234832516/
+Snippet: The transition plan for Paramount <b>Pictures</b> is officially set, with ViacomCBS confirming Jim Gianopulos will exit and Brian Robbins will add leadership of the studio to his growing portfolio.. The ...
+Body Content: Content could not be retrieved.
+
+Title: List of Paramount Pictures executives - Wikiwand articles
+Link: https://www.wikiwand.com/en/articles/List_of_Paramount_Pictures_executives
+Snippet: List of Paramount <b>Pictures executives</b>. From Wikipedia, the free encyclopedia. The following is a list of Paramount <b>Pictures executives</b>. Quick Facts Company type, Industry ... Paramount <b>Pictures</b> Corporation; Company type: Subsidiary: Industry: Motion <b>pictures</b>: Founded: 1912: Headquarters:
+Body Content: Content could not be retrieved.
+
+Title: Brian Robbins to Become Chairman and CEO of Paramount Pictures - Variety
+Link: https://variety.com/2021/film/news/brian-robbins-paramount-pictures-chairman-ceo-1235060868/
+Snippet: Variety Plus Icon Read Next: George Clooney, Daniel Craig, Fernando Alonso … the Stars Align to Celebrate the Unveiling of Aston Martin’s Vanquish in Venice: ‘It’s a Masterpiece’
+Body Content: Content could not be retrieved.
+
+Title: Viacom Announces Leadership Transition at Paramount Pictures | Paramount
+Link: https://ir.viacom.com/news-releases/news-release-details/viacom-announces-leadership-transition-paramount-pictures
+Snippet: February 22, 2017. Viacom Announces Leadership Transition at Paramount <b>Pictures</b> 14.9 KB. Brad Grey to Step Down as Chairman and CEO. NEW YORK -- (BUSINESS WIRE)-- Viacom Inc. (NASDAQ: VIAB, VIA) today announced that Brad Grey will step down from his role as Chairman and Chief <b>Executive</b> Officer of Paramount <b>Pictures</b>.
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Paramount Pictures labor relations news':
+Title: Paramount Lays Off 15 Percent of U.S. Employees
+Link: https://www.nytimes.com/2024/08/13/business/paramount-layoffs-skydance.html
+Snippet: Aug. 13, 2024. <b>Paramount</b>, the parent company of CBS, Nickelodeon and MTV, told its employees on Tuesday it was beginning a series of long-scheduled job cuts that would winnow its staff by roughly ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Global takes $6-billion write-down, announces layoffs - Los ...
+Link: https://www.latimes.com/entertainment-arts/business/story/2024-08-08/paramoung-earnings-writedown-cable-networks
+Snippet: By Ryan Faughnder. and Meg James. Aug. 8, 2024 Updated 3:41 PM PT. <b>Paramount</b> Global on Thursday reported it took a $6-billion write-down on its cable television networks business, in yet another ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount shutters television studio, begins major layoffs - Los ...
+Link: https://www.latimes.com/entertainment-arts/business/story/2024-08-13/paramounts-huge-layoffs-begin-nearly-2-000-employees-targeted-in-cuts
+Snippet: <b>Paramount</b> is laying off 15% of its staff, or about 2,000 people, in a major cost-cutting move aimed at finding $500 million in annual savings. <b>Paramount</b> shutters television studio, begins major ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Layoffs Begin, Cutting 15% of Employees - The Hollywood Reporter
+Link: https://www.hollywoodreporter.com/business/business-news/major-paramount-layoffs-begin-today-co-ceos-tell-staff-1235972976/
+Snippet: Getty Images. <b>Paramount</b> will begin cutting 15 percent of its U.S.-based workforce beginning today. <b>Paramount</b> co-CEOs Chris McCarthy, Brian Robbins and George Cheeks announced to staff in a memo ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Global braces for as many as 800 layoffs: report - New York Post
+Link: https://nypost.com/2024/01/22/media/paramount-global-braces-for-hundreds-of-layoffs-report/
+Snippet: Published Jan. 22, 2024, 5:16 p.m. ET. <b>Paramount</b> Global is sharpening the ax for a massive wave of staff reductions that could whack as many as 800 jobs, according to a new report. The debt-laden ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount to Lay Off 15% U.S. Staffers in Fresh Round of Cuts - Variety
+Link: https://variety.com/2024/biz/news/paramount-layoffs-15-percent-1236100607/
+Snippet: Courtesy of <b>Paramount</b> Global. <b>Paramount</b> Global will cut 15% of its U.S. workforce in the next few weeks — a round of layoffs that will affect about 2,000 employees — coming ahead of its ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount to lay off hundreds of staffers - Los Angeles Times
+Link: https://www.latimes.com/entertainment-arts/business/story/2024-02-13/paramount-to-lay-off-800-staffers-in-cost-cutting-effort
+Snippet: Feb. 13, 2024 Updated 1:09 PM PT. Layoffs are hitting <b>Paramount</b> Global. The media giant that owns the <b>Paramount</b> <b>Pictures</b> movie studio, plus CBS, Nickelodeon and other networks, will eliminate ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Layoffs: 800 Staffers Cut as CEO Unveils Memo on Costs
+Link: https://www.hollywoodreporter.com/business/business-news/paramount-layoffs-memo-staff-cuts-1235823470/
+Snippet: <b>Paramount</b> to Lay Off 800 Staffers as CEO Unveils Broad “Streamlining Costs” Effort. As Wall Street evaluates the media giant&#39;s future as a stand-alone company and suitors wait in the wings ...
+Body Content: Content could not be retrieved.
+
+Title: Globally EARNINGS RESULTS - Paramount
+Link: https://ir.paramount.com/static-files/8e9d8f99-765d-48a7-8000-7bcfe856337a
+Snippet: Advertising revenue rose 31%, driven by growth from Pluto TV and Paramount+, including the benefit of Super Bowl LVIII. Paramount+ revenue grew 51%, reflecting subscriber growth and ARPU expansion. Paramount+ subscribers reached more than 71 million, with 3.7 million net additions in the quarter. Paramount+ global ARPU expanded 26% year-over-year.
+Body Content: Content could not be retrieved.
+
+Title: Brooke Robertson Tapped to Run Global Comms at Paramount Pictures - Adweek
+Link: https://www.adweek.com/morning-media-newsfeed/brooke-robertson-tapped-to-run-global-comms-at-paramount-pictures/
+Snippet: <b>Paramount</b> <b>Pictures</b> has promoted Brooke Robertson to head of global communications and media <b>relations</b>. She’ll report directly to president and CEO Brian Robbins.
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Paramount Pictures labor relations news':
+Title: Paramount Lays Off 15 Percent of U.S. Employees
+Link: https://www.nytimes.com/2024/08/13/business/paramount-layoffs-skydance.html
+Snippet: Aug. 13, 2024. <b>Paramount</b>, the parent company of CBS, Nickelodeon and MTV, told its employees on Tuesday it was beginning a series of long-scheduled job cuts that would winnow its staff by roughly ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Global takes $6-billion write-down, announces layoffs - Los ...
+Link: https://www.latimes.com/entertainment-arts/business/story/2024-08-08/paramoung-earnings-writedown-cable-networks
+Snippet: By Ryan Faughnder. and Meg James. Aug. 8, 2024 Updated 3:41 PM PT. <b>Paramount</b> Global on Thursday reported it took a $6-billion write-down on its cable television networks business, in yet another ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount shutters television studio, begins major layoffs - Los ...
+Link: https://www.latimes.com/entertainment-arts/business/story/2024-08-13/paramounts-huge-layoffs-begin-nearly-2-000-employees-targeted-in-cuts
+Snippet: <b>Paramount</b> is laying off 15% of its staff, or about 2,000 people, in a major cost-cutting move aimed at finding $500 million in annual savings. <b>Paramount</b> shutters television studio, begins major ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Layoffs Begin, Cutting 15% of Employees - The Hollywood Reporter
+Link: https://www.hollywoodreporter.com/business/business-news/major-paramount-layoffs-begin-today-co-ceos-tell-staff-1235972976/
+Snippet: Getty Images. <b>Paramount</b> will begin cutting 15 percent of its U.S.-based workforce beginning today. <b>Paramount</b> co-CEOs Chris McCarthy, Brian Robbins and George Cheeks announced to staff in a memo ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Global braces for as many as 800 layoffs: report - New York Post
+Link: https://nypost.com/2024/01/22/media/paramount-global-braces-for-hundreds-of-layoffs-report/
+Snippet: Published Jan. 22, 2024, 5:16 p.m. ET. <b>Paramount</b> Global is sharpening the ax for a massive wave of staff reductions that could whack as many as 800 jobs, according to a new report. The debt-laden ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount to Lay Off 15% U.S. Staffers in Fresh Round of Cuts - Variety
+Link: https://variety.com/2024/biz/news/paramount-layoffs-15-percent-1236100607/
+Snippet: Courtesy of <b>Paramount</b> Global. <b>Paramount</b> Global will cut 15% of its U.S. workforce in the next few weeks — a round of layoffs that will affect about 2,000 employees — coming ahead of its ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount to lay off hundreds of staffers - Los Angeles Times
+Link: https://www.latimes.com/entertainment-arts/business/story/2024-02-13/paramount-to-lay-off-800-staffers-in-cost-cutting-effort
+Snippet: Feb. 13, 2024 Updated 1:09 PM PT. Layoffs are hitting <b>Paramount</b> Global. The media giant that owns the <b>Paramount</b> <b>Pictures</b> movie studio, plus CBS, Nickelodeon and other networks, will eliminate ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Layoffs: 800 Staffers Cut as CEO Unveils Memo on Costs
+Link: https://www.hollywoodreporter.com/business/business-news/paramount-layoffs-memo-staff-cuts-1235823470/
+Snippet: <b>Paramount</b> to Lay Off 800 Staffers as CEO Unveils Broad “Streamlining Costs” Effort. As Wall Street evaluates the media giant&#39;s future as a stand-alone company and suitors wait in the wings ...
+Body Content: Content could not be retrieved.
+
+Title: Globally EARNINGS RESULTS - Paramount
+Link: https://ir.paramount.com/static-files/8e9d8f99-765d-48a7-8000-7bcfe856337a
+Snippet: Advertising revenue rose 31%, driven by growth from Pluto TV and Paramount+, including the benefit of Super Bowl LVIII. Paramount+ revenue grew 51%, reflecting subscriber growth and ARPU expansion. Paramount+ subscribers reached more than 71 million, with 3.7 million net additions in the quarter. Paramount+ global ARPU expanded 26% year-over-year.
+Body Content: Content could not be retrieved.
+
+Title: Brooke Robertson Tapped to Run Global Comms at Paramount Pictures - Adweek
+Link: https://www.adweek.com/morning-media-newsfeed/brooke-robertson-tapped-to-run-global-comms-at-paramount-pictures/
+Snippet: <b>Paramount</b> <b>Pictures</b> has promoted Brooke Robertson to head of global communications and media <b>relations</b>. She’ll report directly to president and CEO Brian Robbins.
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Paramount Pictures recent scandals':
+Title: Sexual Abuse Claims Leveled Against Paramount In $100M Romeo ... - Deadline
+Link: https://deadline.com/2023/01/sexual-abuse-lawsuit-paramount-romeo-amp-juliet-stars-movie-1235210875/
+Snippet: Almost 55 years after Franco Zeffirelli Oscar-nominated adaptation of Romeo &amp; Juliet came out, the then-young stars of the film are now suing Paramount <b>Pictures</b> for more than $100 million for ...
+Body Content: Content could not be retrieved.
+
+Title: ‘Romeo and Juliet’ Paramount Lawsuit: Everything to Know
+Link: https://www.usmagazine.com/celebrity-news/pictures/romeo-and-juliet-paramount-lawsuit-everything-to-know/
+Snippet: The lead actors of the 1968 film adaptation of Romeo and Juliet have found themselves in a legal battle with Paramount <b>Pictures</b> over the movie’s nude scene.Leonard Whiting and Olivia Hussey, who ...
+Body Content: Content could not be retrieved.
+
+Title: Stars of 1968’s ‘Romeo and Juliet’ sue Paramount over nude ... - CNN
+Link: https://www.cnn.com/2023/01/04/entertainment/romeo-and-juliet-lawsuit/index.html
+Snippet: Actors from the 1968 film “Romeo and Juliet” have filed a lawsuit against Paramount Studios, which produced the film, for allowing the movie to be released with scenes showing them nude when ...
+Body Content: Content could not be retrieved.
+
+Title: Head of Paramount Pictures is ousted as ViacomCBS focuses on streaming.
+Link: https://www.nytimes.com/2021/09/13/business/media/paramount-pictures-viacomcbs-gianopulos.html
+Snippet: Brian Robbins, 58, who runs Viacom’s children’s television business, will succeed Mr. Gianopulos, 69, as chief executive of Paramount <b>Pictures</b>, ViacomCBS said. Emma Watts, 51, the president of ...
+Body Content: Content could not be retrieved.
+
+Title: What&#39;s going on at Paramount? Whispers about the CEO&#39;s fate - Fast Company
+Link: https://www.fastcompany.com/91115042/whats-going-on-at-paramount-ceo-ousted-skydance-redstone
+Snippet: Shares of Paramount closed up more than 2% Monday on the reports. After the bell, the company reported Q1 revenue of $7.7 billion, up 51% year over year.
+Body Content: Content could not be retrieved.
+
+Title: Investors Say They Have Evidence of Paramount Pictures Financing Fraud
+Link: https://www.hollywoodreporter.com/business/business-news/investors-say-they-have-evidence-716959/
+Snippet: Investors Say They Have Evidence of Paramount <b>Pictures</b> Financing Fraud. Months before various hedge funds put up $40 million for 25 films including &quot;Mean Girls&quot; and &quot;The Manchurian Candidate ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Has &#39;1-2 Years&#39; Before a &#39;Breakup Becomes Inevitable&#39; - IndieWire
+Link: https://www.indiewire.com/news/analysis/paramount-pictures-studio-spinoff-1234877583/
+Snippet: Paramount as We Know It Has 2 Years Left, at Most — Analyst. A leading Wells Fargo analyst says that the company leaders can wait or get on with it, but a break-up is inevitable. The same ...
+Body Content: Content could not be retrieved.
+
+Title: Why Paramount Has Sold Off 4 Films Already This Year
+Link: https://www.thewrap.com/paramount-sold-off-5-films-pandemic-studio/
+Snippet: The studio posted its first full year of profitability in 2019 after four years of losses — though first quarter profits in 2020 were just $27 million despite an uptick in revenue to $811 ...
+Body Content: Content could not be retrieved.
+
+Title: Criticism of Paramount Global - Wikipedia
+Link: https://en.wikipedia.org/wiki/Criticism_of_Paramount_Global
+Snippet: Paramount Global (previously ViacomCBS) [1] is an American multinational entertainment conglomerate that was the subject of criticisms and controversies about its products and services. Criticism of Paramount Global has included the former Viacom Inc.&#39;s announced plans of looking into splitting the company into two publicly traded companies. The company was not only dealing with a stagnating ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Pictures: Sexual assault suspect arrested in Los Angeles ...
+Link: https://www.cnn.com/2020/10/19/us/paramount-studio-barricade/index.html
+Snippet: A sexual assault suspect who was barricaded in a building on the lot of Paramount <b>Pictures</b> has been arrested and taken to a hospital for treatment. At one point, an officer was involved in a ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Paramount Pictures recent scandals':
+Title: Sexual Abuse Claims Leveled Against Paramount In $100M Romeo ... - Deadline
+Link: https://deadline.com/2023/01/sexual-abuse-lawsuit-paramount-romeo-amp-juliet-stars-movie-1235210875/
+Snippet: Almost 55 years after Franco Zeffirelli Oscar-nominated adaptation of Romeo &amp; Juliet came out, the then-young stars of the film are now suing Paramount <b>Pictures</b> for more than $100 million for ...
+Body Content: Content could not be retrieved.
+
+Title: ‘Romeo and Juliet’ Paramount Lawsuit: Everything to Know
+Link: https://www.usmagazine.com/celebrity-news/pictures/romeo-and-juliet-paramount-lawsuit-everything-to-know/
+Snippet: The lead actors of the 1968 film adaptation of Romeo and Juliet have found themselves in a legal battle with Paramount <b>Pictures</b> over the movie’s nude scene.Leonard Whiting and Olivia Hussey, who ...
+Body Content: Content could not be retrieved.
+
+Title: Stars of 1968’s ‘Romeo and Juliet’ sue Paramount over nude ... - CNN
+Link: https://www.cnn.com/2023/01/04/entertainment/romeo-and-juliet-lawsuit/index.html
+Snippet: Actors from the 1968 film “Romeo and Juliet” have filed a lawsuit against Paramount Studios, which produced the film, for allowing the movie to be released with scenes showing them nude when ...
+Body Content: Content could not be retrieved.
+
+Title: Head of Paramount Pictures is ousted as ViacomCBS focuses on streaming.
+Link: https://www.nytimes.com/2021/09/13/business/media/paramount-pictures-viacomcbs-gianopulos.html
+Snippet: Brian Robbins, 58, who runs Viacom’s children’s television business, will succeed Mr. Gianopulos, 69, as chief executive of Paramount <b>Pictures</b>, ViacomCBS said. Emma Watts, 51, the president of ...
+Body Content: Content could not be retrieved.
+
+Title: What&#39;s going on at Paramount? Whispers about the CEO&#39;s fate - Fast Company
+Link: https://www.fastcompany.com/91115042/whats-going-on-at-paramount-ceo-ousted-skydance-redstone
+Snippet: Shares of Paramount closed up more than 2% Monday on the reports. After the bell, the company reported Q1 revenue of $7.7 billion, up 51% year over year.
+Body Content: Content could not be retrieved.
+
+Title: Investors Say They Have Evidence of Paramount Pictures Financing Fraud
+Link: https://www.hollywoodreporter.com/business/business-news/investors-say-they-have-evidence-716959/
+Snippet: Investors Say They Have Evidence of Paramount <b>Pictures</b> Financing Fraud. Months before various hedge funds put up $40 million for 25 films including &quot;Mean Girls&quot; and &quot;The Manchurian Candidate ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Has &#39;1-2 Years&#39; Before a &#39;Breakup Becomes Inevitable&#39; - IndieWire
+Link: https://www.indiewire.com/news/analysis/paramount-pictures-studio-spinoff-1234877583/
+Snippet: Paramount as We Know It Has 2 Years Left, at Most — Analyst. A leading Wells Fargo analyst says that the company leaders can wait or get on with it, but a break-up is inevitable. The same ...
+Body Content: Content could not be retrieved.
+
+Title: Why Paramount Has Sold Off 4 Films Already This Year
+Link: https://www.thewrap.com/paramount-sold-off-5-films-pandemic-studio/
+Snippet: The studio posted its first full year of profitability in 2019 after four years of losses — though first quarter profits in 2020 were just $27 million despite an uptick in revenue to $811 ...
+Body Content: Content could not be retrieved.
+
+Title: Criticism of Paramount Global - Wikipedia
+Link: https://en.wikipedia.org/wiki/Criticism_of_Paramount_Global
+Snippet: Paramount Global (previously ViacomCBS) [1] is an American multinational entertainment conglomerate that was the subject of criticisms and controversies about its products and services. Criticism of Paramount Global has included the former Viacom Inc.&#39;s announced plans of looking into splitting the company into two publicly traded companies. The company was not only dealing with a stagnating ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Pictures: Sexual assault suspect arrested in Los Angeles ...
+Link: https://www.cnn.com/2020/10/19/us/paramount-studio-barricade/index.html
+Snippet: A sexual assault suspect who was barricaded in a building on the lot of Paramount <b>Pictures</b> has been arrested and taken to a hospital for treatment. At one point, an officer was involved in a ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Paramount Pictures key stakeholders':
+Title: Leadership - Paramount
+Link: https://www.paramount.com/about/leadership
+Snippet: Susan Schuman. Nominating and Governance Committee Chair, Compensation Committee Member. Paramount is one of the world’s leading producers of premium entertainment content that connects billions of people in nearly every country in the world.
+Body Content: Content could not be retrieved.
+
+Title: Paramount Releases 2022-2023 Environmental, Social, and Governance (ESG ...
+Link: https://ir.paramount.com/node/69196/pdf
+Snippet: September 28, 2023. NEW YORK, Sept. 28, 2023 Paramount Global (NASDAQ: PARA, PARAA) today released its fourth annual Environmental, Social, and Governance (ESG) Report highlighting its progress on its goals and accomplishments within three <b>key</b> focus areas: On-Screen Content &amp; Social Impact; Workforce &amp; Culture; and Sustainable Production ...
+Body Content: Content could not be retrieved.
+
+Title: ESG &amp; SUSTAINABILITY - Paramount
+Link: https://www.paramount.com/inclusion-impact/esg-sustainability
+Snippet: We take seriously the views of all our <b>stakeholders</b> and actively seek their input. For any feedback or questions, please contact Jessica Thurston, Vice President, ESG, at sustainability@paramount.com. Paramount is one of the world’s leading producers of premium entertainment content that connects billions of people in nearly every country in ...
+Body Content: Content could not be retrieved.
+
+Title: Who Owns Paramount? Unveiling the Titans of Entertainment ... - Seriosity
+Link: https://seriosity.com/who-owns-paramount/
+Snippet: Paramount <b>Pictures</b>, owned primarily by National Amusements and significantly influenced by Paramount Global (formerly ViacomCBS), is a legacy in the entertainment industry with a strategic approach to growth and adaptability. The company’s history from its inception in 1912, under the vision of Adolph Zukor, to a global media powerhouse ...
+Body Content: Content could not be retrieved.
+
+Title: What to know about the Paramount Skydance merger. - Fast Company
+Link: https://www.fastcompany.com/91152191/what-to-know-about-paramount-skydance-merger-explained
+Snippet: National Amusements is the company that owns Paramount founder Sumner Redstone’s controlling stake in Paramount. Skydance will then merge with Paramount, giving the company $1.5 billion in cash ...
+Body Content: Content could not be retrieved.
+
+Title: List of Paramount Pictures executives - Wikipedia
+Link: https://en.wikipedia.org/wiki/List_of_Paramount_Pictures_executives
+Snippet: <b>Key</b> people. Brian Robbins, Chairman and CEO: Revenue: $3.0 billion USD (2005) Operating income. $62.1 ... Second Viacom (2006–2019) Paramount Global (2019–present) (known as ViacomCBS from 2019 to 2022) Parent: Paramount Motion <b>Pictures</b> Group: Website: www.paramount.com: The following is a list of Paramount <b>Pictures</b> executives. Paramount ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount and Skydance agree to merge, marking a new chapter for the ...
+Link: https://finance.yahoo.com/news/paramounts-board-approves-bid-david-224344991.html
+Snippet: Paramount boasts some of the most historic brands in entertainment, including the 112-year-old Paramount <b>Pictures</b> movie studio, known for landmark films such as &quot;The Godfather&quot; and &quot;Chinatown.&quot;
+Body Content: Content could not be retrieved.
+
+Title: Paramount Pictures Promotes Brooke Robertson To Head Of Global ...
+Link: https://deadline.com/2023/09/paramount-pictures-brooke-robertson-1235552720/
+Snippet: Paramount <b>Pictures</b> has promoted Brooke Robertson to Head of Global Communications &amp; Media Relations. ... She will also serve as a <b>key</b> <b>stakeholder</b> across Paramount Global’s properties, including ...
+Body Content: Content could not be retrieved.
+
+Title: KKR to Acquire Simon &amp; Schuster from Paramount Global for $1.62 Billion ...
+Link: https://ir.paramount.com/news-releases/news-release-details/kkr-acquire-simon-schuster-paramount-global-162-billion
+Snippet: NEW YORK--(BUSINESS WIRE)--Aug. 7, 2023-- Paramount Global (NASDAQ: PARA, PARAA) and KKR today announced the signing of a definitive agreement pursuant to which KKR will acquire Simon &amp; Schuster for $1.62 billion in an all-cash transaction. &quot;We are pleased to have reached an agreement on a transaction that delivers excellent value to Paramount shareholders while also positioning Simon ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Pictures - Wikipedia
+Link: https://en.wikipedia.org/wiki/Paramount_Pictures
+Snippet: Paramount <b>Pictures</b>
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Paramount Pictures key stakeholders':
+Title: Leadership - Paramount
+Link: https://www.paramount.com/about/leadership
+Snippet: Susan Schuman. Nominating and Governance Committee Chair, Compensation Committee Member. Paramount is one of the world’s leading producers of premium entertainment content that connects billions of people in nearly every country in the world.
+Body Content: Content could not be retrieved.
+
+Title: Paramount Releases 2022-2023 Environmental, Social, and Governance (ESG ...
+Link: https://ir.paramount.com/node/69196/pdf
+Snippet: September 28, 2023. NEW YORK, Sept. 28, 2023 Paramount Global (NASDAQ: PARA, PARAA) today released its fourth annual Environmental, Social, and Governance (ESG) Report highlighting its progress on its goals and accomplishments within three <b>key</b> focus areas: On-Screen Content &amp; Social Impact; Workforce &amp; Culture; and Sustainable Production ...
+Body Content: Content could not be retrieved.
+
+Title: ESG &amp; SUSTAINABILITY - Paramount
+Link: https://www.paramount.com/inclusion-impact/esg-sustainability
+Snippet: We take seriously the views of all our <b>stakeholders</b> and actively seek their input. For any feedback or questions, please contact Jessica Thurston, Vice President, ESG, at sustainability@paramount.com. Paramount is one of the world’s leading producers of premium entertainment content that connects billions of people in nearly every country in ...
+Body Content: Content could not be retrieved.
+
+Title: Who Owns Paramount? Unveiling the Titans of Entertainment ... - Seriosity
+Link: https://seriosity.com/who-owns-paramount/
+Snippet: Paramount <b>Pictures</b>, owned primarily by National Amusements and significantly influenced by Paramount Global (formerly ViacomCBS), is a legacy in the entertainment industry with a strategic approach to growth and adaptability. The company’s history from its inception in 1912, under the vision of Adolph Zukor, to a global media powerhouse ...
+Body Content: Content could not be retrieved.
+
+Title: What to know about the Paramount Skydance merger. - Fast Company
+Link: https://www.fastcompany.com/91152191/what-to-know-about-paramount-skydance-merger-explained
+Snippet: National Amusements is the company that owns Paramount founder Sumner Redstone’s controlling stake in Paramount. Skydance will then merge with Paramount, giving the company $1.5 billion in cash ...
+Body Content: Content could not be retrieved.
+
+Title: List of Paramount Pictures executives - Wikipedia
+Link: https://en.wikipedia.org/wiki/List_of_Paramount_Pictures_executives
+Snippet: <b>Key</b> people. Brian Robbins, Chairman and CEO: Revenue: $3.0 billion USD (2005) Operating income. $62.1 ... Second Viacom (2006–2019) Paramount Global (2019–present) (known as ViacomCBS from 2019 to 2022) Parent: Paramount Motion <b>Pictures</b> Group: Website: www.paramount.com: The following is a list of Paramount <b>Pictures</b> executives. Paramount ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount and Skydance agree to merge, marking a new chapter for the ...
+Link: https://finance.yahoo.com/news/paramounts-board-approves-bid-david-224344991.html
+Snippet: Paramount boasts some of the most historic brands in entertainment, including the 112-year-old Paramount <b>Pictures</b> movie studio, known for landmark films such as &quot;The Godfather&quot; and &quot;Chinatown.&quot;
+Body Content: Content could not be retrieved.
+
+Title: Paramount Pictures Promotes Brooke Robertson To Head Of Global ...
+Link: https://deadline.com/2023/09/paramount-pictures-brooke-robertson-1235552720/
+Snippet: Paramount <b>Pictures</b> has promoted Brooke Robertson to Head of Global Communications &amp; Media Relations. ... She will also serve as a <b>key</b> <b>stakeholder</b> across Paramount Global’s properties, including ...
+Body Content: Content could not be retrieved.
+
+Title: KKR to Acquire Simon &amp; Schuster from Paramount Global for $1.62 Billion ...
+Link: https://ir.paramount.com/news-releases/news-release-details/kkr-acquire-simon-schuster-paramount-global-162-billion
+Snippet: NEW YORK--(BUSINESS WIRE)--Aug. 7, 2023-- Paramount Global (NASDAQ: PARA, PARAA) and KKR today announced the signing of a definitive agreement pursuant to which KKR will acquire Simon &amp; Schuster for $1.62 billion in an all-cash transaction. &quot;We are pleased to have reached an agreement on a transaction that delivers excellent value to Paramount shareholders while also positioning Simon ...
+Body Content: Content could not be retrieved.
+
+Title: Paramount Pictures - Wikipedia
+Link: https://en.wikipedia.org/wiki/Paramount_Pictures
+Snippet: Paramount <b>Pictures</b>
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)

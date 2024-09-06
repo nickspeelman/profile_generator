@@ -1,0 +1,548 @@
+Susan: Sure, here is a suggested strategy for gathering information on NBC.
+
+1. **Company Overview:** Start by visiting the official NBC website and corporate portfolio sites (like NBCUniversal, a subsidiary of Comcast Corporation) to understand the company structure and its key activities. Look for annual reports, sustainability reports, investor presentations, and any other corporate publications that may provide useful information.
+
+2. **Financial Information:** Examine NBC's financial information. Since NBC is a part of the publicly traded Comcast Corporation, financial data should be readily available. Look for the financial reports on the company's investor relations page which generally provides annual and quarterly reports. Also, financial news sites like Bloomberg, MarketWatch, and Yahoo Finance can provide recent financial news and performance indicators like stock prices, revenues, and profits.
+
+3. **Key Decision Makers:** To find key decision makers, check the 'About Us' or 'Management Team' section of the company's website. Look for possible points of leverage like affiliations, memberships, past controversies, or connections that the decision makers might have outside of the company. Additionally, try to locate their profiles on professional networks like LinkedIn.
+
+4. **Labor Relations:** Look for recent news around labor disputes, strikes or other labor actions, union negotiations, and labor law violations. You can leverage search engines and news websites for this, typing in keywords like "NBC labor relations" or "NBC union news." Also, check websites of labor unions that NBC employees could be part of for any ongoing issues or past disputes. 
+
+5. **Recent Scandals and Controversies:** Look for scandals or controversies related to NBC by searching on news aggregation websites and typing "NBC controversy" or "NBC scandal" as keywords. Check any negative press coverage or criticism about the company's practices or products.
+
+6. **Legal Information:** Check if any lawsuits have been filed by or against NBC. Public companies in the US are required to disclose certain legal disputes to the Securities and Exchange Commission (SEC). You can find these filings on the SEC's EDGAR database. 
+
+7. **Employer Reviews:** Websites like Glassdoor and Indeed allow employees and former employees to review companies. These reviews may provide insight into internal issues, employee satisfaction, and overall company culture.
+
+8. **Online Monitoring:** Lastly, set up Google Alerts for "NBC," allowing you to receive the latest web results, news, articles, blogs, or research directly to your email.
+
+Taken together, this strategy will allow us to gather a comprehensive view of NBC's financial standing, leadership, labor relations, recent controversies, and more.
+
+Manny: Absolutely! Here is a list of 5 specific search queries for Remi to use in Python format:
+
+```python
+search_queries_for_remi = [
+    "NBC financial reports site:https://www.cmcsa.com",
+    "NBC top executives site:https://www.nbcuniversal.com",
+    "NBC labor relations news",
+    "NBC recent scandals news",
+    "NBC reviews site:https://www.glassdoor.com"
+]
+```
+
+These queries will yield a wealth of information about NBC's current situation, its leadership, and its labor relations, amongst other important aspects.
+Remi: Results for 'NBC financial reports site:https://www.cmcsa.com':
+Title: Annual Reports - Comcast Corporation
+Link: https://www.cmcsa.com/financials/annual-reports
+Snippet: 2023 <b>Annual</b> Review. Letter to Shareholders. Year in Review. <b>Annual</b> <b>Report</b> on form 10-K. 2024 Proxy Statement.
+Body Content: No content available
+
+Title: SEC Filings - Comcast Corporation
+Link: https://www.cmcsa.com/financials/sec-filings-NBCUniversal
+Snippet: The SEC Filings on this page are provided by EDGAR (www.sec.gov), the Electronic Data Gathering, Analysis, and Retrieval System of the U.S. Securities and Exchange Commission (SEC). EDGAR performs automated collection, validation, indexing, acceptance, and forwarding of submissions by companies and others who are required by law to file forms ...
+Body Content: No content available
+
+Title: Investors | Comcast Corporation
+Link: https://www.cmcsa.com/
+Snippet: Events &amp; Presentations. Sign up to access upcoming and recent events, listen to webcasts, plus read transcripts. The Investor Relations website contains information about Comcast Corporation&#39;s business for stockholders, potential investors, and <b>financial</b> analysts.
+Body Content: No content available
+
+Title: NBCUNIVERSAL MEDIA, LLC COMCAST CORPORATION
+Link: https://www.cmcsa.com/static-files/b5555e74-b063-4638-9503-07ebd5c1d021
+Snippet: This <b>Annual</b> <b>Report</b> on Form 10-K is for the year ended December 31, 2019. This <b>Annual</b> <b>Report</b> on Form 10-K modifies and supersedes documents filed ... Consists primarily of the <b>NBC</b> and Telemundo broadcast networks, our <b>NBC</b> and Telemundo owned local broadcast television stations, the <b>NBC</b> Universo national cable network, our broadcast television ...
+Body Content: No content available
+
+Title: Form 10-K for Comcast Corp filed 02/03/2023
+Link: https://www.cmcsa.com/static-files/156da323-653e-4cc6-9bb4-d239937e9d2f
+Snippet: This <b>Annual</b> <b>Report</b> on Form 10-K is for the year ended December 31, 2022. This <b>Annual</b> <b>Report</b> on Form 10-K modifies and supersedes documents filed before it. The U.S Securities and Exchange Commission (“SEC”) allows us to “incorporate by reference” information that we file with it, which means that ... <b>NBC</b> and Telemundo owned local ...
+Body Content: No content available
+
+Title: SEC Filings - Comcast Corporation
+Link: https://www.cmcsa.com/financials/sec-filings
+Snippet: <b>Report</b> of unscheduled material events or corporate event. 0001166691-24-000046.pdf. 0001166691-24-000046.rtf. 0001166691-24-000046.xls. View HTML: Jul 23, 2024: 10-Q: Quarterly <b>report</b> which provides a continuing view of a company&#39;s <b>financial</b> position. 0001166691-24-000048.pdf. 0001166691-24-000048.rtf. 0001166691-24-000048.xls. View HTML: Jul ...
+Body Content: No content available
+
+Title: Earnings - Comcast Corporation
+Link: https://www.cmcsa.com/financials/earnings
+Snippet: Q4. Earnings Release 219.1 KB. Trending Schedule as Reported on January 26, 2023 289.4 KB. Trending Schedule as Revised on March 13, 2023 312.3 KB. Presentation 781.5 KB.
+Body Content: No content available
+
+Title: COMCAST CORPORATION
+Link: https://www.cmcsa.com/static-files/0ff6a41f-c1ff-4c25-b07e-4ec8424907cf
+Snippet: This <b>Annual</b> <b>Report</b> on Form 10-K is for the year ended December 31, 2020. This <b>Annual</b> <b>Report</b> on Form 10-K modifies and supersedes documents filed ... Consists primarily of the <b>NBC</b> and Telemundo broadcast networks, our <b>NBC</b> and Telemundo owned local broadcast television stations, the <b>NBC</b> Universo national cable network, our broadcast television ...
+Body Content: No content available
+
+Title: COMCAST CORPORATION
+Link: https://www.cmcsa.com/static-files/8887f574-dfa9-4480-8c8b-ed7771f7ce44
+Snippet: This <b>Annual</b> <b>Report</b> on Form 10-K is for the year ended December 31, 2021. This <b>Annual</b> <b>Report</b> on Form 10-K modifies and supersedes documents filed before it. The SEC allows us to “incorporate by reference” information that we file with it, which means that we can disclose important information to you by referring you directly to those documents.
+Body Content: No content available
+
+Title: COMCAST REPORTS 4th QUARTER AND FULL YEAR 2022 RESULTS
+Link: https://www.cmcsa.com/static-files/564f8423-ccdf-45d7-b2c7-8e31212b04d3
+Snippet: For the twelve months ended December 31, 2022, Cable revenue increased 3.1% to $66.3 billion, driven by growth in broadband, business services, wireless and advertising revenue, partially offset by a decrease in video and voice revenue. Total Customer Relationships decreased by 71,000 to 34.3 million in the fourth quarter of 2022.
+Body Content: No content available
+
+Remi: Results for 'NBC financial reports site:https://www.cmcsa.com':
+Title: Annual Reports - Comcast Corporation
+Link: https://www.cmcsa.com/financials/annual-reports
+Snippet: 2023 <b>Annual</b> Review. Letter to Shareholders. Year in Review. <b>Annual</b> <b>Report</b> on form 10-K. 2024 Proxy Statement.
+Body Content: No content available
+
+Title: SEC Filings - Comcast Corporation
+Link: https://www.cmcsa.com/financials/sec-filings-NBCUniversal
+Snippet: The SEC Filings on this page are provided by EDGAR (www.sec.gov), the Electronic Data Gathering, Analysis, and Retrieval System of the U.S. Securities and Exchange Commission (SEC). EDGAR performs automated collection, validation, indexing, acceptance, and forwarding of submissions by companies and others who are required by law to file forms ...
+Body Content: No content available
+
+Title: Investors | Comcast Corporation
+Link: https://www.cmcsa.com/
+Snippet: Events &amp; Presentations. Sign up to access upcoming and recent events, listen to webcasts, plus read transcripts. The Investor Relations website contains information about Comcast Corporation&#39;s business for stockholders, potential investors, and <b>financial</b> analysts.
+Body Content: No content available
+
+Title: NBCUNIVERSAL MEDIA, LLC COMCAST CORPORATION
+Link: https://www.cmcsa.com/static-files/b5555e74-b063-4638-9503-07ebd5c1d021
+Snippet: This <b>Annual</b> <b>Report</b> on Form 10-K is for the year ended December 31, 2019. This <b>Annual</b> <b>Report</b> on Form 10-K modifies and supersedes documents filed ... Consists primarily of the <b>NBC</b> and Telemundo broadcast networks, our <b>NBC</b> and Telemundo owned local broadcast television stations, the <b>NBC</b> Universo national cable network, our broadcast television ...
+Body Content: No content available
+
+Title: Form 10-K for Comcast Corp filed 02/03/2023
+Link: https://www.cmcsa.com/static-files/156da323-653e-4cc6-9bb4-d239937e9d2f
+Snippet: This <b>Annual</b> <b>Report</b> on Form 10-K is for the year ended December 31, 2022. This <b>Annual</b> <b>Report</b> on Form 10-K modifies and supersedes documents filed before it. The U.S Securities and Exchange Commission (“SEC”) allows us to “incorporate by reference” information that we file with it, which means that ... <b>NBC</b> and Telemundo owned local ...
+Body Content: No content available
+
+Title: SEC Filings - Comcast Corporation
+Link: https://www.cmcsa.com/financials/sec-filings
+Snippet: <b>Report</b> of unscheduled material events or corporate event. 0001166691-24-000046.pdf. 0001166691-24-000046.rtf. 0001166691-24-000046.xls. View HTML: Jul 23, 2024: 10-Q: Quarterly <b>report</b> which provides a continuing view of a company&#39;s <b>financial</b> position. 0001166691-24-000048.pdf. 0001166691-24-000048.rtf. 0001166691-24-000048.xls. View HTML: Jul ...
+Body Content: No content available
+
+Title: Earnings - Comcast Corporation
+Link: https://www.cmcsa.com/financials/earnings
+Snippet: Q4. Earnings Release 219.1 KB. Trending Schedule as Reported on January 26, 2023 289.4 KB. Trending Schedule as Revised on March 13, 2023 312.3 KB. Presentation 781.5 KB.
+Body Content: No content available
+
+Title: COMCAST CORPORATION
+Link: https://www.cmcsa.com/static-files/0ff6a41f-c1ff-4c25-b07e-4ec8424907cf
+Snippet: This <b>Annual</b> <b>Report</b> on Form 10-K is for the year ended December 31, 2020. This <b>Annual</b> <b>Report</b> on Form 10-K modifies and supersedes documents filed ... Consists primarily of the <b>NBC</b> and Telemundo broadcast networks, our <b>NBC</b> and Telemundo owned local broadcast television stations, the <b>NBC</b> Universo national cable network, our broadcast television ...
+Body Content: No content available
+
+Title: COMCAST CORPORATION
+Link: https://www.cmcsa.com/static-files/8887f574-dfa9-4480-8c8b-ed7771f7ce44
+Snippet: This <b>Annual</b> <b>Report</b> on Form 10-K is for the year ended December 31, 2021. This <b>Annual</b> <b>Report</b> on Form 10-K modifies and supersedes documents filed before it. The SEC allows us to “incorporate by reference” information that we file with it, which means that we can disclose important information to you by referring you directly to those documents.
+Body Content: No content available
+
+Title: COMCAST REPORTS 4th QUARTER AND FULL YEAR 2022 RESULTS
+Link: https://www.cmcsa.com/static-files/564f8423-ccdf-45d7-b2c7-8e31212b04d3
+Snippet: For the twelve months ended December 31, 2022, Cable revenue increased 3.1% to $66.3 billion, driven by growth in broadband, business services, wireless and advertising revenue, partially offset by a decrease in video and voice revenue. Total Customer Relationships decreased by 71,000 to 34.3 million in the fourth quarter of 2022.
+Body Content: No content available
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'NBC top executives site:https://www.nbcuniversal.com':
+Title: Leadership - NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership
+Snippet: Meet the <b>executive</b> committee and leadership team of NBCUniversal Media, the parent company of Peacock, the streaming service. Find out who leads the news, entertainment, sports, and theme park divisions of NBCUniversal.
+Body Content: No content available
+
+Title: Rashida Jones - NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership/rashida-jones
+Snippet: Rashida Jones is the President of MSNBC, overseeing all programming, digital expansion, new businesses, editorial units, business development and technical operations. She has won multiple awards for her journalism and leadership, and is a member of several prestigious organizations and boards.
+Body Content: No content available
+
+Title: Leadership - NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/newsroom/corporate/leadership
+Snippet: From <b>NBC</b> Sports Researcher to <b>Executive</b> Producer of The Olympic Games, Molly Solomon Talks Paris 2024. Media. <b>NBC</b> Olympics. <b>NBC</b> Sports. Leadership.
+Body Content: No content available
+
+Title: Pearlena Igbokwe - NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership/pearlena-igbokwe
+Snippet: Before her studio role, Igbokwe served as <b>Executive</b> Vice President, Drama Programming, for <b>NBC</b> Entertainment, where she developed the <b>top</b>-rated new broadcast dramas for three out of her four years in the role (“The Blacklist,” “Blindspot” and “This Is Us”). Previously, she worked at Showtime for 20 years, where she was involved in ...
+Body Content: No content available
+
+Title: Rebecca Blumenstein - NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership/rebecca-blumenstein
+Snippet: Rebecca Blumenstein oversees <b>NBC</b> News editorial teams, newsgathering, field operations, “Meet the Press,” “Dateline <b>NBC</b>” and <b>NBC</b> News Studios. She joined <b>NBC</b> News in 2023 from The New York Times, where she was a Deputy Managing Editor and led the Business report.
+Body Content: No content available
+
+Title: Donna Langley - NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership/donna-langley
+Snippet: Donna Langley is the leader of NBCUniversal&#39;s unified content strategy, overseeing film, television and animation studios. She is a Dame Commander of the British Empire, a champion of diversity and inclusion, and a recipient of many industry awards and honors.
+Body Content: No content available
+
+Title: Beau Ferrari | NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership/beau-ferrari
+Snippet: Ferrari joined Telemundo in 2017, as <b>Executive</b> Vice President, where he oversaw the company’s operations, financial performance, corporate strategy and development for the portfolio of businesses. During his tenure, Telemundo became a <b>top</b> five broadcast network—alongside <b>NBC</b>, CBS, ABC and Fox—for the first time in its history.
+Body Content: No content available
+
+Title: Kelly Campbell Named President of Peacock - NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/press-release/kelly-campbell-named-president-peacock
+Snippet: Kelly Campbell joins Peacock as President in November 2021, reporting to Matt Strauss, Chairman of Direct-to-Consumer and International. She will lead Peacock&#39;s streaming business and work with NBCUniversal&#39;s content creators on live and original programming.
+Body Content: No content available
+
+Title: Mark Lazarus | NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership/mark-lazarus
+Snippet: Mark Lazarus is the Chairman of NBCUniversal Media Group since July 2023, leading the company&#39;s TV and Streaming platforms, distribution, and monetization. He oversees <b>NBC</b>, Bravo, E!, Oxygen, SYFY, USA Network, Universal Kids, Peacock, <b>NBC</b> Sports Group, <b>NBC</b> affiliate relations, content distribution and advertising sales.
+Body Content: No content available
+
+Title: Matt Strauss | NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership/matt-strauss
+Snippet: Matt Strauss is the Chairman of Direct-to-Consumer and International at NBCUniversal, overseeing Peacock, Fandango, and International Networks. He joined NBCUniversal in 2019 from Comcast Cable, where he led the Xfinity services and products for over 30 million customers.
+Body Content: No content available
+
+Remi: Results for 'NBC top executives site:https://www.nbcuniversal.com':
+Title: Leadership - NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership
+Snippet: Meet the <b>executive</b> committee and leadership team of NBCUniversal Media, the parent company of Peacock, the streaming service. Find out who leads the news, entertainment, sports, and theme park divisions of NBCUniversal.
+Body Content: No content available
+
+Title: Rashida Jones - NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership/rashida-jones
+Snippet: Rashida Jones is the President of MSNBC, overseeing all programming, digital expansion, new businesses, editorial units, business development and technical operations. She has won multiple awards for her journalism and leadership, and is a member of several prestigious organizations and boards.
+Body Content: No content available
+
+Title: Leadership - NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/newsroom/corporate/leadership
+Snippet: From <b>NBC</b> Sports Researcher to <b>Executive</b> Producer of The Olympic Games, Molly Solomon Talks Paris 2024. Media. <b>NBC</b> Olympics. <b>NBC</b> Sports. Leadership.
+Body Content: No content available
+
+Title: Pearlena Igbokwe - NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership/pearlena-igbokwe
+Snippet: Before her studio role, Igbokwe served as <b>Executive</b> Vice President, Drama Programming, for <b>NBC</b> Entertainment, where she developed the <b>top</b>-rated new broadcast dramas for three out of her four years in the role (“The Blacklist,” “Blindspot” and “This Is Us”). Previously, she worked at Showtime for 20 years, where she was involved in ...
+Body Content: No content available
+
+Title: Rebecca Blumenstein - NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership/rebecca-blumenstein
+Snippet: Rebecca Blumenstein oversees <b>NBC</b> News editorial teams, newsgathering, field operations, “Meet the Press,” “Dateline <b>NBC</b>” and <b>NBC</b> News Studios. She joined <b>NBC</b> News in 2023 from The New York Times, where she was a Deputy Managing Editor and led the Business report.
+Body Content: No content available
+
+Title: Donna Langley - NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership/donna-langley
+Snippet: Donna Langley is the leader of NBCUniversal&#39;s unified content strategy, overseeing film, television and animation studios. She is a Dame Commander of the British Empire, a champion of diversity and inclusion, and a recipient of many industry awards and honors.
+Body Content: No content available
+
+Title: Beau Ferrari | NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership/beau-ferrari
+Snippet: Ferrari joined Telemundo in 2017, as <b>Executive</b> Vice President, where he oversaw the company’s operations, financial performance, corporate strategy and development for the portfolio of businesses. During his tenure, Telemundo became a <b>top</b> five broadcast network—alongside <b>NBC</b>, CBS, ABC and Fox—for the first time in its history.
+Body Content: No content available
+
+Title: Kelly Campbell Named President of Peacock - NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/press-release/kelly-campbell-named-president-peacock
+Snippet: Kelly Campbell joins Peacock as President in November 2021, reporting to Matt Strauss, Chairman of Direct-to-Consumer and International. She will lead Peacock&#39;s streaming business and work with NBCUniversal&#39;s content creators on live and original programming.
+Body Content: No content available
+
+Title: Mark Lazarus | NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership/mark-lazarus
+Snippet: Mark Lazarus is the Chairman of NBCUniversal Media Group since July 2023, leading the company&#39;s TV and Streaming platforms, distribution, and monetization. He oversees <b>NBC</b>, Bravo, E!, Oxygen, SYFY, USA Network, Universal Kids, Peacock, <b>NBC</b> Sports Group, <b>NBC</b> affiliate relations, content distribution and advertising sales.
+Body Content: No content available
+
+Title: Matt Strauss | NBCUNIVERSAL MEDIA
+Link: https://www.nbcuniversal.com/leadership/matt-strauss
+Snippet: Matt Strauss is the Chairman of Direct-to-Consumer and International at NBCUniversal, overseeing Peacock, Fandango, and International Networks. He joined NBCUniversal in 2019 from Comcast Cable, where he led the Xfinity services and products for over 30 million customers.
+Body Content: No content available
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'NBC labor relations news':
+Title: Biden&#39;s White House has tried to boost unions. The election could ...
+Link: https://www.nbcnews.com/politics/2024-election/labor-unions-nlrb-biden-harris-trump-rcna164363
+Snippet: The National <b>Labor</b> <b>Relations</b> Board has taken a more forceful pro-<b>labor</b> stance as strikes and organizing efforts ramped up. Potential new leadership and a series of court decisions threaten those ...
+Body Content: No content available
+
+Title: Labor movements are gaining momentum in the U.S. What ... - NBC News
+Link: https://www.nbcnews.com/business/economy/strikes-labor-movements-economy-impact-what-happens-next-rcna111424
+Snippet: <b>Labor</b> strikes and contract negotiations have recently been in the <b>news</b> more than they have been in years. The United Auto Workers went on strike Sept. 14 after the UAW and Detroit&#39;s Big Three ...
+Body Content: No content available
+
+Title: Job openings fell more than expected in July in another sign ... - NBC News
+Link: https://www.nbcnews.com/business/economy/job-openings-fell-expected-july-another-sign-labor-market-softening-rcna169606
+Snippet: Total separations jumped by 336,000, pushing the separations rate as a share of the <b>labor</b> force up to 3.4%. However, hires rose as well, up 273,000 on the month, putting the rate at 3.5% or 0.2 ...
+Body Content: No content available
+
+Title: Starbucks vs federal labor agency: Supreme Court hears ... - NBC New York
+Link: https://www.nbcnewyork.com/news/national-international/supreme-court-hears-starbucks-challenge-to-labor-agency-over-fired-pro-union-baristas/5345926/
+Snippet: 24/7 New York <b>news</b> stream: Watch <b>NBC</b> 4 free wherever you are ... the National <b>Labor</b> <b>Relations</b> Act — the law that governs the agency — has allowed courts to grant temporary injunctions if it ...
+Body Content: No content available
+
+Title: Home | National Labor Relations Board
+Link: https://www.nlrb.gov/
+Snippet: The National <b>Labor</b> <b>Relations</b> Board is an independent federal agency that protects the rights of private sector employees to join together, with or without a union, to improve their wages and working conditions. ... The NLRB has regional offices across the country, and each one has a page with local <b>news</b>, upcoming events, maps and directions ...
+Body Content: No content available
+
+Title: Nonfarm payroll growth revised down by 818,000, Labor Department says
+Link: https://www.cnbc.com/2024/08/21/nonfarm-payroll-growth-revised-down-by-818000-labor-department-says.html
+Snippet: The U.S. economy created far fewer jobs than originally reported in the 12-month period through March 2024, the <b>Labor</b> Department reported.
+Body Content: No content available
+
+Title: In clear disregard for workers’ rights, NBC News executives announce ...
+Link: https://nyguild.org/post/statement-in-clear-disregard-for-workers-rights-nbc-news-executives-announce-plans-to-lay-off-unionized-staff
+Snippet: The <b>NBC</b> Digital NewsGuild – which represents reporters, editors, designers, video journalists, animators, social media strategists and editorial staff of <b>NBC</b> <b>News</b> Digital – has been negotiating its first contract since union certification in 2019. Any changes to working conditions, including layoffs, must be bargained.
+Body Content: No content available
+
+Title: NBCUniversal Fights Labor Board Over Cancellation of Pay Raises During ...
+Link: https://www.hollywoodreporter.com/business/business-news/nbcu-nlrb-1235000486/
+Snippet: On July 15, the full NLRB accepted that decision and ordered the restoration of merit wage increases for editors, reporters, producers, writers, production assistants and others at <b>NBC</b> <b>News</b> ...
+Body Content: No content available
+
+Title: Thousands of hotel workers are on strike. Here&#39;s a list of ... - CBS News
+Link: https://www.cbsnews.com/news/hotel-strike-boston-seattle-hawaii-marriott-hyatt-which-hotels-impacted/
+Snippet: &quot;Since COVID, they&#39;re expecting us to give five-star service with three-star staff,&quot; Elena Duran, a server at Marriott&#39;s Palace Hotel in San Francisco for 33 years, said in the Unite Here statement.
+Body Content: No content available
+
+Title: NBC News Guild Files Unfair Labor Practice Charge After Layoffs - Deadline
+Link: https://deadline.com/2023/01/nbc-news-guild-layoffs-unfair-labor-practice-1235221554/
+Snippet: The <b>NBC</b> <b>News</b> Guild, which covers digital employees, said that it filed an unfair <b>labor</b> practice charge with the National <b>Labor</b> <b>Relations</b> Board. “Yesterday <b>NBC</b> <b>News</b> management abruptly and ...
+Body Content: No content available
+
+Remi: Results for 'NBC labor relations news':
+Title: Biden&#39;s White House has tried to boost unions. The election could ...
+Link: https://www.nbcnews.com/politics/2024-election/labor-unions-nlrb-biden-harris-trump-rcna164363
+Snippet: The National <b>Labor</b> <b>Relations</b> Board has taken a more forceful pro-<b>labor</b> stance as strikes and organizing efforts ramped up. Potential new leadership and a series of court decisions threaten those ...
+Body Content: No content available
+
+Title: Labor movements are gaining momentum in the U.S. What ... - NBC News
+Link: https://www.nbcnews.com/business/economy/strikes-labor-movements-economy-impact-what-happens-next-rcna111424
+Snippet: <b>Labor</b> strikes and contract negotiations have recently been in the <b>news</b> more than they have been in years. The United Auto Workers went on strike Sept. 14 after the UAW and Detroit&#39;s Big Three ...
+Body Content: No content available
+
+Title: Job openings fell more than expected in July in another sign ... - NBC News
+Link: https://www.nbcnews.com/business/economy/job-openings-fell-expected-july-another-sign-labor-market-softening-rcna169606
+Snippet: Total separations jumped by 336,000, pushing the separations rate as a share of the <b>labor</b> force up to 3.4%. However, hires rose as well, up 273,000 on the month, putting the rate at 3.5% or 0.2 ...
+Body Content: No content available
+
+Title: Starbucks vs federal labor agency: Supreme Court hears ... - NBC New York
+Link: https://www.nbcnewyork.com/news/national-international/supreme-court-hears-starbucks-challenge-to-labor-agency-over-fired-pro-union-baristas/5345926/
+Snippet: 24/7 New York <b>news</b> stream: Watch <b>NBC</b> 4 free wherever you are ... the National <b>Labor</b> <b>Relations</b> Act — the law that governs the agency — has allowed courts to grant temporary injunctions if it ...
+Body Content: No content available
+
+Title: Home | National Labor Relations Board
+Link: https://www.nlrb.gov/
+Snippet: The National <b>Labor</b> <b>Relations</b> Board is an independent federal agency that protects the rights of private sector employees to join together, with or without a union, to improve their wages and working conditions. ... The NLRB has regional offices across the country, and each one has a page with local <b>news</b>, upcoming events, maps and directions ...
+Body Content: No content available
+
+Title: Nonfarm payroll growth revised down by 818,000, Labor Department says
+Link: https://www.cnbc.com/2024/08/21/nonfarm-payroll-growth-revised-down-by-818000-labor-department-says.html
+Snippet: The U.S. economy created far fewer jobs than originally reported in the 12-month period through March 2024, the <b>Labor</b> Department reported.
+Body Content: No content available
+
+Title: In clear disregard for workers’ rights, NBC News executives announce ...
+Link: https://nyguild.org/post/statement-in-clear-disregard-for-workers-rights-nbc-news-executives-announce-plans-to-lay-off-unionized-staff
+Snippet: The <b>NBC</b> Digital NewsGuild – which represents reporters, editors, designers, video journalists, animators, social media strategists and editorial staff of <b>NBC</b> <b>News</b> Digital – has been negotiating its first contract since union certification in 2019. Any changes to working conditions, including layoffs, must be bargained.
+Body Content: No content available
+
+Title: NBCUniversal Fights Labor Board Over Cancellation of Pay Raises During ...
+Link: https://www.hollywoodreporter.com/business/business-news/nbcu-nlrb-1235000486/
+Snippet: On July 15, the full NLRB accepted that decision and ordered the restoration of merit wage increases for editors, reporters, producers, writers, production assistants and others at <b>NBC</b> <b>News</b> ...
+Body Content: No content available
+
+Title: Thousands of hotel workers are on strike. Here&#39;s a list of ... - CBS News
+Link: https://www.cbsnews.com/news/hotel-strike-boston-seattle-hawaii-marriott-hyatt-which-hotels-impacted/
+Snippet: &quot;Since COVID, they&#39;re expecting us to give five-star service with three-star staff,&quot; Elena Duran, a server at Marriott&#39;s Palace Hotel in San Francisco for 33 years, said in the Unite Here statement.
+Body Content: No content available
+
+Title: NBC News Guild Files Unfair Labor Practice Charge After Layoffs - Deadline
+Link: https://deadline.com/2023/01/nbc-news-guild-layoffs-unfair-labor-practice-1235221554/
+Snippet: The <b>NBC</b> <b>News</b> Guild, which covers digital employees, said that it filed an unfair <b>labor</b> practice charge with the National <b>Labor</b> <b>Relations</b> Board. “Yesterday <b>NBC</b> <b>News</b> management abruptly and ...
+Body Content: No content available
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'NBC recent scandals news':
+Title: Inside a Mormon swinging scandal: New docuseries showcases ... - NBC News
+Link: https://www.nbcnews.com/pop-culture/tv/mormon-swinging-scandal-momtok-influencer-docuseries-rcna168293
+Snippet: Mikayla Matthews, a mother of three with 2.4 million TikTok followers, said the <b>scandal</b> caused her and other MomTokers to re-examine whether participating in the community was worth it despite the ...
+Body Content: No content available
+
+Title: Starbucks sued for allegedly using coffee from farms with ... - NBC News
+Link: https://www.nbcnews.com/news/us-news/starbucks-sued-allegedly-using-coffee-farms-rights-abuses-touting-ethi-rcna130393
+Snippet: The lawsuit calls for the coffee chain to end its “unfair and deceptive” trade practices and argues that the company is aware of the child and forced labor on some of its supplier farms.
+Body Content: No content available
+
+Title: Judge dismisses families’ lawsuits against Harvard over ... - NBC News
+Link: https://www.nbcnews.com/news/us-news/judge-dismisses-families-lawsuits-harvard-morgue-scandal-rcna138545?os=roku&ref=app
+Snippet: Judge dismisses families’ lawsuits against Harvard over morgue <b>scandal</b> Loved ones who sued Harvard University over the alleged theft and sale of human remains will appeal a judge’s decision to ...
+Body Content: No content available
+
+Title: Gateway Church elder says accepting resignation of ... - NBC New York
+Link: https://www.nbcnewyork.com/news/national-international/gateway-church-elder-says-accepting-resignation-of-pastor-in-sex-abuse-scandal-was-difficult-decision/5527413/?os=..&ref=app
+Snippet: 24/7 <b>New</b> York <b>news</b> stream: Watch <b>NBC</b> 4 free wherever you are “This,” Fambro said of accepting Morris’ resignation, “has been one of the most difficult decisions in my life.”
+Body Content: No content available
+
+Title: Reckoning: An NBC Bay Area investigation into a new wave of Catholic ...
+Link: https://www.nbcbayarea.com/investigations/reckoning/3458889/
+Snippet: An <b>NBC Bay Area</b> investigation into a <b>new</b> wave of lawsuits accusing Catholic clergy of sexually abusing children By Candice Nguyen , Michael Bott and Alex Bozovic Published March 2, 2024 ...
+Body Content: No content available
+
+Title: Nathan Fletcher Scandal: New private messages ... - NBC 7 San Diego
+Link: https://www.nbcsandiego.com/news/investigations/nathan-fletcher-scandal-new-private-messages-revealed-in-legal-filing/3410100/?os=..&ref=app
+Snippet: A text message between Nathan Fletcher and Grecia Figueroa was included in a <b>new</b> filing in the civil lawsuit. In one message, Fletcher says he “will practice his ‘I’m totally not in love ...
+Body Content: No content available
+
+Title: NBC News Plagiarism Scandal: 11 Articles By Unidentified ... - Deadline
+Link: https://deadline.com/2022/05/nbc-newsplagiarism-articles-edited-to-delete-1235014523/
+Snippet: <b>NBC</b> <b>News</b> Says Nearly A Dozen Articles By One Writer Had “Plagiarized” Passages. By Erik Pedersen. May 2, 2022 3:09pm. <b>NBC</b> <b>News</b> studios in Washington, D.C. <b>NBC</b>. <b>NBC</b> <b>News</b> revealed today that 11 ...
+Body Content: No content available
+
+Title: Senate Staffer Sex Scandal: Everything We Know So Far | TIME
+Link: https://time.com/6548618/senate-staffer-sex-scandal-hearing-room/
+Snippet: While details remain scant, outlets including the <b>New</b> York Post and Washington Examiner identified the staffer as Aidan Maese-Czeropski, a legislative aide for Cardin. In a statement to Politico ...
+Body Content: No content available
+
+Title: NBC News&#39; Ronna McDaniel Hire Draws Backlash From Hosts, Analysts - TVLine
+Link: https://tvline.com/news/ronna-mcdaniel-nbc-news-controversy-explained-1235192243/
+Snippet: Meet the Press moderator Kristen Welker and political analyst Chuck Todd both questioned McDaniel’s hiring during Sunday’s program, and Morning Joe co-hosts Joe Scarborough and Mika Brzezinski ...
+Body Content: No content available
+
+Title: Seikeya Jones identified as body found in Huntington suitcase – NBC New ...
+Link: https://www.nbcnewyork.com/news/local/police-identify-human-remains-found-inside-suitcase-on-long-island/5766743/
+Snippet: Watch <b>NBC</b> <b>New</b> York <b>News</b> 24/7 Send a Video or Photo to <b>NBC</b> NY 2024 Paris Olympics Olympics Schedule Local <b>News</b> Weather School Closings Weather Alerts U.S. &amp; World <b>News</b> Video Investigations Better ...
+Body Content: No content available
+
+Remi: Results for 'NBC recent scandals news':
+Title: Inside a Mormon swinging scandal: New docuseries showcases ... - NBC News
+Link: https://www.nbcnews.com/pop-culture/tv/mormon-swinging-scandal-momtok-influencer-docuseries-rcna168293
+Snippet: Mikayla Matthews, a mother of three with 2.4 million TikTok followers, said the <b>scandal</b> caused her and other MomTokers to re-examine whether participating in the community was worth it despite the ...
+Body Content: No content available
+
+Title: Starbucks sued for allegedly using coffee from farms with ... - NBC News
+Link: https://www.nbcnews.com/news/us-news/starbucks-sued-allegedly-using-coffee-farms-rights-abuses-touting-ethi-rcna130393
+Snippet: The lawsuit calls for the coffee chain to end its “unfair and deceptive” trade practices and argues that the company is aware of the child and forced labor on some of its supplier farms.
+Body Content: No content available
+
+Title: Judge dismisses families’ lawsuits against Harvard over ... - NBC News
+Link: https://www.nbcnews.com/news/us-news/judge-dismisses-families-lawsuits-harvard-morgue-scandal-rcna138545?os=roku&ref=app
+Snippet: Judge dismisses families’ lawsuits against Harvard over morgue <b>scandal</b> Loved ones who sued Harvard University over the alleged theft and sale of human remains will appeal a judge’s decision to ...
+Body Content: No content available
+
+Title: Gateway Church elder says accepting resignation of ... - NBC New York
+Link: https://www.nbcnewyork.com/news/national-international/gateway-church-elder-says-accepting-resignation-of-pastor-in-sex-abuse-scandal-was-difficult-decision/5527413/?os=..&ref=app
+Snippet: 24/7 <b>New</b> York <b>news</b> stream: Watch <b>NBC</b> 4 free wherever you are “This,” Fambro said of accepting Morris’ resignation, “has been one of the most difficult decisions in my life.”
+Body Content: No content available
+
+Title: Reckoning: An NBC Bay Area investigation into a new wave of Catholic ...
+Link: https://www.nbcbayarea.com/investigations/reckoning/3458889/
+Snippet: An <b>NBC Bay Area</b> investigation into a <b>new</b> wave of lawsuits accusing Catholic clergy of sexually abusing children By Candice Nguyen , Michael Bott and Alex Bozovic Published March 2, 2024 ...
+Body Content: No content available
+
+Title: Nathan Fletcher Scandal: New private messages ... - NBC 7 San Diego
+Link: https://www.nbcsandiego.com/news/investigations/nathan-fletcher-scandal-new-private-messages-revealed-in-legal-filing/3410100/?os=..&ref=app
+Snippet: A text message between Nathan Fletcher and Grecia Figueroa was included in a <b>new</b> filing in the civil lawsuit. In one message, Fletcher says he “will practice his ‘I’m totally not in love ...
+Body Content: No content available
+
+Title: NBC News Plagiarism Scandal: 11 Articles By Unidentified ... - Deadline
+Link: https://deadline.com/2022/05/nbc-newsplagiarism-articles-edited-to-delete-1235014523/
+Snippet: <b>NBC</b> <b>News</b> Says Nearly A Dozen Articles By One Writer Had “Plagiarized” Passages. By Erik Pedersen. May 2, 2022 3:09pm. <b>NBC</b> <b>News</b> studios in Washington, D.C. <b>NBC</b>. <b>NBC</b> <b>News</b> revealed today that 11 ...
+Body Content: No content available
+
+Title: Senate Staffer Sex Scandal: Everything We Know So Far | TIME
+Link: https://time.com/6548618/senate-staffer-sex-scandal-hearing-room/
+Snippet: While details remain scant, outlets including the <b>New</b> York Post and Washington Examiner identified the staffer as Aidan Maese-Czeropski, a legislative aide for Cardin. In a statement to Politico ...
+Body Content: No content available
+
+Title: NBC News&#39; Ronna McDaniel Hire Draws Backlash From Hosts, Analysts - TVLine
+Link: https://tvline.com/news/ronna-mcdaniel-nbc-news-controversy-explained-1235192243/
+Snippet: Meet the Press moderator Kristen Welker and political analyst Chuck Todd both questioned McDaniel’s hiring during Sunday’s program, and Morning Joe co-hosts Joe Scarborough and Mika Brzezinski ...
+Body Content: No content available
+
+Title: Seikeya Jones identified as body found in Huntington suitcase – NBC New ...
+Link: https://www.nbcnewyork.com/news/local/police-identify-human-remains-found-inside-suitcase-on-long-island/5766743/
+Snippet: Watch <b>NBC</b> <b>New</b> York <b>News</b> 24/7 Send a Video or Photo to <b>NBC</b> NY 2024 Paris Olympics Olympics Schedule Local <b>News</b> Weather School Closings Weather Alerts U.S. &amp; World <b>News</b> Video Investigations Better ...
+Body Content: No content available
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'NBC reviews site:https://www.glassdoor.com':
+Title: NBCUniversal Reviews: What Is It Like to Work At NBCUniversal?
+Link: https://www.glassdoor.com/Reviews/NBCUniversal-Reviews-E32038.htm
+Snippet: NBCUniversal has an employee rating of 4.0 out of 5 stars, based on 4,647 company <b>reviews</b> on <b>Glassdoor</b> which indicates that most employees have a good working experience there. The NBCUniversal employee rating is in line with the average (within 1 standard deviation) for employers within the Media &amp; Communication industry (3.6 stars). Read more.
+Body Content: No content available
+
+Title: Working at NBCUniversal - Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-NBCUniversal-EI_IE32038.11,23.htm
+Snippet: This is based on 4,718 anonymously submitted <b>reviews</b> on <b>Glassdoor</b>. How do job seekers rate their interview experience at NBCUniversal? 63% of job seekers rate their interview experience at NBCUniversal as positive. Candidates give an average difficulty score of 2.8 out of 5 (where 5 is the highest level of difficulty) for their job interview at ...
+Body Content: No content available
+
+Title: NBCUniversal Media Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/NBCUniversal-Media-Reviews-EI_IE32038.0,12_KO13,18.htm
+Snippet: Medio professionals working at NBCUniversal have rated their employer with 4.0 out of 5 stars in 4,507 <b>Glassdoor</b> <b>reviews</b>. This is an average score with the overall rating of NBCUniversal employees being 4.0 out of 5 stars. Search open Medio Jobs at NBCUniversal now and start preparing for your job interview by browsing frequently asked Medio ...
+Body Content: No content available
+
+Title: NBCUniversal &quot;work environment&quot; Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/NBCUniversal-work-environment-Reviews-EI_IE32038.0,12_KH13,29.htm
+Snippet: Is NBCUniversal a good company to work for? NBCUniversal has an overall rating of 4.1 out of 5, based on over 6,576 <b>reviews</b> left anonymously by employees. 82% of employees would recommend working at NBCUniversal to a friend and 65% have a positive outlook for the business. This rating has decreased by 1% over the last 12 months.
+Body Content: No content available
+
+Title: NBCUniversal Reviews in New York City - Glassdoor
+Link: https://www.glassdoor.com/Reviews/NBCUniversal-New-York-City-Reviews-EI_IE32038.0,12_IL.13,26_IM615.htm
+Snippet: 85% approve of CEO. Employees in New York City have given NBCUniversal a rating of 4.1 out of 5 stars, based on 1,625 company <b>reviews</b> on <b>Glassdoor</b>. This indicates that most employees have an excellent working experience in New York City. The NBCUniversal employee rating in New York City is in line with the average (within 1 standard deviation ...
+Body Content: No content available
+
+Title: NBCUniversal Techline Analyst Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/NBCUniversal-Techline-Analyst-Reviews-EI_IE32038.0,12_KO13,29.htm
+Snippet: Pros. Working for Techline at <b>NBC</b> is a great opportunity. With this position you have the ability for a flexible work schedule, remote position and great team behind implementing new processes everyday to increase productivity. Cons. Limited exposure to Level 3-4 IT issues. Show more.
+Body Content: No content available
+
+Title: NBCNEWS.com <b>Reviews</b>: What Is It Like to Work At NBCNEWS.com?
+Link: https://www.glassdoor.com/Reviews/NBCNEWS-com-Reviews-E13706.htm
+Snippet: NBCNEWS.com has an overall rating of 4.1 out of 5, based on over 124 <b>reviews</b> left anonymously by employees. 80% of employees would recommend working at NBCNEWS.com to a friend and 49% have a positive outlook for the business. This rating has improved by 7% over the last 12 months.
+Body Content: No content available
+
+Title: NBCUniversal Intern Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/NBCUniversal-Intern-Reviews-EI_IE32038.0,12_KO13,19.htm
+Snippet: 96% of Intern employees at NBCUniversal would recommend their employer to a friend. This rating has decreased by 1% in the past 12 months. Intern professionals have also rated NBCUniversal with a 4.6 rating for work-life-balance, 4.7 rating for diversity and inclusion, 4.7 rating for culture and values and 4.1 rating for career opportunities.
+Body Content: No content available
+
+Title: NBCUniversal &quot;work life balance&quot; Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/NBCUniversal-work-life-balance-Reviews-EI_IE32038.0,12_KH13,30.htm
+Snippet: NBCUniversal is looking to fill several tech roles including: Software Engineer (Senior and Junior roles) Data Engineer Scrum Lead Site Reliability Engineering Director, Data Products Engineering Associate Cyber Security Engineer DevOps Engineer (Kubernetes/GCP) DevOps Architect All of the roles mentioned above are remote.
+Body Content: No content available
+
+Title: nbcuniversal <b>Reviews</b> - Glassdoor
+Link: https://www.glassdoor.com/Reviews/nbcuniversal-reviews-SRCH_KE0,12.htm
+Snippet: Employee <b>reviews</b> for companies matching &quot;nbcuniversal&quot;. 7 results for employers related to &quot;nbcuniversal&quot;.
+Body Content: No content available
+
+Remi: Results for 'NBC reviews site:https://www.glassdoor.com':
+Title: NBCUniversal Reviews: What Is It Like to Work At NBCUniversal?
+Link: https://www.glassdoor.com/Reviews/NBCUniversal-Reviews-E32038.htm
+Snippet: NBCUniversal has an employee rating of 4.0 out of 5 stars, based on 4,647 company <b>reviews</b> on <b>Glassdoor</b> which indicates that most employees have a good working experience there. The NBCUniversal employee rating is in line with the average (within 1 standard deviation) for employers within the Media &amp; Communication industry (3.6 stars). Read more.
+Body Content: No content available
+
+Title: Working at NBCUniversal - Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-NBCUniversal-EI_IE32038.11,23.htm
+Snippet: This is based on 4,718 anonymously submitted <b>reviews</b> on <b>Glassdoor</b>. How do job seekers rate their interview experience at NBCUniversal? 63% of job seekers rate their interview experience at NBCUniversal as positive. Candidates give an average difficulty score of 2.8 out of 5 (where 5 is the highest level of difficulty) for their job interview at ...
+Body Content: No content available
+
+Title: NBCUniversal Media Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/NBCUniversal-Media-Reviews-EI_IE32038.0,12_KO13,18.htm
+Snippet: Medio professionals working at NBCUniversal have rated their employer with 4.0 out of 5 stars in 4,507 <b>Glassdoor</b> <b>reviews</b>. This is an average score with the overall rating of NBCUniversal employees being 4.0 out of 5 stars. Search open Medio Jobs at NBCUniversal now and start preparing for your job interview by browsing frequently asked Medio ...
+Body Content: No content available
+
+Title: NBCUniversal &quot;work environment&quot; Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/NBCUniversal-work-environment-Reviews-EI_IE32038.0,12_KH13,29.htm
+Snippet: Is NBCUniversal a good company to work for? NBCUniversal has an overall rating of 4.1 out of 5, based on over 6,576 <b>reviews</b> left anonymously by employees. 82% of employees would recommend working at NBCUniversal to a friend and 65% have a positive outlook for the business. This rating has decreased by 1% over the last 12 months.
+Body Content: No content available
+
+Title: NBCUniversal Reviews in New York City - Glassdoor
+Link: https://www.glassdoor.com/Reviews/NBCUniversal-New-York-City-Reviews-EI_IE32038.0,12_IL.13,26_IM615.htm
+Snippet: 85% approve of CEO. Employees in New York City have given NBCUniversal a rating of 4.1 out of 5 stars, based on 1,625 company <b>reviews</b> on <b>Glassdoor</b>. This indicates that most employees have an excellent working experience in New York City. The NBCUniversal employee rating in New York City is in line with the average (within 1 standard deviation ...
+Body Content: No content available
+
+Title: NBCUniversal Techline Analyst Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/NBCUniversal-Techline-Analyst-Reviews-EI_IE32038.0,12_KO13,29.htm
+Snippet: Pros. Working for Techline at <b>NBC</b> is a great opportunity. With this position you have the ability for a flexible work schedule, remote position and great team behind implementing new processes everyday to increase productivity. Cons. Limited exposure to Level 3-4 IT issues. Show more.
+Body Content: No content available
+
+Title: NBCNEWS.com <b>Reviews</b>: What Is It Like to Work At NBCNEWS.com?
+Link: https://www.glassdoor.com/Reviews/NBCNEWS-com-Reviews-E13706.htm
+Snippet: NBCNEWS.com has an overall rating of 4.1 out of 5, based on over 124 <b>reviews</b> left anonymously by employees. 80% of employees would recommend working at NBCNEWS.com to a friend and 49% have a positive outlook for the business. This rating has improved by 7% over the last 12 months.
+Body Content: No content available
+
+Title: NBCUniversal Intern Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/NBCUniversal-Intern-Reviews-EI_IE32038.0,12_KO13,19.htm
+Snippet: 96% of Intern employees at NBCUniversal would recommend their employer to a friend. This rating has decreased by 1% in the past 12 months. Intern professionals have also rated NBCUniversal with a 4.6 rating for work-life-balance, 4.7 rating for diversity and inclusion, 4.7 rating for culture and values and 4.1 rating for career opportunities.
+Body Content: No content available
+
+Title: NBCUniversal &quot;work life balance&quot; Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/NBCUniversal-work-life-balance-Reviews-EI_IE32038.0,12_KH13,30.htm
+Snippet: NBCUniversal is looking to fill several tech roles including: Software Engineer (Senior and Junior roles) Data Engineer Scrum Lead Site Reliability Engineering Director, Data Products Engineering Associate Cyber Security Engineer DevOps Engineer (Kubernetes/GCP) DevOps Architect All of the roles mentioned above are remote.
+Body Content: No content available
+
+Title: nbcuniversal <b>Reviews</b> - Glassdoor
+Link: https://www.glassdoor.com/Reviews/nbcuniversal-reviews-SRCH_KE0,12.htm
+Snippet: Employee <b>reviews</b> for companies matching &quot;nbcuniversal&quot;. 7 results for employers related to &quot;nbcuniversal&quot;.
+Body Content: No content available
+
+Error handling Remi's results: invalid syntax (<string>, line 1)

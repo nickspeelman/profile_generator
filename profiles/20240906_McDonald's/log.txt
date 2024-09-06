@@ -1,0 +1,34 @@
+Susan: Gathering data on a large corporation such as McDonald's requires a multi-pronged approach, focusing on different areas of the company. Here's a basic outline of a strategy we could use:
+
+1. **Company Website:** This might seem obvious, but the company's official website is valuable for basic financial information, company's mission statement, and current leadership, often listed in the "About Us" or "Leadership" sections.
+
+2. **Financial Information:** Sites like Bloomberg, Yahoo Finance, or Google Finance provide in-depth information about a company's financial standing, including stock prices, earnings, debt, etc. SEC filings would provide even more intricate details.
+
+3. **Corporate Leadership:** While the company's website will list the main decision-makers, more in-depth information should be gathered about them. This can be done using resources such as LinkedIn, Bloomberg, company's annual reports, or even news articles. The goal here is to understand who they are, their background, any pressure points, potential conflicts of interest, and their network.
+
+4. **Labor Relations:** To gather a perspective on the company's relationship with its workers, we can look up information on sites that rate companies like Glassdoor, Indeed or even union websites. News sources can also help to identify if there have been any recent strikes, unfair labor practices, or significant disputes.
+
+5. **News and Scandals:** Major news outlets such as New York Times, Wall Street Journal, Reuters, etc., should be monitored continually for any new information. It's vital to look into industry-specific news outlets too. The focus should be on identifying recent scandals and the fallout from them, potential legal trouble, and any recent major shifts in the company.
+
+6. **Industry Trends and Competitors:** Information about relevant industry trends and industry performance metrics can be gathered from market research websites, industry reports, and academic articles. Looking at competitors and their performance may also provide useful information.
+
+When implemented, this strategy will provide an in-depth understanding of McDonald's from different angles. As always, it is crucial to use a variety of sources to eliminate bias and ensure a comprehensive view. Finally, remember to cross-verify the collected data.
+Manny: Sure, here's a list of specific search queries that Remi should perform:
+
+```python
+search_queries_for_remi = [
+    "McDonald's executive board members",
+    "McDonald's financial reports 2021",
+    "McDonald's key decision makers",
+    "McDonald's SEC filings",
+    "McDonald's labor relations news",
+    "McDonald's employee reviews Glassdoor",
+    "McDonald's recent scandals",
+    "McDonald's lawsuits 2021",
+    "McDonald's industry trends",
+    "McDonald's main competitors",
+    "McDonald's stock prices history",
+    "McDonald's conflict of interests"
+]
+```
+Each query is designed to gather information in the different areas we lined out in our strategy, from executive board members to labor relations and recent scandals.

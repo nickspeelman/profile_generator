@@ -1,0 +1,92 @@
+Susan: Compiling the research brief for Huntington Health & Rehab would involve following a structured strategy, gathering relevant information from reliable sources. Here's our approach:
+
+1. **Company Profile:** Start by researching a general profile of the Huntington Health & Rehab. Check their official website to understand the nature of their business, location, and services. Google, LinkedIn, Bloomberg, and similar platforms can have profiles for this organization.
+
+2. **Financial Information:** Look up financial data of the company. This could include turnover, profit, loss, funding, and acquisitions. Resources like the Security and Exchange Commission's (SEC) filings, annual reports, quarterly results, etc., could be of help. Financial news sites such as Bloomberg, CNBC, and Reuters could also provide relevant information.
+
+3. **Key Decision Makers:** Identify the top executives and members of the board of directors of Huntington Health & Rehab. LinkedIn can be a significant resource here. Once you identify these individuals, perform a search on them to understand their background, interests, past scandals, etc., for possible leverage points.
+
+4. **Labor Relations:** Try to find articles, news stories, blog posts, or forum threads related to the company's relationship with its employees. Check online job review platforms like Glassdoor for reviews from employees. Look for information about past or ongoing labor disputes, issues with working conditions, or other potential problems.
+
+5. **Recent scandals:** Research for any recent scandals or controversies involving the company. This could include lawsuits, ethical violations, customer complaints, financial mismanagement, etc. Google News and newspaper archives can be of assistance here.
+
+6. **Other Points of Leverage:** Social media platforms like Twitter, Facebook, Instagram, and LinkedIn might provide additional insights. Look for any public relations issues, customer complaints, negative reviews or any other potential areas of leverage that could be useful for the labor union.
+
+As a Strategist, ensure the sourcing and use of this information comply with legal and ethical guidelines. Accuracy and reliability of information are crucial.
+Manny: Thank you for sharing Susan's strategy, it seems comprehensive and well thought out. I have a few follow-up questions for her:
+
+1. **Specific Details on Financial Info:** What specific indicators should we look for in financial data that would aid the Labour Union? 
+
+2. **Identifying Key Decision Makers:** Besides LinkedIn, do we have any other public tools or databases where we can acquire more in-depth, professional information about key decision-makers?
+
+3.  **Recent Scandals:** What keywords do you recommend our researchers to use while researching potential recent scandals, lawsuits, or controversies?
+
+4.  **Data Management:** Could you share some best practices on how to handle, store, and share the data we collect so that it contributes valuably to our research?
+
+5. **Legal and Ethical Guidelines:** Would you elaborate on what these guidelines are and how I can ensure our team follows them? 
+
+Lastly, I would like her to designate some team members to each task to ensure a smooth information gathering process.
+Manny: Sure, here's the python list object 'search_queries_for_remi' with the specific search queries:
+
+```python
+search_queries_for_remi = [
+    "Huntington Health & Rehab official site",
+    "Huntington Health & Rehab company profile",
+    "Huntington Health & Rehab current financial status",
+    "Huntington Health & Rehab SEC filings",
+    "Huntington Health & Rehab annual reports",
+    "Huntington Health & Rehab key decision makers",
+    "Huntington Health & Rehab LinkedIn",
+    "Huntington Health & Rehab employee reviews",
+    "Huntington Health & Rehab labor relations",
+    "Huntington Health & Rehab recent scandals",
+    "Huntington Health & Rehab lawsuits",
+    "Huntington Health & Rehab customer complaints",
+    "Huntington Health & Rehab Twitter",
+    "Huntington Health & Rehab Facebook",
+    "Huntington Health & Rehab Instagram",
+    "Huntington Health & Rehab LinkedIn reviews",
+]
+```
+These should guide Remi in the right direction for the preliminary research. We may need to adjust them as we go along based on the information that comes up. Encourage her to use her discretion to go deeper into any of these areas if and when necessary.
+Remi: Results for query 'Huntington Health & Rehab official site':
+Title: About - Huntington Health &amp; Rehab
+Link: https://huntingtonhrc.com/about/
+Snippet: Welcome to Huntington <b>Health</b> &amp; <b>Rehab</b> Center, where we take immense pride in the “Huntington Difference” – our commitment to not only providing expert care but also fostering a vibrant and enriching lifestyle for both our patients and residents. In the heart of our community, you’ll find a dedicated team of compassionate and professional ...
+
+Title: Home - Huntington Health &amp; Rehab
+Link: https://huntingtonhrc.com/
+Snippet: Huntington <b>Health</b> &amp; <b>Rehab</b> Center An advanced approach to short-term <b>rehab</b>, long-term care and dementia care. Let us help you reach your full recovery potential. Schedule Your Tour We put people first with attentive, high quality care Our “People First” care philosophy combined with state-of-the-art <b>rehabilitation services</b>, advanced treatment modalities and a dedicated staff, makes […]
+
+Title: Services - Huntington Health &amp; Rehab
+Link: https://huntingtonhrc.com/services/
+Snippet: Our Services Short-Term <b>Rehab</b> Our Short-Term <b>Rehab</b> offers additional assistance to patients as they strive to regain strength and return home following a recent surgery, illness, or hospitalization. Learn More Long-Term Care For those requiring 24/7 medical supervision, our Long-Term Care services seamlessly blend compassionate nursing care with vibrant living and engaging activities. Learn ...
+
+Title: Huntington Hospital | Pasadena Hospital &amp; Medical Center
+Link: https://www.huntingtonhealth.org/
+Snippet: Local Care with a National Reputation. Since 1892, we’ve been proud to play a part in Pasadena’s growth, <b>health</b> and vitality. For 131 years, we’ve grown from a small 16-bed hospital to a nationally recognized <b>health</b> care provider. You can get the trusted care you need, when you need it with Huntington <b>Health</b>, an affiliate of Cedars-Sinai.
+
+Title: Contact Huntington Hospital
+Link: https://www.huntingtonhealth.org/contact-us/
+Snippet: We welcome your questions and encourage you to contact us for assistance. Main hospital phone line: (626) 397-5000 Physician referral line: (800) 903-9233. Hospital outpatient appointment line: (626) 397-5600. Supplier Submission
+
+Title: Outpatient Rehabilitation | Huntington Hospital
+Link: https://www.huntingtonhealth.org/our-services/rehabilitation/outpatient-rehabilitation/
+Snippet: Pam has worked in all areas of the PT field-Acute <b>Rehab</b>, inpatient, outpatient, orthopedics, nursing homes, and home <b>health</b>. She has been certified in Parkinson’s BIG, speaks some Spanish and has worked at Huntington Hospital for over 22 years. She enjoys watching sports, traveling, being a servant to her cat, and wine tasting.
+
+Title: Huntington Health &amp; Rehab Center - Senior Care Finder
+Link: https://seniorcarefinder.com/providers/29613/wv/huntington/huntington-health--rehab-center
+Snippet: Huntington <b>Health</b> &amp; <b>Rehab</b> Center, located in Huntington, WV offers skilled <b>rehabilitation</b>, long-term care &amp; skilled nursing. Thinking about Huntington <b>Health</b> &amp; <b>Rehab</b> Center for yourself or a loved one? We’re all ears for your questions! Hit us up, and we’ll set you up for a laid-back on-<b>site</b> tour. Or just give us a ring anytime – we’re ...
+
+Title: Huntington Health and Rehabilitation Center
+Link: https://health.usnews.com/best-nursing-homes/area/wv/huntington-health-and-rehabilitation-center-515007
+Snippet: Huntington <b>Health</b> and <b>Rehabilitation</b> Center. 1720 17th St., Huntington, WV 25701. Map Key. Nearby Nursing Home. Nearby Hospital. Explore Map. Nearby Nursing Homes. Heritage Center - Huntington ...
+
+Title: Contact Us - Huntington Health &amp; Rehab
+Link: https://huntingtonhrc.com/contact-us/
+Snippet: 1720 17th Street Huntington, West Virginia 25701 (304) 529-6031; Click Here to Text Our Team!
+
+Title: Huntington Health and Rehabilitation Center - 19 Reviews - Huntington, WV
+Link: https://www.caring.com/senior-living/west-virginia/huntington/huntington-health-and-rehabilitation-center-25701
+Snippet: Huntington <b>Health</b> and <b>Rehabilitation</b> Center. 1720 17TH STREET, Huntington, WV 25701. (855) 638-0838 (<b>Caring</b> Family Advisor™) 2.5. (19 reviews) Offers Nursing Homes and Assisted Living. Jump to:
+

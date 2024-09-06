@@ -1,0 +1,524 @@
+Susan: Sure. Here's a strategy for gathering information on Frito-Lay:
+
+**1. Financial Information:**
+For financial data, sources like Yahoo Finance, Bloomberg, Forbes, and the Wall Street Journal can provide useful information. Search these websites for quarterly/half-yearly/annual revenue reports, profits, investments, debts, and other financial details of the company. Frito-Lay is a division of PepsiCo, so look for the financial subdivision of the company in PepsiCo's annual reports.
+
+**2. Key Decision Makers:**
+For information on key decision makers, start with Frito-Lay's official website and go to their “About Us” or “Leadership” section. You can find detailed bios of top executives on the company's own website or on business-focused social media platforms like LinkedIn. Identifying these individuals will give us a starting point to investigate any potential points of leverage.
+
+**3. Labor Relations:**
+Examine Frito-Lay's or PepsiCo's official reports, press releases, direct statements and policies regarding labor management for initial insight. Beyond that, news websites like Business Insider, The New York Times and the Washington Post occasionally provide coverage on labor issues. Labor-related online forums, blogs and sites like Glassdoor can also provide workers' sentiment towards their employer.
+
+**4. Recent Scandals:**
+A Google search can reveal recent scandals or problematic PR incidents associated with Frito-Lay. Scandals often get covered by news agencies or discussed in forums, so websites like Reddit could be of use as well.
+
+**5. Other Leverage Points:**
+To find other potential points of leverage, delve into topics like environmental impact, corporate social responsibility (CSR) initiatives, involvement in community outreach programs, major lawsuits or legal actions, lobbying activities and other ethical considerations. Review recent company actions with a critical eye for areas where they might be vulnerable to criticism or pressure.
+
+**6. Tools for Tracking:** 
+Use Google's News Alert feature to stay updated on new information about Frito-Lay, noting any patterns or repeated issues that may signal systemic problems in the company. Using an RSS feed to keep track of various news outlets can also be helpful.
+
+Remember to document, organize, and analyze your findings in your briefs.
+
+Manny: Sure. Here's a list of search queries that Remi can use:
+
+```python
+search_queries_for_remi = [
+    "Frito-Lay financial reports 2021 site:finance.yahoo.com",
+    "Frito-Lay key executives site:linkedin.com",
+    "Frito-Lay labor relations disputes news",
+    "Frito-Lay recent controversies and scandals",
+    "Frito-Lay environmental impact assessments"
+]
+```
+Remi: Results for 'Frito-Lay financial reports 2021 site:finance.yahoo.com':
+Title: PepsiCo, Inc. (PEP) Income Statement - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PEP/financials/
+Snippet: 12/31/<b>2021</b> . 12/31/2020 . 12/31/2019 ... Upgrade to begin using 40 years of <b>financial</b> <b>statements</b> and get so much more. Perform in-depth fundamental analysis with decades of income <b>statements</b> ...
+Body Content: Content could not be retrieved.
+
+Title: PepsiCo, Inc. (PEP) Stock Price, News, Quote &amp; History - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PEP/
+Snippet: Find the latest PepsiCo, Inc. (PEP) stock quote, history, news and other vital information to help you with your stock trading and investing.
+Body Content: Content could not be retrieved.
+
+Title: PepsiCo CFO on big earnings report: The secret sauce is Frito-Lay and ...
+Link: https://finance.yahoo.com/news/pepsico-cfo-on-big-earnings-report-the-secret-sauce-is-frito-lay-and-international-103818552.html
+Snippet: The earnings rundown. Net Sales: +10.4% year over year to $22.3 billion vs. estimates for $21.68 billion. <b>Frito-Lay</b> North America Sales: +14% year over year to $5.90 billion vs. estimates for $5. ...
+Body Content: Content could not be retrieved.
+
+Title: PepsiCo, Inc. (PEP) stock price, news, quote and history - Yahoo Finance
+Link: https://uk.finance.yahoo.com/quote/PEP/
+Snippet: PepsiCo, Inc. engages in the manufacture, marketing, distribution, and sale of various beverages and convenient foods worldwide. The company operates through seven segments: <b>Frito-Lay</b> North America; Quaker Foods North America; PepsiCo Beverages North America; Latin America; Europe; Africa, Middle East and South Asia; and Asia Pacific, Australia and New Zealand and China Region.
+Body Content: Content could not be retrieved.
+
+Title: frito-lay - Yahoo Finance
+Link: https://finance.yahoo.com/company/frito-lay/
+Snippet: At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your <b>financial</b> life.
+Body Content: Content could not be retrieved.
+
+Title: PepsiCo, Inc. (PEP) Stock Historical Prices &amp; Data - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PEP/history/
+Snippet: Discover historical prices for PEP stock on Yahoo Finance. View daily, weekly or monthly format back to when PepsiCo, Inc. stock was issued.
+Body Content: Content could not be retrieved.
+
+Title: PepsiCo, Inc. (PEP) Company Profile &amp; Facts - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PEP/profile/
+Snippet: See the company profile for PepsiCo, Inc. (PEP) including business summary, industry/sector information, number of employees, business summary, corporate governance, key executives and their ...
+Body Content: Content could not be retrieved.
+
+Title: A Look at Every Company That Pepsi Owns - Yahoo Finance
+Link: https://finance.yahoo.com/news/look-every-company-pepsi-owns-173824183.html
+Snippet: In 2017, <b>Lay</b>’s generated almost 2 billion in <b>annual</b> sales, with a market share of almost 30 percent of the entire potato chip market. <b>Lay</b>’s was created in 1932 by Herman <b>Lay</b>.
+Body Content: Content could not be retrieved.
+
+Title: PepsiCo Inc (PEP) Announces Full-Year Revenue Growth Amidst ...
+Link: https://finance.yahoo.com/news/pepsico-inc-pep-announces-full-113746241.html
+Snippet: Warning! GuruFocus has detected 1 Warning Sign with PEP. On February 9, 2024, PepsiCo Inc released its 8-K filing, detailing its <b>financial</b> performance for the fourth quarter and full-year 2023 ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay unit sales power PepsiCo&#39;s profit, revenue beat - Yahoo Finance
+Link: https://finance.yahoo.com/news/frito-lay-unit-sales-power-102719624.html
+Snippet: PepsiCo Inc reported second-quarter revenue and profit that topped Wall Street estimates as higher sales in its <b>Frito-Lay</b> unit in North America helped offset sluggish demand for beverages. Pepsi&#39;s ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Frito-Lay financial reports 2021 site:finance.yahoo.com':
+Title: PepsiCo, Inc. (PEP) Income Statement - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PEP/financials/
+Snippet: 12/31/<b>2021</b> . 12/31/2020 . 12/31/2019 ... Upgrade to begin using 40 years of <b>financial</b> <b>statements</b> and get so much more. Perform in-depth fundamental analysis with decades of income <b>statements</b> ...
+Body Content: Content could not be retrieved.
+
+Title: PepsiCo, Inc. (PEP) Stock Price, News, Quote &amp; History - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PEP/
+Snippet: Find the latest PepsiCo, Inc. (PEP) stock quote, history, news and other vital information to help you with your stock trading and investing.
+Body Content: Content could not be retrieved.
+
+Title: PepsiCo CFO on big earnings report: The secret sauce is Frito-Lay and ...
+Link: https://finance.yahoo.com/news/pepsico-cfo-on-big-earnings-report-the-secret-sauce-is-frito-lay-and-international-103818552.html
+Snippet: The earnings rundown. Net Sales: +10.4% year over year to $22.3 billion vs. estimates for $21.68 billion. <b>Frito-Lay</b> North America Sales: +14% year over year to $5.90 billion vs. estimates for $5. ...
+Body Content: Content could not be retrieved.
+
+Title: PepsiCo, Inc. (PEP) stock price, news, quote and history - Yahoo Finance
+Link: https://uk.finance.yahoo.com/quote/PEP/
+Snippet: PepsiCo, Inc. engages in the manufacture, marketing, distribution, and sale of various beverages and convenient foods worldwide. The company operates through seven segments: <b>Frito-Lay</b> North America; Quaker Foods North America; PepsiCo Beverages North America; Latin America; Europe; Africa, Middle East and South Asia; and Asia Pacific, Australia and New Zealand and China Region.
+Body Content: Content could not be retrieved.
+
+Title: frito-lay - Yahoo Finance
+Link: https://finance.yahoo.com/company/frito-lay/
+Snippet: At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your <b>financial</b> life.
+Body Content: Content could not be retrieved.
+
+Title: PepsiCo, Inc. (PEP) Stock Historical Prices &amp; Data - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PEP/history/
+Snippet: Discover historical prices for PEP stock on Yahoo Finance. View daily, weekly or monthly format back to when PepsiCo, Inc. stock was issued.
+Body Content: Content could not be retrieved.
+
+Title: PepsiCo, Inc. (PEP) Company Profile &amp; Facts - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PEP/profile/
+Snippet: See the company profile for PepsiCo, Inc. (PEP) including business summary, industry/sector information, number of employees, business summary, corporate governance, key executives and their ...
+Body Content: Content could not be retrieved.
+
+Title: A Look at Every Company That Pepsi Owns - Yahoo Finance
+Link: https://finance.yahoo.com/news/look-every-company-pepsi-owns-173824183.html
+Snippet: In 2017, <b>Lay</b>’s generated almost 2 billion in <b>annual</b> sales, with a market share of almost 30 percent of the entire potato chip market. <b>Lay</b>’s was created in 1932 by Herman <b>Lay</b>.
+Body Content: Content could not be retrieved.
+
+Title: PepsiCo Inc (PEP) Announces Full-Year Revenue Growth Amidst ...
+Link: https://finance.yahoo.com/news/pepsico-inc-pep-announces-full-113746241.html
+Snippet: Warning! GuruFocus has detected 1 Warning Sign with PEP. On February 9, 2024, PepsiCo Inc released its 8-K filing, detailing its <b>financial</b> performance for the fourth quarter and full-year 2023 ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay unit sales power PepsiCo&#39;s profit, revenue beat - Yahoo Finance
+Link: https://finance.yahoo.com/news/frito-lay-unit-sales-power-102719624.html
+Snippet: PepsiCo Inc reported second-quarter revenue and profit that topped Wall Street estimates as higher sales in its <b>Frito-Lay</b> unit in North America helped offset sluggish demand for beverages. Pepsi&#39;s ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Frito-Lay key executives site:linkedin.com':
+Title: Steven Williams - PepsiCo - LinkedIn
+Link: https://www.linkedin.com/in/steven-williams-b4b8604
+Snippet: Steven Williams is the Chief <b>Executive</b> Officer of PepsiCo Foods North America. He is a… · Experience: PepsiCo · Education: University of Central Oklahoma · Location: Dallas-Fort Worth ...
+Body Content: Content could not be retrieved.
+
+Title: Eric Brewer - Vice President &amp; GM - LinkedIn
+Link: https://www.linkedin.com/in/eric-brewer-0709182b
+Snippet: Led ad-hoc project teams to address <b>key</b> strategic challenges facing <b>Frito Lay</b> <b>Key</b> projects: sales turnaround strategy for $3B <b>Lay</b>’s brand, promotion optimization project for second-largest U.S ...
+Body Content: Content could not be retrieved.
+
+Title: #Tom Greco&#39;s Vision for Frito Lay: How his Leadership ... - LinkedIn
+Link: https://www.linkedin.com/pulse/tom-grecos-vision-frito-lay-how-his-leadership-company-standley
+Snippet: Tom Greco, the <b>CEO</b> of <b>Frito-Lay</b> North America business unit, implemented a bold and visionary strategy to transform the company and navigate the evolving consumer landscape. This strategy focused ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay - LinkedIn
+Link: https://www.linkedin.com/company/frito-lay/
+Snippet: <b>Frito-Lay</b>. 89,358 followers. 2h. The wait is over! 🎙️ Tune in to the latest &#39;Recipe for Success&#39; podcast episode with Mari Roberts, CTP, and Jeremy Johnson. Learn how they blend service ...
+Body Content: Content could not be retrieved.
+
+Title: Chris Barclay - Sales Strategy Manager - FRITO LAY - LinkedIn
+Link: https://www.linkedin.com/in/chris-w-barclay
+Snippet: CPG Account Management l Field Sales l Team Leader l Commercialization Projects l Procurement Buying · Solution-oriented and customer-focused sales <b>executive</b> with extensive experience in consumer ...
+Body Content: Content could not be retrieved.
+
+Title: Ed May - Senior Account Manager - Frito- Lay Inc. | LinkedIn
+Link: https://www.linkedin.com/in/ed-may
+Snippet: Award-winning and results-focused senior sales management professional with comprehensive experience in leadership of strategic planning, business development, management of $100M+ accounts, and ...
+Body Content: Content could not be retrieved.
+
+Title: 20 Pepsico Frito Lay Key Account Executive jobs in United ... - LinkedIn
+Link: https://www.linkedin.com/jobs/pepsico-frito-lay-key-account-executive-jobs
+Snippet: Today’s top 20 Pepsico <b>Frito Lay</b> <b>Key</b> Account <b>Executive</b> jobs in United States. Leverage your professional network, and get hired. New Pepsico <b>Frito Lay</b> <b>Key</b> Account <b>Executive</b> jobs added daily.
+Body Content: Content could not be retrieved.
+
+Title: Ashley Capps - Director, Communications, Frito-Lay North America ...
+Link: https://www.linkedin.com/in/ashleymaddocks
+Snippet: Jun 2018 - Apr 20201 year 11 months. Dallas, TX. Vice president in Ketchum’s food and beverage portfolio practice leading a bi-coastal team in the planning and execution of earned media and ...
+Body Content: Content could not be retrieved.
+
+Title: Christopher Clark - FRITO LAY - LinkedIn
+Link: https://www.linkedin.com/in/christopher-clark-56aab076
+Snippet: <b>Key</b> member of a management team responsible for monitoring staff performance, planning budgets, maintaining inventories, improving customer satisfaction, and overseeing implementation of procedures.
+Body Content: Content could not be retrieved.
+
+Title: Vimal Bhakta - SC Senior Manager - FRITO LAY - LinkedIn
+Link: https://www.linkedin.com/in/vimal-bhakta-70184367
+Snippet: SC Senior Manager at <b>Frito Lay</b> North America · Thank you for taking the time to read my profile! &lt;br&gt; &lt;br&gt;Let me introduce myself, my name is Vimal Bhakta and as you can see from the information ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Frito-Lay key executives site:linkedin.com':
+Title: Steven Williams - PepsiCo - LinkedIn
+Link: https://www.linkedin.com/in/steven-williams-b4b8604
+Snippet: Steven Williams is the Chief <b>Executive</b> Officer of PepsiCo Foods North America. He is a… · Experience: PepsiCo · Education: University of Central Oklahoma · Location: Dallas-Fort Worth ...
+Body Content: Content could not be retrieved.
+
+Title: Eric Brewer - Vice President &amp; GM - LinkedIn
+Link: https://www.linkedin.com/in/eric-brewer-0709182b
+Snippet: Led ad-hoc project teams to address <b>key</b> strategic challenges facing <b>Frito Lay</b> <b>Key</b> projects: sales turnaround strategy for $3B <b>Lay</b>’s brand, promotion optimization project for second-largest U.S ...
+Body Content: Content could not be retrieved.
+
+Title: #Tom Greco&#39;s Vision for Frito Lay: How his Leadership ... - LinkedIn
+Link: https://www.linkedin.com/pulse/tom-grecos-vision-frito-lay-how-his-leadership-company-standley
+Snippet: Tom Greco, the <b>CEO</b> of <b>Frito-Lay</b> North America business unit, implemented a bold and visionary strategy to transform the company and navigate the evolving consumer landscape. This strategy focused ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay - LinkedIn
+Link: https://www.linkedin.com/company/frito-lay/
+Snippet: <b>Frito-Lay</b>. 89,358 followers. 2h. The wait is over! 🎙️ Tune in to the latest &#39;Recipe for Success&#39; podcast episode with Mari Roberts, CTP, and Jeremy Johnson. Learn how they blend service ...
+Body Content: Content could not be retrieved.
+
+Title: Chris Barclay - Sales Strategy Manager - FRITO LAY - LinkedIn
+Link: https://www.linkedin.com/in/chris-w-barclay
+Snippet: CPG Account Management l Field Sales l Team Leader l Commercialization Projects l Procurement Buying · Solution-oriented and customer-focused sales <b>executive</b> with extensive experience in consumer ...
+Body Content: Content could not be retrieved.
+
+Title: Ed May - Senior Account Manager - Frito- Lay Inc. | LinkedIn
+Link: https://www.linkedin.com/in/ed-may
+Snippet: Award-winning and results-focused senior sales management professional with comprehensive experience in leadership of strategic planning, business development, management of $100M+ accounts, and ...
+Body Content: Content could not be retrieved.
+
+Title: 20 Pepsico Frito Lay Key Account Executive jobs in United ... - LinkedIn
+Link: https://www.linkedin.com/jobs/pepsico-frito-lay-key-account-executive-jobs
+Snippet: Today’s top 20 Pepsico <b>Frito Lay</b> <b>Key</b> Account <b>Executive</b> jobs in United States. Leverage your professional network, and get hired. New Pepsico <b>Frito Lay</b> <b>Key</b> Account <b>Executive</b> jobs added daily.
+Body Content: Content could not be retrieved.
+
+Title: Ashley Capps - Director, Communications, Frito-Lay North America ...
+Link: https://www.linkedin.com/in/ashleymaddocks
+Snippet: Jun 2018 - Apr 20201 year 11 months. Dallas, TX. Vice president in Ketchum’s food and beverage portfolio practice leading a bi-coastal team in the planning and execution of earned media and ...
+Body Content: Content could not be retrieved.
+
+Title: Christopher Clark - FRITO LAY - LinkedIn
+Link: https://www.linkedin.com/in/christopher-clark-56aab076
+Snippet: <b>Key</b> member of a management team responsible for monitoring staff performance, planning budgets, maintaining inventories, improving customer satisfaction, and overseeing implementation of procedures.
+Body Content: Content could not be retrieved.
+
+Title: Vimal Bhakta - SC Senior Manager - FRITO LAY - LinkedIn
+Link: https://www.linkedin.com/in/vimal-bhakta-70184367
+Snippet: SC Senior Manager at <b>Frito Lay</b> North America · Thank you for taking the time to read my profile! &lt;br&gt; &lt;br&gt;Let me introduce myself, my name is Vimal Bhakta and as you can see from the information ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Frito-Lay labor relations disputes news':
+Title: Frito-Lay Workers Strike For End To &#39;Suicide Shifts&#39; : NPR
+Link: https://www.npr.org/2021/07/21/1018634768/frito-lay-workers-are-in-the-third-week-of-a-strike-over-wages-and-working-condi
+Snippet: Danny Johnston/AP. Hundreds of Frito-<b>Lay</b> workers in Topeka, Kan., are in their third week of a strike, citing so-called &quot;suicide shifts&quot; and poor working conditions at the manufacturing and ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay Workers in Kansas Ratify Contract, Ending Strike
+Link: https://www.nytimes.com/2021/07/24/us/frito-lay-union-contract.html
+Snippet: Frito-<b>Lay</b> employs more than 66,000 people, and the strike is the first at one of its plants in three decades, according to the company. It was the first time workers at the plant in Topeka went on ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay Kansas worker strike ends after 20 days - CNN
+Link: https://www.cnn.com/2021/07/24/business/frito-lay-strike-union-contract-topeka-kansas/index.html
+Snippet: Ron Sadler, employee at Frito-<b>Lay</b> for 32 years, puts his fist up as drivers honk their horns to show support for the union strike Tuesday afternoon, July 20. &quot;I&#39;m way too old to be dealing with ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay strike issues include 84-hour work weeks - CBS News
+Link: https://www.cbsnews.com/news/frito-lay-strike-workers-issues/
+Snippet: Updated on: July 22, 2021 / 10:10 AM EDT / MoneyWatch. Hundreds or Frito-<b>Lay</b> workers are walking picket lines in Topeka, Kansas, demanding an end to mandatory overtime and 84-hour weeks induced by ...
+Body Content: Content could not be retrieved.
+
+Title: Why hundreds of Frito-Lay workers have been striking
+Link: https://www.cnn.com/2021/07/23/us/frito-lay-strike-topeka-kansas-trnd/index.html
+Snippet: Hundreds of Frito-<b>Lay</b> workers in Topeka, Kansas, are in week three of a strike over what union leaders describe as long hours, forced overtime, stagnating wages and a diminished quality of life.
+Body Content: Content could not be retrieved.
+
+Title: Striking Frito-Lay Workers Demand Better Hours
+Link: https://www.nytimes.com/2021/07/22/us/frito-lay-strike-workers.html
+Snippet: Hourly wages at the plant range from $18.35 to $36.91 per hour, according to the company. Frito-<b>Lay</b> said its offer to the union on July 1 called for a two-year contract with a 4 percent wage ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay workers back on the job with one guaranteed day ... - CBS News
+Link: https://www.cbsnews.com/news/frito-lay-workers-back-at-work-with-guaranteed-day-off-a-week/
+Snippet: Frito-<b>Lay</b>&#39;s records &quot;indicate 19 employees worked 84 hours in a given work week in 2021, and 16 of those as a result of employees volunteering for overtime and only 3 being required to work,&quot; it said.
+Body Content: Content could not be retrieved.
+
+Title: A Lawmaker on What the Frito-Lay Strike Means for Future of Labor ...
+Link: https://www.businessinsider.com/frito-lay-pepsico-strike-labor-problem-kansas-lawmaker-2021-8
+Snippet: Aug 6, 2021, 8:02 AM PDT. The CEO of PepsiCo made roughly $21.5 million last year — more than 460 times the median PepsiCo worker salary. Jonathan Weiss/Shutterstock. Paul Constant is a writer ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay workers end their 20-day strike after getting higher wages ...
+Link: https://www.businessinsider.in/policy/economy/news/frito-lay-workers-end-their-20-day-strike-after-getting-higher-wages-and-a-day-off-each-week/articleshow/84768626.cms
+Snippet: A 20 day strike by 600 Frito-<b>Lay</b> workers in Topeka, Kansas has come to an end after workers negotiated a wage increase, a day off every week, and the end of what workers called &quot;suicide shifts ...
+Body Content: Content could not be retrieved.
+
+Title: Workers Strike For Higher Wages And Less Overtime At Topeka Frito-Lay ...
+Link: https://www.kcur.org/news/2021-07-09/topeka-frito-lay-strike
+Snippet: But Hall said it was Frito-<b>Lay</b> parent company PepsiCo’s vice president of <b>labor</b> <b>relations</b>, Carolyn Fisher, who told union leadership and members of the negotiating committee to recommend the ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Frito-Lay labor relations disputes news':
+Title: Frito-Lay Workers Strike For End To &#39;Suicide Shifts&#39; : NPR
+Link: https://www.npr.org/2021/07/21/1018634768/frito-lay-workers-are-in-the-third-week-of-a-strike-over-wages-and-working-condi
+Snippet: Danny Johnston/AP. Hundreds of Frito-<b>Lay</b> workers in Topeka, Kan., are in their third week of a strike, citing so-called &quot;suicide shifts&quot; and poor working conditions at the manufacturing and ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay Workers in Kansas Ratify Contract, Ending Strike
+Link: https://www.nytimes.com/2021/07/24/us/frito-lay-union-contract.html
+Snippet: Frito-<b>Lay</b> employs more than 66,000 people, and the strike is the first at one of its plants in three decades, according to the company. It was the first time workers at the plant in Topeka went on ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay Kansas worker strike ends after 20 days - CNN
+Link: https://www.cnn.com/2021/07/24/business/frito-lay-strike-union-contract-topeka-kansas/index.html
+Snippet: Ron Sadler, employee at Frito-<b>Lay</b> for 32 years, puts his fist up as drivers honk their horns to show support for the union strike Tuesday afternoon, July 20. &quot;I&#39;m way too old to be dealing with ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay strike issues include 84-hour work weeks - CBS News
+Link: https://www.cbsnews.com/news/frito-lay-strike-workers-issues/
+Snippet: Updated on: July 22, 2021 / 10:10 AM EDT / MoneyWatch. Hundreds or Frito-<b>Lay</b> workers are walking picket lines in Topeka, Kansas, demanding an end to mandatory overtime and 84-hour weeks induced by ...
+Body Content: Content could not be retrieved.
+
+Title: Why hundreds of Frito-Lay workers have been striking
+Link: https://www.cnn.com/2021/07/23/us/frito-lay-strike-topeka-kansas-trnd/index.html
+Snippet: Hundreds of Frito-<b>Lay</b> workers in Topeka, Kansas, are in week three of a strike over what union leaders describe as long hours, forced overtime, stagnating wages and a diminished quality of life.
+Body Content: Content could not be retrieved.
+
+Title: Striking Frito-Lay Workers Demand Better Hours
+Link: https://www.nytimes.com/2021/07/22/us/frito-lay-strike-workers.html
+Snippet: Hourly wages at the plant range from $18.35 to $36.91 per hour, according to the company. Frito-<b>Lay</b> said its offer to the union on July 1 called for a two-year contract with a 4 percent wage ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay workers back on the job with one guaranteed day ... - CBS News
+Link: https://www.cbsnews.com/news/frito-lay-workers-back-at-work-with-guaranteed-day-off-a-week/
+Snippet: Frito-<b>Lay</b>&#39;s records &quot;indicate 19 employees worked 84 hours in a given work week in 2021, and 16 of those as a result of employees volunteering for overtime and only 3 being required to work,&quot; it said.
+Body Content: Content could not be retrieved.
+
+Title: A Lawmaker on What the Frito-Lay Strike Means for Future of Labor ...
+Link: https://www.businessinsider.com/frito-lay-pepsico-strike-labor-problem-kansas-lawmaker-2021-8
+Snippet: Aug 6, 2021, 8:02 AM PDT. The CEO of PepsiCo made roughly $21.5 million last year — more than 460 times the median PepsiCo worker salary. Jonathan Weiss/Shutterstock. Paul Constant is a writer ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay workers end their 20-day strike after getting higher wages ...
+Link: https://www.businessinsider.in/policy/economy/news/frito-lay-workers-end-their-20-day-strike-after-getting-higher-wages-and-a-day-off-each-week/articleshow/84768626.cms
+Snippet: A 20 day strike by 600 Frito-<b>Lay</b> workers in Topeka, Kansas has come to an end after workers negotiated a wage increase, a day off every week, and the end of what workers called &quot;suicide shifts ...
+Body Content: Content could not be retrieved.
+
+Title: Workers Strike For Higher Wages And Less Overtime At Topeka Frito-Lay ...
+Link: https://www.kcur.org/news/2021-07-09/topeka-frito-lay-strike
+Snippet: But Hall said it was Frito-<b>Lay</b> parent company PepsiCo’s vice president of <b>labor</b> <b>relations</b>, Carolyn Fisher, who told union leadership and members of the negotiating committee to recommend the ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Frito-Lay recent controversies and scandals':
+Title: Frito-Lay, PepsiCo, and Flamin&#39; Hot Cheeto Controversy Explained ...
+Link: https://www.businessinsider.com/frito-lay-pepsico-and-flamin-hot-cheeto-controversy-explained-2021-5
+Snippet: Lynne Greenfeld, who was a junior snack food professional at <b>Frito-Lay</b>, said she came up with the name &quot;Flamin&#39; Hot Cheetos,&quot; and created the product beginning in 1989, per the LA Times.
+Body Content: Content could not be retrieved.
+
+Title: Battle over who invented Flamin&#39; Hot Cheetos leads to a lawsuit - Los ...
+Link: https://www.latimes.com/california/story/2024-07-23/flamin-hot-cheetos-lawsuit-filed-over-origin-claims
+Snippet: July 23, 2024 3 AM PT. The man who says he invented Flamin’ Hot Cheetos is suing his former employers for fraud, defamation and other violations, saying he was harmed when <b>Frito-Lay</b> and PepsiCo ...
+Body Content: Content could not be retrieved.
+
+Title: Why People Are Upset About The Flamin&#39; Hot Cheetos Story
+Link: https://www.npr.org/2021/05/20/998709191/why-people-are-upset-over-the-history-of-flamin-hot-cheetos
+Snippet: It was a pull-yourself-up-by-your-bootstraps story made for Hollywood. A Mexican American janitor working at a <b>Frito-Lay</b> factory in California in the late 1980s had an idea for a new chip flavor ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay Workers Strike For End To &#39;Suicide Shifts&#39; : NPR
+Link: https://www.npr.org/2021/07/21/1018634768/frito-lay-workers-are-in-the-third-week-of-a-strike-over-wages-and-working-condi
+Snippet: Danny Johnston/AP. Hundreds of <b>Frito-Lay</b> workers in Topeka, Kan., are in their third week of a strike, citing so-called &quot;suicide shifts&quot; and poor working conditions at the manufacturing and ...
+Body Content: Content could not be retrieved.
+
+Title: Attorney General Letitia James files lawsuit against PepsiCo over ...
+Link: https://www.cbsnews.com/newyork/news/new-york-pepsi-frito-lay-lawsuit/
+Snippet: The lawsuit filed in state Supreme Court aims to require PepsiCo and its subsidiaries, <b>Frito-Lay</b> Inc. and <b>Frito-Lay</b> North America Inc., to clean up its mess, where its single-use plastic packaging ...
+Body Content: Content could not be retrieved.
+
+Title: What the anger over Flamin&#39; Hot Cheetos story is really about - Los ...
+Link: https://www.latimes.com/california/story/2021-05-18/flamin-hot-cheetos-controversy-richard-montanez
+Snippet: Richard Montañez has for years told a story of how he dreamed up Flamin’ Hot Cheetos while working as a <b>Frito-Lay</b> janitor. The archival record, former employees and <b>Frito-Lay</b> itself say ...
+Body Content: Content could not be retrieved.
+
+Title: The human cost of Doritos: Why workers at a Frito-Lay factory are on ...
+Link: https://www.independent.co.uk/news/world/americas/frito-lay-strike-factory-doritos-b1885068.html
+Snippet: The human cost of Doritos: Claims of 84-hour work weeks and stagnant wages at <b>Frito-Lay</b> factory where workers are on strike. Employees at the snack giant’s facility in Kansas demand an end to ...
+Body Content: Content could not be retrieved.
+
+Title: The flamin&#39; hot controversy around the Cheetos origin story
+Link: https://nationalpost.com/life/food/flamin-hot-controversy-around-cheetos-origin-story
+Snippet: Fuelled by the redder than red dust of Flamin’ Hot Cheetos, a <b>Frito-Lay</b> janitor rose through the ranks to become a high-powered executive. So goes the against-all-odds story of Richard Montañez ...
+Body Content: Content could not be retrieved.
+
+Title: Flamin&#39; Hot Cheetos: Everything We Know About the Controversy and ...
+Link: https://www.etonline.com/flamin-hot-cheetos-everything-we-know-about-the-controversy-and-upcoming-biopic-166117
+Snippet: Carey became president and CEO of <b>Frito-Lay</b> North America in 2006, and has joined Montañez at events while talking about Flamin&#39; Hot Cheetos&#39; creation. Carey, who has since retired, also insisted ...
+Body Content: Content could not be retrieved.
+
+Title: The Frito-Lay strike and how to support the workers - Vox
+Link: https://www.vox.com/the-goods/2021/7/21/22586982/frito-lay-products-strike-boycott-topeka-kansas
+Snippet: Workers at a <b>Frito-Lay</b> plant in Topeka, Kansas, have been on strike for more than two weeks asking for better working conditions and pay. The way they tell it, they’ve got good reason to take ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Frito-Lay recent controversies and scandals':
+Title: Frito-Lay, PepsiCo, and Flamin&#39; Hot Cheeto Controversy Explained ...
+Link: https://www.businessinsider.com/frito-lay-pepsico-and-flamin-hot-cheeto-controversy-explained-2021-5
+Snippet: Lynne Greenfeld, who was a junior snack food professional at <b>Frito-Lay</b>, said she came up with the name &quot;Flamin&#39; Hot Cheetos,&quot; and created the product beginning in 1989, per the LA Times.
+Body Content: Content could not be retrieved.
+
+Title: Battle over who invented Flamin&#39; Hot Cheetos leads to a lawsuit - Los ...
+Link: https://www.latimes.com/california/story/2024-07-23/flamin-hot-cheetos-lawsuit-filed-over-origin-claims
+Snippet: July 23, 2024 3 AM PT. The man who says he invented Flamin’ Hot Cheetos is suing his former employers for fraud, defamation and other violations, saying he was harmed when <b>Frito-Lay</b> and PepsiCo ...
+Body Content: Content could not be retrieved.
+
+Title: Why People Are Upset About The Flamin&#39; Hot Cheetos Story
+Link: https://www.npr.org/2021/05/20/998709191/why-people-are-upset-over-the-history-of-flamin-hot-cheetos
+Snippet: It was a pull-yourself-up-by-your-bootstraps story made for Hollywood. A Mexican American janitor working at a <b>Frito-Lay</b> factory in California in the late 1980s had an idea for a new chip flavor ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay Workers Strike For End To &#39;Suicide Shifts&#39; : NPR
+Link: https://www.npr.org/2021/07/21/1018634768/frito-lay-workers-are-in-the-third-week-of-a-strike-over-wages-and-working-condi
+Snippet: Danny Johnston/AP. Hundreds of <b>Frito-Lay</b> workers in Topeka, Kan., are in their third week of a strike, citing so-called &quot;suicide shifts&quot; and poor working conditions at the manufacturing and ...
+Body Content: Content could not be retrieved.
+
+Title: Attorney General Letitia James files lawsuit against PepsiCo over ...
+Link: https://www.cbsnews.com/newyork/news/new-york-pepsi-frito-lay-lawsuit/
+Snippet: The lawsuit filed in state Supreme Court aims to require PepsiCo and its subsidiaries, <b>Frito-Lay</b> Inc. and <b>Frito-Lay</b> North America Inc., to clean up its mess, where its single-use plastic packaging ...
+Body Content: Content could not be retrieved.
+
+Title: What the anger over Flamin&#39; Hot Cheetos story is really about - Los ...
+Link: https://www.latimes.com/california/story/2021-05-18/flamin-hot-cheetos-controversy-richard-montanez
+Snippet: Richard Montañez has for years told a story of how he dreamed up Flamin’ Hot Cheetos while working as a <b>Frito-Lay</b> janitor. The archival record, former employees and <b>Frito-Lay</b> itself say ...
+Body Content: Content could not be retrieved.
+
+Title: The human cost of Doritos: Why workers at a Frito-Lay factory are on ...
+Link: https://www.independent.co.uk/news/world/americas/frito-lay-strike-factory-doritos-b1885068.html
+Snippet: The human cost of Doritos: Claims of 84-hour work weeks and stagnant wages at <b>Frito-Lay</b> factory where workers are on strike. Employees at the snack giant’s facility in Kansas demand an end to ...
+Body Content: Content could not be retrieved.
+
+Title: The flamin&#39; hot controversy around the Cheetos origin story
+Link: https://nationalpost.com/life/food/flamin-hot-controversy-around-cheetos-origin-story
+Snippet: Fuelled by the redder than red dust of Flamin’ Hot Cheetos, a <b>Frito-Lay</b> janitor rose through the ranks to become a high-powered executive. So goes the against-all-odds story of Richard Montañez ...
+Body Content: Content could not be retrieved.
+
+Title: Flamin&#39; Hot Cheetos: Everything We Know About the Controversy and ...
+Link: https://www.etonline.com/flamin-hot-cheetos-everything-we-know-about-the-controversy-and-upcoming-biopic-166117
+Snippet: Carey became president and CEO of <b>Frito-Lay</b> North America in 2006, and has joined Montañez at events while talking about Flamin&#39; Hot Cheetos&#39; creation. Carey, who has since retired, also insisted ...
+Body Content: Content could not be retrieved.
+
+Title: The Frito-Lay strike and how to support the workers - Vox
+Link: https://www.vox.com/the-goods/2021/7/21/22586982/frito-lay-products-strike-boycott-topeka-kansas
+Snippet: Workers at a <b>Frito-Lay</b> plant in Topeka, Kansas, have been on strike for more than two weeks asking for better working conditions and pay. The way they tell it, they’ve got good reason to take ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Frito-Lay environmental impact assessments':
+Title: Sustainability - FritoLay
+Link: https://www.fritolay.com/about-frito-lay/sustainability
+Snippet: <b>Frito-Lay</b> Awards Four Outstanding Students With First-Ever Community Builder Scholarship. <b>Frito-Lay</b> is leveraging our scale, reach and expertise across North America in the areas where it can have the greatest <b>impact</b> – Agriculture, Water, Packaging, Products, Climate and People – to help build a more sustainable food system.
+Body Content: Content could not be retrieved.
+
+PDF Link: https://www.fritolay.com/sites/fritolay.com/themes/fritolay/pdf/FL_Fact_Sheet_Sustainability_9.29.21.pdf
+Title: Frito-Lay Cuts Absolute Fleet Greenhouse Gas Emissions (GHG) in Half ...
+Link: https://www.fritolay.com/news/frito-lay-cuts-absolute-fleet-greenhouse-gas-emissions-ghg-in-half-reduces-diesel-usage-by-78-percent-at-california-production-site
+Snippet: March 25, 2021. PLANO, Texas, March 25, 2021 /PRNewswire/ -- <b>Frito-Lay</b>, a division of PepsiCo, Inc. (NASDAQ: PEP), today announced significant progress in the transformation of its Modesto, Calif. manufacturing site. The project is part of PepsiCo&#39;s broader sustainability strategy, which includes changes across its end-to-end value chain to build a more sustainable food system and reduce its ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay Plants Join EPA&#39;s National Environmental Performance Track ...
+Link: https://www.industryweek.com/the-economy/environment/article/22007766/frito-lay-plants-join-epas-national-environmental-performance-track-program
+Snippet: <b>Frito-Lay</b> North America, the $11 billion convenient foods business unit of PepsiCo, recently announced that its Orlando, Fla., facility has become a member of the <b>Environmental</b> Protection Agency&#39;s (EPA) National <b>Environmental</b> Performance Track Program. ... have internal systems in place to manage <b>environmental</b> <b>impact</b>, engage in community ...
+Body Content: Content could not be retrieved.
+
+PDF Link: https://www.energy.gov/sites/default/files/nepapub/nepa_documents/RedDont/EA-1861-DEA-2011.pdf
+Title: Frito-Lay&#39;s Facility Joins EPA&#39;s National Environmental Performance ...
+Link: https://www.industryweek.com/the-economy/environment/article/21946632/frito-lays-facility-joins-epas-national-environmental-performance-track-program
+Snippet: The <b>Frito-Lay</b> Rancho Cucamonga facility has several goals for <b>environmental</b> improvement over the next few years including reducing energy and water consumption, and using innovative waste reduction strategies to limit landfill waste. The Jonesboro, Ark., site was the first <b>Frito-Lay</b> plant to join the program last year.
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay plants join EPA Performance Track Program
+Link: https://www.reliableplant.com/Read/13092/frito-lay-plants-join-epa-performance-track-program
+Snippet: This includes reducing the company’s <b>impact</b> on the <b>environment</b> through water, energy and packaging initiatives. <b>Frito-Lay</b> North America is the $11 billion convenient foods business unit of PepsiCo, which is headquartered in Purchase, N.Y. In addition to <b>Frito-Lay</b>, PepsiCo business units include Pepsi-Cola, Quaker Foods, Gatorade and Tropicana.
+Body Content: Content could not be retrieved.
+
+PDF Link: https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/41/e3/13/ES2013FritoLay.pdf
+Title: Frito-Lay Just Opened “Greenest Manufacturing Facility In the US”
+Link: https://www.goodnewsnetwork.org/frito-lay-builds-greenest-us-facility-2/
+Snippet: Oct 10, 2011. <b>Frito-Lay</b>, best known for its snack chips, achieved their “most ambitious sustainability project to-date” with the reopening of an Arizona plant the company calls the “greenest ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay Transforms its Modesto, CA Facility into a ... - PotatoPro
+Link: https://www.potatopro.com/news/2023/frito-lay-transforms-its-modesto-ca-facility-showcase-sustainability
+Snippet: The <b>Frito-Lay</b> Modesto site is one of the largest <b>Frito-Lay</b> manufacturing facilities in the United States at 500,000 square feet, sitting on 80 acres and employing more than 1,100 associates. The facility is the first <b>Frito-Lay</b> manufacturing facility to implement site-wide alternative fuel vehicles, on-site renewable energy generation, energy ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Frito-Lay environmental impact assessments':
+Title: Sustainability - FritoLay
+Link: https://www.fritolay.com/about-frito-lay/sustainability
+Snippet: <b>Frito-Lay</b> Awards Four Outstanding Students With First-Ever Community Builder Scholarship. <b>Frito-Lay</b> is leveraging our scale, reach and expertise across North America in the areas where it can have the greatest <b>impact</b> – Agriculture, Water, Packaging, Products, Climate and People – to help build a more sustainable food system.
+Body Content: Content could not be retrieved.
+
+PDF Link: https://www.fritolay.com/sites/fritolay.com/themes/fritolay/pdf/FL_Fact_Sheet_Sustainability_9.29.21.pdf
+Title: Frito-Lay Cuts Absolute Fleet Greenhouse Gas Emissions (GHG) in Half ...
+Link: https://www.fritolay.com/news/frito-lay-cuts-absolute-fleet-greenhouse-gas-emissions-ghg-in-half-reduces-diesel-usage-by-78-percent-at-california-production-site
+Snippet: March 25, 2021. PLANO, Texas, March 25, 2021 /PRNewswire/ -- <b>Frito-Lay</b>, a division of PepsiCo, Inc. (NASDAQ: PEP), today announced significant progress in the transformation of its Modesto, Calif. manufacturing site. The project is part of PepsiCo&#39;s broader sustainability strategy, which includes changes across its end-to-end value chain to build a more sustainable food system and reduce its ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay Plants Join EPA&#39;s National Environmental Performance Track ...
+Link: https://www.industryweek.com/the-economy/environment/article/22007766/frito-lay-plants-join-epas-national-environmental-performance-track-program
+Snippet: <b>Frito-Lay</b> North America, the $11 billion convenient foods business unit of PepsiCo, recently announced that its Orlando, Fla., facility has become a member of the <b>Environmental</b> Protection Agency&#39;s (EPA) National <b>Environmental</b> Performance Track Program. ... have internal systems in place to manage <b>environmental</b> <b>impact</b>, engage in community ...
+Body Content: Content could not be retrieved.
+
+PDF Link: https://www.energy.gov/sites/default/files/nepapub/nepa_documents/RedDont/EA-1861-DEA-2011.pdf
+Title: Frito-Lay&#39;s Facility Joins EPA&#39;s National Environmental Performance ...
+Link: https://www.industryweek.com/the-economy/environment/article/21946632/frito-lays-facility-joins-epas-national-environmental-performance-track-program
+Snippet: The <b>Frito-Lay</b> Rancho Cucamonga facility has several goals for <b>environmental</b> improvement over the next few years including reducing energy and water consumption, and using innovative waste reduction strategies to limit landfill waste. The Jonesboro, Ark., site was the first <b>Frito-Lay</b> plant to join the program last year.
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay plants join EPA Performance Track Program
+Link: https://www.reliableplant.com/Read/13092/frito-lay-plants-join-epa-performance-track-program
+Snippet: This includes reducing the company’s <b>impact</b> on the <b>environment</b> through water, energy and packaging initiatives. <b>Frito-Lay</b> North America is the $11 billion convenient foods business unit of PepsiCo, which is headquartered in Purchase, N.Y. In addition to <b>Frito-Lay</b>, PepsiCo business units include Pepsi-Cola, Quaker Foods, Gatorade and Tropicana.
+Body Content: Content could not be retrieved.
+
+PDF Link: https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/41/e3/13/ES2013FritoLay.pdf
+Title: Frito-Lay Just Opened “Greenest Manufacturing Facility In the US”
+Link: https://www.goodnewsnetwork.org/frito-lay-builds-greenest-us-facility-2/
+Snippet: Oct 10, 2011. <b>Frito-Lay</b>, best known for its snack chips, achieved their “most ambitious sustainability project to-date” with the reopening of an Arizona plant the company calls the “greenest ...
+Body Content: Content could not be retrieved.
+
+Title: Frito-Lay Transforms its Modesto, CA Facility into a ... - PotatoPro
+Link: https://www.potatopro.com/news/2023/frito-lay-transforms-its-modesto-ca-facility-showcase-sustainability
+Snippet: The <b>Frito-Lay</b> Modesto site is one of the largest <b>Frito-Lay</b> manufacturing facilities in the United States at 500,000 square feet, sitting on 80 acres and employing more than 1,100 associates. The facility is the first <b>Frito-Lay</b> manufacturing facility to implement site-wide alternative fuel vehicles, on-site renewable energy generation, energy ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)

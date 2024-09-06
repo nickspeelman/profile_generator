@@ -1,0 +1,1795 @@
+Susan: To conduct a comprehensive research on Arby's, we need to gather information across several key dimensions: the company's financial status, key decision makers, labor relations, recent scandals, and other potential points of leverage. Here's a step-by-step strategy to gather these details.
+
+1. **Financial Information:** Start by researching Arby's financials from their parent company Inspire Brands' annual and quarterly reports which are available online. Also, look for news articles that discuss Arby's or Inspire Brands' financial performance. Relevant websites here might be Forbes, Bloomberg, and Reuters. This could cover Arby's sales, net revenue, profit margin, market share, and other significant financial indicators.
+
+2. **Key Decision Makers:** Look up Arby's executive team on their official website or LinkedIn to identify key decision makers. These could be their CEO, CFO, COO, and other executives. Once identified, research each person using news sites, social media networks, and professional networking sites for points of leverage. This could include their career backgrounds, private interests, or recent public statements.
+
+3. **Labor Relations:** Dig into sites like Glassdoor, PayScale, and Indeed to understand the experience of the employees working at Arby's. Look for information related to salaries, benefits, workplace culture, and other indicators of employee satisfaction. Pay particular attention to any signs of discontent or conflict and check for any past or ongoing labor union activities. 
+
+4. **Recent Scandals:** For recent controversies and scandals, news outlets and social media platforms will be invaluable. Look for recent news involving Arby's or Inspire Brands. Also, try to find out if there's been any legal action against the company. 
+
+5. **Other Points of Leverage:** Research any recent CSR (Corporate Social Responsibility) initiatives that Arby's may have undertaken, check for any potential supply chain vulnerabilities, consumer opinion about the brand (positive or negative), and examine their competitive positioning in the fast food industry. Check platforms like Twitter, Reddit, or Facebook for customer sentiments.
+
+Remember to validate information from multiple sources to ensure accuracy, relevance, and reliability. Once all these data points have been collected, we can create a detailed research brief, including potential strategies and suggestion points to engage in a dialogue with Arby's.
+Manny: Susan, you provided a thorough plan; thank you. Here are a couple of follow-up questions:
+
+1. For the key decision-makers, in addition to career backgrounds and recent public statements, do you recommend researching their communication styles, leadership philosophies or charitable endeavors? Could these serve as other potential points of leverage?
+
+2. In understanding labor relations, should we engage with any existing or former employees on social media or professional networking sites for firsthand accounts of their experiences?
+
+3. While tracking recent scandals, should we put a system in place to continuously monitor the web for any future scandals or negative news? What tools or techniques would you recommend for this?
+
+4. Your point about examining the competitive positioning in the fast-food industry is pertinent. Do you suggest also looking at the strategies of comparable competitors to identify any industry vulnerabilities or trends we might otherwise overlook?
+
+5. When gathering customer sentiment data from platforms like Twitter, Reddit, or Facebook, how can we ensure what we gather is representative and not skewed by the platform’s user demographics?
+Manny: Certainly, here is a Python list of search queries that Remi can perform:
+
+```python
+search_queries_for_remi = [
+    "Arby's financial performance",
+    "Inspire Brands annual report",
+    "Inspire Brands quarterly report",
+    "Arby's executive team",
+    "Arby's CEO career",
+    "Arby's CFO career",
+    "Arby's COO career",
+    "Arby's employee reviews Glassdoor",
+    "Arby's employee salaries PayScale",
+    "Arby's workplace culture Indeed",
+    "Arby's labor union activities",
+    "Arby's recent scandals",
+    "Arby's legal issues",
+    "Arby's CSR initiatives",
+    "Arby's supply chain vulnerabilities",
+    "Arby's consumer sentiment Twitter",
+    "Arby's consumer sentiment Reddit",
+    "Arby's public opinion Facebook",
+    "Arby's competitive positioning",
+    "Fast food industry trends",
+    "Arby's competitors strategy"
+]
+```
+She can adjust these queries as needed to pull more targeted results.
+Remi: Results for query 'Arby's financial performance':
+Title: Arby&#39;s Franchise Costs $645K – $2.4M (+ 2024 Profits) - SharpSheets
+Link: https://sharpsheets.io/blog/arbys-franchise-costs-profits/
+Snippet: <b>Arby’s</b> differentiates itself through its Fast Crafted® restaurant services, blending the efficiency of quick-service with the quality and personalized care characteristic of fast-casual dining experiences. <b>Arby’s</b> franchise opportunities offer a compelling investment for those looking to enter the QSR market.
+
+Title: Arby&#39;s Analysis | Updated 2024
+Link: https://www.franchimp.com/franchise/arbys-106854
+Snippet: <b>Arby’s</b> Franchisor, LLC is a limited liability company organized in Delaware on July 2, 2015. They have offered franchises for <b>Arby’s</b> Restaurants since November 2015. Their principal business address is Three Glenlake Parkway NE, Atlanta, Georgia 30328.
+
+Title: Arby&#39;s | 2021 - Restaurant Business
+Link: https://www.restaurantbusinessonline.com/top-500-chains-2021/arbys
+Snippet: For complete Top 500 data, including each chain’s sales, units and YOY change, average unit volume, and company/franchise units, as well as Technomic’s analysis, growth forecast and more:
+
+Title: Arby&#39;s - Average Gross Sales, Food and Paper Costs, Labor Costs, Other ...
+Link: https://www.franchisechatter.com/2017/06/06/fdd-talk-2017-what-you-need-to-know-about-the-arbys-franchise-opportunity-financial-performance-analysis-costs-and-fees/
+Snippet: Section IV – Presentation and analysis of <b>Arby’s financial performance</b> representations, based on Item 19 of the company’s 2017 FDD, including information on the:
+
+Title: Arby&#39;s Restaurant Group Inc - Company Profile and News
+Link: https://www.bloomberg.com/profile/company/8453169Z:US
+Snippet: <b>Arby</b>&#39;s Restaurant Group, Inc. owns and operates a chain of fast food restaurants. The Company offers sandwiches, burgers, salads, drinks, and desserts, sliders, chocolate milk, and fries.
+
+Title: FDD Talk: The Arby’s Franchise Opportunity (Financial Performance ...
+Link: https://www.franchisechatter.com/2016/03/24/fdd-talk-2015-the-arbys-franchise-opportunity-financial-performance-analysis-estimated-costs-and-other-important-stuff-you-need-to-know/
+Snippet: The Franchise Chatter Blog examines the profit potential of <b>Arby</b>&#39;s restaurants, based on Item 19 of the company&#39;s 2015 FDD.
+
+Title: Arby S Market Analysis - Osum
+Link: https://blog.osum.com/arby-s-market-analysis/
+Snippet: By assessing <b>Arby’s</b> system-wide sales and the number of restaurants in their network, we can gain insights into the brand’s <b>financial</b> <b>performance</b> and market presence.
+
+Title: Arby&#39;s: system-wide sales US 2022 | Statista
+Link: https://www.statista.com/statistics/743550/system-wide-sales-of-arby-s/
+Snippet: The system-wide sales of <b>Arby</b>&#39;s in the United States increased from 2016 to 2022. <b>Arby</b>&#39;s system-wide sales reached approximately 4.54 billion U.S. dollars in 2022, up from 4.46 billion the ...
+
+Title: Arby&#39;s Company Profile - Office Locations, Competitors, Financials ...
+Link: https://craft.co/arby-s
+Snippet: See insights on <b>Arby</b>&#39;s including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft.
+
+Title: Arby&#39;s Reinvigoration | What&#39;s driving sales growth for restaurant ...
+Link: http://discoverarbys.com/research/arbys/
+Snippet: <b>Arby’s</b> has rebranded and redesigned, leading to a breakthrough in sales growth, driven by traffic from a new generation of guests. <b>Arby’s</b> is on a massive winning streak. Same-store sales have grown for more than 20 consecutive quarters. Nation’s Restaurant News estimates our restaurant franchise had the largest AUV growth in the entire ...
+
+Remi: Results for query 'Arby's financial performance':
+Title: Arby&#39;s Franchise Costs $645K – $2.4M (+ 2024 Profits) - SharpSheets
+Link: https://sharpsheets.io/blog/arbys-franchise-costs-profits/
+Snippet: <b>Arby’s</b> differentiates itself through its Fast Crafted® restaurant services, blending the efficiency of quick-service with the quality and personalized care characteristic of fast-casual dining experiences. <b>Arby’s</b> franchise opportunities offer a compelling investment for those looking to enter the QSR market.
+
+Title: Arby&#39;s Analysis | Updated 2024
+Link: https://www.franchimp.com/franchise/arbys-106854
+Snippet: <b>Arby’s</b> Franchisor, LLC is a limited liability company organized in Delaware on July 2, 2015. They have offered franchises for <b>Arby’s</b> Restaurants since November 2015. Their principal business address is Three Glenlake Parkway NE, Atlanta, Georgia 30328.
+
+Title: Arby&#39;s | 2021 - Restaurant Business
+Link: https://www.restaurantbusinessonline.com/top-500-chains-2021/arbys
+Snippet: For complete Top 500 data, including each chain’s sales, units and YOY change, average unit volume, and company/franchise units, as well as Technomic’s analysis, growth forecast and more:
+
+Title: Arby&#39;s - Average Gross Sales, Food and Paper Costs, Labor Costs, Other ...
+Link: https://www.franchisechatter.com/2017/06/06/fdd-talk-2017-what-you-need-to-know-about-the-arbys-franchise-opportunity-financial-performance-analysis-costs-and-fees/
+Snippet: Section IV – Presentation and analysis of <b>Arby’s financial performance</b> representations, based on Item 19 of the company’s 2017 FDD, including information on the:
+
+Title: Arby&#39;s Restaurant Group Inc - Company Profile and News
+Link: https://www.bloomberg.com/profile/company/8453169Z:US
+Snippet: <b>Arby</b>&#39;s Restaurant Group, Inc. owns and operates a chain of fast food restaurants. The Company offers sandwiches, burgers, salads, drinks, and desserts, sliders, chocolate milk, and fries.
+
+Title: FDD Talk: The Arby’s Franchise Opportunity (Financial Performance ...
+Link: https://www.franchisechatter.com/2016/03/24/fdd-talk-2015-the-arbys-franchise-opportunity-financial-performance-analysis-estimated-costs-and-other-important-stuff-you-need-to-know/
+Snippet: The Franchise Chatter Blog examines the profit potential of <b>Arby</b>&#39;s restaurants, based on Item 19 of the company&#39;s 2015 FDD.
+
+Title: Arby S Market Analysis - Osum
+Link: https://blog.osum.com/arby-s-market-analysis/
+Snippet: By assessing <b>Arby’s</b> system-wide sales and the number of restaurants in their network, we can gain insights into the brand’s <b>financial</b> <b>performance</b> and market presence.
+
+Title: Arby&#39;s: system-wide sales US 2022 | Statista
+Link: https://www.statista.com/statistics/743550/system-wide-sales-of-arby-s/
+Snippet: The system-wide sales of <b>Arby</b>&#39;s in the United States increased from 2016 to 2022. <b>Arby</b>&#39;s system-wide sales reached approximately 4.54 billion U.S. dollars in 2022, up from 4.46 billion the ...
+
+Title: Arby&#39;s Company Profile - Office Locations, Competitors, Financials ...
+Link: https://craft.co/arby-s
+Snippet: See insights on <b>Arby</b>&#39;s including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft.
+
+Title: Arby&#39;s Reinvigoration | What&#39;s driving sales growth for restaurant ...
+Link: http://discoverarbys.com/research/arbys/
+Snippet: <b>Arby’s</b> has rebranded and redesigned, leading to a breakthrough in sales growth, driven by traffic from a new generation of guests. <b>Arby’s</b> is on a massive winning streak. Same-store sales have grown for more than 20 consecutive quarters. Nation’s Restaurant News estimates our restaurant franchise had the largest AUV growth in the entire ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Inspire Brands annual report':
+Title: About Us - Inspire Brands
+Link: https://inspirebrands.com/about-us/
+Snippet: About Us - Inspire <b>Brands</b>. $32.5B+ in Global System Sales. 32,600+ Restaurants. 675,000+ Company and Franchise Team Members. $9B Global Digital. Sales. 57 Global Markets. 2,900+ Franchisees. Inspire was founded in February 2018 with a vision to invigorate great <b>brands</b> and supercharge their long-term growth.
+
+Title: Inspire Brands Surpasses $30B in Global System Sales in 2021
+Link: https://stories.inspirebrands.com/inspire-brands-2021-global-system-sales/
+Snippet: Notable outcomes in 2021 include: Achieved more than 35% year-over-year growth in U.S digital sales 1, to more than $6B — accounting for over 20 percent of U.S. system sales. Exceeded $1B in sales via third party marketplace 2. Digital sales now represent over $7B of Inspire’s global sales. Grew the loyalty user base across all <b>brands</b> to ...
+
+Title: Annual Report on Inspire Brands&#39;s Revenue, Growth, SWOT Analysis ...
+Link: https://incfact.com/company/inspirebrands-atlanta-ga/
+Snippet: The Premium Inspire <b>Brands</b> Company <b>Report</b> contains critical information including: Revenue from previous years (2020 to present) Growth rate. Estimated financials and profit margin. Funding from Venture Capital and Private Equity firms. Latest trademark applications. Additional industries in which the company operates.
+
+Title: Inspire Brands
+Link: https://impact.inspirebrands.com/wp-content/uploads/2023/08/Inspire-Brands-Good-Citizens-Report-Ed.2022.pdf
+Snippet: Inspire <b>Brands</b>
+
+Title: Inspire Brands portfolio shows double-digit SSS over two years
+Link: https://www.nrn.com/finance/inspire-brands-portfolio-shows-double-digit-sss-over-two-years
+Snippet: Inspire Brands, a multiconcept restaurant company, posted<b> record performance results in 2021,</b> despite the challenging landscape. The company achieved double-digit same-store sales growth for five of six brands, and completed the acquisition of Dunkin and Baskin-Robbins.
+
+Title: EX-99.1 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1357204/000119312520283269/d50706dex991.htm
+Snippet: About Inspire <b>Brands</b>. Inspire <b>Brands</b> is a multi-<b>brand</b> restaurant company whose current portfolio includes more than 11,000 Arby’s, Buffalo Wild Wings, SONIC Drive-In, Rusty Taco, and Jimmy John’s restaurants worldwide. The company was founded in 2018 and is headquartered in Atlanta, Georgia. Inspire is majority-owned by affiliates of Roark ...
+
+Title: Inspire Brands to Acquire Dunkin’ Brands in $11.3 Billion Transaction
+Link: https://inspirebrands.com/inspire-brands-to-acquire-dunkin-brands-in-11-3-billion-transaction/
+Snippet: Inspire <b>Brands</b> is a multi-<b>brand</b> restaurant company whose current portfolio includes more than 11,000 Arby’s, Buffalo Wild Wings, SONIC Drive-In, Rusty Taco, and Jimmy John’s restaurants worldwide. ... other factors as set forth from time to time in Dunkin’ <b>Brands</b>’ filings with the SEC, including its <b>Annual</b> <b>Reports</b> on Form 10-K and ...
+
+Title: Exhibit (a)(5)(H) - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1357204/000119312520311093/d65927dex99a5h.htm
+Snippet: Inspire <b>Brands</b> is a multi-<b>brand</b> restaurant company whose current portfolio includes more than 11,000 Arby’s, Buffalo Wild Wings, SONIC Drive-In, Rusty Taco, and Jimmy John’s restaurants worldwide. The company was founded in 2018 and is headquartered in Atlanta, Georgia. Inspire is majority-owned by affiliates of Roark Capital Group.
+
+Title: Inspire Brands Company Profile 2024: Valuation, Funding ... - PitchBook
+Link: https://pitchbook.com/profiles/company/52279-21
+Snippet: Details. Operator of a restaurant chain intended to focus on invigorating <b>brands</b> and charging their long-term growth. The company. Restaurants and Bars. Atlanta, GA. 650,000 As of 2023. 00.000. 000000 - 000 00.000. 0000 0.
+
+Title: Inspire Brands exceeds $30B in global sales - Fast Casual
+Link: https://www.fastcasual.com/news/inspire-brands-exceeds-30b-in-global-sales/
+Snippet: Inspire <b>Brands</b>, which owns Jimmy John&#39;s, Arby&#39;s, Baskin Robbins, Dunkin&#39; and Buffalo Wild Wings, exceeded $30 billion in global system sales in 2021, a double-digit year-over-year increase. 2021 performance highlights, according to a company press release, were: Expanded global footprint…
+
+Remi: Results for query 'Inspire Brands annual report':
+Title: About Us - Inspire Brands
+Link: https://inspirebrands.com/about-us/
+Snippet: About Us - Inspire <b>Brands</b>. $32.5B+ in Global System Sales. 32,600+ Restaurants. 675,000+ Company and Franchise Team Members. $9B Global Digital. Sales. 57 Global Markets. 2,900+ Franchisees. Inspire was founded in February 2018 with a vision to invigorate great <b>brands</b> and supercharge their long-term growth.
+
+Title: Inspire Brands Surpasses $30B in Global System Sales in 2021
+Link: https://stories.inspirebrands.com/inspire-brands-2021-global-system-sales/
+Snippet: Notable outcomes in 2021 include: Achieved more than 35% year-over-year growth in U.S digital sales 1, to more than $6B — accounting for over 20 percent of U.S. system sales. Exceeded $1B in sales via third party marketplace 2. Digital sales now represent over $7B of Inspire’s global sales. Grew the loyalty user base across all <b>brands</b> to ...
+
+Title: Annual Report on Inspire Brands&#39;s Revenue, Growth, SWOT Analysis ...
+Link: https://incfact.com/company/inspirebrands-atlanta-ga/
+Snippet: The Premium Inspire <b>Brands</b> Company <b>Report</b> contains critical information including: Revenue from previous years (2020 to present) Growth rate. Estimated financials and profit margin. Funding from Venture Capital and Private Equity firms. Latest trademark applications. Additional industries in which the company operates.
+
+Title: Inspire Brands
+Link: https://impact.inspirebrands.com/wp-content/uploads/2023/08/Inspire-Brands-Good-Citizens-Report-Ed.2022.pdf
+Snippet: Inspire <b>Brands</b>
+
+Title: Inspire Brands portfolio shows double-digit SSS over two years
+Link: https://www.nrn.com/finance/inspire-brands-portfolio-shows-double-digit-sss-over-two-years
+Snippet: Inspire Brands, a multiconcept restaurant company, posted<b> record performance results in 2021,</b> despite the challenging landscape. The company achieved double-digit same-store sales growth for five of six brands, and completed the acquisition of Dunkin and Baskin-Robbins.
+
+Title: EX-99.1 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1357204/000119312520283269/d50706dex991.htm
+Snippet: About Inspire <b>Brands</b>. Inspire <b>Brands</b> is a multi-<b>brand</b> restaurant company whose current portfolio includes more than 11,000 Arby’s, Buffalo Wild Wings, SONIC Drive-In, Rusty Taco, and Jimmy John’s restaurants worldwide. The company was founded in 2018 and is headquartered in Atlanta, Georgia. Inspire is majority-owned by affiliates of Roark ...
+
+Title: Inspire Brands to Acquire Dunkin’ Brands in $11.3 Billion Transaction
+Link: https://inspirebrands.com/inspire-brands-to-acquire-dunkin-brands-in-11-3-billion-transaction/
+Snippet: Inspire <b>Brands</b> is a multi-<b>brand</b> restaurant company whose current portfolio includes more than 11,000 Arby’s, Buffalo Wild Wings, SONIC Drive-In, Rusty Taco, and Jimmy John’s restaurants worldwide. ... other factors as set forth from time to time in Dunkin’ <b>Brands</b>’ filings with the SEC, including its <b>Annual</b> <b>Reports</b> on Form 10-K and ...
+
+Title: Exhibit (a)(5)(H) - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1357204/000119312520311093/d65927dex99a5h.htm
+Snippet: Inspire <b>Brands</b> is a multi-<b>brand</b> restaurant company whose current portfolio includes more than 11,000 Arby’s, Buffalo Wild Wings, SONIC Drive-In, Rusty Taco, and Jimmy John’s restaurants worldwide. The company was founded in 2018 and is headquartered in Atlanta, Georgia. Inspire is majority-owned by affiliates of Roark Capital Group.
+
+Title: Inspire Brands Company Profile 2024: Valuation, Funding ... - PitchBook
+Link: https://pitchbook.com/profiles/company/52279-21
+Snippet: Details. Operator of a restaurant chain intended to focus on invigorating <b>brands</b> and charging their long-term growth. The company. Restaurants and Bars. Atlanta, GA. 650,000 As of 2023. 00.000. 000000 - 000 00.000. 0000 0.
+
+Title: Inspire Brands exceeds $30B in global sales - Fast Casual
+Link: https://www.fastcasual.com/news/inspire-brands-exceeds-30b-in-global-sales/
+Snippet: Inspire <b>Brands</b>, which owns Jimmy John&#39;s, Arby&#39;s, Baskin Robbins, Dunkin&#39; and Buffalo Wild Wings, exceeded $30 billion in global system sales in 2021, a double-digit year-over-year increase. 2021 performance highlights, according to a company press release, were: Expanded global footprint…
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Inspire Brands quarterly report':
+Title: Inspire Brands Surpasses $30B in Global System Sales in 2021
+Link: https://stories.inspirebrands.com/inspire-brands-2021-global-system-sales/
+Snippet: Notable outcomes in 2021 include: Achieved more than 35% year-over-year growth in U.S digital sales 1, to more than $6B — accounting for over 20 percent of U.S. system sales. Exceeded $1B in sales via third party marketplace 2. Digital sales now represent over $7B of Inspire’s global sales. Grew the loyalty user base across all <b>brands</b> to ...
+
+Title: Inspire Brands - A Global Multi-Brand Restaurant Company
+Link: https://inspirebrands.com/
+Snippet: Inspire <b>Brands</b> is a multi-<b>brand</b> restaurant company whose portfolio includes nearly 32,000 Arby&#39;s, Baskin-Robbins, Buffalo Wild Wings, Dunkin&#39;, Jimmy John&#39;s, SONIC Drive-In, and Rusty Taco locations worldwide. ... And, in 2022, Fuller oversaw the publication of Inspire’s first impact <b>report</b>. While at Inspire, Fuller has overseen communications ...
+
+Title: Reporting – Inspire Impact - Inspire Brands
+Link: https://impact.inspirebrands.com/reporting/
+Snippet: Elevate the communities we serve and play a valuable role in their growth. Invest in and partner with organizations dedicated to providing food to the children who need it most. Unleash the next generation of leaders by helping young people build the skills and confidence they need to succeed. Inspire youth to realize their full potential and ...
+
+Title: Inspire Brands portfolio shows double-digit SSS over two years
+Link: https://www.nrn.com/finance/inspire-brands-portfolio-shows-double-digit-sss-over-two-years
+Snippet: Inspire <b>Brands</b> in 2021 exceeded $30 billion in global sales, growing the various <b>brands</b> to nearly 32,000 restaurants in 70 markets with the help of more than 3,400 franchisees.
+
+Title: Inspire Brands to Acquire Dunkin’ Brands in $11.3 Billion Transaction
+Link: https://inspirebrands.com/inspire-brands-to-acquire-dunkin-brands-in-11-3-billion-transaction/
+Snippet: About Inspire <b>Brands</b>. Inspire <b>Brands</b> is a multi-<b>brand</b> restaurant company whose current portfolio includes more than 11,000 Arby’s, Buffalo Wild Wings, SONIC Drive-In, Rusty Taco, and Jimmy John’s restaurants worldwide. ... including its Annual <b>Reports</b> on Form 10-K and <b>Quarterly</b> <b>Reports</b> on Form 10-Q, as well as the tender offer statement ...
+
+Title: EX-99.1 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1357204/000119312520284028/d76798dex991.htm
+Snippet: Inspire <b>Brands</b>, which was founded in 2018 and is headquartered in Atlanta, Georgia, is a global, multi-<b>brand</b> restaurant company that owns and administers the network of franchised and company-owned restaurants operating under the Arby’s, ... <b>quarterly</b> and current <b>reports</b>, proxy statements and other information with the <b>SEC</b>. ...
+
+Title: EX-99.7 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1357204/000119312520283278/d53795dex997.htm
+Snippet: On Friday, October 30, 2020, we announced that Dunkin’ <b>Brands</b> signed an agreement to be acquired by Inspire <b>Brands</b>. If consummated, the transaction would create one of the world’s leading quick serve restaurant groups with a combined $26 billion in systemwide sales, 31,600 restaurants around the world, 600,000 company and franchise team ...
+
+Title: Inspire Brands Financials | Craft.co
+Link: https://craft.co/inspire-brands/financials
+Snippet: CreditSafe Score. View 30+ financial ratio metrics including price-to-earnings ratio, debt-to-assets ratio, gross profit margin, and more. Financial ratio metrics help evaluate the financial strength of a company, and help raise red flags that can indicate potential risk, fulfillment challenges, or even possible bankruptcy.
+
+Title: Inspire Brands to Acquire Dunkin’ Brands in $11.3 Billion ... - Nasdaq
+Link: https://www.nasdaq.com/press-release/inspire-brands-to-acquire-dunkin-brands-in-%2411.3-billion-transaction-2020-10-30
+Snippet: ATLANTA&amp; CANTON, Mass.---- Inspire <b>Brands</b>, Inc. and Dunkin’ <b>Brands</b> Group, Inc., ... including its Annual <b>Reports</b> on Form 10-K and <b>Quarterly</b> <b>Reports</b> on Form 10-Q, as well as the tender offer ...
+
+Title: Inspire Brands wraps $2.55B term loan repricing at talk; terms
+Link: https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/inspire-brands-wraps-2-55b-term-loan-repricing-at-talk-terms-68620919
+Snippet: Inspire <b>Brands</b> Inc. has completed a repricing of its $2.549 billion term loan B due December 2027 in a Barclays-led transaction, according to sources. Pricing finalized at a spread of 300 basis points over the secured overnight financing rate, plus a credit spread adjustment, with a 0.75% floor.
+
+Remi: Results for query 'Inspire Brands quarterly report':
+Title: Inspire Brands Surpasses $30B in Global System Sales in 2021
+Link: https://stories.inspirebrands.com/inspire-brands-2021-global-system-sales/
+Snippet: Notable outcomes in 2021 include: Achieved more than 35% year-over-year growth in U.S digital sales 1, to more than $6B — accounting for over 20 percent of U.S. system sales. Exceeded $1B in sales via third party marketplace 2. Digital sales now represent over $7B of Inspire’s global sales. Grew the loyalty user base across all <b>brands</b> to ...
+
+Title: Inspire Brands - A Global Multi-Brand Restaurant Company
+Link: https://inspirebrands.com/
+Snippet: Inspire <b>Brands</b> is a multi-<b>brand</b> restaurant company whose portfolio includes nearly 32,000 Arby&#39;s, Baskin-Robbins, Buffalo Wild Wings, Dunkin&#39;, Jimmy John&#39;s, SONIC Drive-In, and Rusty Taco locations worldwide. ... And, in 2022, Fuller oversaw the publication of Inspire’s first impact <b>report</b>. While at Inspire, Fuller has overseen communications ...
+
+Title: Reporting – Inspire Impact - Inspire Brands
+Link: https://impact.inspirebrands.com/reporting/
+Snippet: Elevate the communities we serve and play a valuable role in their growth. Invest in and partner with organizations dedicated to providing food to the children who need it most. Unleash the next generation of leaders by helping young people build the skills and confidence they need to succeed. Inspire youth to realize their full potential and ...
+
+Title: Inspire Brands portfolio shows double-digit SSS over two years
+Link: https://www.nrn.com/finance/inspire-brands-portfolio-shows-double-digit-sss-over-two-years
+Snippet: Inspire <b>Brands</b> in 2021 exceeded $30 billion in global sales, growing the various <b>brands</b> to nearly 32,000 restaurants in 70 markets with the help of more than 3,400 franchisees.
+
+Title: Inspire Brands to Acquire Dunkin’ Brands in $11.3 Billion Transaction
+Link: https://inspirebrands.com/inspire-brands-to-acquire-dunkin-brands-in-11-3-billion-transaction/
+Snippet: About Inspire <b>Brands</b>. Inspire <b>Brands</b> is a multi-<b>brand</b> restaurant company whose current portfolio includes more than 11,000 Arby’s, Buffalo Wild Wings, SONIC Drive-In, Rusty Taco, and Jimmy John’s restaurants worldwide. ... including its Annual <b>Reports</b> on Form 10-K and <b>Quarterly</b> <b>Reports</b> on Form 10-Q, as well as the tender offer statement ...
+
+Title: EX-99.1 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1357204/000119312520284028/d76798dex991.htm
+Snippet: Inspire <b>Brands</b>, which was founded in 2018 and is headquartered in Atlanta, Georgia, is a global, multi-<b>brand</b> restaurant company that owns and administers the network of franchised and company-owned restaurants operating under the Arby’s, ... <b>quarterly</b> and current <b>reports</b>, proxy statements and other information with the <b>SEC</b>. ...
+
+Title: EX-99.7 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1357204/000119312520283278/d53795dex997.htm
+Snippet: On Friday, October 30, 2020, we announced that Dunkin’ <b>Brands</b> signed an agreement to be acquired by Inspire <b>Brands</b>. If consummated, the transaction would create one of the world’s leading quick serve restaurant groups with a combined $26 billion in systemwide sales, 31,600 restaurants around the world, 600,000 company and franchise team ...
+
+Title: Inspire Brands Financials | Craft.co
+Link: https://craft.co/inspire-brands/financials
+Snippet: CreditSafe Score. View 30+ financial ratio metrics including price-to-earnings ratio, debt-to-assets ratio, gross profit margin, and more. Financial ratio metrics help evaluate the financial strength of a company, and help raise red flags that can indicate potential risk, fulfillment challenges, or even possible bankruptcy.
+
+Title: Inspire Brands to Acquire Dunkin’ Brands in $11.3 Billion ... - Nasdaq
+Link: https://www.nasdaq.com/press-release/inspire-brands-to-acquire-dunkin-brands-in-%2411.3-billion-transaction-2020-10-30
+Snippet: ATLANTA&amp; CANTON, Mass.---- Inspire <b>Brands</b>, Inc. and Dunkin’ <b>Brands</b> Group, Inc., ... including its Annual <b>Reports</b> on Form 10-K and <b>Quarterly</b> <b>Reports</b> on Form 10-Q, as well as the tender offer ...
+
+Title: Inspire Brands wraps $2.55B term loan repricing at talk; terms
+Link: https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/inspire-brands-wraps-2-55b-term-loan-repricing-at-talk-terms-68620919
+Snippet: Inspire <b>Brands</b> Inc. has completed a repricing of its $2.549 billion term loan B due December 2027 in a Barclays-led transaction, according to sources. Pricing finalized at a spread of 300 basis points over the secured overnight financing rate, plus a credit spread adjustment, with a 0.75% floor.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's executive team':
+Title: Meet the Arby&#39;s leadership team | Discover Arby&#39;s - Welcome to Arby&#39;s ...
+Link: http://discoverarbys.com/research/leadership-team/
+Snippet: Rick Bentley, who has been an <b>Arby’s</b> franchisee for more than 30 years, has high praise for the <b>Arby’s</b> leadership <b>team</b> — starting from the top. CEO Paul Brown is a “super individual — very unassuming, very focused, very professional.”. <b>Arby’s</b> new brand position “isn’t about going out and trying to be somebody else.
+
+Title: Arby&#39;s CEO and Key Executive Team | Craft.co
+Link: https://craft.co/arby-s/executives
+Snippet: <b>Arby</b>&#39;s&#39;s President is Jim Taylor. Other <b>executives</b> include John Kelly, Chief Operating Officer; Patrick Schwing, Chief Marketing Officer &amp; President, <b>Arby</b>&#39;s Franchise Association and 3 others. See the full leadership <b>team</b> at Craft.
+
+Title: Arby&#39;s CEO And Leadership: Executives and Demographics
+Link: https://www.zippia.com/arby-s-careers-15212/executives/
+Snippet: <b>Executive</b> Summary. Based on our data <b>team</b>&#39;s research, Paul Brown is the <b>Arby</b>&#39;s&#39;s CEO. <b>Arby</b>&#39;s has 80,000 employees, of which 8 are in a leadership position.
+
+Title: Careers at Arby&#39;s | Arby&#39;s job opportunities
+Link: https://careers.arbys.com/
+Snippet: Our <b>team</b> members are the cornerstone of our craft. Become part of what we are building here at <b>Arby</b>&#39;s. Browse and apply for the jobs in fields like Restaurant <b>Management</b>, Support Center and more.
+
+Title: Arby&#39;s Announces New Exec Team - QSR Magazine
+Link: https://www.qsrmagazine.com/news/arbys-announces-new-exec-team/
+Snippet: <b>Arby’s</b>, under the leadership of president and chief exec Doug Benham since January, has announced its new <b>executive</b> <b>team</b>. “The <b>executive</b> <b>team</b>, comprised of industry veterans with proven results, brings the kind of experience and focus to help <b>Arby’s</b> achieve its aggressive short- and long-term brand goals,” Benham said in a statement.
+
+Title: Org Chart Arby&#39;s - The Official Board
+Link: https://www.theofficialboard.com/org-chart/arby-s-2
+Snippet: The organizational chart of <b>Arby</b>&#39;s displays its 12 main <b>executives</b> including Rita Patel, Lou Beccarelli and Ellen Rose. Toggle navigation The Official Board. Search. Search. Search by segment. Sign In. Business E-mail* ... Organizational Chart of <b>Arby</b>&#39;s. <b>Arby</b>&#39;s www.<b>arbys</b>.com. has 12 <b>executives</b> - and belongs to Inspire Brands +1 678 514 4100 ...
+
+Title: Arby’s Appoints Executives to New Leadership Positions
+Link: https://www.qsrmagazine.com/news/arbys-appoints-executives-new-leadership-positions/
+Snippet: <b>Arby’s</b> Restaurant Group Inc. announces the promotion of four <b>executives</b> at the company’s world headquarters in Sandy Springs, Georgia. “We’re thrilled to be able to reward the achievement and skills of some well-deserving, tenured, and high-performing <b>team</b> members,” says Hala Moddelmog, <b>Arby’s</b> president. “We are very excited about ...
+
+Title: executive jobs | executive jobs at Arby&#39;s
+Link: https://careers.arbys.com/us/en/c/executive-jobs
+Snippet: Support Center ( 2 ) jobs. <b>Executive</b> ( 0 ) 0 Jobs. Sort by. There are no jobs for your search criteria. Please search again. Three Glenlake Parkway NE. Atlanta, GA 30328. TEL: +1 678-514-4100.
+
+Title: Arby&#39;s announces new exec team - QSR Web
+Link: https://www.qsrweb.com/news/arbys-announces-new-exec-team/
+Snippet: Oct. 15, 2008. ATLANTA — <b>Arby</b>&#39;s Restaurant Group Inc. has announced the promotion of several key <b>executives</b> and the company&#39;s new leadership <b>team</b> following the completion of the merger between Triarc Cos. Inc. and Wendy&#39;s, and the formation of Wendy&#39;s/<b>Arby</b>&#39;s Group Inc. The following <b>executives</b> have been promoted:
+
+Title: Arby’s Plans 138 New Restaurants; Adds To Executive Team
+Link: https://retailrestaurantfb.com/arby-s-plans-138-new-restaurants-adds-to-executive-team/
+Snippet: Atlanta — <b>Arby’s</b> Restaurant Group, Inc. (ARG), parent company of the franchisor of the <b>Arby’s</b> brand, has signed several recent franchise development - News, people, restaurants
+
+Remi: Results for query 'Arby's executive team':
+Title: Meet the Arby&#39;s leadership team | Discover Arby&#39;s - Welcome to Arby&#39;s ...
+Link: http://discoverarbys.com/research/leadership-team/
+Snippet: Rick Bentley, who has been an <b>Arby’s</b> franchisee for more than 30 years, has high praise for the <b>Arby’s</b> leadership <b>team</b> — starting from the top. CEO Paul Brown is a “super individual — very unassuming, very focused, very professional.”. <b>Arby’s</b> new brand position “isn’t about going out and trying to be somebody else.
+
+Title: Arby&#39;s CEO and Key Executive Team | Craft.co
+Link: https://craft.co/arby-s/executives
+Snippet: <b>Arby</b>&#39;s&#39;s President is Jim Taylor. Other <b>executives</b> include John Kelly, Chief Operating Officer; Patrick Schwing, Chief Marketing Officer &amp; President, <b>Arby</b>&#39;s Franchise Association and 3 others. See the full leadership <b>team</b> at Craft.
+
+Title: Arby&#39;s CEO And Leadership: Executives and Demographics
+Link: https://www.zippia.com/arby-s-careers-15212/executives/
+Snippet: <b>Executive</b> Summary. Based on our data <b>team</b>&#39;s research, Paul Brown is the <b>Arby</b>&#39;s&#39;s CEO. <b>Arby</b>&#39;s has 80,000 employees, of which 8 are in a leadership position.
+
+Title: Careers at Arby&#39;s | Arby&#39;s job opportunities
+Link: https://careers.arbys.com/
+Snippet: Our <b>team</b> members are the cornerstone of our craft. Become part of what we are building here at <b>Arby</b>&#39;s. Browse and apply for the jobs in fields like Restaurant <b>Management</b>, Support Center and more.
+
+Title: Arby&#39;s Announces New Exec Team - QSR Magazine
+Link: https://www.qsrmagazine.com/news/arbys-announces-new-exec-team/
+Snippet: <b>Arby’s</b>, under the leadership of president and chief exec Doug Benham since January, has announced its new <b>executive</b> <b>team</b>. “The <b>executive</b> <b>team</b>, comprised of industry veterans with proven results, brings the kind of experience and focus to help <b>Arby’s</b> achieve its aggressive short- and long-term brand goals,” Benham said in a statement.
+
+Title: Org Chart Arby&#39;s - The Official Board
+Link: https://www.theofficialboard.com/org-chart/arby-s-2
+Snippet: The organizational chart of <b>Arby</b>&#39;s displays its 12 main <b>executives</b> including Rita Patel, Lou Beccarelli and Ellen Rose. Toggle navigation The Official Board. Search. Search. Search by segment. Sign In. Business E-mail* ... Organizational Chart of <b>Arby</b>&#39;s. <b>Arby</b>&#39;s www.<b>arbys</b>.com. has 12 <b>executives</b> - and belongs to Inspire Brands +1 678 514 4100 ...
+
+Title: Arby’s Appoints Executives to New Leadership Positions
+Link: https://www.qsrmagazine.com/news/arbys-appoints-executives-new-leadership-positions/
+Snippet: <b>Arby’s</b> Restaurant Group Inc. announces the promotion of four <b>executives</b> at the company’s world headquarters in Sandy Springs, Georgia. “We’re thrilled to be able to reward the achievement and skills of some well-deserving, tenured, and high-performing <b>team</b> members,” says Hala Moddelmog, <b>Arby’s</b> president. “We are very excited about ...
+
+Title: executive jobs | executive jobs at Arby&#39;s
+Link: https://careers.arbys.com/us/en/c/executive-jobs
+Snippet: Support Center ( 2 ) jobs. <b>Executive</b> ( 0 ) 0 Jobs. Sort by. There are no jobs for your search criteria. Please search again. Three Glenlake Parkway NE. Atlanta, GA 30328. TEL: +1 678-514-4100.
+
+Title: Arby&#39;s announces new exec team - QSR Web
+Link: https://www.qsrweb.com/news/arbys-announces-new-exec-team/
+Snippet: Oct. 15, 2008. ATLANTA — <b>Arby</b>&#39;s Restaurant Group Inc. has announced the promotion of several key <b>executives</b> and the company&#39;s new leadership <b>team</b> following the completion of the merger between Triarc Cos. Inc. and Wendy&#39;s, and the formation of Wendy&#39;s/<b>Arby</b>&#39;s Group Inc. The following <b>executives</b> have been promoted:
+
+Title: Arby’s Plans 138 New Restaurants; Adds To Executive Team
+Link: https://retailrestaurantfb.com/arby-s-plans-138-new-restaurants-adds-to-executive-team/
+Snippet: Atlanta — <b>Arby’s</b> Restaurant Group, Inc. (ARG), parent company of the franchisor of the <b>Arby’s</b> brand, has signed several recent franchise development - News, people, restaurants
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's CEO career':
+Title: Careers at Arby&#39;s | Arby&#39;s job opportunities
+Link: https://careers.arbys.com/
+Snippet: All <b>Jobs</b> Should ComeWith Curly Fries. We will notify you about relevant positions, and keep you in mind whenever we have interesting opportunities. Plus, give you access to tools and resources to help you land your next gig. Our team members are the cornerstone of our craft. Become part of what we are building here at <b>Arby</b>&#39;s.
+
+Title: Meet the Arby&#39;s leadership team | Discover Arby&#39;s - Welcome to Arby&#39;s ...
+Link: http://discoverarbys.com/research/leadership-team/
+Snippet: Rick Bentley, who has been an <b>Arby’s</b> franchisee for more than 30 years, has high praise for the <b>Arby’s</b> leadership team — starting from the top. CEO Paul Brown is a “super individual — very unassuming, very focused, very professional.”. <b>Arby’s</b> new brand position “isn’t about going out and trying to be somebody else.
+
+Title: Paul J. Brown - Wikipedia
+Link: https://en.wikipedia.org/wiki/Paul_J._Brown
+Snippet: In May 2013, Brown became <b>Chief Executive Officer</b> of <b>Arby’s</b>. [7] During his tenure as CEO of <b>Arby’s</b>, the brand introduced a new restaurant design and launched the “We Have The Meats” marketing campaign. [8] Brown also introduced new menu items including smokehouse brisket, pork belly, gyros, deep-fried turkey, and venison. [9] Brown led <b>Arby’s</b> international development agreements to ...
+
+Title: Arby&#39;s CEO And Leadership: Executives and Demographics
+Link: https://www.zippia.com/arby-s-careers-15212/executives/
+Snippet: Founder. Jim Taylor. President. John Bowie. Chief Operating Officer. John Bowie is a Senior VP:Restaurant Ops at Friendly&#39;s Ice Cream, LLC and Chief Operating Officer at <b>ARBY</b>&#39;S RESTAURANT GROUP, INC. and is based in Greater Atlanta Area. He has worked as Senior VP:Operations at <b>ARBY</b>&#39;S RESTAURANT GROUP, INC.; President at Church&#39;s Chicken; and ...
+
+Title: How Rich Is The Arby&#39;s CEO And What&#39;s The Average Pay Of Its ... - Mashed
+Link: https://www.mashed.com/375314/how-rich-is-the-arbys-ceo-and-whats-the-average-pay-of-its-employees/
+Snippet: Paul J. Brown has got his hands in a few different things. Paul J. Brown, who Forbes notes took the CEO position in 2013 and had increased the company&#39;s restaurants&#39; average revenue by 25 percent by 2017, has a net worth that is in the millions. As noted by Wallmine, Brown, as of June 2020, is worth &quot;at least $6.28 million.&quot;
+
+Title: Arby&#39;s CEO and Key Executive Team | Craft.co
+Link: https://craft.co/arby-s/executives
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. <b>Arby</b>&#39;s&#39;s President is Jim Taylor. Other executives include John Kelly, Chief Operating Officer; Patrick Schwing, Chief Marketing Officer &amp; President, <b>Arby</b>&#39;s Franchise Association and 3 others. See the full leadership team at Craft.
+
+Title: Arby&#39;s - LinkedIn
+Link: https://www.linkedin.com/company/arby's
+Snippet: <b>Arby</b>&#39;s | 58,012 followers on LinkedIn. We Have The Meats® | <b>Arby’s</b>, founded in 1964, is the second-largest sandwich restaurant brand in the world with more than 3,400 restaurants in seven ...
+
+Title: Arby&#39;s Careers and Employment | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's
+Snippet: Find out what works well at <b>Arby</b>&#39;s from the people who know best. Get the inside scoop on <b>jobs</b>, salaries, top office locations, and CEO insights. Compare pay for popular roles and read about the team’s work-life balance. Uncover why <b>Arby</b>&#39;s is the best company for you.
+
+Title: Arby s CEO Founder Salaries | Glassdoor
+Link: https://www.glassdoor.com/Salary/Arby-s-CEO-Founder-Salaries-E41477_D_KO7,18.htm
+Snippet: The average CEO Founder base salary at <b>Arby</b>&#39;s is $113K per year. The average additional pay is $0 per year, which could include cash bonus, stock, commission, profit sharing or tips. The “Most Likely Range” reflects values within the 25th and 75th percentile of all pay data available for this role. Glassdoor salaries are powered by our ...
+
+Title: Arby&#39;s Career: Working at Arby&#39;s | Glassdoor
+Link: https://www.glassdoor.co.uk/Overview/Working-at-Arby-s-EI_IE41477.11,17.htm
+Snippet: 10000+ Employees. 1 Location. Type: Company - Private. Founded in 1964. Revenue: $2 to $5 billion (USD) Restaurants &amp; Cafes. Competitors: Unknown. <b>Arby’s</b>, founded in 1964, is the second-largest sandwich restaurant brand in the world with more than 3,400 restaurants in seven countries. <b>Arby</b>&#39;s Fast Crafted® restaurant services feature a unique ...
+
+Remi: Results for query 'Arby's CEO career':
+Title: Careers at Arby&#39;s | Arby&#39;s job opportunities
+Link: https://careers.arbys.com/
+Snippet: All <b>Jobs</b> Should ComeWith Curly Fries. We will notify you about relevant positions, and keep you in mind whenever we have interesting opportunities. Plus, give you access to tools and resources to help you land your next gig. Our team members are the cornerstone of our craft. Become part of what we are building here at <b>Arby</b>&#39;s.
+
+Title: Meet the Arby&#39;s leadership team | Discover Arby&#39;s - Welcome to Arby&#39;s ...
+Link: http://discoverarbys.com/research/leadership-team/
+Snippet: Rick Bentley, who has been an <b>Arby’s</b> franchisee for more than 30 years, has high praise for the <b>Arby’s</b> leadership team — starting from the top. CEO Paul Brown is a “super individual — very unassuming, very focused, very professional.”. <b>Arby’s</b> new brand position “isn’t about going out and trying to be somebody else.
+
+Title: Paul J. Brown - Wikipedia
+Link: https://en.wikipedia.org/wiki/Paul_J._Brown
+Snippet: In May 2013, Brown became <b>Chief Executive Officer</b> of <b>Arby’s</b>. [7] During his tenure as CEO of <b>Arby’s</b>, the brand introduced a new restaurant design and launched the “We Have The Meats” marketing campaign. [8] Brown also introduced new menu items including smokehouse brisket, pork belly, gyros, deep-fried turkey, and venison. [9] Brown led <b>Arby’s</b> international development agreements to ...
+
+Title: Arby&#39;s CEO And Leadership: Executives and Demographics
+Link: https://www.zippia.com/arby-s-careers-15212/executives/
+Snippet: Founder. Jim Taylor. President. John Bowie. Chief Operating Officer. John Bowie is a Senior VP:Restaurant Ops at Friendly&#39;s Ice Cream, LLC and Chief Operating Officer at <b>ARBY</b>&#39;S RESTAURANT GROUP, INC. and is based in Greater Atlanta Area. He has worked as Senior VP:Operations at <b>ARBY</b>&#39;S RESTAURANT GROUP, INC.; President at Church&#39;s Chicken; and ...
+
+Title: How Rich Is The Arby&#39;s CEO And What&#39;s The Average Pay Of Its ... - Mashed
+Link: https://www.mashed.com/375314/how-rich-is-the-arbys-ceo-and-whats-the-average-pay-of-its-employees/
+Snippet: Paul J. Brown has got his hands in a few different things. Paul J. Brown, who Forbes notes took the CEO position in 2013 and had increased the company&#39;s restaurants&#39; average revenue by 25 percent by 2017, has a net worth that is in the millions. As noted by Wallmine, Brown, as of June 2020, is worth &quot;at least $6.28 million.&quot;
+
+Title: Arby&#39;s CEO and Key Executive Team | Craft.co
+Link: https://craft.co/arby-s/executives
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. <b>Arby</b>&#39;s&#39;s President is Jim Taylor. Other executives include John Kelly, Chief Operating Officer; Patrick Schwing, Chief Marketing Officer &amp; President, <b>Arby</b>&#39;s Franchise Association and 3 others. See the full leadership team at Craft.
+
+Title: Arby&#39;s - LinkedIn
+Link: https://www.linkedin.com/company/arby's
+Snippet: <b>Arby</b>&#39;s | 58,012 followers on LinkedIn. We Have The Meats® | <b>Arby’s</b>, founded in 1964, is the second-largest sandwich restaurant brand in the world with more than 3,400 restaurants in seven ...
+
+Title: Arby&#39;s Careers and Employment | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's
+Snippet: Find out what works well at <b>Arby</b>&#39;s from the people who know best. Get the inside scoop on <b>jobs</b>, salaries, top office locations, and CEO insights. Compare pay for popular roles and read about the team’s work-life balance. Uncover why <b>Arby</b>&#39;s is the best company for you.
+
+Title: Arby s CEO Founder Salaries | Glassdoor
+Link: https://www.glassdoor.com/Salary/Arby-s-CEO-Founder-Salaries-E41477_D_KO7,18.htm
+Snippet: The average CEO Founder base salary at <b>Arby</b>&#39;s is $113K per year. The average additional pay is $0 per year, which could include cash bonus, stock, commission, profit sharing or tips. The “Most Likely Range” reflects values within the 25th and 75th percentile of all pay data available for this role. Glassdoor salaries are powered by our ...
+
+Title: Arby&#39;s Career: Working at Arby&#39;s | Glassdoor
+Link: https://www.glassdoor.co.uk/Overview/Working-at-Arby-s-EI_IE41477.11,17.htm
+Snippet: 10000+ Employees. 1 Location. Type: Company - Private. Founded in 1964. Revenue: $2 to $5 billion (USD) Restaurants &amp; Cafes. Competitors: Unknown. <b>Arby’s</b>, founded in 1964, is the second-largest sandwich restaurant brand in the world with more than 3,400 restaurants in seven countries. <b>Arby</b>&#39;s Fast Crafted® restaurant services feature a unique ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's CFO career':
+Title: Careers at Arby&#39;s | Arby&#39;s job opportunities
+Link: https://careers.arbys.com/
+Snippet: All <b>Jobs</b> Should ComeWith Curly Fries. We will notify you about relevant positions, and keep you in mind whenever we have interesting opportunities. Plus, give you access to tools and resources to help you land your next gig. Our team members are the cornerstone of our craft. Become part of what we are building here at <b>Arby</b>&#39;s.
+
+Title: executive jobs | executive jobs at Arby&#39;s
+Link: https://careers.arbys.com/us/en/c/executive-jobs
+Snippet: Support Center ( 2 ) <b>jobs</b>. <b>Executive</b> ( 0 ) 0 <b>Jobs</b>. Sort by. There are no <b>jobs</b> for your search criteria. Please search again. Three Glenlake Parkway NE. Atlanta, GA 30328. TEL: +1 678-514-4100.
+
+Title: Meet the Arby&#39;s leadership team | Discover Arby&#39;s - Welcome to Arby&#39;s ...
+Link: http://discoverarbys.com/research/leadership-team/
+Snippet: Rick Bentley, who has been an <b>Arby’s</b> franchisee for more than 30 years, has high praise for the <b>Arby’s</b> leadership team — starting from the top. CEO Paul Brown is a “super individual — very unassuming, very focused, very professional.”. <b>Arby’s</b> new brand position “isn’t about going out and trying to be somebody else.
+
+Title: Arby&#39;s - LinkedIn
+Link: https://www.linkedin.com/company/arby's
+Snippet: Account <b>Executive</b> <b>jobs</b> 87,726 open <b>jobs</b> Teller <b>jobs</b> 80,995 open <b>jobs</b> ... <b>Arby’s</b> is part of the Inspire Brands family of restaurants. For more information, visit <b>Arbys</b>.com and InspireBrands.com ...
+
+Title: The Evolution Of Arby&#39;s: From Neighborhood Chain To Food ... - Forbes
+Link: https://www.forbes.com/sites/jeffthomson/2018/03/13/the-evolution-of-arbys-from-neighborhood-chain-to-food-industry-powerhouse/
+Snippet: Here&#39;s how <b>Arby</b>&#39;s <b>CFO</b> is handling the changing business landscape. In response to growing customer demands, fast food brands are forced to rethink strategies to retain engagement and grow business.
+
+Title: Arby s Executive Salaries - Glassdoor
+Link: https://www.glassdoor.com/Salary/Arby-s-Executive-Salaries-E41477_D_KO7,16.htm
+Snippet: The average <b>Executive</b> base salary at <b>Arby</b>&#39;s is $61K per year. The average additional pay is $11K per year, which could include cash bonus, stock, commission, profit sharing or tips. The “Most Likely Range” reflects values within the 25th and 75th percentile of all pay data available for this role. Glassdoor salaries are powered by our ...
+
+Title: Apple announces Chief Financial Officer transition
+Link: https://www.apple.com/newsroom/2024/08/apple-announces-chief-financial-officer-transition/
+Snippet: August 26, 2024. PRESS RELEASE. Apple announces <b>Chief Financial Officer</b> transition. CUPERTINO, CALIFORNIA Apple today announced that <b>Chief Financial Officer</b> Luca Maestri will transition from his role on January 1, 2025. Maestri will continue to lead the Corporate Services teams, including information systems and technology, information security, and real estate and development, reporting to ...
+
+Title: Arby&#39;s hiring Team Member in Columbus, Ohio, United States - LinkedIn
+Link: https://www.linkedin.com/jobs/view/team-member-at-arby-s-4012263989
+Snippet: <b>Arby’s</b>, founded in 1964, is the second-largest sandwich restaurant brand in the world with more than 3,500 restaurants in nine countries. ... Strategic Account <b>Executive</b> <b>jobs</b> 48,410 open <b>jobs</b> ...
+
+Title: Arby&#39;s CEO and Key Executive Team | Craft.co
+Link: https://craft.co/arby-s/executives
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. <b>Arby</b>&#39;s&#39;s President is Jim Taylor. Other executives include John Kelly, Chief Operating Officer; Patrick Schwing, Chief Marketing Officer &amp; President, <b>Arby</b>&#39;s Franchise Association and 3 others. See the full leadership team at Craft.
+
+Title: Arby&#39;s Careers and Employment | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's
+Snippet: <b>Arby’s</b>, founded in 1964, is the second-largest sandwich restaurant brand in the world with more than 3,400 restaurants in seven countries. <b>Arby</b>&#39;s Fast Crafted® restaurant services feature a unique blend of quick-serve speed combined with the quality and made-for-you care of fast casual. <b>Arby’s</b> is part of the Inspire Brands family of ...
+
+Remi: Results for query 'Arby's CFO career':
+Title: Careers at Arby&#39;s | Arby&#39;s job opportunities
+Link: https://careers.arbys.com/
+Snippet: All <b>Jobs</b> Should ComeWith Curly Fries. We will notify you about relevant positions, and keep you in mind whenever we have interesting opportunities. Plus, give you access to tools and resources to help you land your next gig. Our team members are the cornerstone of our craft. Become part of what we are building here at <b>Arby</b>&#39;s.
+
+Title: executive jobs | executive jobs at Arby&#39;s
+Link: https://careers.arbys.com/us/en/c/executive-jobs
+Snippet: Support Center ( 2 ) <b>jobs</b>. <b>Executive</b> ( 0 ) 0 <b>Jobs</b>. Sort by. There are no <b>jobs</b> for your search criteria. Please search again. Three Glenlake Parkway NE. Atlanta, GA 30328. TEL: +1 678-514-4100.
+
+Title: Meet the Arby&#39;s leadership team | Discover Arby&#39;s - Welcome to Arby&#39;s ...
+Link: http://discoverarbys.com/research/leadership-team/
+Snippet: Rick Bentley, who has been an <b>Arby’s</b> franchisee for more than 30 years, has high praise for the <b>Arby’s</b> leadership team — starting from the top. CEO Paul Brown is a “super individual — very unassuming, very focused, very professional.”. <b>Arby’s</b> new brand position “isn’t about going out and trying to be somebody else.
+
+Title: Arby&#39;s - LinkedIn
+Link: https://www.linkedin.com/company/arby's
+Snippet: Account <b>Executive</b> <b>jobs</b> 87,726 open <b>jobs</b> Teller <b>jobs</b> 80,995 open <b>jobs</b> ... <b>Arby’s</b> is part of the Inspire Brands family of restaurants. For more information, visit <b>Arbys</b>.com and InspireBrands.com ...
+
+Title: The Evolution Of Arby&#39;s: From Neighborhood Chain To Food ... - Forbes
+Link: https://www.forbes.com/sites/jeffthomson/2018/03/13/the-evolution-of-arbys-from-neighborhood-chain-to-food-industry-powerhouse/
+Snippet: Here&#39;s how <b>Arby</b>&#39;s <b>CFO</b> is handling the changing business landscape. In response to growing customer demands, fast food brands are forced to rethink strategies to retain engagement and grow business.
+
+Title: Arby s Executive Salaries - Glassdoor
+Link: https://www.glassdoor.com/Salary/Arby-s-Executive-Salaries-E41477_D_KO7,16.htm
+Snippet: The average <b>Executive</b> base salary at <b>Arby</b>&#39;s is $61K per year. The average additional pay is $11K per year, which could include cash bonus, stock, commission, profit sharing or tips. The “Most Likely Range” reflects values within the 25th and 75th percentile of all pay data available for this role. Glassdoor salaries are powered by our ...
+
+Title: Apple announces Chief Financial Officer transition
+Link: https://www.apple.com/newsroom/2024/08/apple-announces-chief-financial-officer-transition/
+Snippet: August 26, 2024. PRESS RELEASE. Apple announces <b>Chief Financial Officer</b> transition. CUPERTINO, CALIFORNIA Apple today announced that <b>Chief Financial Officer</b> Luca Maestri will transition from his role on January 1, 2025. Maestri will continue to lead the Corporate Services teams, including information systems and technology, information security, and real estate and development, reporting to ...
+
+Title: Arby&#39;s hiring Team Member in Columbus, Ohio, United States - LinkedIn
+Link: https://www.linkedin.com/jobs/view/team-member-at-arby-s-4012263989
+Snippet: <b>Arby’s</b>, founded in 1964, is the second-largest sandwich restaurant brand in the world with more than 3,500 restaurants in nine countries. ... Strategic Account <b>Executive</b> <b>jobs</b> 48,410 open <b>jobs</b> ...
+
+Title: Arby&#39;s CEO and Key Executive Team | Craft.co
+Link: https://craft.co/arby-s/executives
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. <b>Arby</b>&#39;s&#39;s President is Jim Taylor. Other executives include John Kelly, Chief Operating Officer; Patrick Schwing, Chief Marketing Officer &amp; President, <b>Arby</b>&#39;s Franchise Association and 3 others. See the full leadership team at Craft.
+
+Title: Arby&#39;s Careers and Employment | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's
+Snippet: <b>Arby’s</b>, founded in 1964, is the second-largest sandwich restaurant brand in the world with more than 3,400 restaurants in seven countries. <b>Arby</b>&#39;s Fast Crafted® restaurant services feature a unique blend of quick-serve speed combined with the quality and made-for-you care of fast casual. <b>Arby’s</b> is part of the Inspire Brands family of ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's COO career':
+Title: Careers at Arby&#39;s | Arby&#39;s job opportunities
+Link: https://careers.arbys.com/
+Snippet: Our team members are the cornerstone of our craft. Become part of what we are building here at <b>Arby</b>&#39;s. Browse and apply for the <b>jobs</b> in fields like Restaurant Management, Support Center and more.
+
+Title: Meet the Arby&#39;s leadership team | Discover Arby&#39;s
+Link: http://discoverarbys.com/research/leadership-team/
+Snippet: Rick Bentley, who has been an <b>Arby’s</b> franchisee for more than 30 years, has high praise for the <b>Arby’s</b> leadership team — starting from the top. CEO Paul Brown is a “super individual — very unassuming, very focused, very professional.”. <b>Arby’s</b> new brand position “isn’t about going out and trying to be somebody else.
+
+Title: Team Member jobs | Team Member jobs at Arbys
+Link: https://careers.arbys.com/us/en/c/team-member-jobs
+Snippet: Join <b>Arby</b>&#39;s Team Member <b>jobs</b> and enjoy delicious sandwiches, flexible hours and <b>career</b> opportunities. Apply today and make a difference.
+
+Title: Career Development | Careers at Arby&#39;s
+Link: https://careers.arbys.com/us/en/development
+Snippet: All <b>Jobs</b> Should ComeWith Curly Fries. We will notify you about relevant positions, and keep you in mind whenever we have interesting opportunities. Plus, give you access to tools and resources to help you land your next gig. Being part of the <b>Arby’s</b> family is something we are very proud of.
+
+Title: Arby&#39;s CEO and Key Executive Team | Craft.co
+Link: https://craft.co/arby-s/executives
+Snippet: <b>Arby</b>&#39;s&#39;s President is Jim Taylor. Other executives include John Kelly, <b>Chief Operating Officer</b>; Patrick Schwing, Chief Marketing Officer &amp; President, <b>Arby</b>&#39;s Franchise Association and 3 others. See the full leadership team at Craft.
+
+Title: Arby&#39;s Careers and Employment | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's
+Snippet: <b>Arby’s</b>, founded in 1964, is the second-largest sandwich restaurant brand in the world with more than 3,400 restaurants in seven countries. <b>Arby</b>&#39;s Fast Crafted® restaurant services feature a unique blend of quick-serve speed combined with the quality and made-for-you care of fast casual. <b>Arby’s</b> is part of the Inspire Brands family of ...
+
+Title: Arby&#39;s CEO and Leadership - Zippia
+Link: https://www.zippia.com/arby-s-careers-15212/executives/
+Snippet: Follow Company <b>Arby</b>&#39;s CEO and Executives 4,690 <b>jobs</b> Executive Summary. Based on our data team&#39;s research, Paul Brown is the <b>Arby</b>&#39;s&#39;s CEO. <b>Arby</b>&#39;s has 80,000 employees, of which 8 are in a leadership position. Work At <b>Arby</b>&#39;s? Share Your Experience Rate <b>Arby</b>&#39;s&#39; leadership communication with employees.
+
+Title: Careers at Arby&#39;s from Flynn Arby&#39;s
+Link: https://rbamericanjobs.com/
+Snippet: Build a <b>career</b> you love at <b>Arby</b>&#39;s! Explore our current opportunities and apply in minutes.
+
+Title: Arby&#39;s hiring General Manager in Columbus, Ohio, United States - LinkedIn
+Link: https://www.linkedin.com/jobs/view/general-manager-at-arby-s-3983990491
+Snippet: <b>Arby</b>&#39;s delivers on its purpose by celebrating the art of Meatcraft® with a variety of high-quality proteins and innovative, crave-able sides, such as Curly Fries and Jamocha shakes.
+
+Title: Working At Arby&#39;s: Company Overview and Culture - Zippia
+Link: https://www.zippia.com/arby-s-careers-15212/
+Snippet: Find out what it&#39;s like to work at <b>Arby</b>&#39;s. See what kind of people work at <b>Arby</b>&#39;s, <b>career</b> paths working at <b>Arby</b>&#39;s, company culture, salaries, employee political affiliation, and more. Browse 4,900 <b>Jobs</b> at <b>Arby</b>&#39;s.
+
+Remi: Results for query 'Arby's COO career':
+Title: Careers at Arby&#39;s | Arby&#39;s job opportunities
+Link: https://careers.arbys.com/
+Snippet: Our team members are the cornerstone of our craft. Become part of what we are building here at <b>Arby</b>&#39;s. Browse and apply for the <b>jobs</b> in fields like Restaurant Management, Support Center and more.
+
+Title: Meet the Arby&#39;s leadership team | Discover Arby&#39;s
+Link: http://discoverarbys.com/research/leadership-team/
+Snippet: Rick Bentley, who has been an <b>Arby’s</b> franchisee for more than 30 years, has high praise for the <b>Arby’s</b> leadership team — starting from the top. CEO Paul Brown is a “super individual — very unassuming, very focused, very professional.”. <b>Arby’s</b> new brand position “isn’t about going out and trying to be somebody else.
+
+Title: Team Member jobs | Team Member jobs at Arbys
+Link: https://careers.arbys.com/us/en/c/team-member-jobs
+Snippet: Join <b>Arby</b>&#39;s Team Member <b>jobs</b> and enjoy delicious sandwiches, flexible hours and <b>career</b> opportunities. Apply today and make a difference.
+
+Title: Career Development | Careers at Arby&#39;s
+Link: https://careers.arbys.com/us/en/development
+Snippet: All <b>Jobs</b> Should ComeWith Curly Fries. We will notify you about relevant positions, and keep you in mind whenever we have interesting opportunities. Plus, give you access to tools and resources to help you land your next gig. Being part of the <b>Arby’s</b> family is something we are very proud of.
+
+Title: Arby&#39;s CEO and Key Executive Team | Craft.co
+Link: https://craft.co/arby-s/executives
+Snippet: <b>Arby</b>&#39;s&#39;s President is Jim Taylor. Other executives include John Kelly, <b>Chief Operating Officer</b>; Patrick Schwing, Chief Marketing Officer &amp; President, <b>Arby</b>&#39;s Franchise Association and 3 others. See the full leadership team at Craft.
+
+Title: Arby&#39;s Careers and Employment | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's
+Snippet: <b>Arby’s</b>, founded in 1964, is the second-largest sandwich restaurant brand in the world with more than 3,400 restaurants in seven countries. <b>Arby</b>&#39;s Fast Crafted® restaurant services feature a unique blend of quick-serve speed combined with the quality and made-for-you care of fast casual. <b>Arby’s</b> is part of the Inspire Brands family of ...
+
+Title: Arby&#39;s CEO and Leadership - Zippia
+Link: https://www.zippia.com/arby-s-careers-15212/executives/
+Snippet: Follow Company <b>Arby</b>&#39;s CEO and Executives 4,690 <b>jobs</b> Executive Summary. Based on our data team&#39;s research, Paul Brown is the <b>Arby</b>&#39;s&#39;s CEO. <b>Arby</b>&#39;s has 80,000 employees, of which 8 are in a leadership position. Work At <b>Arby</b>&#39;s? Share Your Experience Rate <b>Arby</b>&#39;s&#39; leadership communication with employees.
+
+Title: Careers at Arby&#39;s from Flynn Arby&#39;s
+Link: https://rbamericanjobs.com/
+Snippet: Build a <b>career</b> you love at <b>Arby</b>&#39;s! Explore our current opportunities and apply in minutes.
+
+Title: Arby&#39;s hiring General Manager in Columbus, Ohio, United States - LinkedIn
+Link: https://www.linkedin.com/jobs/view/general-manager-at-arby-s-3983990491
+Snippet: <b>Arby</b>&#39;s delivers on its purpose by celebrating the art of Meatcraft® with a variety of high-quality proteins and innovative, crave-able sides, such as Curly Fries and Jamocha shakes.
+
+Title: Working At Arby&#39;s: Company Overview and Culture - Zippia
+Link: https://www.zippia.com/arby-s-careers-15212/
+Snippet: Find out what it&#39;s like to work at <b>Arby</b>&#39;s. See what kind of people work at <b>Arby</b>&#39;s, <b>career</b> paths working at <b>Arby</b>&#39;s, company culture, salaries, employee political affiliation, and more. Browse 4,900 <b>Jobs</b> at <b>Arby</b>&#39;s.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's employee reviews Glassdoor':
+Title: Arby&#39;s Reviews: What Is It Like to Work At Arby&#39;s? - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Arby-s-Reviews-E41477.htm
+Snippet: <b>Arby</b>&#39;s has an <b>employee</b> rating of 3.5 out of 5 stars, based on 3,966 company <b>reviews</b> on <b>Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The <b>Arby</b>&#39;s <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Restaurants &amp; Food Service industry (3.7 stars). read more
+
+Title: Working at Arby&#39;s - Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-Arby-s-EI_IE41477.11,17.htm
+Snippet: 10000+ <b>Employees</b>. 1 Location. Type: Company - Private. Founded in 1964. Revenue: $1 to $5 billion (USD) Restaurants &amp; Cafes. Competitors: Unknown. <b>Arby’s</b>, founded in 1964, is the second-largest sandwich restaurant brand in the world with more than 3,400 restaurants in seven countries. <b>Arby</b>&#39;s Fast Crafted® restaurant services feature a unique ...
+
+Title: Arby&#39;s Reviews: What Is It Like to Work At Arby&#39;s? | Glassdoor
+Link: https://www.glassdoor.com.au/Reviews/Arby-s-Reviews-E41477.htm
+Snippet: 3,465 <b>Arby</b>&#39;s <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: Arby&#39;s Reviews: What Is It Like to Work At Arby&#39;s? | Glassdoor
+Link: https://www.glassdoor.co.uk/Reviews/Arby-s-Reviews-E41477.htm
+Snippet: 51% of <b>Arby</b>&#39;s <b>employees</b> would recommend working there to a friend based on <b>Glassdoor</b> <b>reviews</b>. <b>Employees</b> also rated <b>Arby</b>&#39;s 3.0 out of 5 for work life balance, 3.2 for culture and values and 3.2 for career opportunities.
+
+Title: Arby&#39;s Reviews - Glassdoor
+Link: https://www.glassdoor.sg/Reviews/Arby-s-Reviews-E41477.htm
+Snippet: <b>Arby</b>&#39;s has an overall rating of 3.4 out of 5, based on over 3,840 <b>reviews</b> left anonymously by <b>employees</b>. 52% of <b>employees</b> would recommend working at <b>Arby</b>&#39;s to a friend and 40% have a positive outlook for the business. This rating has decreased by -1% over the last 12 months.
+
+Title: Arby&#39;s Arby Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Arby-s-Arby-Reviews-EI_IE41477.0,6_KO7,11.htm
+Snippet: Recommend. CEO Approval. Business Outlook. Pros. Wonderful work place. Managers work hard to listen to <b>employees</b> and support them. General manager has great flexibility when it comes to the hours you want or the days you need to take off. Requests and suggestions are taken seriously. Managers will keep you off positions you don&#39;t like and put ...
+
+Title: Arby&#39;s Reviews - Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Arby-s-Reviews-E41477.htm
+Snippet: 3,419 <b>Arby</b>&#39;s <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: Arby&#39;s Team Member Reviews | Glassdoor
+Link: https://www.glassdoor.ie/Reviews/Arby-s-Team-Member-Reviews-EI_IE41477.0,6_KO7,18.htm
+Snippet: 572 <b>Arby</b>&#39;s <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: Arby&#39;s Employee Reviews about &quot;people&quot; - glassdoor.com.au
+Link: https://www.glassdoor.com.au/Reviews/Arby-s-people-Reviews-EI_IE41477.0,6_KH7,13.htm
+Snippet: 535 <b>Arby</b>&#39;s <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: Arby&#39;s Career: Working at Arby&#39;s | Glassdoor
+Link: https://www.glassdoor.co.uk/Overview/Working-at-Arby-s-EI_IE41477.11,17.htm
+Snippet: 10000+ <b>Employees</b>. 1 Location. Type: Company - Private. Founded in 1964. Revenue: $2 to $5 billion (USD) Restaurants &amp; Cafes. Competitors: Unknown. <b>Arby’s</b>, founded in 1964, is the second-largest sandwich restaurant brand in the world with more than 3,400 restaurants in seven countries. <b>Arby</b>&#39;s Fast Crafted® restaurant services feature a unique ...
+
+Remi: Results for query 'Arby's employee reviews Glassdoor':
+Title: Arby&#39;s Reviews: What Is It Like to Work At Arby&#39;s? - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Arby-s-Reviews-E41477.htm
+Snippet: <b>Arby</b>&#39;s has an <b>employee</b> rating of 3.5 out of 5 stars, based on 3,966 company <b>reviews</b> on <b>Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The <b>Arby</b>&#39;s <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Restaurants &amp; Food Service industry (3.7 stars). read more
+
+Title: Working at Arby&#39;s - Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-Arby-s-EI_IE41477.11,17.htm
+Snippet: 10000+ <b>Employees</b>. 1 Location. Type: Company - Private. Founded in 1964. Revenue: $1 to $5 billion (USD) Restaurants &amp; Cafes. Competitors: Unknown. <b>Arby’s</b>, founded in 1964, is the second-largest sandwich restaurant brand in the world with more than 3,400 restaurants in seven countries. <b>Arby</b>&#39;s Fast Crafted® restaurant services feature a unique ...
+
+Title: Arby&#39;s Reviews: What Is It Like to Work At Arby&#39;s? | Glassdoor
+Link: https://www.glassdoor.com.au/Reviews/Arby-s-Reviews-E41477.htm
+Snippet: 3,465 <b>Arby</b>&#39;s <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: Arby&#39;s Reviews: What Is It Like to Work At Arby&#39;s? | Glassdoor
+Link: https://www.glassdoor.co.uk/Reviews/Arby-s-Reviews-E41477.htm
+Snippet: 51% of <b>Arby</b>&#39;s <b>employees</b> would recommend working there to a friend based on <b>Glassdoor</b> <b>reviews</b>. <b>Employees</b> also rated <b>Arby</b>&#39;s 3.0 out of 5 for work life balance, 3.2 for culture and values and 3.2 for career opportunities.
+
+Title: Arby&#39;s Reviews - Glassdoor
+Link: https://www.glassdoor.sg/Reviews/Arby-s-Reviews-E41477.htm
+Snippet: <b>Arby</b>&#39;s has an overall rating of 3.4 out of 5, based on over 3,840 <b>reviews</b> left anonymously by <b>employees</b>. 52% of <b>employees</b> would recommend working at <b>Arby</b>&#39;s to a friend and 40% have a positive outlook for the business. This rating has decreased by -1% over the last 12 months.
+
+Title: Arby&#39;s Arby Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Arby-s-Arby-Reviews-EI_IE41477.0,6_KO7,11.htm
+Snippet: Recommend. CEO Approval. Business Outlook. Pros. Wonderful work place. Managers work hard to listen to <b>employees</b> and support them. General manager has great flexibility when it comes to the hours you want or the days you need to take off. Requests and suggestions are taken seriously. Managers will keep you off positions you don&#39;t like and put ...
+
+Title: Arby&#39;s Reviews - Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Arby-s-Reviews-E41477.htm
+Snippet: 3,419 <b>Arby</b>&#39;s <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: Arby&#39;s Team Member Reviews | Glassdoor
+Link: https://www.glassdoor.ie/Reviews/Arby-s-Team-Member-Reviews-EI_IE41477.0,6_KO7,18.htm
+Snippet: 572 <b>Arby</b>&#39;s <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: Arby&#39;s Employee Reviews about &quot;people&quot; - glassdoor.com.au
+Link: https://www.glassdoor.com.au/Reviews/Arby-s-people-Reviews-EI_IE41477.0,6_KH7,13.htm
+Snippet: 535 <b>Arby</b>&#39;s <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: Arby&#39;s Career: Working at Arby&#39;s | Glassdoor
+Link: https://www.glassdoor.co.uk/Overview/Working-at-Arby-s-EI_IE41477.11,17.htm
+Snippet: 10000+ <b>Employees</b>. 1 Location. Type: Company - Private. Founded in 1964. Revenue: $2 to $5 billion (USD) Restaurants &amp; Cafes. Competitors: Unknown. <b>Arby’s</b>, founded in 1964, is the second-largest sandwich restaurant brand in the world with more than 3,400 restaurants in seven countries. <b>Arby</b>&#39;s Fast Crafted® restaurant services feature a unique ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's employee salaries PayScale':
+Title: Average Salary for Arby&#39;s Restaurant Group Inc Employees - Payscale
+Link: https://www.payscale.com/research/US/Employer=Arby%27s_Restaurant_Group_Inc/Salary
+Snippet: The average <b>salary</b> for <b>Arby</b>&#39;s Restaurant Group Inc <b>employees</b> is $48,162 in 2024. Visit <b>PayScale</b> to research <b>Arby</b>&#39;s Restaurant Group Inc <b>salaries</b>, bonuses, reviews, benefits, and more!
+
+Title: Arby&#39;s Restaurant Group Inc Hourly Pay in 2024 | PayScale
+Link: https://www.payscale.com/research/US/Employer=Arby%27s_Restaurant_Group_Inc/Hourly_Rate
+Snippet: The average hourly pay for <b>Arby</b>&#39;s Restaurant Group Inc is $12.18 in 2024. Visit <b>Payscale</b> to research <b>Arby</b>&#39;s Restaurant Group Inc hourly pay by city, experience, skill, employer and more.
+
+Title: Arby&#39;s salaries: How much does Arby&#39;s pay? - Indeed
+Link: https://www.indeed.com/cmp/Arby's/salaries
+Snippet: The average <b>Arby</b>&#39;s <b>salary</b> ranges from approximately $30,000 per year for Performer to $76,097 per year for Regional Director. <b>Salary</b> information comes from 32,115 data points collected directly from <b>employees</b>, users, and past and present job advertisements on <b>Indeed</b> in the past 36 months.
+
+Title: Arby&#39;s Salaries: How Much Does Arby&#39;s Pay In 2024? - Zippia
+Link: https://www.zippia.com/arby-s-careers-15212/salary/
+Snippet: <b>Arby</b>&#39;s <b>employees</b> earn an average <b>salary</b> of $26,872 in 2024, with a range from $18,000 to $38,000.
+
+Title: How Much Does Arby&#39;s Pay per Hour in 2024? | Glassdoor
+Link: https://www.glassdoor.com/Hourly-Pay/Arby-s-Hourly-Pay-E41477.htm
+Snippet: A free inside look at <b>Arby</b>&#39;s hourly pay trends based on 5606 hourly pay <b>wages</b> for 666 jobs at <b>Arby</b>&#39;s.<b></b> Hourly Pay posted anonymously by <b>Arby</b>&#39;s <b>employees</b>.
+
+Title: Team Member hourly salaries in the United States at Arby&#39;s - Indeed
+Link: https://www.indeed.com/cmp/Arby's/salaries/Team-Member
+Snippet: Average <b>Arby</b>&#39;s Team Member hourly pay in the United States is approximately $12.52, which is 6% below the national average.<b> Salary</b> information comes from 6,708 data points collected directly from <b>employees</b>, users, and past and present job advertisements on <b>Indeed</b> in the past 36 months. Please note that all <b>salary</b> figures are approximations ...
+
+Title: Salaries - Glassdoor
+Link: https://www.glassdoor.com/Salary/Arby-s-Salaries-E41477.htm
+Snippet: <b>Salaries</b> How much do <b>employees</b> make? <b>Glassdoor</b> has <b>salaries</b>, <b>wages</b>, tips, bonuses, and hourly pay based upon <b>employee</b> reports and estimates. Show More Job Functions <b>Glassdoor</b> About / Press Awards Blog Research Contact Us Guides Employers Get a Free Employer Account Employer Center Information Help Guidelines Terms of Use Privacy &amp; Ad Choices
+
+Title: Arby s Crew Member Hourly Pay | Glassdoor
+Link: https://www.glassdoor.com/Hourly-Pay/Arby-s-Crew-Member-Hourly-Pay-E41477_D_KO7,18.htm
+Snippet: Average hourly pay for <b>Arby</b> s Crew Member: $13. This <b>salary</b> trends is based on <b>salaries</b> posted anonymously by <b>Arby</b> s <b>employees</b>.
+
+Title: Arby&#39;s Average Salaries | Salary.com
+Link: https://www.salary.com/research/company/arby-s-salary
+Snippet: The estimate average <b>salary</b> for <b>Arby</b>&#39;s <b>employees</b> is around $47,266 per year, or the hourly rate of <b>Arby</b>&#39;s rate is $23. The highest earners in the top 75th percentile are paid over $54,323. Individual <b>salaries</b> will vary depending on the job, department, and location, as well as the <b>employee</b>’s level of education, certifications, and additional ...
+
+Title: Arbys Employee Salary: Hourly Rate August 2024 USA
+Link: https://www.ziprecruiter.com/Salaries/Arbys-Employee-Salary
+Snippet: An <b>Arbys</b> <b>Employee</b> in your area makes on average $13 per hour, or $0.59 (43.154%) less than the national average hourly <b>salary</b> of $13.61. Virginia ranks number 29 out of 50 states nationwide for <b>Arbys</b> <b>Employee</b> <b>salaries</b>.
+
+Remi: Results for query 'Arby's employee salaries PayScale':
+Title: Average Salary for Arby&#39;s Restaurant Group Inc Employees - Payscale
+Link: https://www.payscale.com/research/US/Employer=Arby%27s_Restaurant_Group_Inc/Salary
+Snippet: The average <b>salary</b> for <b>Arby</b>&#39;s Restaurant Group Inc <b>employees</b> is $48,162 in 2024. Visit <b>PayScale</b> to research <b>Arby</b>&#39;s Restaurant Group Inc <b>salaries</b>, bonuses, reviews, benefits, and more!
+
+Title: Arby&#39;s Restaurant Group Inc Hourly Pay in 2024 | PayScale
+Link: https://www.payscale.com/research/US/Employer=Arby%27s_Restaurant_Group_Inc/Hourly_Rate
+Snippet: The average hourly pay for <b>Arby</b>&#39;s Restaurant Group Inc is $12.18 in 2024. Visit <b>Payscale</b> to research <b>Arby</b>&#39;s Restaurant Group Inc hourly pay by city, experience, skill, employer and more.
+
+Title: Arby&#39;s salaries: How much does Arby&#39;s pay? - Indeed
+Link: https://www.indeed.com/cmp/Arby's/salaries
+Snippet: The average <b>Arby</b>&#39;s <b>salary</b> ranges from approximately $30,000 per year for Performer to $76,097 per year for Regional Director. <b>Salary</b> information comes from 32,115 data points collected directly from <b>employees</b>, users, and past and present job advertisements on <b>Indeed</b> in the past 36 months.
+
+Title: Arby&#39;s Salaries: How Much Does Arby&#39;s Pay In 2024? - Zippia
+Link: https://www.zippia.com/arby-s-careers-15212/salary/
+Snippet: <b>Arby</b>&#39;s <b>employees</b> earn an average <b>salary</b> of $26,872 in 2024, with a range from $18,000 to $38,000.
+
+Title: How Much Does Arby&#39;s Pay per Hour in 2024? | Glassdoor
+Link: https://www.glassdoor.com/Hourly-Pay/Arby-s-Hourly-Pay-E41477.htm
+Snippet: A free inside look at <b>Arby</b>&#39;s hourly pay trends based on 5606 hourly pay <b>wages</b> for 666 jobs at <b>Arby</b>&#39;s.<b></b> Hourly Pay posted anonymously by <b>Arby</b>&#39;s <b>employees</b>.
+
+Title: Team Member hourly salaries in the United States at Arby&#39;s - Indeed
+Link: https://www.indeed.com/cmp/Arby's/salaries/Team-Member
+Snippet: Average <b>Arby</b>&#39;s Team Member hourly pay in the United States is approximately $12.52, which is 6% below the national average.<b> Salary</b> information comes from 6,708 data points collected directly from <b>employees</b>, users, and past and present job advertisements on <b>Indeed</b> in the past 36 months. Please note that all <b>salary</b> figures are approximations ...
+
+Title: Salaries - Glassdoor
+Link: https://www.glassdoor.com/Salary/Arby-s-Salaries-E41477.htm
+Snippet: <b>Salaries</b> How much do <b>employees</b> make? <b>Glassdoor</b> has <b>salaries</b>, <b>wages</b>, tips, bonuses, and hourly pay based upon <b>employee</b> reports and estimates. Show More Job Functions <b>Glassdoor</b> About / Press Awards Blog Research Contact Us Guides Employers Get a Free Employer Account Employer Center Information Help Guidelines Terms of Use Privacy &amp; Ad Choices
+
+Title: Arby s Crew Member Hourly Pay | Glassdoor
+Link: https://www.glassdoor.com/Hourly-Pay/Arby-s-Crew-Member-Hourly-Pay-E41477_D_KO7,18.htm
+Snippet: Average hourly pay for <b>Arby</b> s Crew Member: $13. This <b>salary</b> trends is based on <b>salaries</b> posted anonymously by <b>Arby</b> s <b>employees</b>.
+
+Title: Arby&#39;s Average Salaries | Salary.com
+Link: https://www.salary.com/research/company/arby-s-salary
+Snippet: The estimate average <b>salary</b> for <b>Arby</b>&#39;s <b>employees</b> is around $47,266 per year, or the hourly rate of <b>Arby</b>&#39;s rate is $23. The highest earners in the top 75th percentile are paid over $54,323. Individual <b>salaries</b> will vary depending on the job, department, and location, as well as the <b>employee</b>’s level of education, certifications, and additional ...
+
+Title: Arbys Employee Salary: Hourly Rate August 2024 USA
+Link: https://www.ziprecruiter.com/Salaries/Arbys-Employee-Salary
+Snippet: An <b>Arbys</b> <b>Employee</b> in your area makes on average $13 per hour, or $0.59 (43.154%) less than the national average hourly <b>salary</b> of $13.61. Virginia ranks number 29 out of 50 states nationwide for <b>Arbys</b> <b>Employee</b> <b>salaries</b>.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's workplace culture Indeed':
+Title: Working at Arby&#39;s: 2,412 Reviews about Culture | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's/reviews?ftopic=culture
+Snippet: 2,412 reviews from <b>Arby&#39;s</b> employees about <b>Culture</b>. Jobs. Company reviews. Find salaries. Upload your resume. Sign in. Sign in. Employers / Post Job. Start of main content. <b>Arby&#39;s</b>. Happiness rating is 56 out of 100 56. 3.5 out of 5 stars. 3.5. Follow ...
+
+Title: Working at Arby&#39;s: 327 Reviews about Culture | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's/reviews?ftopic=culture&ftext=arbys
+Snippet: 327 reviews from <b>Arby&#39;s</b> employees about <b>Culture</b>. <b>Work</b> wellbeing score is 66 out of 100
+
+Title: Working at Arby&#39;s: 2,776 Reviews about Culture | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's/reviews?fcountry=ALL&ftopic=culture
+Snippet: 2,776 reviews from <b>Arby&#39;s</b> employees about <b>Culture</b>. <b>Work</b> wellbeing score is 66 out of 100
+
+Title: Working at Arby&#39;s: 14,588 Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's/reviews
+Snippet: Team Member. Assistant Manager. See all job titles at <b>Arby&#39;s</b>. Companies. Restaurants &amp; Food Service. <b>Arby&#39;s</b>. Employee Reviews. 14,572 reviews from <b>Arby&#39;s</b> employees about <b>Arby&#39;s</b> <b>culture</b>, salaries, benefits, <b>work</b>-life balance, management, job security, and more.
+
+Title: Working at Arby&#39;s: 444 Reviews about Culture | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's/reviews?ftopic=culture&ftext=fast
+Snippet: 444 reviews from <b>Arby&#39;s</b> employees about <b>Culture</b>. Find jobs. Company reviews. Find salaries. Sign in. Sign in. Employers / Post Job. Start of main content. <b>Arby&#39;s</b>. <b>Work</b> wellbeing score is 66 out of 100. 66. 3.5 out of 5 stars. ...
+
+Title: What is the work environment and culture like at the company?
+Link: https://www.indeed.com/cmp/Arby's/faq/what-is-the-work-environment-and-culture-like-at-the-company?quid=1aldaks1o52u3947
+Snippet: Find 33 answers to &#39;What is the <b>work</b> environment and <b>culture</b> like at the company?&#39; from <b>Arby&#39;s</b> employees. Get answers to your biggest company questions on <b>Indeed</b>.
+
+Title: Arby&#39;s Culture reviews in Columbus, OH - Indeed
+Link: https://www.indeed.com/cmp/Arby's/reviews?fcountry=US&floc=Columbus%2C+OH&ftopic=culture
+Snippet: <b>Work</b> wellbeing score is 66 out of 100. 66. 3.5 out of 5 stars. 3.5
+
+Title: Arby&#39;s Culture | Careers at Arby&#39;s
+Link: https://careers.arbys.com/us/en/culture
+Snippet: At <b>Arby’s</b>, we are guided by our six core values that help us cultivate an environment and <b>culture</b> where our team members can develop and flourish. We believe in the unlimited potential that lies within all people and are committed to providing opportunities for people to achieve their dreams. We believe that hard <b>work</b> and front-end effort are ...
+
+Title: Working at Arby&#39;s: employee reviews about Culture | Indeed.com
+Link: https://ca.indeed.com/cmp/Arby's/reviews?ftopic=culture&ftext=food
+Snippet: Reviews from <b>Arby&#39;s</b> employees about <b>Culture</b>. Home. Company reviews. Salary guide. Sign in. Sign in. En English. Fr Français. Employers / Post Job. Start of main content. <b>Arby&#39;s</b>. <b>Work</b> wellbeing score is 65 out of 100. 65. 3.5 out of 5 stars. 3.5. Follow. Write a review. Snapshot; Why Join Us; 14.5K. Reviews; 338 ...
+
+Title: Arby&#39;s Culture reviews in Columbus, OH - Indeed
+Link: https://www.indeed.com/cmp/Arby's/reviews?fcountry=US&floc=Columbus%2C+OH&ftopic=culture&ftext=manager
+Snippet: <b>Arby&#39;s</b> <b>Culture</b> reviews in Columbus, OH Review this company. Job Title. All
+
+Remi: Results for query 'Arby's workplace culture Indeed':
+Title: Working at Arby&#39;s: 2,412 Reviews about Culture | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's/reviews?ftopic=culture
+Snippet: 2,412 reviews from <b>Arby&#39;s</b> employees about <b>Culture</b>. Jobs. Company reviews. Find salaries. Upload your resume. Sign in. Sign in. Employers / Post Job. Start of main content. <b>Arby&#39;s</b>. Happiness rating is 56 out of 100 56. 3.5 out of 5 stars. 3.5. Follow ...
+
+Title: Working at Arby&#39;s: 327 Reviews about Culture | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's/reviews?ftopic=culture&ftext=arbys
+Snippet: 327 reviews from <b>Arby&#39;s</b> employees about <b>Culture</b>. <b>Work</b> wellbeing score is 66 out of 100
+
+Title: Working at Arby&#39;s: 2,776 Reviews about Culture | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's/reviews?fcountry=ALL&ftopic=culture
+Snippet: 2,776 reviews from <b>Arby&#39;s</b> employees about <b>Culture</b>. <b>Work</b> wellbeing score is 66 out of 100
+
+Title: Working at Arby&#39;s: 14,588 Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's/reviews
+Snippet: Team Member. Assistant Manager. See all job titles at <b>Arby&#39;s</b>. Companies. Restaurants &amp; Food Service. <b>Arby&#39;s</b>. Employee Reviews. 14,572 reviews from <b>Arby&#39;s</b> employees about <b>Arby&#39;s</b> <b>culture</b>, salaries, benefits, <b>work</b>-life balance, management, job security, and more.
+
+Title: Working at Arby&#39;s: 444 Reviews about Culture | Indeed.com
+Link: https://www.indeed.com/cmp/Arby's/reviews?ftopic=culture&ftext=fast
+Snippet: 444 reviews from <b>Arby&#39;s</b> employees about <b>Culture</b>. Find jobs. Company reviews. Find salaries. Sign in. Sign in. Employers / Post Job. Start of main content. <b>Arby&#39;s</b>. <b>Work</b> wellbeing score is 66 out of 100. 66. 3.5 out of 5 stars. ...
+
+Title: What is the work environment and culture like at the company?
+Link: https://www.indeed.com/cmp/Arby's/faq/what-is-the-work-environment-and-culture-like-at-the-company?quid=1aldaks1o52u3947
+Snippet: Find 33 answers to &#39;What is the <b>work</b> environment and <b>culture</b> like at the company?&#39; from <b>Arby&#39;s</b> employees. Get answers to your biggest company questions on <b>Indeed</b>.
+
+Title: Arby&#39;s Culture reviews in Columbus, OH - Indeed
+Link: https://www.indeed.com/cmp/Arby's/reviews?fcountry=US&floc=Columbus%2C+OH&ftopic=culture
+Snippet: <b>Work</b> wellbeing score is 66 out of 100. 66. 3.5 out of 5 stars. 3.5
+
+Title: Arby&#39;s Culture | Careers at Arby&#39;s
+Link: https://careers.arbys.com/us/en/culture
+Snippet: At <b>Arby’s</b>, we are guided by our six core values that help us cultivate an environment and <b>culture</b> where our team members can develop and flourish. We believe in the unlimited potential that lies within all people and are committed to providing opportunities for people to achieve their dreams. We believe that hard <b>work</b> and front-end effort are ...
+
+Title: Working at Arby&#39;s: employee reviews about Culture | Indeed.com
+Link: https://ca.indeed.com/cmp/Arby's/reviews?ftopic=culture&ftext=food
+Snippet: Reviews from <b>Arby&#39;s</b> employees about <b>Culture</b>. Home. Company reviews. Salary guide. Sign in. Sign in. En English. Fr Français. Employers / Post Job. Start of main content. <b>Arby&#39;s</b>. <b>Work</b> wellbeing score is 65 out of 100. 65. 3.5 out of 5 stars. 3.5. Follow. Write a review. Snapshot; Why Join Us; 14.5K. Reviews; 338 ...
+
+Title: Arby&#39;s Culture reviews in Columbus, OH - Indeed
+Link: https://www.indeed.com/cmp/Arby's/reviews?fcountry=US&floc=Columbus%2C+OH&ftopic=culture&ftext=manager
+Snippet: <b>Arby&#39;s</b> <b>Culture</b> reviews in Columbus, OH Review this company. Job Title. All
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's labor union activities':
+Title: Arby’s franchisee allows teens to work outside of federally allowed ...
+Link: https://www.dol.gov/newsroom/releases/whd/whd20230103
+Snippet: COLUMBIA, SC – What began as a child <b>labor</b> investigation by the U.S. Department of <b>Labor</b> at one <b>Arby’s</b> restaurant location in Laurens, expanded to include other restaurants operated by the same business operator who was found to be allowing 65 minor-aged employees to work outside of federally allowed work hours.. The department’s Wage and Hour Division investigators found that Newberry ...
+
+Title: A big union wants to help the owners of your local Arby’s and Wendy’s ...
+Link: https://www.washingtonpost.com/news/wonk/wp/2015/05/01/the-seiu-wants-to-help-the-owners-of-your-local-arbys-and-wendys-to-organize-too/
+Snippet: A big <b>union</b> wants to help the owners of your local <b>Arby’s</b> and Wendy’s to organize, too. ... From the outside, it would appear that <b>labor</b> <b>unions</b> are at war with the franchise industry: They&#39;re ...
+
+Title: Arby’s - Labor 411
+Link: https://labor411.org/listing/arbys/
+Snippet: SEARCH TERMS: meat, poultry, seafood, chicken, chickens, fish, fishes, crab, crabs, lobster, lobsters, shrimp, shrimps, oyster, oysters, ham, pork, beef, steak, deli ...
+
+Title: Unions are taking more prominent roles in U.S. politics as support for ...
+Link: https://www.npr.org/2024/09/02/nx-s1-5081403/unions-are-taking-more-prominent-roles-in-u-s-politics-as-support-for-labor-rises
+Snippet: With public support for <b>labor</b> on the rise, <b>unions</b> are taking more prominent roles in politics, including key speaking slots at last month&#39;s Democratic National Convention.
+
+Title: Labor Unions Are Getting Stronger. What Does That Mean for the U.S ...
+Link: https://www.cfr.org/in-brief/labor-unions-are-getting-stronger-what-does-mean-us-economy
+Snippet: Several major <b>union</b> worker contracts also happened to be up for renewal in 2023, creating the conditions for major strikes—especially since polls show public support for <b>unions</b> hit a fifty-seven ...
+
+Title: Union wants to help owners of your local Arby&#39;s and ... - Daily Herald
+Link: https://www.dailyherald.com/20150510/business/union-wants-to-help-owners-of-your-local-arbys-and-wendys-to-organize-too/
+Snippet: WASHINGTON -- From the outside, it would appear that <b>labor</b> <b>unions</b> are at war with the franchise industry: They&#39;re waging nationwide protests in front of McDonald&#39;s and Burger King. They&#39;ve filed ...
+
+Title: Labor Unions - CNBC
+Link: https://www.cnbc.com/labor-unions/?os
+Snippet: <b>Labor</b> <b>Unions</b>
+
+Title: Labor movements are seeing historic victories this year. Can unions ...
+Link: https://www.pbs.org/newshour/economy/labor-movements-are-seeing-historic-victories-this-year-can-unions-keep-up-the-momentum
+Snippet: At least 457,000 workers have participated in 315 strikes in the U.S. just this year, according to Johnnie Kallas, a Ph.D. candidate and the project director of Cornell University’s <b>Labor</b> Action ...
+
+Title: ARBY’S
+Link: https://foundation.arbys.com/wp-content/uploads/2022/01/Arbys-Foundation-2020-Impact-Report.pdf
+Snippet: <b>Arby’s</b> team member, Chanelle Whitaker, from store #6060 presents $10,000 grant to Second Harvest Food Bank of Northeast Tennessee in celebration of the Foundation’s $100 million in grants given milestone. <b>ARBY’S</b> FOUNDATION 2020 IMPACT REPORT 3 01 NATIONAL GIVING 02 SERVING OUR COMMUNITIES 03 A LEGACY OF GIVING 04
+
+Title: Labor Day 2024: What&#39;s open, what&#39;s closed and local events happening
+Link: https://www.courier-journal.com/story/news/2024/08/31/labor-day-2024-whats-open-whats-closed-local-events-concerts-sports-outdoors-why-celebrate/75015883007/
+Snippet: <b>Labor</b> Day dates back to the <b>labor</b> movement of the 19 th century, when <b>labor</b> activists pushed for the holiday to recognize workers, according to the U.S. Department of <b>Labor</b>. Americans in the late ...
+
+Remi: Results for query 'Arby's labor union activities':
+Title: Arby’s franchisee allows teens to work outside of federally allowed ...
+Link: https://www.dol.gov/newsroom/releases/whd/whd20230103
+Snippet: COLUMBIA, SC – What began as a child <b>labor</b> investigation by the U.S. Department of <b>Labor</b> at one <b>Arby’s</b> restaurant location in Laurens, expanded to include other restaurants operated by the same business operator who was found to be allowing 65 minor-aged employees to work outside of federally allowed work hours.. The department’s Wage and Hour Division investigators found that Newberry ...
+
+Title: A big union wants to help the owners of your local Arby’s and Wendy’s ...
+Link: https://www.washingtonpost.com/news/wonk/wp/2015/05/01/the-seiu-wants-to-help-the-owners-of-your-local-arbys-and-wendys-to-organize-too/
+Snippet: A big <b>union</b> wants to help the owners of your local <b>Arby’s</b> and Wendy’s to organize, too. ... From the outside, it would appear that <b>labor</b> <b>unions</b> are at war with the franchise industry: They&#39;re ...
+
+Title: Arby’s - Labor 411
+Link: https://labor411.org/listing/arbys/
+Snippet: SEARCH TERMS: meat, poultry, seafood, chicken, chickens, fish, fishes, crab, crabs, lobster, lobsters, shrimp, shrimps, oyster, oysters, ham, pork, beef, steak, deli ...
+
+Title: Unions are taking more prominent roles in U.S. politics as support for ...
+Link: https://www.npr.org/2024/09/02/nx-s1-5081403/unions-are-taking-more-prominent-roles-in-u-s-politics-as-support-for-labor-rises
+Snippet: With public support for <b>labor</b> on the rise, <b>unions</b> are taking more prominent roles in politics, including key speaking slots at last month&#39;s Democratic National Convention.
+
+Title: Labor Unions Are Getting Stronger. What Does That Mean for the U.S ...
+Link: https://www.cfr.org/in-brief/labor-unions-are-getting-stronger-what-does-mean-us-economy
+Snippet: Several major <b>union</b> worker contracts also happened to be up for renewal in 2023, creating the conditions for major strikes—especially since polls show public support for <b>unions</b> hit a fifty-seven ...
+
+Title: Union wants to help owners of your local Arby&#39;s and ... - Daily Herald
+Link: https://www.dailyherald.com/20150510/business/union-wants-to-help-owners-of-your-local-arbys-and-wendys-to-organize-too/
+Snippet: WASHINGTON -- From the outside, it would appear that <b>labor</b> <b>unions</b> are at war with the franchise industry: They&#39;re waging nationwide protests in front of McDonald&#39;s and Burger King. They&#39;ve filed ...
+
+Title: Labor Unions - CNBC
+Link: https://www.cnbc.com/labor-unions/?os
+Snippet: <b>Labor</b> <b>Unions</b>
+
+Title: Labor movements are seeing historic victories this year. Can unions ...
+Link: https://www.pbs.org/newshour/economy/labor-movements-are-seeing-historic-victories-this-year-can-unions-keep-up-the-momentum
+Snippet: At least 457,000 workers have participated in 315 strikes in the U.S. just this year, according to Johnnie Kallas, a Ph.D. candidate and the project director of Cornell University’s <b>Labor</b> Action ...
+
+Title: ARBY’S
+Link: https://foundation.arbys.com/wp-content/uploads/2022/01/Arbys-Foundation-2020-Impact-Report.pdf
+Snippet: <b>Arby’s</b> team member, Chanelle Whitaker, from store #6060 presents $10,000 grant to Second Harvest Food Bank of Northeast Tennessee in celebration of the Foundation’s $100 million in grants given milestone. <b>ARBY’S</b> FOUNDATION 2020 IMPACT REPORT 3 01 NATIONAL GIVING 02 SERVING OUR COMMUNITIES 03 A LEGACY OF GIVING 04
+
+Title: Labor Day 2024: What&#39;s open, what&#39;s closed and local events happening
+Link: https://www.courier-journal.com/story/news/2024/08/31/labor-day-2024-whats-open-whats-closed-local-events-concerts-sports-outdoors-why-celebrate/75015883007/
+Snippet: <b>Labor</b> Day dates back to the <b>labor</b> movement of the 19 th century, when <b>labor</b> activists pushed for the holiday to recognize workers, according to the U.S. Department of <b>Labor</b>. Americans in the late ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's recent scandals':
+Title: Arby’s employees allegedly stole thousands of dollars in ... - Fortune
+Link: https://fortune.com/2024/07/15/arbys-roast-beef-theft-employees-trash-interal-shrink/
+Snippet: BY Chris Morris. July 15, 2024, 7:46 AM PDT. Two employees are accused of stealing thousands of dollars of roast beef from <b>Arby&#39;s</b>. Jeffrey Greenberg—Universal Images Group/Getty Images. Two ...
+
+Title: An Arby&#39;s employee was fired after writing a homophobic slur on a ...
+Link: https://www.yahoo.com/news/arbys-employee-fired-writing-homophobic-002637279.html
+Snippet: <b>Arby&#39;s</b> fired an Indiana employee who wrote a homophobic slur on a couple&#39;s receipt, NBC News reported. Craig Gray and John Burns told the network they had been eating at the restaurant last Sunday ...
+
+Title: Arby&#39;s employee fired for writing homophobic slur on couple&#39;s receipt
+Link: https://www.nbcnews.com/feature/nbc-out/arby-s-employee-fired-writing-homophobic-slur-couple-s-receipt-n1270547
+Snippet: June 11, 2021, 3:09 PM PDT. By Stefan Sykes. An employee at an <b>Arby’s</b> restaurant in Lafayette, Indiana, was fired earlier this week after writing a homophobic slur on the receipt of a gay couple ...
+
+Title: Arby’s Data Breach Lawsuit Says Thousands of Current, Former Employees ...
+Link: https://www.classaction.org/news/arbys-data-breach-lawsuit-says-thousands-of-current-former-employees-impacted-by-2024-cyberattack
+Snippet: The 28-page <b>Arby’s</b> data breach lawsuit against franchisee DRM, Inc. says the company, after an internal investigation, learned that current and former employees’ names, Social Security numbers, driver’s license numbers, passport numbers and workers’ comp details were among the information accessed without authorization.
+
+Title: Pennsylvania Arby’s employees allegedly stole nearly $3,000 in ... - MSN
+Link: https://www.msn.com/en-us/news/crime/pennsylvania-arby-s-employees-allegedly-stole-nearly-3000-in-roast-beef/ar-BB1qdjb3
+Snippet: State Police say the investigation into the stolen beef began when they were called to the <b>Arby’s</b>, located at 1726 E 3rd Street in Loyalsock Township, on July 31 last year just after 7:30 a.m ...
+
+Title: Arby&#39;s Employee Was Fired Over Homophobic Slur on Couple&#39;s Receipt ...
+Link: https://www.businessinsider.com/arbys-employee-was-fired-over-homophobic-slur-on-couples-receipt-2021-6
+Snippet: <b>Arby&#39;s</b> fired an Indiana employee who wrote a homophobic slur on a couple&#39;s receipt, NBC News reported. Craig Gray and John Burns told the network they had been eating at the restaurant last Sunday ...
+
+Title: Arby&#39;s freezer death: Manager tried to escape via broken door − suit
+Link: https://www.usatoday.com/story/news/nation/2023/05/31/arbys-freezer-death-manager-lawsuit/70272389007/
+Snippet: An <b>Arby&#39;s</b> manager &quot;beat her hands bloody&quot; attempting to escape a walk-in freezer she was found dead in May, according to a lawsuit filed in Texas against the fast-food chain and franchise owner.
+
+Title: Arby’s employee fired over homophobic slur receipt in Indiana | Kansas ...
+Link: https://www.kansascity.com/news/nation-world/national/article252027333.html
+Snippet: June 10, 2021 1:02 PM. An <b>Arby’s</b> employee was fired after a homophobic slur was written on a couple’s receipt in Indiana. Powerhouse Communications. An employee at an <b>Arby’s</b> restaurant in ...
+
+Title: &#39;Massive’ Arby’s data breach put customers at risk, lawsuits allege
+Link: https://www.ajc.com/news/local/massive-arby-data-breach-put-customers-risk-lawsuits-allege/gGJrn3ncCd9fRT7OrCuAjP/
+Snippet: Feb 28, 2017. Atlanta-based <b>Arby’s</b> Restaurant Group is facing several class-action lawsuits in U.S. District Court in Atlanta over a reported data breach that allegedly put customers ...
+
+Title: Arby’s Midwest Chain Hit With Employee Data Breach Class Action
+Link: https://news.bloomberglaw.com/privacy-and-data-security/arbys-midwest-chain-hit-with-employee-data-breach-class-action
+Snippet: The owner of 121 <b>Arby’s</b> restaurants in the Midwest faces a proposed class action alleging negligence and the invasion of privacy of employees whose data was exposed in a March breach. Cybercriminals were able to breach the <b>Arby’s</b> systems because of Georgia-based owner DRM Inc.&#39;s failures to adequately train employees on cybersecurity ...
+
+Remi: Results for query 'Arby's recent scandals':
+Title: Arby’s employees allegedly stole thousands of dollars in ... - Fortune
+Link: https://fortune.com/2024/07/15/arbys-roast-beef-theft-employees-trash-interal-shrink/
+Snippet: BY Chris Morris. July 15, 2024, 7:46 AM PDT. Two employees are accused of stealing thousands of dollars of roast beef from <b>Arby&#39;s</b>. Jeffrey Greenberg—Universal Images Group/Getty Images. Two ...
+
+Title: An Arby&#39;s employee was fired after writing a homophobic slur on a ...
+Link: https://www.yahoo.com/news/arbys-employee-fired-writing-homophobic-002637279.html
+Snippet: <b>Arby&#39;s</b> fired an Indiana employee who wrote a homophobic slur on a couple&#39;s receipt, NBC News reported. Craig Gray and John Burns told the network they had been eating at the restaurant last Sunday ...
+
+Title: Arby&#39;s employee fired for writing homophobic slur on couple&#39;s receipt
+Link: https://www.nbcnews.com/feature/nbc-out/arby-s-employee-fired-writing-homophobic-slur-couple-s-receipt-n1270547
+Snippet: June 11, 2021, 3:09 PM PDT. By Stefan Sykes. An employee at an <b>Arby’s</b> restaurant in Lafayette, Indiana, was fired earlier this week after writing a homophobic slur on the receipt of a gay couple ...
+
+Title: Arby’s Data Breach Lawsuit Says Thousands of Current, Former Employees ...
+Link: https://www.classaction.org/news/arbys-data-breach-lawsuit-says-thousands-of-current-former-employees-impacted-by-2024-cyberattack
+Snippet: The 28-page <b>Arby’s</b> data breach lawsuit against franchisee DRM, Inc. says the company, after an internal investigation, learned that current and former employees’ names, Social Security numbers, driver’s license numbers, passport numbers and workers’ comp details were among the information accessed without authorization.
+
+Title: Pennsylvania Arby’s employees allegedly stole nearly $3,000 in ... - MSN
+Link: https://www.msn.com/en-us/news/crime/pennsylvania-arby-s-employees-allegedly-stole-nearly-3000-in-roast-beef/ar-BB1qdjb3
+Snippet: State Police say the investigation into the stolen beef began when they were called to the <b>Arby’s</b>, located at 1726 E 3rd Street in Loyalsock Township, on July 31 last year just after 7:30 a.m ...
+
+Title: Arby&#39;s Employee Was Fired Over Homophobic Slur on Couple&#39;s Receipt ...
+Link: https://www.businessinsider.com/arbys-employee-was-fired-over-homophobic-slur-on-couples-receipt-2021-6
+Snippet: <b>Arby&#39;s</b> fired an Indiana employee who wrote a homophobic slur on a couple&#39;s receipt, NBC News reported. Craig Gray and John Burns told the network they had been eating at the restaurant last Sunday ...
+
+Title: Arby&#39;s freezer death: Manager tried to escape via broken door − suit
+Link: https://www.usatoday.com/story/news/nation/2023/05/31/arbys-freezer-death-manager-lawsuit/70272389007/
+Snippet: An <b>Arby&#39;s</b> manager &quot;beat her hands bloody&quot; attempting to escape a walk-in freezer she was found dead in May, according to a lawsuit filed in Texas against the fast-food chain and franchise owner.
+
+Title: Arby’s employee fired over homophobic slur receipt in Indiana | Kansas ...
+Link: https://www.kansascity.com/news/nation-world/national/article252027333.html
+Snippet: June 10, 2021 1:02 PM. An <b>Arby’s</b> employee was fired after a homophobic slur was written on a couple’s receipt in Indiana. Powerhouse Communications. An employee at an <b>Arby’s</b> restaurant in ...
+
+Title: &#39;Massive’ Arby’s data breach put customers at risk, lawsuits allege
+Link: https://www.ajc.com/news/local/massive-arby-data-breach-put-customers-risk-lawsuits-allege/gGJrn3ncCd9fRT7OrCuAjP/
+Snippet: Feb 28, 2017. Atlanta-based <b>Arby’s</b> Restaurant Group is facing several class-action lawsuits in U.S. District Court in Atlanta over a reported data breach that allegedly put customers ...
+
+Title: Arby’s Midwest Chain Hit With Employee Data Breach Class Action
+Link: https://news.bloomberglaw.com/privacy-and-data-security/arbys-midwest-chain-hit-with-employee-data-breach-class-action
+Snippet: The owner of 121 <b>Arby’s</b> restaurants in the Midwest faces a proposed class action alleging negligence and the invasion of privacy of employees whose data was exposed in a March breach. Cybercriminals were able to breach the <b>Arby’s</b> systems because of Georgia-based owner DRM Inc.&#39;s failures to adequately train employees on cybersecurity ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's legal issues':
+Title: New Lawsuit Alleges Arby&#39;s Doesn&#39;t Have The Meats - The Takeout
+Link: https://www.thetakeout.com/arbys-lawsuit-roast-beef-cheddar-false-advertising-menu-1850831200/
+Snippet: The plaintiff, Joseph Alongis, filed the lawsuit in New York federal court on his own behalf and on behalf of customers who have purchased an <b>Arby&#39;s</b> Classic Roast Beef, Double Roast Beef, Half Pound Roast Beef, Classic Beef &#39;N Cheddar, Double Beef &#39;N Cheddar, Half Pound Beef &#39;N Cheddar, and/or Smokehouse Brisket menu item from an <b>Arby&#39;s</b> restaurant in New York since September 5, 2020.
+
+Title: Arby&#39;s Is Being Sued Over the Quality Of Its Meat - Eat This Not That
+Link: https://www.eatthis.com/arbys-sued-over-meat-quality-2023/
+Snippet: While the lawsuit is based on Alongis&#39; experience, he has &quot;filed the <b>Arby&#39;s</b> class action lawsuit on behalf of himself and others who purchased an <b>Arby&#39;s</b> Classic Roast Beef, Double Roast Beef, Half Pound Roast Beef, Classic Beef &#39;N Cheddar, Double Beef &#39;N Cheddar, Half Pound Beef &#39;N Cheddar, and/or Smokehouse Brisket menu item from an <b>Arby&#39;s</b> restaurant in New York since Sept. 5, 2020,&quot; per Top ...
+
+Title: Arby’s Overstates Amount, Quality of Meat in Sandwiches, Class Action ...
+Link: https://www.classaction.org/news/arbys-overstates-amount-quality-of-meat-in-sandwiches-class-action-alleges
+Snippet: Alongis v. <b>Arby’s</b> Restaurant Group, Inc. Filed: September 5, 2023 § 2:23-cv-06593. • Read Complaint. A class action lawsuit accuses <b>Arby’s</b> of overstating the amount and quality of meat in certain menu items. Defendant (s) <b>Arby’s</b> Restaurant Group, Inc. Law (s)
+
+Title: Arby&#39;s customer claims chain doesn&#39;t have the meats in new lawsuit
+Link: https://www.foxbusiness.com/lifestyle/arbys-customer-claims-chain-doesnt-have-meats-new-lawsuit
+Snippet: A new class-action lawsuit is asking <b>Arby&#39;s</b> where the beef is. In a complaint filed in New York federal court Sept. 5, a customer alleges the roast beef sandwich specialists at <b>Arby&#39;s</b> Restaurant ...
+
+Title: Why the family behind this iconic Arby&#39;s finally decided to hang up its ...
+Link: https://www.latimes.com/food/story/2024-06-18/arbys-hollywood-closure-family-minimum-wage-law-fast-food
+Snippet: June 18, 2024 Updated 2:04 PM PT. The <b>Arby’s</b> restaurant on Sunset Boulevard in Hollywood, famous for its enormous, neon-clad hat sign, has shuttered its doors after 55 years. Its last day of ...
+
+Title: Arby’s Data Breach Lawsuit Says Thousands of Current, Former Employees ...
+Link: https://www.classaction.org/news/arbys-data-breach-lawsuit-says-thousands-of-current-former-employees-impacted-by-2024-cyberattack
+Snippet: The 28-page <b>Arby’s</b> data breach lawsuit against franchisee DRM, Inc. says the company, after an internal investigation, learned that current and former employees’ names, Social Security numbers, driver’s license numbers, passport numbers and workers’ comp details were among the information accessed without authorization.
+
+Title: Arby’s Grub Isn’t Meaty Enough, Customer Says in False-Ad Suit
+Link: https://news.bloomberglaw.com/product-liability-and-toxics-law/arbys-grub-isnt-meaty-enough-customer-says-in-false-ad-suit
+Snippet: VIEW DOCKET: No. 2:23-cv-06593. <b>Arby’s</b> was hit with a new lawsuit alleging its famous ads touting meaty sandwiches greatly exaggerate what’s actually served. Ad photos of Classic Roast Beef, Smokehouse Brisket, and other fare make the sandwiches look like much, much more, according to the suit, filed Tuesday against <b>Arby’s</b> Restaurant ...
+
+Title: Lawsuit: Arby&#39;s overstates quality, portions of meat ... - Legal Newsline
+Link: https://legalnewsline.com/stories/649661205-lawsuit-arby-s-overstates-quality-portions-of-meat-in-sandwiches
+Snippet: Lawsuits. By Marian Johns. Sep 20, 2023. NEW YORK (<b>Legal</b> Newsline) — <b>Arby&#39;s</b> is facing a class action lawsuit alleging it overstates the quality and portions of meat in its sandwiches. Joseph ...
+
+Title: Nearly Half of Each Arby’s Wagyu Burger Is Made with ‘Regular Angus ...
+Link: https://www.classaction.org/blog/nearly-half-of-each-arbys-wagyu-burger-is-made-with-regular-angus-beef-class-action-says
+Snippet: <b>Arby’s</b> may claim to “have the meats,” but a new proposed class action case challenges exactly what kind of meats the restaurant uses, in particular for its new wagyu burgers.. The 16-page lawsuit out of New York says that although consumers expect <b>Arby’s</b> limited-edition Bacon Ranch Wagyu Steakhouse Burger and Deluxe Wagyu Steakhouse Burger to be made entirely with wagyu beef, the ...
+
+Title: Arby&#39;s class action alleges advertisements overstate amount of meat in ...
+Link: https://topclassactions.com/lawsuit-settlements/consumer-products/food/arbys-class-action-alleges-advertisements-overstate-amount-of-meat-in-sandwiches/
+Snippet: Alongis filed the <b>Arby’s</b> class action lawsuit on behalf of himself and others who purchased an <b>Arby’s</b> Classic Roast Beef, Double Roast Beef, Half Pound Roast Beef, Classic Beef ‘N Cheddar, Double Beef ‘N Cheddar, Half Pound Beef ‘N Cheddar or Smokehouse Brisket menu item from an <b>Arby’s</b> restaurant in New York since Sept. 5, 2020.
+
+Remi: Results for query 'Arby's legal issues':
+Title: New Lawsuit Alleges Arby&#39;s Doesn&#39;t Have The Meats - The Takeout
+Link: https://www.thetakeout.com/arbys-lawsuit-roast-beef-cheddar-false-advertising-menu-1850831200/
+Snippet: The plaintiff, Joseph Alongis, filed the lawsuit in New York federal court on his own behalf and on behalf of customers who have purchased an <b>Arby&#39;s</b> Classic Roast Beef, Double Roast Beef, Half Pound Roast Beef, Classic Beef &#39;N Cheddar, Double Beef &#39;N Cheddar, Half Pound Beef &#39;N Cheddar, and/or Smokehouse Brisket menu item from an <b>Arby&#39;s</b> restaurant in New York since September 5, 2020.
+
+Title: Arby&#39;s Is Being Sued Over the Quality Of Its Meat - Eat This Not That
+Link: https://www.eatthis.com/arbys-sued-over-meat-quality-2023/
+Snippet: While the lawsuit is based on Alongis&#39; experience, he has &quot;filed the <b>Arby&#39;s</b> class action lawsuit on behalf of himself and others who purchased an <b>Arby&#39;s</b> Classic Roast Beef, Double Roast Beef, Half Pound Roast Beef, Classic Beef &#39;N Cheddar, Double Beef &#39;N Cheddar, Half Pound Beef &#39;N Cheddar, and/or Smokehouse Brisket menu item from an <b>Arby&#39;s</b> restaurant in New York since Sept. 5, 2020,&quot; per Top ...
+
+Title: Arby’s Overstates Amount, Quality of Meat in Sandwiches, Class Action ...
+Link: https://www.classaction.org/news/arbys-overstates-amount-quality-of-meat-in-sandwiches-class-action-alleges
+Snippet: Alongis v. <b>Arby’s</b> Restaurant Group, Inc. Filed: September 5, 2023 § 2:23-cv-06593. • Read Complaint. A class action lawsuit accuses <b>Arby’s</b> of overstating the amount and quality of meat in certain menu items. Defendant (s) <b>Arby’s</b> Restaurant Group, Inc. Law (s)
+
+Title: Arby&#39;s customer claims chain doesn&#39;t have the meats in new lawsuit
+Link: https://www.foxbusiness.com/lifestyle/arbys-customer-claims-chain-doesnt-have-meats-new-lawsuit
+Snippet: A new class-action lawsuit is asking <b>Arby&#39;s</b> where the beef is. In a complaint filed in New York federal court Sept. 5, a customer alleges the roast beef sandwich specialists at <b>Arby&#39;s</b> Restaurant ...
+
+Title: Why the family behind this iconic Arby&#39;s finally decided to hang up its ...
+Link: https://www.latimes.com/food/story/2024-06-18/arbys-hollywood-closure-family-minimum-wage-law-fast-food
+Snippet: June 18, 2024 Updated 2:04 PM PT. The <b>Arby’s</b> restaurant on Sunset Boulevard in Hollywood, famous for its enormous, neon-clad hat sign, has shuttered its doors after 55 years. Its last day of ...
+
+Title: Arby’s Data Breach Lawsuit Says Thousands of Current, Former Employees ...
+Link: https://www.classaction.org/news/arbys-data-breach-lawsuit-says-thousands-of-current-former-employees-impacted-by-2024-cyberattack
+Snippet: The 28-page <b>Arby’s</b> data breach lawsuit against franchisee DRM, Inc. says the company, after an internal investigation, learned that current and former employees’ names, Social Security numbers, driver’s license numbers, passport numbers and workers’ comp details were among the information accessed without authorization.
+
+Title: Arby’s Grub Isn’t Meaty Enough, Customer Says in False-Ad Suit
+Link: https://news.bloomberglaw.com/product-liability-and-toxics-law/arbys-grub-isnt-meaty-enough-customer-says-in-false-ad-suit
+Snippet: VIEW DOCKET: No. 2:23-cv-06593. <b>Arby’s</b> was hit with a new lawsuit alleging its famous ads touting meaty sandwiches greatly exaggerate what’s actually served. Ad photos of Classic Roast Beef, Smokehouse Brisket, and other fare make the sandwiches look like much, much more, according to the suit, filed Tuesday against <b>Arby’s</b> Restaurant ...
+
+Title: Lawsuit: Arby&#39;s overstates quality, portions of meat ... - Legal Newsline
+Link: https://legalnewsline.com/stories/649661205-lawsuit-arby-s-overstates-quality-portions-of-meat-in-sandwiches
+Snippet: Lawsuits. By Marian Johns. Sep 20, 2023. NEW YORK (<b>Legal</b> Newsline) — <b>Arby&#39;s</b> is facing a class action lawsuit alleging it overstates the quality and portions of meat in its sandwiches. Joseph ...
+
+Title: Nearly Half of Each Arby’s Wagyu Burger Is Made with ‘Regular Angus ...
+Link: https://www.classaction.org/blog/nearly-half-of-each-arbys-wagyu-burger-is-made-with-regular-angus-beef-class-action-says
+Snippet: <b>Arby’s</b> may claim to “have the meats,” but a new proposed class action case challenges exactly what kind of meats the restaurant uses, in particular for its new wagyu burgers.. The 16-page lawsuit out of New York says that although consumers expect <b>Arby’s</b> limited-edition Bacon Ranch Wagyu Steakhouse Burger and Deluxe Wagyu Steakhouse Burger to be made entirely with wagyu beef, the ...
+
+Title: Arby&#39;s class action alleges advertisements overstate amount of meat in ...
+Link: https://topclassactions.com/lawsuit-settlements/consumer-products/food/arbys-class-action-alleges-advertisements-overstate-amount-of-meat-in-sandwiches/
+Snippet: Alongis filed the <b>Arby’s</b> class action lawsuit on behalf of himself and others who purchased an <b>Arby’s</b> Classic Roast Beef, Double Roast Beef, Half Pound Roast Beef, Classic Beef ‘N Cheddar, Double Beef ‘N Cheddar, Half Pound Beef ‘N Cheddar or Smokehouse Brisket menu item from an <b>Arby’s</b> restaurant in New York since Sept. 5, 2020.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's CSR initiatives':
+Title: Home - Arby&#39;s Foundation
+Link: https://foundation.arbys.com/
+Snippet: We believe every kid deserves to dream big and pursue their dreams with confidence. We help kids achieve their dreams by supporting childhood hunger, youth leadership and career readiness <b>initiatives</b>. Given to youth related causes. With your help we can do even more.
+
+Title: Announcing Arby’s First Corporate Social Responsibility Report
+Link: https://drmarbys.com/announcing-arbys-first-corporate-social-responsibility-report/
+Snippet: Today <b>Arby’s</b> released their first first Corporate <b>Social</b> Responsibility (<b>CSR</b>) Report. The report shares progress and stories from across the <b>Arby’s</b> PurposeFULL® <b>CSR</b> platform and its four pillars: YouthFULL®, SkillFULL®, ResourceFULL® and FlavorFULL®.
+
+Title: Arby’s Releases First PurposeFULL® Report Showcasing Responsibility ...
+Link: https://www.businesswire.com/news/home/20160627005391/en/Arby%E2%80%99s-Releases-First-PurposeFULL%C2%AE-Report-Showcasing-Responsibility-Efforts
+Snippet: “Publishing our first <b>CSR</b> Report demonstrates <b>Arby’s</b> investment in our guests, our team members and our communities,” said Paul Brown, Chief Executive Officer of <b>Arby’s</b> Restaurant Group ...
+
+Title: ARBY’S
+Link: https://foundation.arbys.com/wp-content/uploads/2022/01/Arbys-Foundation-2020-Impact-Report.pdf
+Snippet: <b>Arby’s</b> team member, Chanelle Whitaker, from store #6060 presents $10,000 grant to Second Harvest Food Bank of Northeast Tennessee in celebration of the Foundation’s $100 million in grants given milestone.
+
+Title: Arby&#39;s Increases Energy Efficiency Through &#39;ResourceFULL&#39; Initiatives
+Link: https://www.prnewswire.com/news-releases/arbys-increases-energy-efficiency-through-resourcefull-initiatives-266666771.html
+Snippet: The sustainability efforts are a key component in <b>Arby</b>&#39;s Corporate <b>Social</b> Responsibility (<b>CSR</b>) strategy to be a responsible and &quot;ResourceFULL&quot; corporate citizen. <b>Arby</b>&#39;s Restaurant Group, Inc ...
+
+Title: Arby’s Corporate Social Responsibility Report - Prepared Foods
+Link: https://www.preparedfoods.com/articles/118370-arbys-corporate-social-responsibility-report
+Snippet: <b>Arby’s</b> released its first PurposeFULL report highlighting progress across its Corporate <b>Social</b> Responsibility (<b>CSR</b>) platform. FlavorFULL: <b>Arby’s</b> serves quality, Fast Crafted® food and earns the trust of its guests by following the highest standards in the food industry.
+
+Title: Arby’s Releases First PurposeFULL Report Showcasing Responsibility ...
+Link: https://www.restaurantmagazine.com/arbys-releases-first-purposefull-report-showcasing-responsibility-efforts/
+Snippet: Company organizes <b>CSR</b> efforts around four pillars of YouthFULL, SkillFULL, ResourceFULL and FlavorFULL. <b>Arby’s</b>, America’s first nationally franchised sandwich restaurant brand with more than 3,300 restaurants worldwide, has released its first PurposeFULL report highlighting progress across its Corporate <b>Social</b> Responsibility (<b>CSR</b>) platform.. Built to deepen the company’s impact in the ...
+
+Title: Arby’s Releases First PurposeFULL Report Showcasing Responsibility ...
+Link: https://www.restaurantnews.com/arbys-releases-first-purposefull-report-showcasing-responsibility-efforts/
+Snippet: Highlights from <b>Arby’s</b> 2016 PurposeFULL <b>CSR</b> report include: YouthFULL: ... the <b>initiative</b> supported nine communities and offered 1.6 million meals through a Meal Card program. ...
+
+Title: Arby&#39;s corporate social responsibility boasts chain&#39;s CSR ... - QSR Web
+Link: https://www.qsrweb.com/news/arbys-corporate-social-responsibility-boats-chains-csr-commitment/
+Snippet: <b>Arby</b>&#39;s corporate <b>social</b> responsibility boasts chain&#39;s <b>CSR</b> commitment. Many quick-service chains are investing a lot of time, money and resources into corporate <b>social</b> responsibility efforts, and <b>Arby</b>&#39;s is one of them. The chain has released its first full-scale report on its activity in this area, which is built around a four-prong approach to:
+
+Title: Sustainability – Inspire Impact
+Link: https://impact.inspirebrands.com/sustainability/
+Snippet: SUSTAINABILITY Through innovation, we ensure the service of high-quality sustainable food.
+
+Remi: Results for query 'Arby's CSR initiatives':
+Title: Home - Arby&#39;s Foundation
+Link: https://foundation.arbys.com/
+Snippet: We believe every kid deserves to dream big and pursue their dreams with confidence. We help kids achieve their dreams by supporting childhood hunger, youth leadership and career readiness <b>initiatives</b>. Given to youth related causes. With your help we can do even more.
+
+Title: Announcing Arby’s First Corporate Social Responsibility Report
+Link: https://drmarbys.com/announcing-arbys-first-corporate-social-responsibility-report/
+Snippet: Today <b>Arby’s</b> released their first first Corporate <b>Social</b> Responsibility (<b>CSR</b>) Report. The report shares progress and stories from across the <b>Arby’s</b> PurposeFULL® <b>CSR</b> platform and its four pillars: YouthFULL®, SkillFULL®, ResourceFULL® and FlavorFULL®.
+
+Title: Arby’s Releases First PurposeFULL® Report Showcasing Responsibility ...
+Link: https://www.businesswire.com/news/home/20160627005391/en/Arby%E2%80%99s-Releases-First-PurposeFULL%C2%AE-Report-Showcasing-Responsibility-Efforts
+Snippet: “Publishing our first <b>CSR</b> Report demonstrates <b>Arby’s</b> investment in our guests, our team members and our communities,” said Paul Brown, Chief Executive Officer of <b>Arby’s</b> Restaurant Group ...
+
+Title: ARBY’S
+Link: https://foundation.arbys.com/wp-content/uploads/2022/01/Arbys-Foundation-2020-Impact-Report.pdf
+Snippet: <b>Arby’s</b> team member, Chanelle Whitaker, from store #6060 presents $10,000 grant to Second Harvest Food Bank of Northeast Tennessee in celebration of the Foundation’s $100 million in grants given milestone.
+
+Title: Arby&#39;s Increases Energy Efficiency Through &#39;ResourceFULL&#39; Initiatives
+Link: https://www.prnewswire.com/news-releases/arbys-increases-energy-efficiency-through-resourcefull-initiatives-266666771.html
+Snippet: The sustainability efforts are a key component in <b>Arby</b>&#39;s Corporate <b>Social</b> Responsibility (<b>CSR</b>) strategy to be a responsible and &quot;ResourceFULL&quot; corporate citizen. <b>Arby</b>&#39;s Restaurant Group, Inc ...
+
+Title: Arby’s Corporate Social Responsibility Report - Prepared Foods
+Link: https://www.preparedfoods.com/articles/118370-arbys-corporate-social-responsibility-report
+Snippet: <b>Arby’s</b> released its first PurposeFULL report highlighting progress across its Corporate <b>Social</b> Responsibility (<b>CSR</b>) platform. FlavorFULL: <b>Arby’s</b> serves quality, Fast Crafted® food and earns the trust of its guests by following the highest standards in the food industry.
+
+Title: Arby’s Releases First PurposeFULL Report Showcasing Responsibility ...
+Link: https://www.restaurantmagazine.com/arbys-releases-first-purposefull-report-showcasing-responsibility-efforts/
+Snippet: Company organizes <b>CSR</b> efforts around four pillars of YouthFULL, SkillFULL, ResourceFULL and FlavorFULL. <b>Arby’s</b>, America’s first nationally franchised sandwich restaurant brand with more than 3,300 restaurants worldwide, has released its first PurposeFULL report highlighting progress across its Corporate <b>Social</b> Responsibility (<b>CSR</b>) platform.. Built to deepen the company’s impact in the ...
+
+Title: Arby’s Releases First PurposeFULL Report Showcasing Responsibility ...
+Link: https://www.restaurantnews.com/arbys-releases-first-purposefull-report-showcasing-responsibility-efforts/
+Snippet: Highlights from <b>Arby’s</b> 2016 PurposeFULL <b>CSR</b> report include: YouthFULL: ... the <b>initiative</b> supported nine communities and offered 1.6 million meals through a Meal Card program. ...
+
+Title: Arby&#39;s corporate social responsibility boasts chain&#39;s CSR ... - QSR Web
+Link: https://www.qsrweb.com/news/arbys-corporate-social-responsibility-boats-chains-csr-commitment/
+Snippet: <b>Arby</b>&#39;s corporate <b>social</b> responsibility boasts chain&#39;s <b>CSR</b> commitment. Many quick-service chains are investing a lot of time, money and resources into corporate <b>social</b> responsibility efforts, and <b>Arby</b>&#39;s is one of them. The chain has released its first full-scale report on its activity in this area, which is built around a four-prong approach to:
+
+Title: Sustainability – Inspire Impact
+Link: https://impact.inspirebrands.com/sustainability/
+Snippet: SUSTAINABILITY Through innovation, we ensure the service of high-quality sustainable food.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's supply chain vulnerabilities':
+Title: How Arby’s Supply Chain Co-Op Grew from the Ground Up
+Link: https://www.qsrmagazine.com/operations/outside-insights/how-arby-s-supply-chain-co-op-grew-ground/
+Snippet: The co-op’s four key stakeholders are ARCOP Members, the <b>Arby’s</b> Brand, ARCOP’s Employees, and <b>Arby’s</b> Suppliers. The co-op manages over $1.3 billion in annual spend, maintains contracts with nearly 350 <b>Arby’s</b> suppliers and over 900 contracted SKUs, and moves over 27 million cases throughout the <b>Arby’s</b> system on an annual basis.
+
+Title: ARCOP | Serving as the Arby’s national supply chain cooperative since 1978
+Link: https://arcop.net/
+Snippet: ARCOP. ARCOP Inc. has served as <b>Arby’s</b> national <b>supply</b> <b>chain</b> cooperative since 1978. ARCOP’s membership is comprised of both Franchised and Company-owned <b>Arby’s</b> restaurants. ARCOP utilizes system volume to negotiate with suppliers and distributors to establish pricing for all restaurants and to ensure continuity of <b>supply</b> through ...
+
+Title: Strengthening North American Supply Chains and Trade Benefits the U.S ...
+Link: https://www.jec.senate.gov/public/index.cfm/democrats/2024/9/strengthening-north-american-supply-chains-and-trade-benefits-the-u-s-economy
+Snippet: Recent global economic disruptions have underscored the need for resilient <b>supply</b> chains in the United States. “Nearshoring”—or bringing more production back to the U.S. or to its immediate neighbors Canada and Mexico—is one solution for addressing <b>supply</b>-<b>chain</b> <b>vulnerabilities</b> as proximity and integrated markets make these kinds of disruptions less likely.
+
+Title: Thousands of abandoned PyPI projects could be hijacked: Report
+Link: https://www.csoonline.com/article/3502920/thousands-of-abandoned-pypi-projects-could-be-hijacked-report.html
+Snippet: A <b>vulnerability</b> in abandoned Python open source repository projects could allow over 20,000 packages of code to be hijacked to spread malware in <b>supply</b> <b>chain</b> attacks. The warning for developers to ...
+
+Title: Supply Chain Disruptions: The Risks and Consequences
+Link: https://www.rand.org/pubs/commentary/2021/11/supply-chain-disruptions-the-risks-and-consequences.html
+Snippet: So a systematic effort, cutting across agencies and public and private sectors, could be one way to ensure these <b>vulnerabilities</b> are understood and mitigated. <b>Supply</b> <b>Chain</b> Disruption and Conflict. Dispersed <b>supply</b> chains develop because actors find it&#39;s economically advantageous to seek the least-expensive and most-productive sources of <b>supply</b>.
+
+Title: Arby’s Stands By Real-Meat | Supply Chain Scene
+Link: https://www.supplychainscene.org/resources/insights/arbys-stands-real-meat
+Snippet: University <b>Supply</b> <b>Chain</b> Centers; Scholarships; Contact Us; 817-257-6581; About; Search; Login; Topics. Trends; <b>Arby’s</b> Stands By Real-Meat. Insights 05/27/2019. The roast beef sandwich specialist may be the largest <b>chain</b> not jumping on the plant-based trend. Read what they’re saying here.
+
+Title: Our History - arcop.net
+Link: https://arcop.net/about-us/our-history/
+Snippet: Our History. ARCOP Inc. has been innovating <b>supply</b> <b>chain</b> management since 1978 when it was officially incorporated in February in Ohio by four franchisees who served as the co-op’s first Trustees: Tom Johnson Jr., John Bohlsen, Mike Schulson and Dick Elias. The independent, non-profit QSR <b>supply</b> <b>chain</b> system was devised by <b>Arby’s</b> founder ...
+
+Title: FAQs - arcop.net
+Link: https://arcop.net/faqs/
+Snippet: How does ARCOP’s co-op work? ARCOP is a non-profit that serves as the <b>supply</b> <b>chain</b> co-operative for <b>Arby’s</b> Restaurant Group and its franchisees. ARCOP membership is comprised exclusively of <b>Arby’s</b> restaurant operators and governed by an seven-member Board of Trustees. By combining the purchasing power of over 3,300 restaurant locations ...
+
+Title: ARCOP Renews Partnership with ArrowStream to Support Strategic Growth
+Link: https://arrowstream.com/news/arcop-renews-partnership-with-arrowstream-to-support-strategic-growth/
+Snippet: ARCOP will continue to leverage ArrowStream’s <b>supply</b> <b>chain</b> visibility among a network of over 275 <b>chain</b> operators across 100,000 restaurant locations, 1,300 distribution locations and 10,000 manufacturers. With franchised and company-owned <b>Arby’s</b> restaurants, ARCOP is a non-profit <b>supply</b> <b>chain</b> cooperative that has served <b>Arby’s</b> since 1978.
+
+Title: Technology &amp; Partner Collaboration Drives ARCOP’s Strong Supply Chain ...
+Link: https://arrowstream.com/news/technology-partner-collaboration-drives-arcops-strong-supply-chain-strategy-for-arbys-brand/
+Snippet: 100 Lexington Drive, Suite 201 Buffalo Grove, IL 60089 (312) 676-3220
+
+Remi: Results for query 'Arby's supply chain vulnerabilities':
+Title: How Arby’s Supply Chain Co-Op Grew from the Ground Up
+Link: https://www.qsrmagazine.com/operations/outside-insights/how-arby-s-supply-chain-co-op-grew-ground/
+Snippet: The co-op’s four key stakeholders are ARCOP Members, the <b>Arby’s</b> Brand, ARCOP’s Employees, and <b>Arby’s</b> Suppliers. The co-op manages over $1.3 billion in annual spend, maintains contracts with nearly 350 <b>Arby’s</b> suppliers and over 900 contracted SKUs, and moves over 27 million cases throughout the <b>Arby’s</b> system on an annual basis.
+
+Title: ARCOP | Serving as the Arby’s national supply chain cooperative since 1978
+Link: https://arcop.net/
+Snippet: ARCOP. ARCOP Inc. has served as <b>Arby’s</b> national <b>supply</b> <b>chain</b> cooperative since 1978. ARCOP’s membership is comprised of both Franchised and Company-owned <b>Arby’s</b> restaurants. ARCOP utilizes system volume to negotiate with suppliers and distributors to establish pricing for all restaurants and to ensure continuity of <b>supply</b> through ...
+
+Title: Strengthening North American Supply Chains and Trade Benefits the U.S ...
+Link: https://www.jec.senate.gov/public/index.cfm/democrats/2024/9/strengthening-north-american-supply-chains-and-trade-benefits-the-u-s-economy
+Snippet: Recent global economic disruptions have underscored the need for resilient <b>supply</b> chains in the United States. “Nearshoring”—or bringing more production back to the U.S. or to its immediate neighbors Canada and Mexico—is one solution for addressing <b>supply</b>-<b>chain</b> <b>vulnerabilities</b> as proximity and integrated markets make these kinds of disruptions less likely.
+
+Title: Thousands of abandoned PyPI projects could be hijacked: Report
+Link: https://www.csoonline.com/article/3502920/thousands-of-abandoned-pypi-projects-could-be-hijacked-report.html
+Snippet: A <b>vulnerability</b> in abandoned Python open source repository projects could allow over 20,000 packages of code to be hijacked to spread malware in <b>supply</b> <b>chain</b> attacks. The warning for developers to ...
+
+Title: Supply Chain Disruptions: The Risks and Consequences
+Link: https://www.rand.org/pubs/commentary/2021/11/supply-chain-disruptions-the-risks-and-consequences.html
+Snippet: So a systematic effort, cutting across agencies and public and private sectors, could be one way to ensure these <b>vulnerabilities</b> are understood and mitigated. <b>Supply</b> <b>Chain</b> Disruption and Conflict. Dispersed <b>supply</b> chains develop because actors find it&#39;s economically advantageous to seek the least-expensive and most-productive sources of <b>supply</b>.
+
+Title: Arby’s Stands By Real-Meat | Supply Chain Scene
+Link: https://www.supplychainscene.org/resources/insights/arbys-stands-real-meat
+Snippet: University <b>Supply</b> <b>Chain</b> Centers; Scholarships; Contact Us; 817-257-6581; About; Search; Login; Topics. Trends; <b>Arby’s</b> Stands By Real-Meat. Insights 05/27/2019. The roast beef sandwich specialist may be the largest <b>chain</b> not jumping on the plant-based trend. Read what they’re saying here.
+
+Title: Our History - arcop.net
+Link: https://arcop.net/about-us/our-history/
+Snippet: Our History. ARCOP Inc. has been innovating <b>supply</b> <b>chain</b> management since 1978 when it was officially incorporated in February in Ohio by four franchisees who served as the co-op’s first Trustees: Tom Johnson Jr., John Bohlsen, Mike Schulson and Dick Elias. The independent, non-profit QSR <b>supply</b> <b>chain</b> system was devised by <b>Arby’s</b> founder ...
+
+Title: FAQs - arcop.net
+Link: https://arcop.net/faqs/
+Snippet: How does ARCOP’s co-op work? ARCOP is a non-profit that serves as the <b>supply</b> <b>chain</b> co-operative for <b>Arby’s</b> Restaurant Group and its franchisees. ARCOP membership is comprised exclusively of <b>Arby’s</b> restaurant operators and governed by an seven-member Board of Trustees. By combining the purchasing power of over 3,300 restaurant locations ...
+
+Title: ARCOP Renews Partnership with ArrowStream to Support Strategic Growth
+Link: https://arrowstream.com/news/arcop-renews-partnership-with-arrowstream-to-support-strategic-growth/
+Snippet: ARCOP will continue to leverage ArrowStream’s <b>supply</b> <b>chain</b> visibility among a network of over 275 <b>chain</b> operators across 100,000 restaurant locations, 1,300 distribution locations and 10,000 manufacturers. With franchised and company-owned <b>Arby’s</b> restaurants, ARCOP is a non-profit <b>supply</b> <b>chain</b> cooperative that has served <b>Arby’s</b> since 1978.
+
+Title: Technology &amp; Partner Collaboration Drives ARCOP’s Strong Supply Chain ...
+Link: https://arrowstream.com/news/technology-partner-collaboration-drives-arcops-strong-supply-chain-strategy-for-arbys-brand/
+Snippet: 100 Lexington Drive, Suite 201 Buffalo Grove, IL 60089 (312) 676-3220
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's consumer sentiment Twitter':
+Title: Arby&#39;s (@Arbys) | X
+Link: https://twitter.com/Arbys/
+Snippet:  
+
+Title: How Arby&#39;s Made Peace With Nihilist Arby&#39;s - Business Insider
+Link: https://www.businessinsider.com/how-arbys-made-peace-with-nihilist-arbys-2017-7
+Snippet: A <b>Twitter</b> account named &quot;Nihilist <b>Arby</b>&#39;s&quot; went viral for making fun of the restaurant chain. <b>Arby</b>&#39;s reached out to the person behind it and made peace. Their approach shows why the company is ...
+
+Title: The story of Arby&#39;s sending sandwiches and a puppy to the creator of ...
+Link: https://www.businessinsider.in/the-story-of-arbys-sending-sandwiches-and-a-puppy-to-the-creator-of-dark-parody-twitter-account-nihilist-arbys-shows-why-its-transformation-has-been-so-successful/articleshow/59670949.cms
+Snippet: The A.V. Club/YouTube. <b>Arby</b>&#39;s was able to befriend the punk frontman/adman behind the brand&#39;s darkest parody, Brendan Kelly (pictured). On January 14, 2015, a <b>Twitter</b> account named &quot;Nihilist <b>Arby</b> ...
+
+Title: Arby&#39;s on Twitter: &quot;@NeedToKnowPod We forgive you ️&quot; / Twitter
+Link: https://twitter.com/Arbys/status/1524768012129251328
+Snippet: <b>Arby</b>&#39;s @<b>Arbys</b>. Replying to @NeedToKnowPod. We forgive you ️. 3:06 PM · May 12, 2022 · <b>Twitter</b> for iPhone. 27. Retweets. 5. Quote Tweets. 583. Likes. The Need to Know Podcast
+
+Title: How Arby&#39;s Uses Social Listening to Understand (and Delight) Its ...
+Link: https://socialmediaexplorer.com/content-sections/cases-and-causes/how-arbys-delights-its-audience/
+Snippet: The firm focuses on niche interest areas that have nothing to do with promoting the latest additions to its menu. Instead, it plays off of pop culture with an inventive array of pictures, GIFs and videos that reference everything from gaming and anime to wrestling and comic books.. If <b>Arby’s</b> tweets out something about anime, for instance, some of its followers may request that a future tweet ...
+
+Title: Arby&#39;s on Twitter: &quot;Arby’s Wagyu Burger was so good, it completely sold ...
+Link: https://twitter.com/arbys/status/1537537993300496385
+Snippet: <b>Arby’s</b> Wagyu Burger was so good, it completely sold out ☹️ but <b>Arby’s</b> feels so bad that they’re selling their Gyro and Brisket sandwiches for 50% off ...
+
+Title: Arby’s has the meats...and now it has the audio tweets
+Link: https://www.prweek.com/article/1689570/arbys-meatsand-audio-tweets
+Snippet: The chain tried <b>Twitter</b>’s new function with a four-part thread. ATLANTA: Of course, the first audio tweet from <b>Arby’s</b> was used to tell fans, “We have the meats.”. Ving Rhames, the deep voice heard in <b>Arby’s</b> ads, was front-and-center in a fun, four-part <b>Twitter</b> thread the chain started on Friday. Other than reading <b>Arby’s</b> famed motto ...
+
+Title: The Nihilist Arby&#39;s Twitter Account Is Getting Better ... - Adweek
+Link: https://www.adweek.com/performance-marketing/nihilist-arbys-twitter-account-doing-better-real-arbys-162930/
+Snippet: In fact, Nihilist <b>Arby</b>&#39;s is getting a better engagement rate than the real <b>Arby</b>&#39;s. (The fast-food chain definitely can shine with real-time <b>Twitter</b> marketing. Scroll down to see the brand&#39;s ...
+
+Title: How Arby&#39;s Carved A Successful Brand Message By Staying True ... - Forbes
+Link: https://www.forbes.com/sites/avidan/2019/04/29/how-arbys-carved-a-successful-brand-message-by-staying-true-to-itself/
+Snippet: <b>Arby’s</b> purpose was plain – serving quality meat sandwiches. They started with roast beef sandwiches 55 years ago, charging 69¢, at a time when a McDonald’s burger was 15¢. When Rob came in ...
+
+Title: How Arby&#39;s Twitter Strategy Evolved From the Legend of Zelda - PRNEWS
+Link: https://www.prnewsonline.com/arbors-twitter-zelda
+Snippet: <b>Arby’s</b> tested the strategy with a post based on Nintendo’s &quot;The Legend of Zelda&quot; in September 2015. It was simple but effective—just three potato cakes positioned to look like the game’s “Triforce”—and received more than 17,000 shares, 73,000 likes and 5,900 comments. “People lost their minds,&quot; Martin says. “The reaction was ...
+
+Remi: Results for query 'Arby's consumer sentiment Twitter':
+Title: Arby&#39;s (@Arbys) | X
+Link: https://twitter.com/Arbys/
+Snippet:  
+
+Title: How Arby&#39;s Made Peace With Nihilist Arby&#39;s - Business Insider
+Link: https://www.businessinsider.com/how-arbys-made-peace-with-nihilist-arbys-2017-7
+Snippet: A <b>Twitter</b> account named &quot;Nihilist <b>Arby</b>&#39;s&quot; went viral for making fun of the restaurant chain. <b>Arby</b>&#39;s reached out to the person behind it and made peace. Their approach shows why the company is ...
+
+Title: The story of Arby&#39;s sending sandwiches and a puppy to the creator of ...
+Link: https://www.businessinsider.in/the-story-of-arbys-sending-sandwiches-and-a-puppy-to-the-creator-of-dark-parody-twitter-account-nihilist-arbys-shows-why-its-transformation-has-been-so-successful/articleshow/59670949.cms
+Snippet: The A.V. Club/YouTube. <b>Arby</b>&#39;s was able to befriend the punk frontman/adman behind the brand&#39;s darkest parody, Brendan Kelly (pictured). On January 14, 2015, a <b>Twitter</b> account named &quot;Nihilist <b>Arby</b> ...
+
+Title: Arby&#39;s on Twitter: &quot;@NeedToKnowPod We forgive you ️&quot; / Twitter
+Link: https://twitter.com/Arbys/status/1524768012129251328
+Snippet: <b>Arby</b>&#39;s @<b>Arbys</b>. Replying to @NeedToKnowPod. We forgive you ️. 3:06 PM · May 12, 2022 · <b>Twitter</b> for iPhone. 27. Retweets. 5. Quote Tweets. 583. Likes. The Need to Know Podcast
+
+Title: How Arby&#39;s Uses Social Listening to Understand (and Delight) Its ...
+Link: https://socialmediaexplorer.com/content-sections/cases-and-causes/how-arbys-delights-its-audience/
+Snippet: The firm focuses on niche interest areas that have nothing to do with promoting the latest additions to its menu. Instead, it plays off of pop culture with an inventive array of pictures, GIFs and videos that reference everything from gaming and anime to wrestling and comic books.. If <b>Arby’s</b> tweets out something about anime, for instance, some of its followers may request that a future tweet ...
+
+Title: Arby&#39;s on Twitter: &quot;Arby’s Wagyu Burger was so good, it completely sold ...
+Link: https://twitter.com/arbys/status/1537537993300496385
+Snippet: <b>Arby’s</b> Wagyu Burger was so good, it completely sold out ☹️ but <b>Arby’s</b> feels so bad that they’re selling their Gyro and Brisket sandwiches for 50% off ...
+
+Title: Arby’s has the meats...and now it has the audio tweets
+Link: https://www.prweek.com/article/1689570/arbys-meatsand-audio-tweets
+Snippet: The chain tried <b>Twitter</b>’s new function with a four-part thread. ATLANTA: Of course, the first audio tweet from <b>Arby’s</b> was used to tell fans, “We have the meats.”. Ving Rhames, the deep voice heard in <b>Arby’s</b> ads, was front-and-center in a fun, four-part <b>Twitter</b> thread the chain started on Friday. Other than reading <b>Arby’s</b> famed motto ...
+
+Title: The Nihilist Arby&#39;s Twitter Account Is Getting Better ... - Adweek
+Link: https://www.adweek.com/performance-marketing/nihilist-arbys-twitter-account-doing-better-real-arbys-162930/
+Snippet: In fact, Nihilist <b>Arby</b>&#39;s is getting a better engagement rate than the real <b>Arby</b>&#39;s. (The fast-food chain definitely can shine with real-time <b>Twitter</b> marketing. Scroll down to see the brand&#39;s ...
+
+Title: How Arby&#39;s Carved A Successful Brand Message By Staying True ... - Forbes
+Link: https://www.forbes.com/sites/avidan/2019/04/29/how-arbys-carved-a-successful-brand-message-by-staying-true-to-itself/
+Snippet: <b>Arby’s</b> purpose was plain – serving quality meat sandwiches. They started with roast beef sandwiches 55 years ago, charging 69¢, at a time when a McDonald’s burger was 15¢. When Rob came in ...
+
+Title: How Arby&#39;s Twitter Strategy Evolved From the Legend of Zelda - PRNEWS
+Link: https://www.prnewsonline.com/arbors-twitter-zelda
+Snippet: <b>Arby’s</b> tested the strategy with a post based on Nintendo’s &quot;The Legend of Zelda&quot; in September 2015. It was simple but effective—just three potato cakes positioned to look like the game’s “Triforce”—and received more than 17,000 shares, 73,000 likes and 5,900 comments. “People lost their minds,&quot; Martin says. “The reaction was ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's consumer sentiment Reddit':
+Title: r/bys on Reddit: About to have Arby&#39;s for the first time in over a ...
+Link: https://www.reddit.com/r/bys/comments/uxm4cd/about_to_have_arbys_for_the_first_time_in_over_a/
+Snippet: 21 votes, 25 comments. im very excited and trying to quell expectations. this was always one of my favorites fast food places. im definitely some…
+
+Title: Arby’s is actually pretty good : r/unpopularopinion - Reddit
+Link: https://www.reddit.com/r/unpopularopinion/comments/o9729j/arbys_is_actually_pretty_good/
+Snippet: ADMIN MOD. <b>Arby’s</b> is actually pretty good. The meat is good quality for fast food, the prices and deals are fair, they have a very different menu from most places (as in no burgers), and it’s honestly pretty healthy. Quality - The meat is prepared well, has some good flavor, and is usually presented nicely. It’s not “mystery meat” as ...
+
+Title: Arby&#39;s Consumer Research : r/bys - Reddit
+Link: https://www.reddit.com/r/bys/comments/198c9yl/arbys_consumer_research/
+Snippet: <b>Arby</b>&#39;s <b>Consumer</b> Research. Hello to all in this subreddit. I am a university student looking into product development for <b>Arby</b>&#39;s with a few questions. Assuming the members of this <b>Reddit</b> eat <b>Arby</b>&#39;s regularly enough to answer these questions: What is your favorite item on the menu?
+
+Title: Is Arby&#39;s really that bad? : r/AskAnAmerican - Reddit
+Link: https://www.reddit.com/r/AskAnAmerican/comments/rmxa1i/is_arbys_really_that_bad/
+Snippet: Corned beef and your favorite brown or red ale, cover to the fat and throw away whatever seasoning packet the sent you. Broil that shit for 12hrs, let sit to cool. Toss half the fat out and break the rest down into the meat. 1.5 parts mayo, 1 part ketchup, .2 parts pickle relish. Sliced Swiss cheese on toasted marble rye.
+
+Title: The Number 1 Subreddit for Arby&#39;s News and Commentary
+Link: https://www.reddit.com/r/bys/
+Snippet: u/DreamingDrommer. • Recently departed assistant manager. I was an assistant manager and recently quit worked for <b>Arby</b>&#39;s for just shy of 5 years ama. New <b>Arby’s</b> being tracked in my city. u/PegCityPleb. • New <b>Arby’s</b> being tracked in my city. A fitting last meal. u/idontwantthatpanda. • A fitting last meal.
+
+Title: Arby’s is the best fast food chain : r/unpopularopinion - Reddit
+Link: https://www.reddit.com/r/unpopularopinion/comments/op2w4d/arbys_is_the_best_fast_food_chain/
+Snippet: ADMIN MOD. <b>Arby’s</b> is the best fast food chain. <b>Arby’s</b> classic roast beef sandwiches are more filling and satisfying than any other fast food sandwich. The buns are always incredibly soft, and saturated with just enough roast beef jus to make them delicacies on their own. No matter which <b>Arby’s</b> I’ve been lucky enough to be in, their ...
+
+Title: For people that actually likes Arby’s. Why? - Reddit
+Link: https://www.reddit.com/r/AskReddit/comments/136810d/for_people_that_actually_likes_arbys_why/
+Snippet: Everything else is meh but that burger was soooo good. Naturally, I tend to like things most people don&#39;t like. <b>Arby</b>&#39;s is one of them. <b>Arby</b>&#39;s is this weird franchise where depending on where you are in the world the quality differs VASTLY, also with coupons, curly fries and a roast beef can be pretty cheap.
+
+Title: Reddit
+Link: https://www.reddit.com/r/sofistock/comments/1f8yf1d/sofi_ceo_consumer_activity_and_sentiment_are/
+Snippet: We would like to show you a description here but the site won’t allow us.
+
+Title: 3 Things to Know About Arby’s Customers: Key Insights ... - CivicScience
+Link: https://civicscience.com/3-things-to-know-about-arbys-customers-key-insights-on-good-burger-inspired-meal/
+Snippet: Here are 3 Things to Know about <b>Arby’s</b> Customers this week: #1: <b>Arby’s</b> new meal inspired by “Good Burger 2” could generate more foot traffic from Paramount+ users. CivicScience data show that about half of Paramount+ users and intenders are <b>Arby’s</b> fans – outpacing the same figure among those who don’t stream on Paramount+ (43%).
+
+Title: Arby&#39;s redefines target audience after year-long review
+Link: https://www.qsrweb.com/articles/arbys-redefines-target-audience-after-year-long-review/
+Snippet: <b>Arby</b>&#39;s redefines target audience after year-long review. The chain has ramped up the number of new products in test four-fold in the past four years. Aug. 15, 2014 | by Alicia Kelso — Editor, QSRWeb.com. <b>Arby</b>&#39;s is celebrating its 50th anniversary this year. The company got its start in Boardman, Ohio, in 1964 by brothers Forrest and Leroy ...
+
+Remi: Results for query 'Arby's consumer sentiment Reddit':
+Title: r/bys on Reddit: About to have Arby&#39;s for the first time in over a ...
+Link: https://www.reddit.com/r/bys/comments/uxm4cd/about_to_have_arbys_for_the_first_time_in_over_a/
+Snippet: 21 votes, 25 comments. im very excited and trying to quell expectations. this was always one of my favorites fast food places. im definitely some…
+
+Title: Arby’s is actually pretty good : r/unpopularopinion - Reddit
+Link: https://www.reddit.com/r/unpopularopinion/comments/o9729j/arbys_is_actually_pretty_good/
+Snippet: ADMIN MOD. <b>Arby’s</b> is actually pretty good. The meat is good quality for fast food, the prices and deals are fair, they have a very different menu from most places (as in no burgers), and it’s honestly pretty healthy. Quality - The meat is prepared well, has some good flavor, and is usually presented nicely. It’s not “mystery meat” as ...
+
+Title: Arby&#39;s Consumer Research : r/bys - Reddit
+Link: https://www.reddit.com/r/bys/comments/198c9yl/arbys_consumer_research/
+Snippet: <b>Arby</b>&#39;s <b>Consumer</b> Research. Hello to all in this subreddit. I am a university student looking into product development for <b>Arby</b>&#39;s with a few questions. Assuming the members of this <b>Reddit</b> eat <b>Arby</b>&#39;s regularly enough to answer these questions: What is your favorite item on the menu?
+
+Title: Is Arby&#39;s really that bad? : r/AskAnAmerican - Reddit
+Link: https://www.reddit.com/r/AskAnAmerican/comments/rmxa1i/is_arbys_really_that_bad/
+Snippet: Corned beef and your favorite brown or red ale, cover to the fat and throw away whatever seasoning packet the sent you. Broil that shit for 12hrs, let sit to cool. Toss half the fat out and break the rest down into the meat. 1.5 parts mayo, 1 part ketchup, .2 parts pickle relish. Sliced Swiss cheese on toasted marble rye.
+
+Title: The Number 1 Subreddit for Arby&#39;s News and Commentary
+Link: https://www.reddit.com/r/bys/
+Snippet: u/DreamingDrommer. • Recently departed assistant manager. I was an assistant manager and recently quit worked for <b>Arby</b>&#39;s for just shy of 5 years ama. New <b>Arby’s</b> being tracked in my city. u/PegCityPleb. • New <b>Arby’s</b> being tracked in my city. A fitting last meal. u/idontwantthatpanda. • A fitting last meal.
+
+Title: Arby’s is the best fast food chain : r/unpopularopinion - Reddit
+Link: https://www.reddit.com/r/unpopularopinion/comments/op2w4d/arbys_is_the_best_fast_food_chain/
+Snippet: ADMIN MOD. <b>Arby’s</b> is the best fast food chain. <b>Arby’s</b> classic roast beef sandwiches are more filling and satisfying than any other fast food sandwich. The buns are always incredibly soft, and saturated with just enough roast beef jus to make them delicacies on their own. No matter which <b>Arby’s</b> I’ve been lucky enough to be in, their ...
+
+Title: For people that actually likes Arby’s. Why? - Reddit
+Link: https://www.reddit.com/r/AskReddit/comments/136810d/for_people_that_actually_likes_arbys_why/
+Snippet: Everything else is meh but that burger was soooo good. Naturally, I tend to like things most people don&#39;t like. <b>Arby</b>&#39;s is one of them. <b>Arby</b>&#39;s is this weird franchise where depending on where you are in the world the quality differs VASTLY, also with coupons, curly fries and a roast beef can be pretty cheap.
+
+Title: Reddit
+Link: https://www.reddit.com/r/sofistock/comments/1f8yf1d/sofi_ceo_consumer_activity_and_sentiment_are/
+Snippet: We would like to show you a description here but the site won’t allow us.
+
+Title: 3 Things to Know About Arby’s Customers: Key Insights ... - CivicScience
+Link: https://civicscience.com/3-things-to-know-about-arbys-customers-key-insights-on-good-burger-inspired-meal/
+Snippet: Here are 3 Things to Know about <b>Arby’s</b> Customers this week: #1: <b>Arby’s</b> new meal inspired by “Good Burger 2” could generate more foot traffic from Paramount+ users. CivicScience data show that about half of Paramount+ users and intenders are <b>Arby’s</b> fans – outpacing the same figure among those who don’t stream on Paramount+ (43%).
+
+Title: Arby&#39;s redefines target audience after year-long review
+Link: https://www.qsrweb.com/articles/arbys-redefines-target-audience-after-year-long-review/
+Snippet: <b>Arby</b>&#39;s redefines target audience after year-long review. The chain has ramped up the number of new products in test four-fold in the past four years. Aug. 15, 2014 | by Alicia Kelso — Editor, QSRWeb.com. <b>Arby</b>&#39;s is celebrating its 50th anniversary this year. The company got its start in Boardman, Ohio, in 1964 by brothers Forrest and Leroy ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's public opinion Facebook':
+Title: Arby&#39;s - Facebook
+Link: https://www.facebook.com/arbys/
+Snippet: <b>Arby</b>&#39;s. 3,119,294 likes · 6,147 talking about this · 110,602 were here. Welcome to <b>Arby</b>&#39;s Official <b>Facebook</b> Page! Learn more: http://www.<b>arbys</b>.com
+
+Title: Arby’s is actually pretty good : r/unpopularopinion - Reddit
+Link: https://www.reddit.com/r/unpopularopinion/comments/o9729j/arbys_is_actually_pretty_good/
+Snippet: ADMIN MOD. <b>Arby’s</b> is actually pretty good. The meat is good quality for fast food, the prices and deals are fair, they have a very different menu from most places (as in no burgers), and it’s honestly pretty healthy. Quality - The meat is prepared well, has some good flavor, and is usually presented nicely. It’s not “mystery meat” as ...
+
+Title: Arby’s is actually pretty good but society likes to play ... - Reddit
+Link: https://www.reddit.com/r/unpopularopinion/comments/rxoigj/arbys_is_actually_pretty_good_but_society_likes/
+Snippet: <b>Arbys</b> knows what they do well and they use their strong spot to their advantage. They have good coupons, their roast beef sandwiches is outstanding, and overall their food is actually delightful to eat. It’s not like <b>arbys</b> has done something to ruin their reputation at all. The milkshakes are A1 too.
+
+Title: Arby&#39;s - Facebook
+Link: https://www.facebook.com/Arbys-196120053749609/reviews/
+Snippet: Thank you for the kind words. We look forward to serving you again soon. 38w; Teresa Knox recommends <b>Arby</b>&#39;s.
+
+Title: Arby&#39;s - Facebook
+Link: https://www.facebook.com/Arbys-127521720654743/reviews/
+Snippet: I really appreciate that the people at this <b>arbys</b> charge an extra $2.00 for the large fries, but still give out half a cup worth. Makes me wonder if the managers are padding perso
+
+Title: Arby&#39;s Press Center – Visit the Press Center to get your fill on all ...
+Link: https://press.arbys.com/
+Snippet: The latest <b>Arby’s</b> news and updates can be found here. <b>Arby’s</b> is part of the Inspire Brands family of restaurants. For more information visit InspireBrands.com. If you would like to reach out about a recent restaurant visit or with feedback about one of the products on our menu, please contact our Guest Support team.
+
+Title: Arby&#39;s - Wikipedia
+Link: https://en.wikipedia.org/wiki/Arby%27s
+Snippet: <b>Arby</b>&#39;s is an American fast food sandwich restaurant chain with more than 3,300 restaurants. The flagship property of Inspire Brands, [6] [7] it ranked third in systemwide sales in the United States in the quick-service and fast-casual restaurant industries in 2012, behind Subway and Panera Bread. [8] In October 2017, Food &amp; Wine called <b>Arby</b>&#39;s &quot;America&#39;s second largest sandwich chain (after ...
+
+Title: ARBY’S - Updated September 2024 - 12 Photos &amp; 20 Reviews - Yelp
+Link: https://www.yelp.com/biz/arbys-columbus-17
+Snippet: Nice staff. Hot food! I usually come here later in the evening between 8 or midnight on occasion. Everyone is nice and my food is good. Never had a problem. I only ever order curly fries, mozzarella sticks, diet dr. P or the famous Jamocha shake. I feel like it&#39;s kind of slow-but all <b>Arby</b>&#39;s are because it&#39;s a bit better quality for fast food.
+
+Title: Arby&#39;s Reviews | Read Customer Service Reviews of www.arbys.com
+Link: https://www.trustpilot.com/review/www.arbys.com
+Snippet: Second Experience: Drove half an hour to get to <b>Arby</b>&#39;s/ App thru a &quot;We are experiencing technical issues&quot; and would not let me order. They 1) Need to remove their app. It is a piece of junk and 2) Actually get some customer service that cares. A company full of morons! Date of experience: April 04, 2024. Useful.
+
+Title: Arby&#39;s Reviews | Read Customer Service Reviews of arbys.com - Yelp
+Link: https://www.yelp.com/brands/arbys
+Snippet: <b>Arby</b>&#39;s. <b>Arby</b>&#39;s has an average rating of 2.7 from 24830 reviews. The rating indicates that most customers are generally dissatisfied. The official website is <b>arbys</b>.com. <b>Arby</b>&#39;s is popular for Sandwiches, Restaurants, Fast Food. <b>Arby</b>&#39;s has 2950 locations on Yelp across the US.
+
+Remi: Results for query 'Arby's public opinion Facebook':
+Title: Arby&#39;s - Facebook
+Link: https://www.facebook.com/arbys/
+Snippet: <b>Arby</b>&#39;s. 3,119,294 likes · 6,147 talking about this · 110,602 were here. Welcome to <b>Arby</b>&#39;s Official <b>Facebook</b> Page! Learn more: http://www.<b>arbys</b>.com
+
+Title: Arby’s is actually pretty good : r/unpopularopinion - Reddit
+Link: https://www.reddit.com/r/unpopularopinion/comments/o9729j/arbys_is_actually_pretty_good/
+Snippet: ADMIN MOD. <b>Arby’s</b> is actually pretty good. The meat is good quality for fast food, the prices and deals are fair, they have a very different menu from most places (as in no burgers), and it’s honestly pretty healthy. Quality - The meat is prepared well, has some good flavor, and is usually presented nicely. It’s not “mystery meat” as ...
+
+Title: Arby’s is actually pretty good but society likes to play ... - Reddit
+Link: https://www.reddit.com/r/unpopularopinion/comments/rxoigj/arbys_is_actually_pretty_good_but_society_likes/
+Snippet: <b>Arbys</b> knows what they do well and they use their strong spot to their advantage. They have good coupons, their roast beef sandwiches is outstanding, and overall their food is actually delightful to eat. It’s not like <b>arbys</b> has done something to ruin their reputation at all. The milkshakes are A1 too.
+
+Title: Arby&#39;s - Facebook
+Link: https://www.facebook.com/Arbys-196120053749609/reviews/
+Snippet: Thank you for the kind words. We look forward to serving you again soon. 38w; Teresa Knox recommends <b>Arby</b>&#39;s.
+
+Title: Arby&#39;s - Facebook
+Link: https://www.facebook.com/Arbys-127521720654743/reviews/
+Snippet: I really appreciate that the people at this <b>arbys</b> charge an extra $2.00 for the large fries, but still give out half a cup worth. Makes me wonder if the managers are padding perso
+
+Title: Arby&#39;s Press Center – Visit the Press Center to get your fill on all ...
+Link: https://press.arbys.com/
+Snippet: The latest <b>Arby’s</b> news and updates can be found here. <b>Arby’s</b> is part of the Inspire Brands family of restaurants. For more information visit InspireBrands.com. If you would like to reach out about a recent restaurant visit or with feedback about one of the products on our menu, please contact our Guest Support team.
+
+Title: Arby&#39;s - Wikipedia
+Link: https://en.wikipedia.org/wiki/Arby%27s
+Snippet: <b>Arby</b>&#39;s is an American fast food sandwich restaurant chain with more than 3,300 restaurants. The flagship property of Inspire Brands, [6] [7] it ranked third in systemwide sales in the United States in the quick-service and fast-casual restaurant industries in 2012, behind Subway and Panera Bread. [8] In October 2017, Food &amp; Wine called <b>Arby</b>&#39;s &quot;America&#39;s second largest sandwich chain (after ...
+
+Title: ARBY’S - Updated September 2024 - 12 Photos &amp; 20 Reviews - Yelp
+Link: https://www.yelp.com/biz/arbys-columbus-17
+Snippet: Nice staff. Hot food! I usually come here later in the evening between 8 or midnight on occasion. Everyone is nice and my food is good. Never had a problem. I only ever order curly fries, mozzarella sticks, diet dr. P or the famous Jamocha shake. I feel like it&#39;s kind of slow-but all <b>Arby</b>&#39;s are because it&#39;s a bit better quality for fast food.
+
+Title: Arby&#39;s Reviews | Read Customer Service Reviews of www.arbys.com
+Link: https://www.trustpilot.com/review/www.arbys.com
+Snippet: Second Experience: Drove half an hour to get to <b>Arby</b>&#39;s/ App thru a &quot;We are experiencing technical issues&quot; and would not let me order. They 1) Need to remove their app. It is a piece of junk and 2) Actually get some customer service that cares. A company full of morons! Date of experience: April 04, 2024. Useful.
+
+Title: Arby&#39;s Reviews | Read Customer Service Reviews of arbys.com - Yelp
+Link: https://www.yelp.com/brands/arbys
+Snippet: <b>Arby</b>&#39;s. <b>Arby</b>&#39;s has an average rating of 2.7 from 24830 reviews. The rating indicates that most customers are generally dissatisfied. The official website is <b>arbys</b>.com. <b>Arby</b>&#39;s is popular for Sandwiches, Restaurants, Fast Food. <b>Arby</b>&#39;s has 2950 locations on Yelp across the US.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's competitive positioning':
+Title: How Arby&#39;s is beating fast food franchise competition
+Link: http://discoverarbys.com/research/brand-positioning/
+Snippet: The drive-thru provides a huge operational and <b>competitive</b> advantage for <b>Arby’s</b> franchisees. The Fast Crafted® opportunity “By straddling between QSR and fast casual, <b>Arby’s</b> is hitting a broader range of guests” Multi-unit <b>Arby’s</b> owner Rick Bentley says the Fast Crafted® ® brand <b>positioning</b> has done a good job of pulling in new ...
+
+Title: Arby S Competitive Analysis - Osum
+Link: https://blog.osum.com/arby-s-competitive-analysis/
+Snippet: <b>Arby’s</b> main competitors in the fast-food industry are Wendy’s, McDonald’s, Subway, and Burger King. Each of these chains has a significant presence and competes for market share. Understanding the strengths and weaknesses of these competitors is crucial for assessing <b>Arby’s</b> <b>competitive</b> <b>position</b> in the industry.
+
+Title: Arbys Industry Trends and Forecast - Osum
+Link: https://blog.osum.com/arby-s-industry-trends/
+Snippet: To gain insights into <b>Arby’s</b> <b>positioning</b> within the fast-food market and its <b>competitive</b> landscape, explore our <b>Arby’s</b> market analysis and <b>Arby’s</b> <b>competitive</b> analysis. <b>Arby’s</b> Performance and Growth. <b>Arby’s</b> has established itself as a significant player in the fast-food industry, with a strong focus on performance and growth.
+
+Title: How Arby&#39;s Is Thriving By Not Taking Themselves Too Seriously - Forbes
+Link: https://www.forbes.com/sites/daveknox/2019/07/08/how-arbys-is-thriving-by-not-taking-themselves-too-seriously/
+Snippet: As the Chief Marketing Officer of <b>Arby</b>&#39;s, Jim Taylor knows a thing or two about driving buzz around their business. But he also recognizes the importance of the front-line employees in restaurants ...
+
+Title: What Companies Does Arby’s Own? A Guide to Its Subsidiary Brands
+Link: https://seriosity.com/what-companies-does-arbys-own/
+Snippet: When analyzing <b>Arby’s</b> market <b>position</b>, a direct comparison to competitors sheds light on its <b>competitive</b> edge. <b>Arby’s</b> operates primarily in the fast-food sector, whereas companies like Darden Restaurants — the parent company of Olive Garden and Longhorn Steakhouse — cater to the full-service restaurant category.
+
+Title: Arby S Market Analysis - Osum
+Link: https://blog.osum.com/arby-s-market-analysis/
+Snippet: <b>Arby’s</b>, the popular fast-food restaurant, has implemented several effective marketing strategies to <b>position</b> itself in the <b>competitive</b> market and attract a wide range of customers. Let’s explore some of the key strategies employed by <b>Arby’s</b>: targeting a younger demographic, incorporating humor and pop culture references, and leveraging ...
+
+Title: Why Invest in Our Restaurant Franchise Opportunities
+Link: https://arbysfranchising.com/why-arbys/
+Snippet: <b>Arby’s</b> unique Fast Crafted® <b>positioning</b> gives our brand a <b>competitive</b> edge. Our restaurant franchise opportunities are winning over new guests every day by serving quality food at affordable prices, with the speed and convenience consumers demand.
+
+Title: The Evolution Of Arby&#39;s: From Neighborhood Chain To Food ... - Forbes
+Link: https://www.forbes.com/sites/jeffthomson/2018/03/13/the-evolution-of-arbys-from-neighborhood-chain-to-food-industry-powerhouse/
+Snippet: Here&#39;s how <b>Arby</b>&#39;s CFO is handling the changing business landscape. In response to growing customer demands, fast food brands are forced to rethink strategies to retain engagement and grow business.
+
+Title: arbys brochure digital - Arby&#39;s Franchise
+Link: https://arbysfranchising.com/wp-content/uploads/2023/08/FINAL-Arbys-Brochure-Digital.pdf
+Snippet: <b>Arby’s</b> unique Fast Crafted® <b>positioning</b> gives our brand a <b>competitive</b> edge. We’re winning by serving quality food, a ordably priced, with the speed and convenience guests demand. The <b>Arby’s</b> franchise opportunity offers restaurateurs like you a chance to own one of the most innovative restaurant brands in our industry. We have a winning ...
+
+Title: How Arby&#39;s Carved A Successful Brand Message By Staying True ... - Forbes
+Link: https://www.forbes.com/sites/avidan/2019/04/29/how-arbys-carved-a-successful-brand-message-by-staying-true-to-itself/
+Snippet: After Wendy’s sold <b>Arby’s</b> to Roark Group for $130 million, Lynch, a P&amp;G and Taco Bell veteran, joined in 2014 as CMO (he was recently promoted to president) and one of the first things he did ...
+
+Remi: Results for query 'Arby's competitive positioning':
+Title: How Arby&#39;s is beating fast food franchise competition
+Link: http://discoverarbys.com/research/brand-positioning/
+Snippet: The drive-thru provides a huge operational and <b>competitive</b> advantage for <b>Arby’s</b> franchisees. The Fast Crafted® opportunity “By straddling between QSR and fast casual, <b>Arby’s</b> is hitting a broader range of guests” Multi-unit <b>Arby’s</b> owner Rick Bentley says the Fast Crafted® ® brand <b>positioning</b> has done a good job of pulling in new ...
+
+Title: Arby S Competitive Analysis - Osum
+Link: https://blog.osum.com/arby-s-competitive-analysis/
+Snippet: <b>Arby’s</b> main competitors in the fast-food industry are Wendy’s, McDonald’s, Subway, and Burger King. Each of these chains has a significant presence and competes for market share. Understanding the strengths and weaknesses of these competitors is crucial for assessing <b>Arby’s</b> <b>competitive</b> <b>position</b> in the industry.
+
+Title: Arbys Industry Trends and Forecast - Osum
+Link: https://blog.osum.com/arby-s-industry-trends/
+Snippet: To gain insights into <b>Arby’s</b> <b>positioning</b> within the fast-food market and its <b>competitive</b> landscape, explore our <b>Arby’s</b> market analysis and <b>Arby’s</b> <b>competitive</b> analysis. <b>Arby’s</b> Performance and Growth. <b>Arby’s</b> has established itself as a significant player in the fast-food industry, with a strong focus on performance and growth.
+
+Title: How Arby&#39;s Is Thriving By Not Taking Themselves Too Seriously - Forbes
+Link: https://www.forbes.com/sites/daveknox/2019/07/08/how-arbys-is-thriving-by-not-taking-themselves-too-seriously/
+Snippet: As the Chief Marketing Officer of <b>Arby</b>&#39;s, Jim Taylor knows a thing or two about driving buzz around their business. But he also recognizes the importance of the front-line employees in restaurants ...
+
+Title: What Companies Does Arby’s Own? A Guide to Its Subsidiary Brands
+Link: https://seriosity.com/what-companies-does-arbys-own/
+Snippet: When analyzing <b>Arby’s</b> market <b>position</b>, a direct comparison to competitors sheds light on its <b>competitive</b> edge. <b>Arby’s</b> operates primarily in the fast-food sector, whereas companies like Darden Restaurants — the parent company of Olive Garden and Longhorn Steakhouse — cater to the full-service restaurant category.
+
+Title: Arby S Market Analysis - Osum
+Link: https://blog.osum.com/arby-s-market-analysis/
+Snippet: <b>Arby’s</b>, the popular fast-food restaurant, has implemented several effective marketing strategies to <b>position</b> itself in the <b>competitive</b> market and attract a wide range of customers. Let’s explore some of the key strategies employed by <b>Arby’s</b>: targeting a younger demographic, incorporating humor and pop culture references, and leveraging ...
+
+Title: Why Invest in Our Restaurant Franchise Opportunities
+Link: https://arbysfranchising.com/why-arbys/
+Snippet: <b>Arby’s</b> unique Fast Crafted® <b>positioning</b> gives our brand a <b>competitive</b> edge. Our restaurant franchise opportunities are winning over new guests every day by serving quality food at affordable prices, with the speed and convenience consumers demand.
+
+Title: The Evolution Of Arby&#39;s: From Neighborhood Chain To Food ... - Forbes
+Link: https://www.forbes.com/sites/jeffthomson/2018/03/13/the-evolution-of-arbys-from-neighborhood-chain-to-food-industry-powerhouse/
+Snippet: Here&#39;s how <b>Arby</b>&#39;s CFO is handling the changing business landscape. In response to growing customer demands, fast food brands are forced to rethink strategies to retain engagement and grow business.
+
+Title: arbys brochure digital - Arby&#39;s Franchise
+Link: https://arbysfranchising.com/wp-content/uploads/2023/08/FINAL-Arbys-Brochure-Digital.pdf
+Snippet: <b>Arby’s</b> unique Fast Crafted® <b>positioning</b> gives our brand a <b>competitive</b> edge. We’re winning by serving quality food, a ordably priced, with the speed and convenience guests demand. The <b>Arby’s</b> franchise opportunity offers restaurateurs like you a chance to own one of the most innovative restaurant brands in our industry. We have a winning ...
+
+Title: How Arby&#39;s Carved A Successful Brand Message By Staying True ... - Forbes
+Link: https://www.forbes.com/sites/avidan/2019/04/29/how-arbys-carved-a-successful-brand-message-by-staying-true-to-itself/
+Snippet: After Wendy’s sold <b>Arby’s</b> to Roark Group for $130 million, Lynch, a P&amp;G and Taco Bell veteran, joined in 2014 as CMO (he was recently promoted to president) and one of the first things he did ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Fast food industry trends':
+Title: Fast Food Market Size, Share, Industry Trends, Analysis, 2032
+Link: https://www.fortunebusinessinsights.com/fast-food-market-106482
+Snippet: The global fast food market is<b> projected to grow at a CAGR of 6.05% from 2021 to 2028, driven by changing consumer behavior, online food delivery, and convenience foods.</b> The<b> report covers product type, service type, regional forecast, and COVID-19 impact analysis of</b> the fast food industry.
+
+Title: The 2023 QSR 50: Fast Food’s Leading Annual Report
+Link: https://www.qsrmagazine.com/operations/fast-food/the-2023-qsr-50-fast-foods-leading-annual-report/
+Snippet: U.S. system sales grew 11 percent to $13.85 billion last year, driven by 8 percent same-store sales growth and 5 percent unit expansion. The fast-<b>food</b> giant bucked the trend on margins, holding company-operated margins steady from 2021 in the face of <b>industry</b>-wide cost pressure. Yum!
+
+Title: Fast Food Market Size, Share, Growth, Analysis 2024-2032
+Link: https://www.expertmarketresearch.com/reports/fast-food-market
+Snippet: The report analyses the fast food market size, share,<b> growth,</b> trends, and<b> regional analysis</b> for 2024-2032. It<b> covers the impact of online delivery apps, international and local fusion, plant-based alternatives, and sustainability practices on the market.</b>
+
+Title: Fast food restaurants in the U.S. - statistics &amp; facts | Statista
+Link: https://www.statista.com/topics/863/fast-food/
+Snippet: How big is the U.S. fast <b>food</b> market? Sales of quick service restaurants in the U.S. have seen almost consistent annual growth for three decades. They peaked in 2023 at over 490 billion U.S ...
+
+Title: Fast Food Market Size, Share Trends &amp; Growth Report, 2029
+Link: https://www.grandviewresearch.com/industry-analysis/fast-food-market
+Snippet: The global fast-<b>food</b> market size was valued at USD 595.93 billion in 2021 and is expected to grow at a compound annual growth rate (CAGR) of 5.0% from 2022 to 2029. The rise in consumer spending and the growing influence of <b>food</b> delivery applications are the major factors driving the market growth. The COVID-19 pandemic adversely affected the ...
+
+Title: Fast Food Trends 2024: Speed, Convenience &amp; Evolving Tastes
+Link: https://www.globalsources.com/knowledge/fast-food-industry-trends/
+Snippet: Conclusion. In 2024, the fast <b>food</b> <b>industry</b> has evolved significantly in terms of speed, convenience and taste. The application of automation technology and mobile payment has improved service efficiency. Takeaway and multichannel sales models have enhanced convenience. Furthermore, the trend of healthy eating and diversified tastes has met the ...
+
+Title: 57 Critical Fast Food Industry Statistics and Trends (2020 Update)
+Link: https://foodtruckempire.com/news/fast-food-statistics/
+Snippet: Learn about the fast food industry&#39;s<b> history, size, revenue, health effects,</b> and<b> future outlook.</b> Find out the top fast food chains, their sales, and how they adapted to the COVID-19 pandemic.
+
+Title: The QSR 50: The Fast-Food Industry’s Leading Annual Report
+Link: https://www.qsrmagazine.com/reports/2021-qsr-50/
+Snippet: Back in February, executives said the product helped push $400,000 in added sales, per restaurant, across Popeyes’ entire mature base. That’s reflected in this year’s QSR 50, where AUVs clocked in at 1.92 million compared to $1.54 million in 2019. This vaulted Popeyes up four spots in the overall rankings.
+
+Title: 22 Fast-Food Trends to Watch in 2023 - QSR Magazine
+Link: https://www.qsrmagazine.com/slideshow/22-fast-food-trends-watch-2023/
+Snippet: Low-income (less than $45,000) sales growth continued an accelerating trend in October, year-over-year, essentially matching middle-income ($45,000–$100,000) growth for the first time since November 2021, according to YipitData. What this suggests, perhaps more than anything, is guests are coming back after inflation’s initial shock.
+
+Title: Fast Food Market Size, Growth, Trends and Forecast to 2032
+Link: https://straitsresearch.com/report/fast-food-market/
+Snippet: The global fast <b>food</b> market size was valued at USD 772.04 billion in 2023. It is projected to reach USD 1186.44 billion by 2032, growing at a CAGR of 4.89% during the forecast period (2024-2032). The fast <b>food</b> category of <b>food</b> products is specifically and intentionally prepared to save time and allow quick serving.
+
+Remi: Results for query 'Fast food industry trends':
+Title: Fast Food Market Size, Share, Industry Trends, Analysis, 2032
+Link: https://www.fortunebusinessinsights.com/fast-food-market-106482
+Snippet: The global fast food market is<b> projected to grow at a CAGR of 6.05% from 2021 to 2028, driven by changing consumer behavior, online food delivery, and convenience foods.</b> The<b> report covers product type, service type, regional forecast, and COVID-19 impact analysis of</b> the fast food industry.
+
+Title: The 2023 QSR 50: Fast Food’s Leading Annual Report
+Link: https://www.qsrmagazine.com/operations/fast-food/the-2023-qsr-50-fast-foods-leading-annual-report/
+Snippet: U.S. system sales grew 11 percent to $13.85 billion last year, driven by 8 percent same-store sales growth and 5 percent unit expansion. The fast-<b>food</b> giant bucked the trend on margins, holding company-operated margins steady from 2021 in the face of <b>industry</b>-wide cost pressure. Yum!
+
+Title: Fast Food Market Size, Share, Growth, Analysis 2024-2032
+Link: https://www.expertmarketresearch.com/reports/fast-food-market
+Snippet: The report analyses the fast food market size, share,<b> growth,</b> trends, and<b> regional analysis</b> for 2024-2032. It<b> covers the impact of online delivery apps, international and local fusion, plant-based alternatives, and sustainability practices on the market.</b>
+
+Title: Fast food restaurants in the U.S. - statistics &amp; facts | Statista
+Link: https://www.statista.com/topics/863/fast-food/
+Snippet: How big is the U.S. fast <b>food</b> market? Sales of quick service restaurants in the U.S. have seen almost consistent annual growth for three decades. They peaked in 2023 at over 490 billion U.S ...
+
+Title: Fast Food Market Size, Share Trends &amp; Growth Report, 2029
+Link: https://www.grandviewresearch.com/industry-analysis/fast-food-market
+Snippet: The global fast-<b>food</b> market size was valued at USD 595.93 billion in 2021 and is expected to grow at a compound annual growth rate (CAGR) of 5.0% from 2022 to 2029. The rise in consumer spending and the growing influence of <b>food</b> delivery applications are the major factors driving the market growth. The COVID-19 pandemic adversely affected the ...
+
+Title: Fast Food Trends 2024: Speed, Convenience &amp; Evolving Tastes
+Link: https://www.globalsources.com/knowledge/fast-food-industry-trends/
+Snippet: Conclusion. In 2024, the fast <b>food</b> <b>industry</b> has evolved significantly in terms of speed, convenience and taste. The application of automation technology and mobile payment has improved service efficiency. Takeaway and multichannel sales models have enhanced convenience. Furthermore, the trend of healthy eating and diversified tastes has met the ...
+
+Title: 57 Critical Fast Food Industry Statistics and Trends (2020 Update)
+Link: https://foodtruckempire.com/news/fast-food-statistics/
+Snippet: Learn about the fast food industry&#39;s<b> history, size, revenue, health effects,</b> and<b> future outlook.</b> Find out the top fast food chains, their sales, and how they adapted to the COVID-19 pandemic.
+
+Title: The QSR 50: The Fast-Food Industry’s Leading Annual Report
+Link: https://www.qsrmagazine.com/reports/2021-qsr-50/
+Snippet: Back in February, executives said the product helped push $400,000 in added sales, per restaurant, across Popeyes’ entire mature base. That’s reflected in this year’s QSR 50, where AUVs clocked in at 1.92 million compared to $1.54 million in 2019. This vaulted Popeyes up four spots in the overall rankings.
+
+Title: 22 Fast-Food Trends to Watch in 2023 - QSR Magazine
+Link: https://www.qsrmagazine.com/slideshow/22-fast-food-trends-watch-2023/
+Snippet: Low-income (less than $45,000) sales growth continued an accelerating trend in October, year-over-year, essentially matching middle-income ($45,000–$100,000) growth for the first time since November 2021, according to YipitData. What this suggests, perhaps more than anything, is guests are coming back after inflation’s initial shock.
+
+Title: Fast Food Market Size, Growth, Trends and Forecast to 2032
+Link: https://straitsresearch.com/report/fast-food-market/
+Snippet: The global fast <b>food</b> market size was valued at USD 772.04 billion in 2023. It is projected to reach USD 1186.44 billion by 2032, growing at a CAGR of 4.89% during the forecast period (2024-2032). The fast <b>food</b> category of <b>food</b> products is specifically and intentionally prepared to save time and allow quick serving.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Arby's competitors strategy':
+Title: Arby S Competitive Analysis - Osum
+Link: https://blog.osum.com/arby-s-competitive-analysis/
+Snippet: <b>Arby’s</b> competitive advantage lies in its ability to differentiate itself from <b>competitors</b> through product innovation, a focus on quality and fresh ingredients, and unique marketing <b>strategies</b>. By continuously introducing new menu items, prioritizing freshness, and implementing distinct marketing campaigns, <b>Arby’s</b> maintains a strong position ...
+
+Title: What Companies Does Arby’s Own? A Guide to Its Subsidiary Brands
+Link: https://seriosity.com/what-companies-does-arbys-own/
+Snippet: Comparison to <b>Competitors</b>. When analyzing <b>Arby’s</b> market position, a direct comparison to <b>competitors</b> sheds light on its competitive edge. <b>Arby’s</b> operates primarily in the fast-food sector, whereas companies like Darden Restaurants — the parent company of Olive Garden and Longhorn Steakhouse — cater to the full-service restaurant category.
+
+Title: The Evolution Of Arby&#39;s: From Neighborhood Chain To Food ... - Forbes
+Link: https://www.forbes.com/sites/jeffthomson/2018/03/13/the-evolution-of-arbys-from-neighborhood-chain-to-food-industry-powerhouse/
+Snippet: Here&#39;s how <b>Arby</b>&#39;s CFO is handling the changing business landscape. In response to growing customer demands, fast food brands are forced to rethink <b>strategies</b> to retain engagement and grow business.
+
+Title: Top Arby&#39;s Competitors and Alternatives | Craft.co
+Link: https://craft.co/arby-s/competitors
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. <b>Arby</b>&#39;s&#39;s main <b>competitors</b> include Jack in The Box, Burger King, McDonald&#39;s and PizzaExpress. Compare <b>Arby</b>&#39;s to its <b>competitors</b> by revenue, employee growth and other metrics at Craft.
+
+Title: Arbys Industry Trends and Forecast - Osum
+Link: https://blog.osum.com/arby-s-industry-trends/
+Snippet: <b>Arby’s</b> Marketing <b>Strategy</b>. <b>Arby’s</b>, a fast-food restaurant that has evolved into a significant player in the food industry, has implemented a strategic marketing approach to reach its target audience and establish its brand positioning. ... <b>Arby’s</b> faces a range of <b>competitors</b> vying for market share. However, <b>Arby’s</b> has successfully ...
+
+Title: Arby S Market Analysis - Osum
+Link: https://blog.osum.com/arby-s-market-analysis/
+Snippet: One of the key aspects that set <b>Arby’s</b> apart from its <b>competitors</b> was its emphasis on roast beef sandwiches right from the start. This unique positioning helped <b>Arby’s</b> carve out a niche in the fast-food market, appealing to customers looking for an alternative to traditional burgers. ... Rising Food Costs and Pricing <b>Strategy</b>. <b>Arby’s</b> ...
+
+Title: How Arby&#39;s Carved A Successful Brand Message By Staying True ... - Forbes
+Link: https://www.forbes.com/sites/avidan/2019/04/29/how-arbys-carved-a-successful-brand-message-by-staying-true-to-itself/
+Snippet: After Wendy’s sold <b>Arby’s</b> to Roark Group for $130 million, Lynch, a P&amp;G and Taco Bell veteran, joined in 2014 as CMO (he was recently promoted to president) and one of the first things he did ...
+
+Title: How Arby&#39;s Is Thriving By Not Taking Themselves Too Seriously - Forbes
+Link: https://www.forbes.com/sites/daveknox/2019/07/08/how-arbys-is-thriving-by-not-taking-themselves-too-seriously/
+Snippet: As the Chief Marketing Officer of <b>Arby</b>&#39;s, Jim Taylor knows a thing or two about driving buzz around their business. But he also recognizes the importance of the front-line employees in restaurants ...
+
+Title: How Arby’s Revitalized Their Marketing Campaign
+Link: https://www.spinxdigital.com/blog/how-arbys-revitalized-their-marketing-campaign/
+Snippet: <b>Arby’s</b> marketing team stayed true to a brand’s origins while transforming it to meet today’s consumer needs. 213.894.9933. ... <b>Arby’s</b> lagged behind the <b>competition</b> when it came to fast food marketing. Its marketing <b>strategies</b> fell short, failing to reach its customer base or make a sufficient impression. ...
+
+Title: How Arby’s Rediscovered Sales by Embracing Brand identity
+Link: https://medium.com/@KiloAlphaVictor/biz-case-weekly-1-arbys-rediscovering-sales-by-embracing-brand-identity-52053f14a319
+Snippet: Since Roark Capital, Paul Brown, and Rob Lynch have taken command, <b>Arby’s</b> has seen great success. The 2016 revenue is reported to be 3.6B, and ranks #17 in the Quick Service Restaurant rankings ...
+
+Remi: Results for query 'Arby's competitors strategy':
+Title: Arby S Competitive Analysis - Osum
+Link: https://blog.osum.com/arby-s-competitive-analysis/
+Snippet: <b>Arby’s</b> competitive advantage lies in its ability to differentiate itself from <b>competitors</b> through product innovation, a focus on quality and fresh ingredients, and unique marketing <b>strategies</b>. By continuously introducing new menu items, prioritizing freshness, and implementing distinct marketing campaigns, <b>Arby’s</b> maintains a strong position ...
+
+Title: What Companies Does Arby’s Own? A Guide to Its Subsidiary Brands
+Link: https://seriosity.com/what-companies-does-arbys-own/
+Snippet: Comparison to <b>Competitors</b>. When analyzing <b>Arby’s</b> market position, a direct comparison to <b>competitors</b> sheds light on its competitive edge. <b>Arby’s</b> operates primarily in the fast-food sector, whereas companies like Darden Restaurants — the parent company of Olive Garden and Longhorn Steakhouse — cater to the full-service restaurant category.
+
+Title: The Evolution Of Arby&#39;s: From Neighborhood Chain To Food ... - Forbes
+Link: https://www.forbes.com/sites/jeffthomson/2018/03/13/the-evolution-of-arbys-from-neighborhood-chain-to-food-industry-powerhouse/
+Snippet: Here&#39;s how <b>Arby</b>&#39;s CFO is handling the changing business landscape. In response to growing customer demands, fast food brands are forced to rethink <b>strategies</b> to retain engagement and grow business.
+
+Title: Top Arby&#39;s Competitors and Alternatives | Craft.co
+Link: https://craft.co/arby-s/competitors
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. <b>Arby</b>&#39;s&#39;s main <b>competitors</b> include Jack in The Box, Burger King, McDonald&#39;s and PizzaExpress. Compare <b>Arby</b>&#39;s to its <b>competitors</b> by revenue, employee growth and other metrics at Craft.
+
+Title: Arbys Industry Trends and Forecast - Osum
+Link: https://blog.osum.com/arby-s-industry-trends/
+Snippet: <b>Arby’s</b> Marketing <b>Strategy</b>. <b>Arby’s</b>, a fast-food restaurant that has evolved into a significant player in the food industry, has implemented a strategic marketing approach to reach its target audience and establish its brand positioning. ... <b>Arby’s</b> faces a range of <b>competitors</b> vying for market share. However, <b>Arby’s</b> has successfully ...
+
+Title: Arby S Market Analysis - Osum
+Link: https://blog.osum.com/arby-s-market-analysis/
+Snippet: One of the key aspects that set <b>Arby’s</b> apart from its <b>competitors</b> was its emphasis on roast beef sandwiches right from the start. This unique positioning helped <b>Arby’s</b> carve out a niche in the fast-food market, appealing to customers looking for an alternative to traditional burgers. ... Rising Food Costs and Pricing <b>Strategy</b>. <b>Arby’s</b> ...
+
+Title: How Arby&#39;s Carved A Successful Brand Message By Staying True ... - Forbes
+Link: https://www.forbes.com/sites/avidan/2019/04/29/how-arbys-carved-a-successful-brand-message-by-staying-true-to-itself/
+Snippet: After Wendy’s sold <b>Arby’s</b> to Roark Group for $130 million, Lynch, a P&amp;G and Taco Bell veteran, joined in 2014 as CMO (he was recently promoted to president) and one of the first things he did ...
+
+Title: How Arby&#39;s Is Thriving By Not Taking Themselves Too Seriously - Forbes
+Link: https://www.forbes.com/sites/daveknox/2019/07/08/how-arbys-is-thriving-by-not-taking-themselves-too-seriously/
+Snippet: As the Chief Marketing Officer of <b>Arby</b>&#39;s, Jim Taylor knows a thing or two about driving buzz around their business. But he also recognizes the importance of the front-line employees in restaurants ...
+
+Title: How Arby’s Revitalized Their Marketing Campaign
+Link: https://www.spinxdigital.com/blog/how-arbys-revitalized-their-marketing-campaign/
+Snippet: <b>Arby’s</b> marketing team stayed true to a brand’s origins while transforming it to meet today’s consumer needs. 213.894.9933. ... <b>Arby’s</b> lagged behind the <b>competition</b> when it came to fast food marketing. Its marketing <b>strategies</b> fell short, failing to reach its customer base or make a sufficient impression. ...
+
+Title: How Arby’s Rediscovered Sales by Embracing Brand identity
+Link: https://medium.com/@KiloAlphaVictor/biz-case-weekly-1-arbys-rediscovering-sales-by-embracing-brand-identity-52053f14a319
+Snippet: Since Roark Capital, Paul Brown, and Rob Lynch have taken command, <b>Arby’s</b> has seen great success. The 2016 revenue is reported to be 3.6B, and ranks #17 in the Quick Service Restaurant rankings ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)

@@ -1,0 +1,884 @@
+Research Topic: Ohio State Medical Center
+Susan: Here's a suggested approach to gather information on the topic:
+
+1. **General Information Gathering**: Start your search by browsing the official website of the Ohio State Medical Center. They typically provide valuable information about the organization, its mission, departments, leadership, and contact information. 
+
+2. **Financial Information**: Financial data about Ohio State Medical Center can be obtained from public records, annual reports, tax filings, or websites dedicated to financial data sharing. For non-profit entities, check if their 990 forms are available on websites like ProPublica. Also, look for recently published financial articles or news related to the medical center.
+
+3. **Key Decision Makers**: Identify the key decision makers by looking at the "leadership" or "our team" section of the hospital’s website. Also, check professional networking websites such as LinkedIn for more detailed profiles of these individuals. Additionally, newspaper articles, press releases, and financial reports might mention the names and roles of key decision makers
+
+4. **Possible Leverage Points**: Look at online articles, news, blogs, and social media feeds regarding the key decision makers. This will provide insights into their positions on issues, past actions, areas of interest, and potential points of leverage.
+
+5. **Labor Relations**: Research local news outlets, union websites, and labor relation boards. See if there are any recent disputes, strikes, or negotiations that have happened at the hospital. Look for trends in how the hospital has dealt with unions and workers in the past. 
+
+6. **Recent Scandals**: Check news websites, social media feeds, and the hospital's own publications for any recent scandals. For this, using specific search terms like the hospital's name plus "controversy", "scandal", "lawsuit", or "complaint" could prove useful.
+
+7. **Additional Points of Leverage**: OSDH violations, lawsuits, negative patient reviews, and low ratings can be another point of leverage. Keep an eye out for negative sentiments, reviews or complaints about the hospital from patients, employees, or the public.
+
+Remember, it's crucial to stay organized during the process. Use a spreadsheet or a similar system to keep your findings categorized and easily accessible.
+
+Manny: Here are a few follow-up questions for Susan:
+
+1. **General Information Gathering**: Susan, where can we find official documents like meeting minutes or public disclosures?
+   
+2. **Financial Information**: Can you recommend any specific financial databases or sources we should look into?
+
+3. **Key Decision Makers**: How can we look into their previous roles or professional history? Any specific platforms you recommend?
+
+4. **Possible Leverage Points**: What kind of data points should we be looking for that would constitute as leverage points?
+
+5. **Labor Relations**: Are there typically public records for disputes, strikes or negotiations?
+
+6. **Recent Scandals**: What are some reliable news sources that you would recommend for this task?
+
+7. **Additional Points of Leverage**: Where can we find information about OSDH violations or lawsuits lodged against a medical institution? 
+
+Smoothing the Process: Susan, any tips or tools you recommend to streamline this research process and ensure we don't miss key information?
+Manny: Sure, here is a Python list of specific search queries that Remi should execute:
+
+```python
+search_queries_for_remi = [
+    "Ohio State Medical Center official website",
+    "Ohio State Medical Center financial reports",
+    "Ohio State Medical Center annual reports",
+    "Ohio State Medical Center tax filings",
+    "Ohio State Medical Center 990 form",
+    "Ohio State Medical Center leadership",
+    "Ohio State Medical Center board of directors LinkedIn profiles",
+    "Ohio State Medical Center key decision makers",
+    "Ohio State Medical Center news",
+    "Ohio State Medical Center labor relations",
+    "Ohio State Medical Center union disputes",
+    "Ohio State Medical Center strikes",
+    "Ohio State Medical Center negotiations",
+    "Ohio State Medical Center controversies",
+    "Ohio State Medical Center scandals",
+    "Ohio State Medical Center lawsuits",
+    "Ohio State Medical Center patient reviews",
+    "Ohio State Medical Center employee complaints",
+    "Ohio State Medical Center OSDH violations",
+    "Ohio State Medical Center ratings"
+]
+```
+
+This provides a wide cover for the preliminary research that needs to be done, and Remi can adjust them or add more as needed.
+Remi: Results for query 'Ohio State Medical Center official website':
+Title: The Ohio State University Wexner Medical Center
+Link: https://wexnermedical.osu.edu/
+Snippet: The Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b> is a leader in central Ohio for healthcare and <b>medical</b> research. With a variety of services and locations throughout Ohio, OSU is the place for all of your healthcare needs. Here is some info from Ohio <b>State</b> – improving lives through excellence in research, education and patient care. ...
+
+Title: Our Mission - The Ohio State University Wexner Medical Center
+Link: https://wexnermedical.osu.edu/about-us/our-mission
+Snippet: The Ohio <b>State</b> University Wexner <b>Medical Center</b> is a proud part of one of America’s largest and most comprehensive universities. On the university’s main Columbus campus, more than 56,000 students are able to choose from 14 colleges, 175 undergraduate majors and 240 master’s, doctoral and professional degree programs. ...
+
+Title: State Medical Board - Ohio
+Link: https://med.ohio.gov/wps/portal/gov/site/home
+Snippet: An <b>official</b> <b>State</b> of Ohio <b>site</b>. Here’s how you know learn-more. Skip to Navigation Skip to Main Content Ohio Department. Menu. Home. Search. Apply &amp; Renew. For Licensees ... <b>State</b> <b>Medical</b> Board of Ohio | 30 East Broad Street, 3rd Floor, Columbus, OH 43215 | Call: 614-466-3934.
+
+Title: Find a Doctor | Ohio State Medical Center
+Link: https://wexnermedical.osu.edu/find-a-doctor
+Snippet: Browse. Get just the right amount of health and wellness in your inbox. If you have a disability and experience difficulty accessing this content, contact our webmaster at webmaster@osumc.edu. Find top ranked Central Ohio doctors today at the Ohio <b>State</b> <b>Medical</b> <b>Center</b>. Search by condition, specialty or urgent care.
+
+Title: The Ohio State University
+Link: https://www.osu.edu/index.php/index.html
+Snippet: Discover Ohio <b>State</b>, the highest ranked public university in Ohio, is home to the Wexner <b>Medical</b> <b>Center</b> and world-class graduate and undergraduate programs. Emergency alert message Ohio <b>State</b> nav bar
+
+Title: Ohio State University Wexner Medical Center - Wikipedia
+Link: https://en.wikipedia.org/wiki/Ohio_State_University_Wexner_Medical_Center
+Snippet: The Ohio <b>State</b> University Wexner <b>Medical Center</b> (OSUWMC) is a multidisciplinary academic <b>medical</b> <b>center</b> located in Columbus, Ohio, United States, on the main campus of Ohio <b>State</b> University.For 29 consecutive years, U.S. News &amp; World Report has recognized Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b> specialties in its &quot;Best Hospitals&quot; rankings. In 2021, it recognized 10 Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b> ...
+
+Title: Ohio.gov | Official Website of the State of Ohio
+Link: https://ohio.gov/wps/portal/gov/site/home/
+Snippet: The Ohio Department of Aging is seeking events and groups to participate in annual awareness campaign to stop falls among seniors. August 21, 2024. Ohio.<b>gov</b> is the <b>official</b> <b>website</b> for the <b>State</b> of Ohio. Find the government information and services you need to live, work, travel, and do business in the <b>state</b>.
+
+Title: Government | Ohio.gov | Official Website of the State of Ohio
+Link: https://ohio.gov/government
+Snippet: Government. Information about Ohio -- our elected officials and <b>state</b> agencies -- as well as voting, budget and laws, government transparency, and local governments. The government of the <b>State</b> of Ohio consists of the executive, judicial, and legislative branches. Its basic structure is set forth in the Constitution and law of Ohio.
+
+Title: Ohio Department of Health | Ohio.gov
+Link: https://odh.ohio.gov/wps/portal/gov/odh/home
+Snippet: Employment with the <b>State</b> of Ohio is more than &#39;just a job&#39; – it is a privilege to serve our families, friends and neighbors who rely on us throughout our great <b>state</b>. <b>Medical</b> Records Price Index The Ohio Department of Health is required by section 3701.742 of the Ohio Revised Code to annually publish and adjusted price index for copies of ...
+
+Title: Medicare - Ohio.gov
+Link: https://ohio.gov/residents/resources/medicare
+Snippet: Medicare is the federal health insurance program for people age 65 and over (and certain disabled individuals under age 65). If you are eligible for Social Security benefits (including disability benefits), you may apply for Medicare. Different parts of Medicare help cover specific services, such as hospital care, doctor&#39;s visits, <b>medical</b> ...
+
+Remi: Results for query 'Ohio State Medical Center financial reports':
+Title: THE OHIO STATE UNIVERSITY WEXNER MEDICAL CENTER HEALTH SYSTEM
+Link: https://ohioauditor.gov/auditsearch/Reports/2021/OSU_Wexner_Medical_Health_Center_2021-Franklin_FINAL.pdf
+Snippet: We have audited the accompanying <b>financial</b> statements of The Ohio <b>State</b> University Wexner <b>Medical Center</b> Health System (the “Health System”), a series of departments of The Ohio <b>State</b> University, which comprise the statements of net position as of June 30, 2021 and 2020, and the related statements of revenues, expenses, and changes in net ...
+
+Title: Annual financial reports | Office of Business and Finance
+Link: https://busfin.osu.edu/university-business/controller/accounting/annual-financial-reports
+Snippet: <b>Annual</b> <b>financial</b> <b>reports</b> Each year, the Controller&#39;s office works with our external auditor to prepare the university&#39;s <b>annual</b> <b>financial</b> <b>report</b>. The Board of Trustees and Auditor of <b>State</b> approve the final <b>report</b>.
+
+Title: Key Facts and Figures - The Ohio State University Wexner Medical Center
+Link: https://wexnermedical.osu.edu/mediaroom/facts
+Snippet: Data about Ohio <b>State</b>’s Wexner <b>Medical</b> <b>Center</b> include: hospital names, bed numbers, admissions, births, ED visits, research dollars, honors.
+
+Title: THE OHIO STATE UNIVERSITY WEXNER MEDICAL CENTER HEALTH SYSTEM
+Link: https://ohioauditor.gov/AuditSearch/Reports/2023/OSU_Wexner_Medical_Center_Health_System_2023_Franklin_FINAL.pdf
+Snippet: We have reviewed the Independent Auditors’ <b>Report</b> of The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> Health System, Franklin County, prepared by KPMG LLP, for the audit period July 1, 2022 through June 30, 2023. Based upon this review, we have accepted these <b>reports</b> in lieu of the audit required by Section 117.11, Revised Code. The Auditor of <b>State</b> did not audit the accompanying <b>financial</b> ...
+
+Title: Financial Assistance | Ohio State Medical Center
+Link: https://wexnermedical.osu.edu/patient-and-visitor-guide/financial-assistance
+Snippet: To be screened for additional <b>financial</b> assistance programs offered at Ohio <b>State</b> Wexner <b>Medical Center</b>, call Billing Customer Services at 614-293-2100. Other resources: Reach our <b>financial</b> counselors by calling 614-293-0860, or schedule an appointment in MyChart at a time that is convenient. Price lists and estimates for the cost of services ...
+
+Title: Performance Reports - The Ohio State University Wexner Medical Center
+Link: https://wexnermedical.osu.edu/about-us/performance-reports
+Snippet: Here is some info from Ohio <b>State</b> – improving lives through excellence in research, education and patient care.
+
+Title: 2019 Annual Financial Report - Ohio State University
+Link: https://busfin.osu.edu/sites/default/files/osu_financial_report_2019_final.pdf
+Snippet: campuses, the Wexner <b>Medical Center</b> and various academic support units operate largely on a decentralized basis. The board approves <b>annual</b> budgets for university operations, but these budgets are managed at the college and department level. The Ohio <b>State</b> University Wexner <b>Medical Center</b> (“the <b>Medical</b> <b>Center</b>”) is one of the largest and most
+
+Title: 2020 Annual Financial Report - Ohio State University
+Link: https://busfin.osu.edu/sites/default/files/osu_financial_report_2020_final.pdf
+Snippet: The Ohio <b>State</b> University . <b>Report</b> on the <b>Financial</b> Statements . We have audited the accompanying <b>financial</b> statements of the primary institution and of the aggregate discretely presented component units of The Ohio <b>State</b> University (the “University”), a component unit of the <b>State</b> of Ohio, which comprise the statements of net position as ...
+
+Title: 2023 Annual Report | Ohio State College of Medicine
+Link: https://medicine.osu.edu/about-us/annual-report/2023
+Snippet: New tech <b>center</b> adds another dimension to teaching <b>medical</b> students The EdTech Incubator at The Ohio <b>State</b> University College of Medicine stands at the forefront of <b>medical</b> education, empowering faculty to transform their teaching methods.
+
+Title: 2023 Nursing Annual Report | Ohio State Medical Center
+Link: https://wexnermedical.osu.edu/about-us/nursing/annual-report/2023
+Snippet: Here is some info from Ohio <b>State</b> – improving lives through excellence in research, education and patient care.
+
+Remi: Results for query 'Ohio State Medical Center annual reports':
+Title: College of Medicine Annual Report - Ohio State University College of ...
+Link: https://medicine.osu.edu/about-us/annual-report
+Snippet: 2019 <b>Annual</b> <b>Report</b> (PDF) 2018 <b>Annual</b> <b>Report</b> (PDF) The Ohio <b>State</b> University College of Medicine shares a look into 2021, $301M in research funding, 10,000+ total transplants performed, and remarkable COVID-19 innovations. Read more from College of Medicine dean, Carol R. Bradford, MD, MS, FACS.
+
+Title: 2023 Annual Report | Ohio State College of Medicine
+Link: https://medicine.osu.edu/about-us/annual-report/2023
+Snippet: A prescription for community health. Published Nov. 1, 2023. Illustration credit: The image on the covers presents sensory innervation of white adipose tissues. Specifically, the image depicts a sensory nerve (red) wrapping around a blood vessel in white adipose tissue (of a mouse). This image was captured by the Leica Confocal Microscope on a ...
+
+Title: Annual financial reports | Office of Business and Finance
+Link: https://busfin.osu.edu/university-business/controller/accounting/annual-financial-reports
+Snippet: The Board of Trustees and Auditor of <b>State</b> approve the final <b>report</b>. Fiscal 2023 <b>annual</b> <b>report</b> The FY2023 <b>annual</b> financial <b>report</b> details Ohio <b>State</b>&#39;s financial activities and conditions for the fiscal year ended June 30, 2023.
+
+Title: 2023 Nursing Annual Report | Ohio State Medical Center
+Link: https://wexnermedical.osu.edu/about-us/nursing/annual-report/2023
+Snippet: Welcome from our chief nursing officer. I’m thrilled to share the 2023 University Hospital and Ross Heart Hospital Nursing <b>Annual</b> <b>Report</b> with you, highlighting our team’s incredible achievements and dedication over the past year. This <b>report</b> celebrates our successes by demonstrating how we embody the principles of the Magnet Recognition ...
+
+Title: Transforming Health, College of Medicine Annual Report
+Link: https://medicine.osu.edu/-/media/files/medicine/about-us/annual-report/2023---osu-college-of-medicine-annual-report---ada-compliant.pdf?rev=2f53bae90ffd406da547496284c1e50a
+Snippet: 8 The Ohio <b>State</b> niversity College of Medicine medicine.osu.edu | 9 The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> 24.7K+ employees 1,824 attending physicians 1,031 residents and fellows 5,455 nursing staff $4.89B revenue By the numbers The Ohio <b>State</b> University College of Medicine Ranked No. 28 in research by U.S. News &amp; World <b>Report</b> $400M+
+
+Title: Key Facts and Figures - The Ohio State University Wexner Medical Center
+Link: https://wexnermedical.osu.edu/mediaroom/facts
+Snippet: Data about Ohio <b>State</b>’s Wexner <b>Medical</b> <b>Center</b> include: hospital names, bed numbers, admissions, births, ED visits, research dollars, honors. Here is some info from Ohio <b>State</b> – improving lives through excellence in research, education and patient care. ... Ranked for 32 consecutive years by U.S. News &amp; World <b>Report</b> Cancer; Cardiology ...
+
+Title: 2023 Nursing <b>Annual</b> <b>Report</b> - The <b>Ohio</b> <b>State</b> University Wexner <b>Medical</b> ...
+Link: https://wexnermedical.osu.edu/about-us/nursing/annual-report/2023/exemplary-professional-practice
+Snippet: Workplace safety is a national concern and an important one to us here at <b>Ohio</b> <b>State</b>. In June 2023, as part of the Nursing Professional Practice Committee, a team focused on finding and evaluating evidence-based patient screening tools developed a new policy, “Patient Aggression and Violent Behavior, Screening for the Risk of Nursing” and ...
+
+Title: Annual Reports | State Medical Board - Ohio
+Link: https://med.ohio.gov/about-the-board/communications/annual-reports
+Snippet: The <b>annual</b> <b>reports</b> contain a concise summary of agency activities. 2024 <b>Annual</b> <b>Report</b> . 2023 <b>Annual</b> <b>Report</b> . 2022 <b>Annual</b> <b>Report</b>. 2021 <b>Annual</b> <b>Report</b> . 2021 Year in Review (video) ... <b>State</b> <b>Medical</b> Board of Ohio | 30 East Broad Street, 3rd Floor, Columbus, OH 43215 | Call: 614-466-3934.
+
+Title: THE OHIO STATE UNIVERSITY WEXNER MEDICAL CENTER HEALTH SYSTEM
+Link: https://ohioauditor.gov/AuditSearch/Reports/2023/OSU_Wexner_Medical_Center_Health_System_2023_Franklin_FINAL.pdf
+Snippet: The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> Health System . 901 Woody Hayes Drive . Columbus, Ohio 43210 . We have reviewed the Independent Auditors’ <b>Report</b> of The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> Health System, Franklin County, prepared by KPMG LLP, for the audit period July 1, 2022 through June 30, 2023.
+
+Title: THE OHIO STATE UNIVERSITY WEXNER MEDICAL CENTER HEALTH SYSTEM
+Link: https://ohioauditor.gov/auditsearch/Reports/2021/OSU_Wexner_Medical_Health_Center_2021-Franklin_FINAL.pdf
+Snippet: 0 Blankenship Hall901 Woody Hayes DriveColumbus, Ohio 43210We have reviewed the <b>Report</b> of Independent Auditors of The Ohio <b>State</b> University Wexner <b>Medical Center</b> Health System, Franklin County, prepared by PricewaterhouseCoopers. LP, for the audit period July 1, 2020 through June 30, 2021. Based upon this review, we have accepted these <b>reports</b>.
+
+Remi: Results for query 'Ohio State Medical Center tax filings':
+Title: Ohio State University Medical Center Service Board
+Link: https://projects.propublica.org/nonprofits/organizations/311166607
+Snippet: Since 2013, the IRS has released data culled from millions of nonprofit <b>tax</b> <b>filings</b>. Use this database to find organizations and see details like their executive compensation, revenue and expenses, as well as download <b>tax</b> <b>filings</b> going back as far as 2001. ... Ohio <b>State</b> University <b>Medical</b> <b>Center</b> Service Board. Columbus, OH; <b>Tax</b>-exempt since ...
+
+Title: Tax Information | Office of Business and Finance - Ohio State University
+Link: https://busfin.osu.edu/buy-sell-travel/payroll-services/tax-information
+Snippet: Payroll Services provides your employer <b>tax</b> statement, Form W-2, and manages the processes for submitting your personal withholding elections in Workday. Payroll Services does not provide <b>tax</b> advising or consultation services. It is recommended that you contact your <b>tax</b> advisor or the Internal Revenue Service (IRS), 1-800-829-1040, for specific ...
+
+Title: Ohio State University Physicians Inc - ProPublica
+Link: https://projects.propublica.org/nonprofits/organizations/311447726
+Snippet: Nonprofit Explorer includes summary data for nonprofit <b>tax</b> returns and full Form 990 documents, in both PDF and digital formats. The summary data contains information processed by the IRS during the 2012-2019 calendar years; this generally consists of <b>filings</b> for the 2011-2018 fiscal years, but may include older <b>records</b>.
+
+Title: Tax Office | Office of Business and Finance - Ohio State University
+Link: https://busfin.osu.edu/university-business/tax-office
+Snippet: The <b>Tax</b> Office coordinates <b>tax</b> audits by various <b>tax</b> authorities and is responsible for preparing and <b>filing</b> the various university’s <b>tax</b> returns: Federal and <b>state</b> unrelated business income <b>tax</b> (UBIT) Federal, <b>state</b>, and local payroll <b>tax</b> payments. Federal excise, <b>state</b> sales &amp; use <b>tax</b>, hotel/motel <b>tax</b>, and local admissions <b>tax</b>.
+
+Title: Annual financial reports | Office of Business and Finance
+Link: https://busfin.osu.edu/university-business/controller/accounting/annual-financial-reports
+Snippet: Each year, the Controller&#39;s office works with our external auditor to prepare the university&#39;s annual financial report. The Board of Trustees and Auditor of <b>State</b> approve the final report. Fiscal 2023 annual report. The FY2023 annual financial report details Ohio <b>State</b>&#39;s financial activities and conditions for the fiscal year ended June 30, 2023.
+
+Title: Department of Taxation | Ohio.gov
+Link: https://tax.ohio.gov/home
+Snippet: In Ohio, you need to pay your income and school taxes as you earn money throughout the year. If you don’t pay enough, you might owe the 2210 interest penalty. Important information on Ohio&#39;s Expanded Sales <b>Tax</b> Holiday. August 03, 2024. Ohio Expands 2024 Sales <b>Tax</b> Holiday July 30 – August 8, 2024. Did you Receive a Non-Remittance Billing Notice.
+
+Title: Sales and Use Tax - Ohio.gov
+Link: https://ohio.gov/wps/portal/gov/site/business/resources/sales-and-use-tax
+Snippet: In addition, Ohio counties and local transit authorities may levy additional sales and use taxes. The Ohio Department of Taxation helps businesses understand their responsibilities to register for, collect, report, and pay sales and use <b>tax</b>. NOTICE: Ohio&#39;s Annual Sales <b>Tax</b> Holiday runs July 30 through Aug. 8, 2024.
+
+Title: Updated Provider Forms Now Available - ood.ohio.gov
+Link: https://ood.ohio.gov/wps/portal/gov/ood/information-for-providers/provider-news/updated-provider-forms-now-available
+Snippet: The current version of the <b>forms</b> will remain available on OOD&#39;s website at Provider <b>Forms</b> for the next 90 days so that providers may complete reports for services provided in FFY 2024 (on or before September 30, 2024) on the corresponding <b>forms</b>. User Testing. The new provider <b>forms</b> were tested with providers and OOD staff for feedback.
+
+Title: The Ohio State University Wexner Medical Center
+Link: https://wexnermedical.osu.edu/
+Snippet: The Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b> is a leader in central Ohio for healthcare and <b>medical</b> research. With a variety of services and locations throughout Ohio, OSU is the place for all of your healthcare needs. ... Fax referral <b>forms</b> to: 614-293-1456. Download Referral Form. The Ohio <b>State</b> difference
+
+Title: OH|Tax eServices - Ohio Department of Natural Resources
+Link: https://tax.ohio.gov/about/ohtax/ohtax+eservices?os&ref=app
+Snippet: The Ohio Department of Taxation (ODT) has implemented a new online system for Ohio taxpayers and <b>tax</b> preparers called OH|<b>Tax</b> eServices. This system modernizes and replaces systems that previously managed Ohio&#39;s individual and school district income taxes, offering an online &quot;banking experience&quot; to simplify and enhance our online services.Using the latest in security technologies, this service ...
+
+Remi: Results for query 'Ohio State Medical Center 990 form':
+Title: Ohio State University Physicians Inc - ProPublica
+Link: https://projects.propublica.org/nonprofits/organizations/311447726
+Snippet: Ohio <b>State</b> University Physicians Inc. Columbus, OH; Tax-exempt since Jan. 2003 EIN: 31-1447726 ... <b>Form</b> <b>990</b> is an information return that most organizations claiming federal tax-exempt status must file yearly with the IRS. ... (Cfo, <b>Medical</b> <b>Center</b>) $0: $1,633,644: $918,907: Lee Cheryl (Vice President) $0: $904,682: $110,989: Lonser ...
+
+Title: Ohio State University Medical Center Service Board
+Link: https://projects.propublica.org/nonprofits/organizations/311166607
+Snippet: Ohio <b>State</b> University <b>Medical</b> <b>Center</b> Service Board. Columbus, OH; Tax-exempt since June 1986 EIN: 31-1166607; ... Every organization that has been recognized as tax exempt by the IRS has to file <b>Form</b> <b>990</b> every year, unless they make less than $200,000 in revenue and have less than $500,000 in assets, in which case they have to file <b>form</b> <b>990</b>-EZ. ...
+
+Title: 2019 Form 990 for Ohio State University Medical Center Service Board
+Link: https://www.causeiq.com/organizations/view_990/311166607/2578b50537b45f274532472d181e6839
+Snippet: <b>Form</b>: 990EZ. EIN: 31-1166607. Download: Download PDF. Load rest of the <b>Form</b> <b>990</b> pages. View and download the year <b>Form</b> <b>990</b> for Ohio <b>State</b> University <b>Medical</b> <b>Center</b> Service Board, for the fiscal year ending 2019-06.
+
+Title: Search for tax exempt organizations | Internal Revenue Service
+Link: https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations
+Snippet: You can review the list of organizations that have filed <b>forms</b> in the <b>Form</b> <b>990</b> Series: <b>Form</b> <b>990</b>; <b>Form</b> <b>990</b>–EZ; <b>Form</b> <b>990</b>–PF (501(c)(3) Private Foundations) <b>Form</b> <b>990</b>–T (<b>990</b>–T returns for 501(c)(3) organizations only) Note: JAWS users will need to request these files. Latest data posting: August 6, 2024. For more information about the <b>Form</b> ...
+
+Title: Ohio State Health Inc - GuideStar Profile
+Link: https://www.guidestar.org/profile/31-1457189
+Snippet: This organization is required to file an IRS <b>Form</b> <b>990</b> or <b>990</b>-EZ. Sign in or create an account to view <b>Form</b>(s) <b>990</b> for 2022, 2021 and 2020. Register now. ... DEVELOP A CLINICALLY INTEGRATED NETWORK FOR THE OHIO <b>STATE</b> UNIVERSITY WEXNER <b>MEDICAL</b> <b>CENTER</b> (OSUWMC) THAT FURTHERS ITS TRIPARTITE MISSION OF EDUCATION, RESEARCH, AND PATIENT CARE, AND ...
+
+Title: Ohio State University Medical Center Service Board in Columbus, Ohio ...
+Link: http://www.nonprofitfacts.com/OH/Ohio-State-University-Medical-Center-Service-Board.html
+Snippet: Ohio <b>State</b> University <b>Medical</b> <b>Center</b> Service Board: Address: PO BOX 21781, Columbus, OH 43221-0781: Activities: Hospital auxiliary: ... <b>990</b> (all other) or 990EZ return: Asset Amount: $122,482: Amount of Income: $83,910: <b>Form</b> <b>990</b> Revenue Amount: $80,282: National Taxonomy of Exempt Entities (NTEE) Health - General and Rehabilitative: Hospital ...
+
+Title: Ohio State University Medical Center Service Board
+Link: https://www.guidestar.org/profile/31-1166607
+Snippet: Main address. PO Box 21781. Columbus, OH 43221 United States. EIN. 31-1166607. NTEE code info. Hospital (General) (E22) IRS filing requirement. This organization is required to file an IRS <b>Form</b> <b>990</b>-N.
+
+Title: Form 990 series downloads - Internal Revenue Service
+Link: https://www.irs.gov/charities-non-profits/form-990-series-downloads
+Snippet: <b>Form 990</b> series downloads. On this page you may download all the most recent <b>990</b> series filings on record in PDF and XML formats. The download files are organized by year and by month depending on the format. Some months may have more than one entry due to the size of the download. Tax Exempt Organization Search (TEOS) schemas — A self ...
+
+Title: Ohio State University Medical Center Service Board
+Link: https://www.taxexemptworld.com/organization.asp?tn=638731
+Snippet: Ohio <b>State</b> University <b>Medical Center</b> Service Board Po Box 21781 Columbus, OH 43221-0781 . Contact Info Executive Officer Name and Phone Number ... <b>Form</b> <b>990</b> - PDF files What is this? A <b>form</b> <b>990</b> is an information return filed with the IRS that shows extensive details on a nonprofit organization&#39;s income, assets, expenses, executives, directors ...
+
+Title: Franklin County- The Ohio State University Medical Center Schedule H ...
+Link: https://odh.ohio.gov/wps/portal/gov/odh/about-us/local-health-departments/population-health-plans-assessments/franklin-theohiostateuniversitymedicalcenter-sh-2015
+Snippet: The Ohio <b>State</b> University <b>Medical</b> <b>Center</b> Schedule H <b>Form</b> (<b>990</b>) 2015. IBM WebSphere Portal. ... Laws &amp; <b>Forms</b> Explore. Data &amp; Stats Find Local. Health Districts Media <b>Center</b>. Help <b>Center</b> ... top-close. Franklin County- The Ohio <b>State</b> University <b>Medical</b> <b>Center</b> Schedule H <b>Form</b> (<b>990</b>) 2015 {} Web Content Viewer. Actions. ODH; Who We Are; Local Health ...
+
+Remi: Results for query 'Ohio State Medical Center leadership':
+Title: Our People | The Ohio State University Wexner Medical Center
+Link: https://wexnermedical.osu.edu/about-us/our-people
+Snippet: He is a key member of the senior <b>leadership</b> teams for the Office of Legal Affairs and the Ohio <b>State</b> Wexner <b>Medical Center</b>. Matthew provides enterprisewide legal guidance on issues related to the academic health enterprise, including business ventures, health care services, scientific research and discovery as well as <b>medical</b> education.
+
+Title: Leadership | Ohio State College of Medicine
+Link: https://medicine.osu.edu/about-us/institution/deans-and-leaders
+Snippet: An internationally recognized head and neck cancer researcher, surgeon and leader in academic medicine, Dr. Carol R. Bradford became the dean of The Ohio <b>State</b> University College of Medicine and vice president for Health Sciences at The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> in 2020.
+
+Title: The Ohio State Wexner Medical Center’s New CEO | Ohio State Health ...
+Link: https://health.osu.edu/community-health/health-and-society/new-health-care-leader
+Snippet: The Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b>’s new CEO, John Warner, MD, plans to lead a health care transformation at Ohio <b>State</b>’s academic <b>medical</b> <b>center</b>. ... Having always placed patient care at the <b>center</b> of his <b>leadership</b>, he sees an opportunity to enhance the collaborations of the three-part mission of academic medicine happening at Ohio ...
+
+Title: John J. Warner | The Ohio State University
+Link: https://trustees.osu.edu/people/john-warner-0
+Snippet: Before joining Ohio <b>State</b>, Dr. Warner spent 20 years as a cardiologist and leader within the University of Texas Southwestern <b>Medical</b> <b>Center</b> in Dallas. In his first <b>leadership</b> role as CEO of University Hospitals and Clinics, he helped oversee the planning and construction of the new William P. Clements Jr. University Hospital. He went on to ...
+
+Title: Leadership announcement - Office of the President | Ohio State
+Link: https://president.osu.edu/story/leadership-announcement-011323
+Snippet: <b>Leadership</b> announcement. The following message was shared with all Ohio <b>State</b> students, faculty and staff on Friday, January 13, 2023. Dear Students, Faculty and Staff: I am thrilled to share with you the news that Dr. John J. Warner, MD, MBA, will serve as CEO of the Wexner <b>Medical</b> <b>Center</b> and executive vice president at Ohio <b>State</b>. Dr. Warner ...
+
+Title: John J. Warner named Wexner Medical Center chief ... - Ohio State News
+Link: https://news.osu.edu/john-j-warner-named-wexner-medical-center-chief-executive-officer-and-university-executive-vice-president/
+Snippet: The Ohio <b>State</b> University announced today that nationally recognized clinician and health care leader John J. Warner, MD, MBA, will serve as CEO of the Wexner <b>Medical</b> <b>Center</b> and executive vice president at Ohio <b>State</b>.“We are excited to welcome Dr. Warner to Ohio <b>State</b>. The breadth of his knowledge and experience will be critical to serve the W...
+
+Title: Our Mission | The Ohio State University Wexner Medical Center
+Link: https://wexnermedical.osu.edu/about-us/our-mission
+Snippet: The Ohio <b>State</b> University Wexner <b>Medical Center</b> is a proud part of one of America’s largest and most comprehensive universities. On the university’s main Columbus campus, more than 56,000 students are able to choose from 14 colleges, 175 undergraduate majors and 240 master’s, doctoral and professional degree programs.
+
+Title: New CEO Dr. John Warner and his approach to leadership | Ohio State ...
+Link: https://health.osu.edu/community-health/health-and-society/dr-warner-leadership-approach
+Snippet: John J. Warner, MD, shares his <b>leadership</b> focus and what matters to him as he embarks on new role. April 2, 2023. John J. Warner, MD, thinks of health care as an ecosystem. And, like all ecosystems, nurturing the individual parts benefits the whole. That begins by putting the patient and their families at the <b>center</b> of decision making.
+
+Title: Wexner Medical Center Board | The Ohio State University
+Link: https://trustees.osu.edu/wexner-medical-center-board/wexner-board-members
+Snippet: The Wexner <b>Medical</b> <b>Center</b> Board is the governing body, responsible to The Ohio <b>State</b> University Board of Trustees, for operation, oversight and coordination of the Wexner <b>Medical</b> <b>Center</b>. It is composed of up to 22 voting members, including six members of the University Board of Trustees, eleven public members and five ex-officio members.
+
+Title: Ohio State University Wexner Medical Center - Wikipedia
+Link: https://en.wikipedia.org/wiki/Ohio_State_University_Wexner_Medical_Center
+Snippet: The Ohio <b>State</b> University Wexner <b>Medical Center</b> (OSUWMC) is a multidisciplinary academic <b>medical</b> <b>center</b> located in Columbus, Ohio, United States, on the main campus of Ohio <b>State</b> University. For 29 consecutive years, U.S. News &amp; World Report has recognized Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b> specialties in its &quot;Best Hospitals&quot; rankings. In 2021 ...
+
+Remi: Results for query 'Ohio State Medical Center board of directors LinkedIn profiles':
+Title: Wexner Medical Center Board | The Ohio State University
+Link: https://trustees.osu.edu/wexner-medical-center-board/wexner-board-members
+Snippet: The Wexner <b>Medical</b> <b>Center</b> <b>Board</b> is the governing body, responsible to The Ohio <b>State</b> University <b>Board</b> of Trustees, for operation, oversight and coordination of the Wexner <b>Medical</b> <b>Center</b>. It is composed of up to 22 voting members, including six members of the University <b>Board</b> of Trustees, eleven public members and five ex-officio members.
+
+Title: Rachel Cordray - Director of Executive Communications - The Ohio State ...
+Link: https://www.linkedin.com/in/rachelcordray
+Snippet: · Experience: The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> · Education: Ohio University · Location: Columbus · 500+ connections on <b>LinkedIn</b>. View Rachel Cordray’s <b>profile</b> on <b>LinkedIn</b>, a ...
+
+Title: Our People - The Ohio State University Wexner Medical Center
+Link: https://wexnermedical.osu.edu/about-us/our-people
+Snippet: Associate <b>Director</b> for Diversity, Equity and Inclusion, The Ohio <b>State</b> University Comprehensive Cancer <b>Center</b>. Dr. Chyke Doubeni joined the Ohio <b>State</b> Wexner <b>Medical Center</b> as chief health equity officer July 1, 2022. He also serves in the Ohio <b>State</b> Comprehensive Cancer <b>Center</b> as associate <b>director</b> for Diversity, Equity and Inclusion.
+
+Title: Wexner Medical Center Board | The Ohio State University
+Link: https://trustees.osu.edu/wexner-medical-center
+Snippet: Committees. The Quality &amp; Professional Affairs Committee reports to the Wexner <b>Medical Center</b> <b>Board</b> and is responsible for, among other things, reviewing and evaluating the <b>medical center</b>&#39;s patient safety and quality improvement programs and granting clinical privileges for the credentialing of practitioners.
+
+Title: Thomas Ryan - Director, The Ohio State University Heart and ... - LinkedIn
+Link: https://www.linkedin.com/in/drthomasryan
+Snippet: Lead the Heart and Vascular <b>Center</b> for the Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b>, including the Ross Heart Hospital. Oversee all clinical activities involving cardiovascular medicine and ...
+
+Title: John F. Plant, JD, CPHRM - Senior Assistant Vice President ... - LinkedIn
+Link: https://www.linkedin.com/in/johnfplant3
+Snippet: Senior Assistant Vice President Senior Associate General Counsel <b>Director</b>, Risk Management · John Plant, JD, CPHRM&lt;br&gt;johnfplant3@gmail.com&lt;br&gt;_____&lt;br&gt;&lt;br&gt;;Compliance | Risk Management ...
+
+Title: Whitney Luke, MD, MBOE - Clinical Professor - The Ohio State ... - LinkedIn
+Link: https://www.linkedin.com/in/whitney-luke-md-mboe-199b02183
+Snippet: Department Chair and <b>Medical</b> <b>Director</b> for Oncology Rehabilitation at The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b>. Clinical interests include interventional cancer pain management, cancer ...
+
+Title: Nahush Mokadam - Division Director, Cardiac Surgery - The Ohio State ...
+Link: https://www.linkedin.com/in/nahush-mokadam-31351517
+Snippet: Division <b>Director</b>, Cardiac Surgery at The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> · I&amp;#39;m a Cardiac Surgeon, Division <b>Director</b>, a well-published academic, consultant to several companies ...
+
+Title: Director of Social Media and Engagement - LinkedIn
+Link: https://www.linkedin.com/in/kellymcdonald52
+Snippet: <b>Director</b> of Social Media and Engagement at The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> | <b>Board</b> Chair, SocialMedia.org Health · Gone are the days where brand reputation was based purely on ...
+
+Title: Meetings and Minutes | The Ohio State University
+Link: https://trustees.osu.edu/wexner-board-meetings-minutes
+Snippet: 4:00 p.m. - 5:00 p.m. Quality and Professional Affairs Committee Meeting. Location: 234 Meiling Hall, 370 W 9th Ave. November 19. November 20. November 21. November 26. Listing of information about past meetings and their recorded minutes.
+
+Remi: Results for query 'Ohio State Medical Center key decision makers':
+Title: Nursing Leadership | Ohio State Medical Center
+Link: https://wexnermedical.osu.edu/about-us/nursing/leadership
+Snippet: The Nursing Executive Council (NEC), chaired by The Ohio <b>State</b> University Health System CNE, serves as the <b>key</b> <b>decision</b>-<b>making</b>, strategic planning and coordinating body on behalf of all nurses and nursing staff at The Ohio <b>State</b> University Wexner <b>Medical Center</b>. The NEC is comprised of senior nursing leaders from the <b>medical</b> <b>center</b>, and the NEC ...
+
+Title: Making informed healthcare decisions | Ohio State Health &amp; Discovery
+Link: https://health.osu.edu/health/general-health/make-evidenced-based-health-care-decisions
+Snippet: The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> patient education resources include the Library for Health Information and the Patient Education Library. The Cochrane Consumer Network is a community open to patients, caregivers, family members and others interested in high quality health evidence.
+
+Title: Health System Nursing | Ohio State Medical Center
+Link: https://wexnermedical.osu.edu/about-us/nursing
+Snippet: More than 5,200 team members representing more than 26% of the <b>medical center</b>’s overall workforce. 38.4 average age of our nurses. 2 Magnet-designated hospitals. More than 1,400 nurses with at least 10 years of experience. 2-5 years average tenure of our nurses. More than 600 advanced practice nurses. More than 80% baccalaureate-prepared nurses.
+
+Title: Our Mission | The Ohio State University Wexner Medical Center
+Link: https://wexnermedical.osu.edu/about-us/our-mission
+Snippet: The Ohio <b>State</b> University Wexner <b>Medical Center</b> is a proud part of one of America’s largest and most comprehensive universities. On the university’s main Columbus campus, more than 56,000 students are able to choose from 14 colleges, 175 undergraduate majors and 240 master’s, doctoral and professional degree programs.
+
+Title: College of Medicine professor studies what patients really want from ...
+Link: https://medicine.osu.edu/news/2023/03/patient-preference-studies
+Snippet: Patient preference studies document what elements of treatment matter to patients, how much they matter and how patients make trade-offs between treatment options. Patients are the most important stakeholders who are affected by <b>decisions</b> made by <b>medical</b> personnel, policy <b>makers</b> and insurance providers. Using cutting-edge science to analyze patient preference can ensure that studies are most ...
+
+Title: Decision Support Tool for Prevention of Failure ... - Ohio State University
+Link: https://oied.osu.edu/technologies/decision-support-tool-prevention-failure-rescue-events
+Snippet: The Ohio <b>State</b> University Corporate Engagement Office. Back to All Technologies ... OSU Wexner <b>Medical</b> <b>Center</b> . Researchers. Garvey, Paula. Justice, Stephanie ... schultz.905@osu.edu. T2021-085 A clinical <b>decision</b> support tool for minimizing failure to rescue events at hospitals. Failure to rescue (FTR) is a serious issue in patient safety and ...
+
+Title: Ohio State drives remarkable COVID-19 innovations to save lives
+Link: https://medicine.osu.edu/about-us/annual-report/ohio-state-tackles-covid-19
+Snippet: By <b>making</b> these discoveries early, Ohio <b>State</b> scientists have a clearer line of sight to be able to make <b>decisions</b> based on scientific data versus speculation. ... BSBA, senior director of Access and Capacity Management at the Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b>, says 250 patients have been seen since Oct. 1 with what’s being coined long COVID ...
+
+Title: Increasing capacity to understand the whole patient in evaluation
+Link: https://medicine.osu.edu/news/increasing-patient-centered-outcomes
+Snippet: The next step in the process: <b>decision</b> <b>makers</b> need to understand and consider the priorities and preferences of patients from all walks of life. ... Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b> surpasses 1,100 monoclonal antibody infusions. Follow us on Facebook; Follow us on X; Follow us on Instagram; 370 W. 9th Avenue, Columbus, OH 43210.
+
+Title: End of Life Decision Making - CETE
+Link: https://cete.osu.edu/endoflife/
+Snippet: The grant is intended to help forge trust between both parties while alleviating uncertainty around end-of-life <b>decision</b> <b>making</b>, and Dr. Mobin-Uddin says the ultimate goal is to develop a tool to facilitate such conversations prior to going to the hospital. Funded by The Ohio <b>State</b> University’s Office of Outreach and Engagement. Project ...
+
+Title: 5 to Thrive | A Workshop for Developing Leaders - U.OSU
+Link: https://u.osu.edu/5tothrive/
+Snippet: 5-to-Thrive is a unique leadership training program that breaks the mold. Unlike traditional programs, we focus on the needs of the participants, not just the content. Through in-depth discussions with <b>decision</b>-<b>makers</b> and interested participants, we tailor a plan that delivers targeted, useful training.
+
+Remi: Results for query 'Ohio State Medical Center news':
+Title: Press Releases - The Ohio State University Wexner Medical Center
+Link: https://wexnermedical.osu.edu/mediaroom/pressreleaselisting
+Snippet: The Ohio <b>State</b> <b>Medical</b> <b>Center</b> Media Room is a reliable and accurate resource for the latest in healthcare <b>news</b>. Stay up to date with our <b>medical</b> breakthroughs. ... For more <b>news</b> and press releases about cancer treatment and research, visit Ohio <b>State</b>&#39;s Comprehensive Cancer <b>Center</b> – James Cancer Hospital and Solove Research Institute.
+
+Title: With new inpatient hospital, Ohio State will transform healthcare in ...
+Link: https://wexnermedical.osu.edu/mediaroom/pressreleaselisting/with-new-inpatient-hospital-ohio-state-will-transform-healthcare-in-ohio
+Snippet: COLUMBUS, Ohio – In any other year, a groundbreaking ceremony would have marked the start of construction on the new $1.79 billion Inpatient Hospital at The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> in October. But during the COVID-19 pandemic, that wasn’t possible.
+
+Title: Ohio State Wexner Medical Center ranked among nation’s best in 10 ...
+Link: https://wexnermedical.osu.edu/mediaroom/pressreleaselisting/usnwr-best-hospitals-2023-2024
+Snippet: For the 31st consecutive year, U.S. <b>News</b> &amp; World Report has recognized The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> as a national leader in health care. According to the 2023-2024 “Best Hospitals” report issued today, Ohio <b>State</b> is nationally ranked in 10 areas of complex specialty care.
+
+Title: Ohio State anticipates new hospital’s contributions to the future of ...
+Link: https://news.osu.edu/ohio-state-anticipates-new-hospitals-contributions-to-the-future-of-health-care/
+Snippet: In any other year, a groundbreaking ceremony would have marked the start of construction on the new $1.79 billion inpatient hospital at The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> in October. But during the COVID-19 pandemic, that wasn’t possible.Today, 10 months into the project, about 100 people gathered for a “Building a Healthier Tomorro...
+
+Title: University takes next step with new inpatient hospital - Ohio State News
+Link: https://news.osu.edu/university-takes-next-step-with-new-inpatient-hospital/
+Snippet: This is the next step in the university’s long-term Framework 2.0 planning and the Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b> strategic plan. “The new inpatient hospital will serve as a model for 21st-century hospitals by further integrating research, diagnosis, treatment and education,” said Ohio <b>State</b> President-elect Kristina M. Johnson.
+
+Title: In the News: Ohio State Transforms Health Care ... - Ohio State University
+Link: https://buildingthefuture.osu.edu/news/2021/08/17/news-ohio-state-transforms-health-care-ohio-new-inpatient-hospital
+Snippet: COLUMBUS, Ohio – In any other year, a groundbreaking ceremony would have marked the start of construction on the new $1.79 billion Inpatient Hospital at The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> in October. But during the COVID-19 pandemic, that wasn’t possible.
+
+Title: Ohio State University Wexner Medical Center
+Link: https://osuwmc.multimedia-newsroom.com/
+Snippet: Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b> Opens Mass COVID-19 Vaccination Site. This New Year, Give Yourself a Break and Resolve to Reset for 2021. Making a big resolution can be counterproductive. Instead, focus on self-care.
+
+Title: In the News: Construction update on Ohio State Wexner Medical&#39;s new ...
+Link: https://buildingthefuture.osu.edu/news/2023/10/23/news-construction-update-ohio-state-wexner-medicals-new-hospital-tower
+Snippet: As highlighted by Columbus Business First, The inpatient hospital is 70% complete with construction. &quot;Despite inflation, close collaboration and transparency between that huge crew, contractors, administrators and leadership has kept construction on budget and on time for an early 2026 opening,&quot; said Kristin Poldemann, associate vice president for Facilities Design and Construction.
+
+Title: Ohio State University Wexner Medical Center - US News Health
+Link: https://health.usnews.com/best-hospitals/area/oh/ohio-state-university-wexner-medical-center-6411100
+Snippet: Book an Appointment. Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> | 370 West 9th Avenue, Columbus, OH 43210-1238
+
+Title: Columbus to get new Ohio State Wexner Medical rehab hospital
+Link: https://www.dispatch.com/story/news/local/2022/08/19/columbus-to-get-new-ohio-state-wexner-medical-rehab-hospital/65410709007/
+Snippet: 0:03. 1:29. The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> revealed plans Friday for the construction of a three-story adult inpatient rehabilitation hospital slated to open in 2025 on Taylor ...
+
+Remi: Results for query 'Ohio State Medical Center labor relations':
+Title: Employee and Labor Relations - Human Resources at Ohio State
+Link: https://hr.osu.edu/services/elr/
+Snippet: The Employee and <b>Labor Relations</b> (ELR) team serves as a trusted partner to faculty, staff and human resource professionals regarding questions, conflicts and issues that arise in the workplace. The ELR team leads these services and strategies for the Ohio <b>State</b> community and Wexner <b>Medical</b> <b>Center</b>.
+
+Title: Employee and Labor Relations Contacts - Human Resources at Ohio State
+Link: https://hr.osu.edu/services/elr/contacts/
+Snippet: Contact. HR Connection hrconnection.osu.edu (614) 247-myHR (6947) (614) 292-6199 (Fax) hrconnection@osu.edu. Employee and <b>Labor</b> <b>Relations</b> contacts for Ohio <b>State</b> main and regional campus employees, extension employees and <b>medical</b> <b>center</b> employees.
+
+Title: Labor Relations - Human Resources at Ohio State
+Link: https://hr.osu.edu/services/elr/labor-relations/
+Snippet: HR Connection hrconnection.osu.edu (614) 247-myHR (6947) (614) 292-6199 (Fax) hrconnection@osu.edu. Employee and <b>Labor</b> <b>Relations</b> Senior Representatives collaborate with human resource professionals to administer and interpret various collective bargaining agreements to ensure integration and consistency across the university, facilitate problem ...
+
+Title: Human Resources | ASC Intranet
+Link: https://ascintranet.osu.edu/business-services/human-resources-0
+Snippet: Human Resources Overview - Arts and Sciences. Human Resources at Ohio <b>State</b> is comprised of professionals across the university and <b>medical</b> <b>center</b> who support current and prospective faculty, staff, and students in the areas of benefits, compensation, employee and <b>labor</b> <b>relations</b>, and integrated talent management, as well as college/unit strategic HR initiatives and services.
+
+Title: Careers-Job Openings | Ohio State Medical Center
+Link: https://wexnermedical.osu.edu/careers/current-openings
+Snippet: At Ohio <b>State</b>, students gain real-world experience at one of the nation’s largest and most diverse academic <b>medical</b> centers. Health Care Careers Exploration for Schools Our Workforce Partnerships program offers a variety of opportunities for students in area K-12 schools to learn about careers in health care.
+
+Title: Labor and Delivery | Ohio State Maternity Center
+Link: https://wexnermedical.osu.edu/obstetrics-gynecology/maternity-center/labor-and-delivery
+Snippet: Obstetrics and Gynecology Kenny Road. 2020 Kenny Road. Columbus, OH 43221. 614-293-3069. while thousands of women choose to have their babies with us each year, it’s the personalized attention and care we provide to every single one of them that makes our maternity experience so memorable.
+
+Title: Ohio State University Wexner Medical Center Names First Chief Supply ...
+Link: https://wexnermedical.osu.edu/mediaroom/pressreleaselisting/mueller-announcement
+Snippet: Mueller’s annual salary will be $300,000. ###. Media Contact: Marti Leitch. Wexner <b>Medical</b> <b>Center</b> Media <b>Relations</b>. 614-293-3737. Marti.Leitch@osumc.edu. The Ohio <b>State</b> University Wexner <b>Medical Center</b> has appointed Hal Mueller to be the hospital system’s first chief supply chain officer. Mueller will start April 6.
+
+Title: About - Ohio State University Nurses Organization - OSUNO
+Link: https://www.osuno.com/about
+Snippet: Provide a <b>labor</b> <b>relations</b> specialist, as needed (via the Ohio Nurses Association), to represent a nurse(s) with a discipline/grievance issue. ... Strengthen the practice of nursing at The Ohio <b>State</b> University <b>Medical</b> <b>Center</b> by providing its registered nurses a strong voice to advocate for their patients and workplace.
+
+Title: Ohio State hospital workers unionize, citing unsafe staff levels and ...
+Link: https://www.nbc4i.com/news/local-news/ohio-state-university/ohio-state-hospital-workers-unionize-citing-unsafe-staff-levels-and-low-wages/
+Snippet: Updated: Jan 9, 2024 / 06:47 AM EST. COLUMBUS, Ohio ( WCMH) — More health care workers at Ohio <b>State</b> University’s hospital system have unionized. Nearly 1,000 patient care associates and ...
+
+Title: Human Resources at Ohio State
+Link: https://hr.osu.edu/
+Snippet: Employee and <b>Labor</b> <b>Relations</b>; Employment Verification; Form I-9 &amp; E-Verify; Professional Development Resources; View All HR Services; ... Wexner <b>Medical</b> <b>Center</b>. To introduce new Ohio <b>State</b> employees to the culture of Ohio <b>State</b> and set them up for success from their first day, all newly hired Wexner <b>Medical</b> <b>Center</b> staff will attend a virtual ...
+
+Remi: Results for query 'Ohio State Medical Center union disputes':
+Title: Ohio State hospital workers unionize, citing unsafe staff levels and ...
+Link: https://www.nbc4i.com/news/local-news/ohio-state-university/ohio-state-hospital-workers-unionize-citing-unsafe-staff-levels-and-low-wages/
+Snippet: Updated: Jan 9, 2024 / 06:47 AM EST. COLUMBUS, <b>Ohio</b> ( WCMH) — More health care workers at <b>Ohio</b> <b>State</b> University’s hospital system have unionized. Nearly 1,000 patient care associates and ...
+
+Title: Employee and Labor Relations - Human Resources at Ohio State
+Link: https://hr.osu.edu/services/elr/
+Snippet: Find Your Employee and Labor Relations Contact. —. HR Connection hrconnection.osu.edu (614) 247-myHR (6947) (614) 292-6199 (Fax) hrconnection@osu.edu. The Employee and Labor Relations (ELR) team serves as a trusted partner to faculty, staff and human resource professionals regarding questions, conflicts and issues that arise in the workplace.
+
+Title: OSU Wexner Medical Center workers vote to unionize - Spectrum News
+Link: https://spectrumnews1.com/oh/columbus/news/2024/01/03/osu-health-care-workers-unionize
+Snippet: <b>Ohio</b> <b>State</b> Wexner <b>Medical</b> <b>Center</b> health care workers vote to unionize. By Nathan Sharman <b>Ohio</b>. PUBLISHED 4:45 PM ET Jan. 03, 2024. COLUMBUS, <b>Ohio</b> — Health care workers at <b>Ohio</b> <b>State</b> University&#39;s (OSU) Wexner <b>Medical</b> <b>Center</b> have voted to join the International Association of Machinists and Aerospace Workers (IAM).
+
+Title: Labor Relations - Human Resources at Ohio State
+Link: https://hr.osu.edu/services/elr/labor-relations/
+Snippet: HR Connection hrconnection.osu.edu (614) 247-myHR (6947) (614) 292-6199 (Fax) hrconnection@osu.edu. Employee and Labor Relations Senior Representatives collaborate with human resource professionals to administer and interpret various collective bargaining agreements to ensure integration and consistency across the university, facilitate problem ...
+
+Title: Ohio State nurses protest for more pay and better working ... - Reddit
+Link: https://www.reddit.com/r/Columbus/comments/uu074g/ohio_state_nurses_protest_for_more_pay_and_better/
+Snippet: <b>Ohio</b> <b>State</b>&#39;s nurses have filed 3,000 unsafe situations objects since January 2021, he said. Wexner <b>Medical</b> <b>Center</b> officials said through a spokesperson Wednesday that negotiators offered a “market-competitive wage proposal that benefits all and will greatly enhance our ability to recruit and retain high-quality nurses.”.
+
+Title: Nearly 1,000 Health Care Workers at <b>Ohio</b> <b>State</b> University’s ... - IAMAW
+Link: https://www.goiam.org/news/departments/hq/organizing/nearly-1000-health-care-workers-at-ohio-state-universitys-wexner-medical-center-vote-to-join-iam-union/
+Snippet: COLUMBUS, <b>Ohio</b>, Jan. 3, 2024 – Nearly 1,000 Patient Care Associates (PCAs) and Psychiatric Care Technicians (PCTs) at the <b>Ohio</b> <b>State</b> University’s Wexner <b>Medical</b> <b>Center</b> have voted to join the International Association of Machinists and Aerospace Workers (IAM).The healthcare workers chose IAM representation in a mail ballot election conducted between Dec. 5 and 19, which concluded with the ...
+
+Title: Ohio State nurses protest for more pay and better working conditions
+Link: https://www.wosu.org/news/2022-05-19/ohio-state-nurses-protest-for-more-pay-and-better-working-conditions
+Snippet: Published May 19, 2022 at 4:27 PM EDT. Listen • 1:01. 1 of 3. <b>Ohio</b> <b>State</b> Wexner <b>Medical</b> <b>Center</b> nurses protested outside of the hospital on Thursday, May 19 to demand better pay and working conditions. The nurses&#39; labor <b>union</b>, the <b>Ohio</b> <b>State</b> Nurses Association, and the hospital are currently in negotiations for a new contract. Renee Fox / WOSU.
+
+Title: Ohio State health care workers unionize, fight for fair wages and ...
+Link: https://www.thelantern.com/2024/01/ohio-state-health-care-workers-unionize-fight-for-fair-wages-and-increased-staffing/
+Snippet: Nearly 1,000 health care workers at <b>Ohio</b> <b>State</b>’s Wexner <b>Medical</b> <b>Center</b> have voted to unionize, joining the International Association of Machinists and Aerospace Workers which is one of the ...
+
+Title: AGREEMENT - hr.osu.edu
+Link: https://hr.osu.edu/wp-content/uploads/ona-agreement-2022-25.pdf
+Snippet: THE <b>OHIO</b> <b>STATE</b> UNIVERSITY. July 1, 2022 . through . July 1, 2025 . i TABLE OF CONTENTS . ... &quot;<b>Medical</b> <b>Center</b>.&quot; Section 2: The purpose of this Agreement is to maintain an orderly system of employer - employee relations, which will facilitate joint discussions and cooperative solutions of
+
+Title: Ohio State nurses union files OSHA complaint; alleges medical center ...
+Link: https://www.10tv.com/article/news/local/ohio-state-nurses-union-files-osha-complaint-alleges-medical-center-endangering-medical/530-640a7f52-dd0f-4ab8-a1f6-1e0ba5cb7250
+Snippet: COLUMBUS, <b>Ohio</b> - The <b>union</b> representing more than 4,000 nurses at The <b>Ohio</b> <b>State</b> University Wexner <b>Medical</b> <b>Center</b> accuses the hospital of endangering the health and safety of <b>medical</b> staff during ...
+
+Remi: Results for query 'Ohio State Medical Center strikes':
+Title: Ohio State hospital workers unionize, citing unsafe staff levels and ...
+Link: https://www.nbc4i.com/news/local-news/ohio-state-university/ohio-state-hospital-workers-unionize-citing-unsafe-staff-levels-and-low-wages/
+Snippet: Updated: Jan 9, 2024 / 06:47 AM EST. COLUMBUS, <b>Ohio</b> ( WCMH) — More health care workers at <b>Ohio</b> <b>State</b> University’s hospital system have unionized. Nearly 1,000 patient care associates and ...
+
+Title: AGREEMENT - hr.osu.edu
+Link: https://hr.osu.edu/wp-content/uploads/ona-agreement-2022-25.pdf
+Snippet: agreement. between . the <b>ohio</b> nurses association/aft, afl -cio. and . the <b>ohio</b> <b>state</b> university. july 1, 2022 . through . july 1, 2025
+
+Title: Home - Ohio State University Nurses Organization
+Link: https://www.osuno.com/
+Snippet: This means that since the <b>Medical</b> <b>Center</b>&#39;s 2024 Merit budget is 3.5%, we will also receive that increase in the pay period that includes September 1. For those of you at the maximum, your wage will increase 3.0%, and then you will receive the additional 0.5% as a lump sum payment. Remember to add one year of experience when looking up your new ...
+
+Title: Nurses reach tentative wage-boost agreement with Ohio State med center
+Link: https://www.nbc4i.com/news/local-news/ohio-state-university/nurses-reach-tentative-wage-boost-agreement-with-ohio-state-med-center/
+Snippet: The <b>Ohio</b> Nurses Association, a union that represents the <b>Ohio</b> <b>State</b> University Nurses Organization, said it agreed to a tentative three-year contract proposal with the Wexner <b>Medical</b> <b>Center</b> Friday ...
+
+Title: Nurses union ratifies new contract with SRMC - Salem News
+Link: https://www.salemnews.net/news/local-news/2024/04/nurses-union-ratify-new-contract-with-srmc/
+Snippet: SALEM—The nurses union ratified a new contract with the Salem Regional <b>Medical</b> <b>Center</b> Sunday, averting a potential <b>strike</b>. “We are thankful for the support from community members, Senator ...
+
+Title: Nurses union reaches tentative agreement with Ohio State University
+Link: https://abc6onyourside.com/news/local/ohio-nurses-association-osunu-reaches-tentative-agreement-with-ohio-state-university
+Snippet: The <b>Ohio</b> Nurses Association said Friday it has reached a tentative agreement with <b>Ohio</b> <b>State</b> University. ... Game <b>Center</b>. Watch. Now. 73. Sat. 84. Sun. 88 ... Fri, May 20th 2022 at 5:15 PM. <b>Ohio</b> ...
+
+Title: Ohio State nurses protest for more pay and better working conditions
+Link: https://www.wosu.org/news/2022-05-19/ohio-state-nurses-protest-for-more-pay-and-better-working-conditions
+Snippet: Published May 19, 2022 at 4:27 PM EDT. Listen • 1:01. 1 of 3. <b>Ohio</b> <b>State</b> Wexner <b>Medical</b> <b>Center</b> nurses protested outside of the hospital on Thursday, May 19 to demand better pay and working conditions. The nurses&#39; labor union, the <b>Ohio</b> <b>State</b> Nurses Association, and the hospital are currently in negotiations for a new contract. Renee Fox / WOSU.
+
+Title: RN strike planned at Salem Regional Medical Center over a new contract
+Link: https://www.wfmj.com/story/50666030/rn-strike-planned-at-salem-regional-medical-center-over-a-new-contract
+Snippet: Friday, April 12th 2024, 5:09 PM EDT. By Jeena Cadigan. The <b>Ohio</b> Nurses Association has submitted a 10-day <b>strike</b> notice to the Salem Regional <b>Medical</b> <b>Center</b> on behalf of the Registered Nurses in ...
+
+Title: Salem Regional Medical Center Nurses Issue Strike Notice
+Link: https://ohnurses.org/salem-regional-medical-center-nurses-issue-strike-notice/
+Snippet: April 12, 2024. Salem, <b>Ohio</b> –– Nurses at Salem Regional <b>Medical</b> <b>Center</b>, represented by the <b>Ohio</b> Nurses Association (ONA) and the American Federation of Teachers (AFT), have overwhelmingly voted to issue a 10-day <b>strike</b> notice to the hospital. This decision arises from the hospital’s failure to address critical nurse staffing issues ...
+
+Title: SRMC nurses issue 10-day strike notice - Salem News
+Link: https://www.salemnews.net/news/local-news/2024/04/srmc-nurses-issue-10-day-strike-notice/
+Snippet: SALEM — Salem Regional <b>Medical</b> <b>Center</b> nurses represented by the <b>Ohio</b> Nurses Association (ONA), American Federation of Teachers, Salem Regional Nurses Association issued a 10-day <b>strike</b> notice ...
+
+Remi: Results for query 'Ohio State Medical Center negotiations':
+Title: AGREEMENT - hr.osu.edu
+Link: https://hr.osu.edu/wp-content/uploads/ona-agreement-2022-25.pdf
+Snippet: THE <b>OHIO</b> <b>STATE</b> UNIVERSITY. July 1, 2022 . through . July 1, 2025 . i ... &quot;<b>Medical</b> <b>Center</b>.&quot; Section 2: The purpose of this Agreement is to maintain an orderly system of employer - ... <b>negotiations</b>. Section 3: Where there are bulletin boards for Hospital employees, including electronic
+
+Title: Home - Ohio State University Nurses Organization
+Link: https://www.osuno.com/
+Snippet: 2024 Wage Charts. During our 2022 <b>negotiations</b>, we successfully retained our &quot;me too&quot; clause in our contract language. This means that since the <b>Medical</b> <b>Center</b>&#39;s 2024 Merit budget is 3.5%, we will also receive that increase in the pay period that includes September 1.
+
+Title: Ohio State hospital workers unionize, citing unsafe staff levels and ...
+Link: https://www.nbc4i.com/news/local-news/ohio-state-university/ohio-state-hospital-workers-unionize-citing-unsafe-staff-levels-and-low-wages/
+Snippet: COLUMBUS, <b>Ohio</b> — More health care workers at <b>Ohio</b> <b>State</b> University’s hospital system have unionized.Nearly 1,000 patient care associates and psychiatric care technicians at the Wexner <b>Medical</b> ...
+
+Title: Newly ratified contract raises the bar for nurses at OSU
+Link: https://www.aft.org/news/newly-ratified-contract-raises-bar-nurses-osu
+Snippet: Long before the registered nurses at the <b>Ohio</b> <b>State</b> University Wexner <b>Medical</b> <b>Center</b> in Columbus began negotiating for a new contract, members laid the groundwork for their plan to achieve a landmark agreement. On July 11, the nearly 4,000-member <b>Ohio</b> <b>State</b> University Nurses Organization/<b>Ohio</b> Nurses Association ratified a three-year agreement that includes wage increases between 15 and 18 ...
+
+Title: Labor Relations - Human Resources at Ohio State
+Link: https://hr.osu.edu/services/elr/labor-relations/
+Snippet: HR Connection hrconnection.osu.edu (614) 247-myHR (6947) (614) 292-6199 (Fax) hrconnection@osu.edu. Employee and Labor Relations Senior Representatives collaborate with human resource professionals to administer and interpret various collective bargaining agreements to ensure integration and consistency across the university, facilitate problem ...
+
+Title: 2021 Wage Increase - Ohio State University Nurses Organization - OSUNO
+Link: https://www.osuno.com/resources/2021wageincrease
+Snippet: Our contract contains the following language (Article 21, Section 1, page 35): &quot;Effective the pay period that includes September 1, 2021, nurses will receive a base pay increase of 2.0%. If the <b>Medical</b> <b>Center</b> merit budget is greater than 2.0%, the 2.0% will be increased by the difference between the <b>Medical</b> <b>Center</b> merit budget and 2.0%.
+
+Title: OSU Transplant Nurses Organization (2022-25) - Ohio State University
+Link: https://hr.osu.edu/wp-content/uploads/osutna-agreement-2022-25.pdf
+Snippet: Section 1: This agreement is made and entered into this 7th day of September, 2022, by and between the <b>Ohio</b> Nurses Association, hereinafter referred to as “ONA,” the <b>Ohio</b> <b>State</b> University Transplant Nurses Organization, hereinafter referred to as “OSUTNO,” The <b>Ohio</b> <b>State</b> University, hereinafter referred to either as the “University ...
+
+Title: Nurses reach tentative agreement with Ohio State Wexner Medical Center ...
+Link: https://www.10tv.com/article/news/local/nurses-reach-agreement-with-ohio-state-wexner-medical-center/530-041cd42f-a5c3-4bc4-ba2d-a463a6764643
+Snippet: The nurses and the <b>medical</b> <b>center</b> began <b>negotiations</b> on March 1, 2022. The announcement of an agreement comes one day after the nurses held a protest outside of the hospital.
+
+Title: Nurses reach tentative wage-boost agreement with Ohio State med center
+Link: https://www.nbc4i.com/news/local-news/ohio-state-university/nurses-reach-tentative-wage-boost-agreement-with-ohio-state-med-center/
+Snippet: COLUMBUS, <b>Ohio</b> (WCMH) — After nearly three months of negotiating for better working conditions, the <b>Ohio</b> Nurses Association has reached a tentative agreement with <b>Ohio</b> <b>State</b> Wexner <b>Medical</b> Ce…
+
+Title: Nurses and Ohio State Wexner Medical Center Reach Tentative Agreement
+Link: https://ohnurses.org/nurses-and-ohio-state-wexner-medical-center-reach-tentative-agreement/
+Snippet: The nurses and the <b>Medical</b> <b>Center</b> began <b>negotiations</b> March 1, 2022. OSUNO is a local unit of the <b>Ohio</b> Nurses Association (an affiliate of the AFT) and consists of nearly 4,000 registered nurses. The nurses will vote on the agreement late next week. ###. Contact: Anne Ransone, <b>Ohio</b> Nurses Association. aransone@ohnurses.org | 614-975-0485. The ...
+
+Remi: Results for query 'Ohio State Medical Center controversies':
+Title: Lawsuits Against Ohio State University Over Team Doctor Dismissed - NPR
+Link: https://www.npr.org/2021/09/22/1039899108/ohio-state-sex-abuse-doctor-richard-strauss
+Snippet: Angie Wang/AP. COLUMBUS, Ohio — A federal judge dismissed some of the biggest remaining lawsuits over Ohio <b>State</b>&#39;s failure to stop decades-old sexual abuse by now-deceased team doctor Richard ...
+
+Title: Supreme Court rebuffs OSU and enables the remaining sex abuse victims ...
+Link: https://www.nbcnews.com/news/supreme-court-rebuffs-osu-enables-remaining-sex-abuse-victims-sue-rcna87519
+Snippet: The Supreme Court handed Ohio <b>State</b> University a potentially costly defeat on Monday by refusing to reconsider a lower court ruling that said former students should be allowed to sue it for ...
+
+Title: US Supreme Court rebuffs Ohio State University bid to thwart sex abuse ...
+Link: https://www.reuters.com/legal/us-supreme-court-rebuffs-ohio-state-university-bid-thwart-sex-abuse-suits-2023-06-26/
+Snippet: The U.S. Supreme Court on Monday rejected Ohio <b>State</b> University&#39;s bid to dismiss lawsuits brought by alleged sexual abuse victims of a now-deceased doctor who was employed by the school&#39;s athletic ...
+
+Title: Faced with more lawsuits, Ohio State denies covering up sex abuse ...
+Link: https://www.nbcnews.com/news/us-news/faced-lawsuits-ohio-state-denies-covering-sex-abuse-scandal-years-payi-rcna120200
+Snippet: Ohio <b>State</b> University via AP. In a response to the lawsuits filed Tuesday in the federal court for the Southern District of Ohio by OSU’s attorney Michael H. Carpenter, the university says now ...
+
+Title: Ohio State University abuse scandal - Wikipedia
+Link: https://en.wikipedia.org/wiki/Ohio_State_University_abuse_scandal
+Snippet: The Ohio <b>State</b> University abuse scandal centered on allegations of sexual abuse that occurred between 1978 and 1998, while Richard Strauss was employed as a physician by Ohio <b>State</b> University (OSU) in the Athletics Department and in the Student Health <b>Center</b>. An independent investigation into the allegations was announced in April 2018 and was conducted by the law firm Perkins Coie.
+
+Title: Richard Strauss and the Ohio State sex abuse scandal: What to know
+Link: https://www.dispatch.com/story/news/education/2021/03/10/osu-sex-abuse-scandal-richard-strauss-career-abuse-death/6947149002/
+Snippet: An independent investigative report released by Ohio <b>State</b> University in May 2019 said Strauss sexually abused at least 177 students throughout his 20-year tenure as an athletics and student ...
+
+Title: Supreme Court clears way for lawsuits against Ohio State ... - CNN
+Link: https://www.cnn.com/2023/06/26/politics/supreme-court-ohio-state/index.html
+Snippet: The Supreme Court on Monday cleared the way for lawsuits brought by more than 100 men who say they were abused by a <b>medical</b> doctor at The Ohio <b>State</b> University to go forward.
+
+Title: Court of Claims: Settlements Approved in Two Lawsuits Against Ohio ...
+Link: https://courtnewsohio.gov/cases/2015/COC/1102/10-10335_14-00468.asp
+Snippet: Bryan A. Huff v. The Ohio <b>State</b> University <b>Medical Center</b>, Case No. 2014-00468. The Ohio Court of Claims approved settlements totaling $3.45 million in separate lawsuits brought against The Ohio <b>State</b> University (OSU) <b>Medical</b> <b>Center</b>. Undiagnosed Condition Leads to Death. OSU agreed to pay the estate of Michael McNew $1.7 million.
+
+Title: Michalek v. OSU Wexner Med. Ctr. - Supreme Court of Ohio
+Link: https://www.supremecourt.ohio.gov/rod/docs/pdf/13/2022/2022-Ohio-3378.pdf
+Snippet: Plaintiffs’ civil lawsuit stems from (1) the death of Stephanie L. Michalek on February 23, 2019, at The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> (OSUWMC) following Stephanie’s transfer to OSUWMC from another hospital, and (2) A.E.M.’s birth by perimortem cesarean section (C-section) on February 23, 2019, at. OSUWMC.
+
+Title: IN THE COURT OF CLAIMS OF OHIO - Supreme Court of Ohio
+Link: https://www.supremecourt.ohio.gov/rod/docs/pdf/13/2023/2023-Ohio-2654.pdf
+Snippet: I. Introduction. {¶1} Plaintiff Mohamed Badawi, Administrator of the Estate of Malak Badawi, has brought a civil lawsuit against Defendant The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b>.1 Plaintiff’s lawsuit stems from the death of Malak Badawi (daughter of Mohamed Badawi [“Badawi”] and Sara Elshazli [“Elshazli”]) who died on June 8 ...
+
+Remi: Results for query 'Ohio State Medical Center scandals':
+Title: Ohio State University abuse scandal - Wikipedia
+Link: https://en.wikipedia.org/wiki/Ohio_State_University_abuse_scandal
+Snippet: The Ohio <b>State</b> University abuse <b>scandal</b> centered on allegations of sexual abuse that occurred between 1978 and 1998, while Richard Strauss was employed as a physician by Ohio <b>State</b> University (OSU) in the Athletics Department and in the Student Health <b>Center</b>. An independent investigation into the allegations was announced in April 2018 and was conducted by the law firm Perkins Coie.
+
+Title: Lawsuits Against Ohio State University Over Team Doctor Dismissed - NPR
+Link: https://www.npr.org/2021/09/22/1039899108/ohio-state-sex-abuse-doctor-richard-strauss
+Snippet: Angie Wang/AP. COLUMBUS, Ohio — A federal judge dismissed some of the biggest remaining lawsuits over Ohio <b>State</b>&#39;s failure to stop decades-old sexual abuse by now-deceased team doctor Richard ...
+
+Title: Faced with more lawsuits, Ohio State denies covering up sex abuse ...
+Link: https://www.nbcnews.com/news/us-news/faced-lawsuits-ohio-state-denies-covering-sex-abuse-scandal-years-payi-rcna120200
+Snippet: Ohio <b>State</b> University has paid out $60 million in settlement money in the last few years to hundreds of former students and athletes who say they were sexually abused decades ago by a school doctor.
+
+Title: Supreme Court clears way for lawsuits against Ohio State ... - CNN
+Link: https://www.cnn.com/2023/06/26/politics/supreme-court-ohio-state/index.html
+Snippet: The Supreme Court on Monday cleared the way for lawsuits brought by more than 100 men who say they were abused by a <b>medical</b> doctor at The Ohio <b>State</b> University to go forward.
+
+Title: Lawsuits against Ohio State alleging sex abuse by team ... - NBC News
+Link: https://www.nbcnews.com/news/us-news/lawsuits-ohio-state-alleging-sex-abuse-team-doctor-can-move-forward-rcna47885
+Snippet: Sept. 15, 2022, 11:01 AM PDT. By Erik Ortiz. Unsettled lawsuits filed by former students and athletes accusing Ohio <b>State</b> University of failing to protect them from a sexual predator for over two ...
+
+Title: Law proposed after Ohio State&#39;s Strauss scandal closer to becoming law
+Link: https://www.dispatch.com/story/news/2024/05/01/law-proposed-after-ohio-states-strauss-scandal-closer-to-becoming-law/73468801007/
+Snippet: The legislation was reintroduced in 2023 in the Senate following a Dispatch investigation of the <b>State</b> <b>Medical</b> Board of Ohio and its handling of sexual misconduct allegations against physicians ...
+
+Title: Supreme Court lets lawsuits over team doctor&#39;s sexual abuse proceed ...
+Link: https://apnews.com/article/supreme-court-ohio-state-abuse-richard-strauss-57b547932ffeaa015c6f85a994276e32
+Snippet: Published 6:52 AM PDT, June 26, 2023. WASHINGTON (AP) — The Supreme Court on Monday left in place a decision that allows more than 230 men to sue Ohio <b>State</b> University over decades-old sexual abuse by a university doctor, the late Richard Strauss. Two cases involving the abuse were on a list of many cases the court said it would not hear.
+
+Title: Dispute preventing court proceedings in Ohio State sexual abuse lawsuits
+Link: https://www.nbc4i.com/news/local-news/ohio-state-university/investigation-materials-at-center-of-dispute-in-sexual-abuse-lawsuits-against-ohio-state/
+Snippet: Since 2018, more than 400 victims and their families have filed lawsuits against Ohio <b>State</b> for its failure to prevent and address the abuse, which an independent investigation found in 2019 that ...
+
+Title: Nearly 30 new alleged abuse victims sue The Ohio State University
+Link: https://www.cnn.com/2021/07/02/us/ohio-state-lawsuit/index.html
+Snippet: Matthew Hatcher/Getty Images. CNN —. Nearly 30 newly identified alleged abuse victims of former Ohio <b>State</b> University Dr. Richard Strauss filed a lawsuit against the university Monday, claiming ...
+
+Title: Lawsuits against Ohio State over sex abuse by doctor are dismissed - PBS
+Link: https://www.pbs.org/newshour/nation/lawsuits-against-ohio-state-over-sex-abuse-by-doctor-are-dismissed
+Snippet: Nation Sep 22, 2021 6:54 PM EDT. COLUMBUS, Ohio (AP) — A federal judge on Wednesday dismissed some of the biggest remaining lawsuits over Ohio <b>State</b>’s failure to stop decades-old sexual abuse ...
+
+Remi: Results for query 'Ohio State Medical Center lawsuits':
+Title: IN THE COURT OF CLAIMS OF OHIO - Supreme Court of Ohio
+Link: https://www.supremecourt.ohio.gov/rod/docs/pdf/13/2023/2023-Ohio-2654.pdf
+Snippet: Ohio <b>State</b> Univ. Wexner Med. Ctr., 2023-Ohio-2654.] IN THE COURT OF CLAIMS OF OHIO I. Introduction {¶1} Plaintiff Mohamed Badawi, Administrator of the Estate of Malak Badawi, has brought a civil <b>lawsuit</b> against Defendant The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b>.1 Plaintiff’s <b>lawsuit</b> stems from the death of Malak Badawi (daughter of ...
+
+Title: Michalek v. OSU Wexner Med. Ctr. - Supreme Court of Ohio
+Link: https://www.supremecourt.ohio.gov/rod/docs/pdf/13/2022/2022-Ohio-3378.pdf
+Snippet: Plaintiffs’ civil <b>lawsuit</b> stems from (1) the death of Stephanie L. Michalek on February 23, 2019, at The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> (OSUWMC) following Stephanie’s transfer to OSUWMC from another hospital, and (2) A.E.M.’s birth by perimortem cesarean section (C-section) on February 23, 2019, at. OSUWMC.
+
+Title: Oakley v. Ohio State Univ. Wexner Med. Ctr. - Supreme Court of Ohio
+Link: https://www.supremecourt.ohio.gov/rod/docs/pdf/10/2019/2019-Ohio-3557.pdf
+Snippet: Mark A. Knueve. {¶ 1} Plaintiffs-appellants, a proposed class led by James Oakley and Channing Capehart, appeal from a judgment entry of the Court of Claims of Ohio denying their motion for conditional class certification in their suit against defendant-appellee, The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> (&quot;OSUWMC&quot;).
+
+Title: Court of Claims: Settlements Approved in Two Lawsuits Against Ohio ...
+Link: https://courtnewsohio.gov/cases/2015/COC/1102/10-10335_14-00468.asp
+Snippet: The Ohio Court of Claims approved settlements totaling $3.45 million in separate <b>lawsuits</b> brought against The Ohio <b>State</b> University (OSU) <b>Medical</b> <b>Center</b>. Undiagnosed Condition Leads to Death. OSU agreed to pay the estate of Michael McNew $1.7 million. McNew died in 2009 after he received treatment from a doctor at OSU Internal Medicine at Stone ...
+
+Title: Supreme Court clears way for lawsuits against Ohio State ... - CNN
+Link: https://www.cnn.com/2023/06/26/politics/supreme-court-ohio-state/index.html
+Snippet: The Supreme Court on Monday cleared the way for <b>lawsuits</b> brought by more than 100 men who say they were abused by a <b>medical</b> doctor at The Ohio <b>State</b> University to go forward.
+
+Title: OSU Medical Center Settles Lawsuit for $5.25 Million ... - Court News Ohio
+Link: https://courtnewsohio.gov/cases/2013/COC/0627/2009-05722.asp
+Snippet: The Ohio <b>State</b> University <b>Medical Center</b> will pay a Hilliard couple more than $5 million to settle a <b>medical</b> negligence claim following the delivery of their brain-dead son in 2006. The Court of Claims of Ohio approved the settlement today. On April 28, 2006, Saynab was admitted to OSU <b>Medical Center</b> at 3:20 p.m. in the initial stages of labor.
+
+Title: Court of Claims: Ohio State University Settles Doctor’s Age ...
+Link: https://courtnewsohio.gov/cases/2016/COC/0926/2015-00038.asp
+Snippet: Wexner Med. Ctr., Case No. 2015-00038. Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> has agreed to pay $100,000 in a settlement to a former doctor who alleged age discrimination following a 2014 demotion. The university disputes the doctor’s claims and admits no wrongdoing in the case, in which the doctor initially sought more than $1 million.
+
+Title: Lawsuits Against Ohio State University Over Team Doctor Dismissed - NPR
+Link: https://www.npr.org/2021/09/22/1039899108/ohio-state-sex-abuse-doctor-richard-strauss
+Snippet: Angie Wang/AP. COLUMBUS, Ohio — A federal judge dismissed some of the biggest remaining <b>lawsuits</b> over Ohio <b>State</b>&#39;s failure to stop decades-old sexual abuse by now-deceased team doctor Richard ...
+
+Title: Jawad v. The Ohio State University Wexner Medical Center et al - UniCourt
+Link: https://unicourt.com/case/pc-db5-jawad-v-the-ohio-state-university-wexner-medical-center-et-al-1332252
+Snippet: On 11/04/2022 Jawad filed a Civil Right - Employment Discrimination <b>lawsuit</b> against The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b>. This case was filed in U.S. District Courts, Ohio Southern District Court. The Judges overseeing this case are Sarah D. Morrison and Chelsey M. Vascura. The case status is Pending - Other Pending.
+
+Title: Two more settlements to cost the Wexner Medical Center $200K
+Link: https://www.thelantern.com/2016/07/two-more-settlements-to-cost-the-wexner-medical-center-200k/
+Snippet: July 27, 2016. Amanda Etchison. Two <b>medical</b> claim settlements approved in the Court of Claims of Ohio on July 20 will cost the Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b> a total of $200,000. Both claims ...
+
+Remi: Results for query 'Ohio State Medical Center patient reviews':
+Title: Patient Satisfaction Survey - The Ohio State University Wexner Medical ...
+Link: https://wexnermedical.osu.edu/utility/patient-satisfaction-survey
+Snippet: <b>Patients</b> treated by Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b> doctors are randomly invited to complete our <b>patient</b> experience surveys. Surveys are sent by mail or email and give <b>patients</b> an opportunity to provide feedback about their experience with their doctor. Each year over 47,000 Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b> <b>patients</b> who receive a survey offer ...
+
+Title: Ohio State University Wexner Medical Center - US News Health
+Link: https://health.usnews.com/best-hospitals/area/oh/ohio-state-university-wexner-medical-center-6411100
+Snippet: Onsite Emergency Department. Yes. Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> in Columbus, OH is nationally ranked in 8 adult specialties and rated high performing in 4 adult specialties and 14 ...
+
+Title: Best Hospitals in Ohio | Rankings &amp; Ratings - US News Health
+Link: https://health.usnews.com/best-hospitals/area/oh
+Snippet: Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> in Columbus, OH is nationally ranked in 8 adult specialties. Cleveland Clinic in Cleveland, OH is nationally ranked in 13 adult specialties and 10 ...
+
+Title: The Ohio State University Wexner Medical Center - Yelp
+Link: https://www.yelp.com/biz/the-ohio-state-university-wexner-medical-center-columbus
+Snippet: THE OHIO <b>STATE</b> UNIVERSITY WEXNER <b>MEDICAL CENTER</b>, 410 W 10th Ave, Columbus, OH 43210, 46 Photos, Mon - Open 24 hours, Tue - Open 24 hours, Wed - Open 24 hours, Thu - Open 24 hours, Fri - Open 24 hours, Sat - Open 24 hours, Sun - Open 24 hours ... Then I attempted to complain to the <b>Patient</b> Experience representative, and their voice mail said ...
+
+Title: Patient &amp; Visitor Guide | Ohio State Medical Center
+Link: https://wexnermedical.osu.edu/patient-and-visitor-guide
+Snippet: U.S. News &amp; World Report has released its 2022–2023 “Best Hospitals” rankings and The Ohio <b>State</b> University Wexner <b>Medical Center</b> is honored to have 9 specialties selected. The Best Hospitals rankings are based on outcomes, structure, <b>patient</b> experience and expert opinion. We’re again ranked as the top hospital in Columbus Metro and #2 ...
+
+Title: The Ohio State University Wexner Medical Center
+Link: https://wexnermedical.osu.edu/
+Snippet: The Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b> is a leader in central Ohio for healthcare and <b>medical</b> research. With a variety of services and locations throughout Ohio, OSU is the place for all of your healthcare needs. ... Search by specialty, condition, treatment or name. Read ratings and <b>reviews</b> from real <b>patients</b>. Find a Doctor. View Guide <b>Patient</b> ...
+
+Title: U.S. News &amp; World Report ranks Ohio State among nation’s best hospitals ...
+Link: https://news.osu.edu/us-news--world-report-ranks-ohio-state-among-nations-best-hospitals-in-9-specialties/
+Snippet: 614-293-3737. The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> is nationally ranked in nine health care specialties, according to the U.S. News &amp; World Report 2022-2023 “ Best Hospitals ” rankings issued today. It’s the 30th consecutive year that Ohio <b>State</b> is recognized as a leading health care provider in the United States.
+
+Title: Making informed healthcare decisions - Ohio State Health &amp; Discovery
+Link: https://health.osu.edu/health/general-health/make-evidenced-based-health-care-decisions
+Snippet: The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> <b>patient</b> education resources include the Library for Health Information and the <b>Patient</b> Education Library. The Cochrane Consumer Network is a community open to <b>patients</b>, caregivers, family members and others interested in high quality health evidence. The free membership provides a monthly news ...
+
+Title: Dr. Yixin Lin, MD | Columbus, OH | Neurologist | US News Doctors
+Link: https://health.usnews.com/doctors/yixin-lin-573152
+Snippet: Overview. Dr. Yixin Lin is a neurologist in Columbus, Ohio and is affiliated with multiple hospitals in the area, including Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> and James Cancer Hospital ...
+
+Title: The Ohio State University Wexner Medical Center - Glassdoor
+Link: https://www.glassdoor.com/Reviews/The-Ohio-State-University-Wexner-Medical-Center-Patient-Care-Associate-Reviews-EI_IE121600.0,47_KO48,70.htm
+Snippet: <b>Patient</b> Care Associate professionals working at The Ohio <b>State</b> University Wexner <b>Medical Center</b> have rated their employer with 3.7 out of 5 stars in 66 <b>Glassdoor</b> <b>reviews</b>. This is a lower than average score with the overall rating of The Ohio <b>State</b> University Wexner <b>Medical Center</b> employees being 3.8 out of 5 stars.
+
+Remi: Results for query 'Ohio State Medical Center employee complaints':
+Title: The Ohio State University Wexner Medical Center Employee Reviews - Indeed
+Link: https://www.indeed.com/cmp/The-Ohio-State-University-Wexner-Medical-Center/reviews
+Snippet: Make a difference. Working at The Ohio <b>State</b> University Wexner <b>Medical Center</b>, The James, is a fast paced,rewarding job. You can really make a difference in the lives of your patients with a positive attitude, a kind word and a willingness to listen. Supportive coworkers are common here.
+
+Title: Employee and Labor Relations - Human Resources at Ohio State
+Link: https://hr.osu.edu/services/elr/
+Snippet: Find Your <b>Employee</b> and Labor Relations Contact. —. HR Connection hrconnection.osu.edu (614) 247-myHR (6947) (614) 292-6199 (Fax) hrconnection@osu.edu. The <b>Employee</b> and Labor Relations (ELR) team serves as a trusted partner to faculty, staff and human resource professionals regarding questions, conflicts and issues that arise in the workplace.
+
+Title: The Ohio State University Wexner Medical Center Employee Reviews - Indeed
+Link: https://www.indeed.com/cmp/The-Ohio-State-University-Wexner-Medical-Center/reviews?fcountry=ALL
+Snippet: Make a difference. PCA Personal Care Assistant (Former <b>Employee</b>) - Columbus, OH - January 16, 2024. Working at The Ohio <b>State</b> University Wexner <b>Medical Center</b>, The James, is a fast paced,rewarding job. You can really make a difference in the lives of your patients with a positive attitude, a kind word and a willingness to listen.
+
+Title: Ohio State hospital workers unionize, citing unsafe staff levels and ...
+Link: https://www.nbc4i.com/news/local-news/ohio-state-university/ohio-state-hospital-workers-unionize-citing-unsafe-staff-levels-and-low-wages/
+Snippet: Nearly 1,000 patient care associates and psychiatric care technicians at the Wexner <b>Medical</b> <b>Center</b> won union representation during a December vote, the <b>State</b> <b>Employee</b> Relations Board certified on ...
+
+Title: Working at The Ohio State University Wexner Medical Center
+Link: https://www.glassdoor.com/Overview/Working-at-The-Ohio-State-University-Wexner-Medical-Center-EI_IE121600.11,58.htm
+Snippet: I applied online. The process took 4 weeks. I interviewed at The Ohio <b>State</b> University Wexner <b>Medical Center</b> (Columbus, OH) in 5/1/2024. Interview. The job was posted as a generalist role. One of direct supervisors, emailed and scheduled a phone screen with me for the same day.
+
+Title: The Ohio State University Wexner Medical Center Reviews
+Link: https://www.glassdoor.co.in/Reviews/The-Ohio-State-University-Wexner-Medical-Center-Reviews-E121600.htm
+Snippet: 901 The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: The Ohio State University Wexner Medical Center - Glassdoor
+Link: https://www.glassdoor.com/Reviews/The-Ohio-State-University-Wexner-Medical-Center-hiring-process-Reviews-EI_IE121600.0,47_KH48,62.htm
+Snippet: Everything moves excruciatingly slow (include the hiring process for one). It is a great place to gain great experience, work in a complex setting and meet some truly great individuals. Helpful. 1. Viewing 1 - 7 of 7 <b>Reviews</b>. <b>Reviews</b> &gt;. The Ohio <b>State</b> University Wexner <b>Medical Center</b>.
+
+Title: Employee and Labor Relations Contacts - Human Resources at Ohio State
+Link: https://hr.osu.edu/services/elr/contacts/
+Snippet: Contact. HR Connection hrconnection.osu.edu (614) 247-myHR (6947) (614) 292-6199 (Fax) hrconnection@osu.edu. <b>Employee</b> and Labor Relations contacts for Ohio <b>State</b> main and regional campus <b>employees</b>, extension <b>employees</b> and <b>medical</b> <b>center</b> <b>employees</b>.
+
+Title: Merit Process - Human Resources at Ohio State - Ohio State University
+Link: https://hr.osu.edu/services/compensation/merit/
+Snippet: The pay range maximum is the upper limit of the salary range. HR Connection hrconnection.osu.edu (614) 247-myHR (6947) (614) 292-7813 (Fax) hrconnection@osu.edu. The Ohio <b>State</b> University merit process determines salary increases, implements the change in university systems and notifies faculty and staff. This process takes place every summer.
+
+Title: Working at The Ohio State University Wexner Medical Center: Employee ...
+Link: https://www.indeed.com/cmp/The-Ohio-State-University-Wexner-Medical-Center/reviews?ftext=Patient+care+associate
+Snippet: Unit Clerical Associate (Former <b>Employee</b>) - Columbus, OH - May 1, 2015. While employed at Wexner <b>Medical</b> <b>Center</b>, I was able to learn about the various aspects of working in inpatient care vs. outpatient care. This was my first opportunity working 12 hour night shifts which allowed me a fantastic work/life balance.
+
+Remi: Results for query 'Ohio State Medical Center OSDH violations':
+Title: Complaints &amp; Investigations - Ohio
+Link: https://med.ohio.gov/wps/portal/gov/med/laws-and-regulations/disciplinary-information/complaints-and-investigations
+Snippet: Eastern <b>Ohio</b>: Chris Forshey, christopher.forshey@med.<b>ohio</b>.gov. Central <b>Ohio</b>: Jeff Bradford j effrey.bradford@med.<b>ohio</b>.gov. Western <b>Ohio</b>: Amy Myers, amy.c.myers@med.<b>ohio</b>.gov. Complaints and Investigations Key Steps. The <b>State</b> <b>Medical</b> Board of <b>Ohio</b>’s purpose is to protect the public. The Board has a responsibility to evaluate every complaint ...
+
+Title: Disciplinary Information - Ohio
+Link: https://med.ohio.gov/laws-and-regulations/disciplinary-information/disciplinary-information
+Snippet: <b>State</b> <b>Medical</b> Board of <b>Ohio</b> | 30 East Broad Street, 3rd Floor, Columbus, OH 43215 | Call: 614-466-3934
+
+Title: Medical Center Compliance &amp; Integrity | Ohio State
+Link: https://www.compliance.osu.edu/focus-areas/medical-center
+Snippet: How to contact us. Main Office Phone: 614-293-7802. Main Office Fax: 614-685-3762. Helpline: 614-293-4477. Email: compliance@osumc.edu.
+
+Title: How Do I File A Complaint - Ohio Department of Health
+Link: https://odh.ohio.gov/wps/wcm/connect/gov/46489b12-5d94-4b72-8819-df34810321e8/How-do-I-file-a-complaint.pdf?MOD=AJPERES
+Snippet: To file a complaint against a health care facility: 1. Please call the COMPLAINT LINE number at 1-800-342-0553. The COMPLAINT LINE is covered via voicemail twenty-four hours, seven days per week during off-hours, federal holidays and in cases of heavy call traffic. The voicemail is checked minimally twice per workday, once in the AM and again ...
+
+Title: Complaints – Healthcare Facilities and Nursing Homes
+Link: https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/complaints-nursing-home-and-healthcare-facilities
+Snippet: You may also email us at HCComplaints@odh.<b>ohio</b>.gov in the event you cannot access the form or if you would like to provide supporting materials such as documents, photos, or videos. If you do not have access to the internet or email, please contact the Complaint Unit at 1-800-342-0553 or 1-800-669-3534 (Home Health Hotline) for assistance ...
+
+Title: Code of Ethics - Ohio
+Link: https://med.ohio.gov/wps/portal/gov/med/laws-and-regulations/code-of-ethics/code-of-ethics
+Snippet: <b>State</b> <b>Medical</b> Board of <b>Ohio</b> | 30 East Broad Street, 3rd Floor, Columbus, OH 43215 | Call: 614-466-3934
+
+Title: Report a Compliance or Privacy Concern | Ohio State Medical Center
+Link: https://wexnermedical.osu.edu/utility/footer/patient-rights-and-responsibilities/report-a-privacy-concern
+Snippet: 866-966-6975. MyChartTechSupport@osumc.edu. Patient Experience: For general concerns about your care, please call the Patient Experience Department: Main Campus at 614-293-8944. East Hospital at 614-257-2310. As a patient of OSUWMC/The James, you have the right to voice concerns and receive assistance to submit complaints to the Office of ...
+
+Title: Ohio Department of Health | Ohio.gov
+Link: https://odh.ohio.gov/wps/portal/gov/odh/home
+Snippet: Employment with the <b>State</b> of <b>Ohio</b> is more than &#39;just a job&#39; – it is a privilege to serve our families, friends and neighbors who rely on us throughout our great <b>state</b>. <b>Medical</b> Records Price Index The <b>Ohio</b> Department of Health is required by section 3701.742 of the <b>Ohio</b> Revised Code to annually publish and adjusted price index for copies of ...
+
+Title: Medical Staff Rules and Regulations | Ohio State - Ohio State University
+Link: https://trustees.osu.edu/bylaws-and-rules/medical-staff-rules
+Snippet: <b>Medical</b> Staff Rules and Regulations - The <b>Ohio</b> <b>State</b> University Hospitals. Updated August 15, 2023 (searchable document) 84-01 Ethical pledge. 84-02 Admission procedures. 84-03 Attending assignment. 84-04 Consultations.
+
+Title: Chapter 3796 - Ohio Revised Code | Ohio Laws
+Link: https://codes.ohio.gov/ohio-revised-code/chapter-3796?os=os&ref=app
+Snippet: (B) A person who is discharged from employment because of that person&#39;s use of <b>medical</b> marijuana shall be considered to have been discharged for just cause for purposes of division (D) of section 4141.29 of the Revised Code if the person&#39;s use of <b>medical</b> marijuana was in <b>violation</b> of an employer&#39;s drug-free workplace policy, zero-tolerance ...
+
+Remi: Results for query 'Ohio State Medical Center ratings':
+Title: Ohio State University Wexner Medical Center - US News Health
+Link: https://health.usnews.com/best-hospitals/area/oh/ohio-state-university-wexner-medical-center-6411100
+Snippet: What do patients say about Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b>? US News has published patient experience <b>ratings</b> at Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> in up to 10 key categories.
+
+Title: Ohio State Wexner Medical Center ranked among nation’s best in 10 ...
+Link: https://wexnermedical.osu.edu/mediaroom/pressreleaselisting/usnwr-best-hospitals-2023-2024
+Snippet: For the 31st consecutive year, U.S. News &amp; World Report has recognized The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> as a national leader in health care. According to the 2023-2024 “Best Hospitals” report issued today, Ohio <b>State</b> is nationally ranked in 10 areas of complex specialty care.
+
+Title: Rankings and Awards - The Ohio State University Wexner Medical Center
+Link: https://wexnermedical.osu.edu/about-us/rankings-and-awards
+Snippet: For 22 years, Ohio <b>State</b>’s Wexner <b>Medical Center</b> has been recognized as a top-performing hospital by U.S.News &amp; World Report’s “America’s Best Hospitals” <b>rankings</b>.
+
+Title: U.S. News &amp; World report ranks Ohio State among nation’s best hospitals ...
+Link: https://wexnermedical.osu.edu/mediaroom/pressreleaselisting/us-news-best-hospitals-2022-2023
+Snippet: The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> is nationally ranked in nine health care specialties, according to the U.S. News &amp; World Report 2022-2023 “Best Hospitals” report issued today.
+
+Title: James Cancer Hospital and Solove Research Institute - US News Health
+Link: https://health.usnews.com/best-hospitals/area/oh/ohio-state-university-james-cancer-hospital-6410008
+Snippet: James Cancer Hospital and Solove Research Institute in Columbus, OH is nationally ranked in 1 adult specialty and rated high performing in 5 adult procedures and conditions. It is a cancer facility.
+
+Title: Ohio State University Wexner Medical Center - Wikipedia
+Link: https://en.wikipedia.org/wiki/Ohio_State_University_Wexner_Medical_Center
+Snippet: The Ohio <b>State</b> University Wexner <b>Medical Center</b> (OSUWMC) is a multidisciplinary academic <b>medical</b> <b>center</b> located in Columbus, Ohio, United States, on the main campus of Ohio <b>State</b> University. For 29 consecutive years, U.S. News &amp; World Report has recognized Ohio <b>State</b> Wexner <b>Medical</b> <b>Center</b> specialties in its &quot;Best Hospitals&quot; <b>rankings</b>.
+
+Title: Ohio State Wexner Medical Center among nation’s best in 10 specialty areas
+Link: https://news.osu.edu/ohio-state-wexner-medical-center-among-nations-best-in-10-specialty-areas/
+Snippet: The Ohio <b>State</b> University Wexner <b>Medical</b> <b>Center</b> is recognized as a national leader in 10 specialties, according to the latest U.S. News &amp; World Report “Best Hospitals” <b>rankings</b> released today. This puts the hospital system in an elite category that fewer than half a percent of hospitals in the nation achieved, and it’s the hospital’s 26th consec...
+
+Title: Best Hospitals in Ohio | Rankings &amp; Ratings - US News Health
+Link: https://health.usnews.com/best-hospitals/area/oh
+Snippet: See a list of the best hospitals in Ohio and find a hospital near you. Hospitals are ranked by specialty, and rated in procedures and conditions.
+
+Title: Where Ohio hospitals ranked in U.S. News &amp; World Report&#39;s list - 10tv.com
+Link: https://www.10tv.com/article/news/health/osu-wexner-medical-center-ranked-best-hospital-in-central-ohio/530-b91d2bcc-c82b-4e5d-9dea-bfc0b07954c4
+Snippet: Where Ohio hospitals rank in the U.S. News &amp; World Report&#39;s annual &#39;Best Hospitals&#39; list. Cleveland Clinic was ranked No. 3 in the nation after both Brigham and Women&#39;s Hospital in Boston and ...
+
+Title: Ohio State University - Best Medical Schools - U.S. News &amp; World Report
+Link: https://www.usnews.com/best-graduate-schools/top-medical-schools/ohio-state-university-columbus-04089
+Snippet: Is Ohio <b>State</b> University the best medicine school for you? Find out at US News. See if Ohio <b>State</b> University is ranked and get info on programs, admission, tuition, and more.
+

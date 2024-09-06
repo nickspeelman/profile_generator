@@ -1,0 +1,28 @@
+Susan: Gathering information for a comprehensive research brief on 'Fox News' will involve stages of structured internet research. Here's a strategy:
+
+1. **Company Website and Associated Media**: Start by examining Fox News's own web resources to gather basic information, understand its corporate messaging, and identify key personnel. Look at press releases, event transcripts, and corporate bios. Their website should provide some basic financial information, business strategies, and recent news involving their labor relations.
+
+2. **Financial Information**: Use online financial databases and platforms such as Yahoo Finance, Bloomberg, and Reuters for comprehensive financial data. Look for earnings reports, share price history, details of major shareholders, and any relevant insights about the financial health of the company.
+
+3. **Management and Key Decision Makers**: Identify influential individuals within the organization, such as board members and executives. LinkedIn and professional biographies can give insight into these individuals, their roles, and their professional backgrounds.
+
+4. **Labor Relations**: Look out for recent news on websites like Reuters, Bloomberg, or labor-specific news sources like LaborNotes on labor unrest, strikes, unionization efforts, and lawsuits. Review reports by the National Labor Relations Board (NLRB) for any recent disputes or rulings involving Fox News.
+
+5. **Legal Issues and Scandals**: News databases like Nexis, Google News, and media outlet websites like CNN, NBC, The New York Times can provide coverage of recent scandals, lawsuits, or controversies involving the organization or its management. 
+
+6. **Academic and Market Research**: Online libraries or databases such as JSTOR, EBSCO, or Google Scholar may have in-depth market research or academic studies about the company or its industry. They may also be valuable resources for understanding the broader context of Fox News's market position and labor relations.
+
+7. **Social Media**: Social media platforms like Twitter, Facebook, Instagram, and LinkedIn can provide real-time updates and public sentiment about the company. They can also be sources of information on controversies and potential leverage points.
+
+As you gather information, consider the reliability and bias of sources. It's best to cross-check information and consider only confirmed information for the brief. Also, analyze the collected information from the perspective of the labor union's interests to identify leverage points.
+Manny: Sure, here is a list of search queries in Python:
+
+```python
+search_queries_for_remi = [
+    "Fox News financial reports 2021",
+    "Fox News board members and executives LinkedIn profiles",
+    "Fox News labor relation news",
+    "Fox News legal issues or scandals 2021",
+    "Public sentiment about Fox News on Twitter"
+]
+```

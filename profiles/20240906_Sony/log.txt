@@ -1,0 +1,28 @@
+Susan: Our strategy will consist of multiple sequential steps, targeting different categories of information on Sony.
+
+1. **Corporate and Financial Information**: Start with the company's official website, especially their 'About Us', 'Leadership/Management', and 'Investor Relations' pages. From here, you can gather information about their business lines, financial health, and key decision makers. Financial information like assets, revenue, net income, and market capitalization can be found on financial news and data platforms like Bloomberg, Business Insider, Reuters, Yahoo Finance, or Google Finance. 
+
+2. **Company Leadership**: To identify the key decision makers, look at the company's executive team and board of directors. These names can be found on the company's official website. From there, general web searches can provide more details about their backgrounds, leadership styles, past achievements, and potential points of leverage. Business networking sites like LinkedIn can also provide valuable information about these individuals.
+
+3. **Labor Relations**: From the Labor union's perspective, Sony’s stance on labor relations is crucial. Look for recent news related to Sony's treatment of its employees or any labor issues. Google News and industry blogs can be a useful tool for this. Also, any public documents or reports related to legal disputes involving employee rights will be valuable.
+
+4. **Recent Scandals/Controversies**: This information can be extracted through web searches, with a focus on reputable news sources. Look for any controversies that Sony has been involved with in recent years, including but not limited to product failures, legal issues, public relations missteps, and any allegations of unethical practices at the company.
+
+5. **Public Perception**: Monitor consumer sentiment and opinion towards Sony and their products. This can be done by analysing customer reviews, social media posts mentioning the brand, as well as discussions on online forums and platforms such as Reddit and Twitter.
+
+6. **Industry Trends**: Look at the broader trends in Sony's sectors such as technology and entertainment. Any shifts in market dynamics can reveal potential opportunities or threats. News articles, industry reports, and analysis found on business news websites can offer valuable insights regarding that aspect.
+
+7. **Legal and Regulatory developments**: Sony might be affected by legal and regulatory changes both from domestic (Japanese law) and international legislation since they operate worldwide. Websites such as Lexology and the Library of Congress can provide information on new laws or regulations that may affect Sony.
+
+By following these steps, you'll get a comprehensive overview of Sony that goes beyond just their financial details.
+Manny: Sure, here are 5 search queries that can be performed:
+
+```python
+search_queries_for_remi = [
+    "Sony Corporation financial reports", 
+    "Sony executive team and board members", 
+    "Sony Corporation labor relations news", 
+    "Sony Corporation recent scandals and controversies", 
+    "Public perception of Sony Corporation"
+]
+```

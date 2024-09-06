@@ -1,0 +1,545 @@
+Research Topic: Cabell Huntington Hospital
+Susan: Sure, here is our strategy to gather information on Cabell Huntington Hospital:
+
+1. **Basic Financial Information:** Start with open databases like Dun & Bradstreet or PrivCo, government or nonprofit organized databases such as the health department or National Council of Nonprofits, and the hospital's official website for financial information. This could include total revenues, major sources of funding, and personnel costs. 
+
+2. **Key Decision Makers:** Visit professional social networks like LinkedIn and the hospital's website 'About Us' or 'Leadership' section to identify key decision makers. These could include the CEO, CFO, COO, and other top-level executives. We also want to look for the Board of Directors. Once we have some names, we can search more about them, looking for any public details that might show influence or pressure points.
+
+3. **Labor Relations Information:** Look on websites for labor unions related to the healthcare industry, such as National Nurses United or SEIU. Look for any press releases, news, or recent negotiations involving the hospital. In addition, regulatory agencies' websites might include information about any labor disputes or other issues. 
+
+4. **Recent Scandals:** Search news outlet websites, local newspapers, industry publication websites or databases. Pay attention to anything related to labor disputes, financial irregularities, or malpractice.
+
+5. **Additional Leverage Points:** Assess public perspectives about the hospital via customer review sites; try to analyze sentiment towards the hospital and its practices. Browse forums like Reddit or Glassdoor for current and former employee sentiment. We can also evaluate the hospital's commitments to certain issues like environmental sustainability or community health and see if they are living up to their claims.
+
+6. **Charitable Contributions and Sponsorships:** Nonprofit hospitals like Cabell Huntington Hospital often make charitable contributions or sponsor local events. Understanding these relationships could provide additional leverage.
+
+Remember, the objective is to paint a holistic picture of the hospital’s financial health, leadership, labor relations, and public image. This can help identify potential pressure points-utilizable in future negotiations.
+Manny: Great, thank you for organizing it. Here are some follow up questions for Susan: 
+
+1. **On Basic Financial Information:** Do we have access to databases like Dun & Bradstreet or PrivCo for financial information? Or should we rely only on public sources like the health department or National Council of Nonprofits and the hospital's official website?
+
+2. **On Key Decision Makers:** Beyond LinkedIn and the hospital's official website, are there any other reliable public sources to determine and verify key decision makers, such as registries or industry-specific directories?
+
+3. **On Labor Relations Information:** How can we ensure that the labor relations information we find is current and reliable? Are there ways of cross verifying this information?
+
+4. **On Recent Scandals:** How far back should we go in terms of checking for scandals? Is there a particular timeline that's most relevant?
+
+5. **On Additional Leverage Points:** When evaluating public sentiment, how can we ensure our analysis is balanced and not skewed by outliers? 
+
+6. **On Charitable Contributions and Sponsorships:** How can we confirm that the money that Cabell Huntington Hospital donates or sponsors is used as they claim?
+
+Please provide some guidance on these points, Susan.
+Manny: Certainly, here's the list of search queries that might be helpful:
+
+```python
+search_queries_for_remi = [
+    "Cabell Huntington Hospital financial reports",
+    "Cabell Huntington Hospital Annual Reports",
+    "Cabell Huntington Hospital CEO",
+    "Cabell Huntington Hospital Board of Directors",
+    "Labor unions affiliated with Cabell Huntington Hospital",
+    "Cabell Huntington Hospital labor disputes",
+    "Cabell Huntington Hospital scandals",
+    "Cabell Huntington Hospital reviews",
+    "Cabell Huntington Hospital employee satisfaction",
+    "Cabell Huntington Hospital environmental sustainability commitments",
+    "Cabell Huntington Hospital community health programs",
+    "Cabell Huntington Hospital charitable contributions",
+    "Cabell Huntington Hospital local sponsorships"
+]
+```
+Remi should substitute any specific names or keywords we find out as we gather more information into these queries to get more detailed and relevant results.
+Remi: Results for query 'Cabell Huntington Hospital financial reports':
+Title: Annual Report - Cabell-Huntington Health Department
+Link: https://cabellhealth.org/about/annual-report/
+Snippet: <b>Annual</b> <b>Report</b>. 2023 <b>Annual</b> <b>Report</b>. 2022 <b>Annual</b> <b>Report</b>. 2019 <b>Annual</b> <b>Report</b>. 2018 <b>Annual</b> <b>Report</b>. 2017 <b>Annual</b> <b>Report</b>. 2016 <b>Annual</b> <b>Report</b>. ... Cabell-<b>Huntington</b> Health Department. 703 7th Avenue <b>Huntington</b>, WV 25701 (304) 523-6483. Hours of Operation:
+
+Title: Annual Report FY2023 - cabellhealth.org
+Link: https://cabellhealth.org/wp-content/uploads/2023/10/FY2023-Annual-Report-Final.pdf
+Snippet: Cabell-<b>Huntington</b> Health Department <b>Annual</b> <b>Report</b> FY2023 July 1, 2022 – June 30, 2023 . 1 Officers and Directors Cabell-<b>Huntington</b> Board of Health Daniel Konrad, Chair ... CEO and Health Officer <b>Report</b> In FY2023, the United States emerged from the OVID-19 pandemic emergency. May 11, 2023, marked
+
+Title: Cabell Huntington Hospital Inc - Nonprofit Explorer - ProPublica
+Link: https://projects.propublica.org/nonprofits/organizations/550675666
+Snippet: Cabell <b>Huntington Hospital</b> Inc. <b>Huntington</b>, WV; Tax-exempt since Jan. 1988 EIN: 55-0675666 ... Organizations must <b>report</b> loans, grants or business transactions with interested parties, which may include key employees and officers, their family members and any businesses in which they hold a controlling interest. ... Extracted <b>financial</b> data is ...
+
+Title: MOUNTAIN HEALTH NETWORK FALL 2021 ANNUAL - Cabell Huntington
+Link: https://cabellhuntington.org/assets/Managed/News/Publications/1/h212236-2021-Annual-Report.pdf
+Snippet: 6 2019-21 <b>ANNUAL</b> <b>REPORT</b> 2019-21 <b>ANNUAL</b> <b>REPORT</b> 7 Forming a healthcare system In 2018, Cabell <b>Huntington</b> <b>Hospital</b> (CHH) completed the final steps of financing and paperwork for the acquisition of St. Mary’s Medical Center (SMMC), forming a health care system focused on improving the well-being of everyone served through understanding,
+
+Title: 2022 Annual Report - Cabell-Huntington Health Department
+Link: https://cabellhealth.org/2022/10/25/2022-annual-report/
+Snippet: 2022 <b>Annual</b> <b>Report</b>. Oct 25, 2022 | <b>Annual</b> <b>Report</b>. FY2022-<b>Annual</b>-<b>Report</b>-10-4-2022.pdf. Search for: Popular searches: ... Cabell-<b>Huntington</b> Health Department. 703 7th Avenue <b>Huntington</b>, WV 25701 (304) 523-6483. Hours of Operation: Monday – Friday ...
+
+Title: Cabell Huntington Hospital - Financial Assistance Policy
+Link: https://cabellhuntington.org/assets/CHH/Documents/Billing-Financial/FAP/CHH-Financial-Assistance-Policy-2022.pdf
+Snippet: Patients seeking care at Cabell <b>Huntington</b> <b>Hospital</b> are eligible for Income based <b>financial</b> assistance under this Policy if the patient is a United States citizen, the patient’s Household Income does not exceed 150% of the FPG, the patient does not have assets in excess of $50,000 and the patient is seeking Emergency Services or Medically ...
+
+Title: Cabell Huntington Hospital Inc - GuideStar Profile
+Link: https://www.guidestar.org/profile/55-0675666
+Snippet: Cabell <b>Huntington Hospital</b> Inc. lock Unlock <b>financial</b> insights by subscribing to our monthly plan. ... A GuideStar Pro <b>report</b> containing the following information is available for this organization: <b>Financial</b> trends metrics for five most recent years 2022, 2021, 2020, 2019, 2018* ...
+
+Title: T he Cabell Standard - Cabell Huntington
+Link: https://cabellhuntington.org/assets/Managed/News/Publications/1/Leading-Edge-2017-2018-Annual-Report.pdf
+Snippet: <b>Huntington</b>, WV 25701 www.cabellhuntington.org <b>ANNUAL</b> <b>REPORT</b> 2017-2018 • 1 ABOUT THE COVER: We are creating a higher level of care for our region. Interim Corporate CEO Gary White shares his vision during the acquisition celebration on May 3. 62 Years of Excellence For the past 62 years, Cabell <b>Huntington</b> <b>Hospital</b> has served the Tri-State ...
+
+Title: American Hospital Directory - Cabell Huntington Hospital (510055 ...
+Link: https://www.ahd.com/free_profile.php?hcfa_id=7e1e454046735064d03f88fa3ed9a269&ek=6b4a67346140b73da298c5a3b6b32340
+Snippet: <b>Financial</b> data for <b>hospital</b> cost <b>report</b> period ending 09/30/2023 (HCRIS 759070 - 2010). ... Cabell <b>Huntington</b> <b>Hospital</b>. 1340 Hal Greer Boulevard <b>Huntington</b>, WV 25701 : Telephone Number: (304) 526-2000: <b>Hospital</b> Website: www.cabellhuntington.org: CMS Certification Number: 510055 :
+
+Title: Annual Report on Cabell Huntington Hospital&#39;s Revenue, Growth, SWOT ...
+Link: https://incfact.com/company/cabellhuntingtonhospital-huntington-wv/
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b>&#39;s <b>Annual</b> <b>Report</b> &amp; Profile shows critical firmographic facts: What is the company&#39;s size? (<b>Annual</b> sales and employees) Cabell <b>Huntington</b> <b>Hospital</b>&#39;s <b>annual</b> revenues are Over $500 million (see exact revenue data) What industry is the company in? Cabell <b>Huntington</b> <b>Hospital</b> is classified as operating in the Hospitals ...
+
+Remi: Results for query 'Cabell Huntington Hospital Annual Reports':
+Title: Annual Report - Cabell-Huntington Health Department
+Link: https://cabellhealth.org/about/annual-report/
+Snippet: <b>Annual</b> <b>Report</b>. 2023 <b>Annual</b> <b>Report</b>. 2022 <b>Annual</b> <b>Report</b>. 2019 <b>Annual</b> <b>Report</b>. 2018 <b>Annual</b> <b>Report</b>. 2017 <b>Annual</b> <b>Report</b>. 2016 <b>Annual</b> <b>Report</b>. 2014-2015 <b>Annual</b> <b>Report</b>. Accreditation. <b>Annual</b> <b>Reports</b>. Leadership Team. Board of Health. ... Cabell-<b>Huntington</b> Health Department. 703 7th Avenue <b>Huntington</b>, WV 25701
+
+Title: Annual Report FY2023 - cabellhealth.org
+Link: https://cabellhealth.org/wp-content/uploads/2023/10/FY2023-Annual-Report-Final.pdf
+Snippet: Cabell-<b>Huntington</b> Health Department <b>Annual</b> <b>Report</b> FY2023 July 1, 2022 – June 30, 2023 . 1 Officers and Directors Cabell-<b>Huntington</b> Board of Health Daniel Konrad, Chair ... CEO and Health Officer <b>Report</b> In FY2023, the United States emerged from the OVID-19 pandemic emergency. May 11, 2023, marked
+
+Title: 2022 Annual Report - Cabell-Huntington Health Department
+Link: https://cabellhealth.org/2022/10/25/2022-annual-report/
+Snippet: 2022 <b>Annual</b> <b>Report</b>. Oct 25, 2022 | <b>Annual</b> <b>Report</b>. FY2022-<b>Annual</b>-<b>Report</b>-10-4-2022.pdf. Search for: Popular searches: ... Cabell-<b>Huntington</b> Health Department. 703 7th Avenue <b>Huntington</b>, WV 25701 (304) 523-6483. Hours of Operation: Monday – Friday ...
+
+Title: MOUNTAIN HEALTH NETWORK FALL 2021 ANNUAL - Cabell Huntington
+Link: https://cabellhuntington.org/assets/Managed/News/Publications/1/h212236-2021-Annual-Report.pdf
+Snippet: 6 2019-21 <b>ANNUAL</b> <b>REPORT</b> 2019-21 <b>ANNUAL</b> <b>REPORT</b> 7 Forming a healthcare system In 2018, Cabell <b>Huntington</b> <b>Hospital</b> (CHH) completed the final steps of financing and paperwork for the acquisition of St. Mary’s Medical Center (SMMC), forming a health care system focused on improving the well-being of everyone served through understanding,
+
+Title: Medical Records - Cabell Huntington Hospital
+Link: https://cabellhuntington.org/customer-service/medical-records/
+Snippet: <b>Huntington</b>, WV 25701. FAX: 304.526.2012 Medical Records. FAX: 304.399.2725 Radiology Film/CD. Records being sent directly to a physician or healthcare provider are free of charge. All other copies will be billed through our copying service who will notify you if pre-payment is required. Kindly allow approximately 10 days for records processing.
+
+Title: Home - Cabell Huntington Hospital
+Link: https://cabellhuntington.org/
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b> 1340 Hal Greer Blvd <b>Huntington</b>, WV 25701 304.526.2000 Online Bill Pay; Patient Portal; Price Transparency; Peak Health; Careers; Medical Records; Contact Us ©2024 Cabell <b>Huntington</b> <b>Hospital</b> - By using this website you are in agreement with the ...
+
+Title: Cabell Huntington Hospital Inc - Nonprofit Explorer - ProPublica
+Link: https://projects.propublica.org/nonprofits/organizations/550675666
+Snippet: Details. According to its Sept. 2022 tax filing, this nonprofit: Operated <b>hospital</b> facilities. Organization operated one or more <b>hospital</b> facilities. Details are reported on Schedule H. Reported conflict of interest transactions. Organizations must <b>report</b> loans, grants or business transactions with interested parties, which may include key ...
+
+Title: Annual Report FY2019 - cabellhealth.org
+Link: https://cabellhealth.org/wp-content/uploads/2019/12/FY2019-Annual-Report.pdf
+Snippet: ield is undeniable. The challenges we met in FY2019 required the capacity of an accredited health department, and the Cabell-<b>Huntington</b> Health Department rose. to those challenges.Fiscal year 2019 started amid the county’s largest ever outbreak of Hepatitis A and ended amid West Virginia’s first injection-drug-use associated HIV Cluster, cente.
+
+Title: Annual Report on Cabell Huntington Hospital&#39;s Revenue, Growth, SWOT ...
+Link: https://incfact.com/company/cabellhuntingtonhospitalfoundation-huntington-wv/
+Snippet: Company Profile &amp; <b>Annual</b> <b>Report</b> for Cabell <b>Huntington</b> <b>Hospital</b> Access the complete profile. Cabell <b>Huntington</b> <b>Hospital</b> Fast Facts. Revenue: Over $500 million See Exact <b>Annual</b> Revenue: Employees: Over 1,000 Exact Company Size: Primary Industry: 62 Health Care &amp; Social Assistance: Address:
+
+Title: T he Cabell Standard - Cabell Huntington
+Link: https://cabellhuntington.org/assets/Managed/News/Publications/1/Leading-Edge-2017-2018-Annual-Report.pdf
+Snippet: <b>Huntington</b>, WV 25701 www.cabellhuntington.org <b>ANNUAL</b> <b>REPORT</b> 2017-2018 • 1 ABOUT THE COVER: We are creating a higher level of care for our region. Interim Corporate CEO Gary White shares his vision during the acquisition celebration on May 3. 62 Years of Excellence For the past 62 years, Cabell <b>Huntington</b> <b>Hospital</b> has served the Tri-State ...
+
+Remi: Results for query 'Cabell Huntington Hospital CEO':
+Title: Leadership - Cabell Huntington Hospital
+Link: https://cabellhuntington.org/about/leadership/
+Snippet: Maria Summers, MSNed, RN Vice President of Patient Services, Cabell <b>Huntington</b> <b>Hospital</b>
+
+Title: Mountain Health Network Announces New CEO - Cabell Huntington
+Link: https://cabellhuntington.org/connect/news/article/mountain-health-network-announces-new-ceo
+Snippet: Mountain Health Network and Cabell <b>Huntington</b> <b>Hospital</b> Board of Directors announce that Kevin W. Yingling, RPh, MD, FACP, has been selected as the Chief Executive Officer (<b>CEO</b>) for Mountain Health Network and President of Cabell <b>Huntington</b> <b>Hospital</b> and St. Mary’s Medical Center. He will assume strategic oversight of growing the regional health system on August 9.
+
+Title: Mountain Health Network Announces New CEO
+Link: https://marshallhealthnetwork.org/connect/news/article/mountain-health-network-announces-new-ceo
+Snippet: Mountain Health Network and Cabell <b>Huntington</b> <b>Hospital</b> Board of Directors announce that Kevin W. Yingling, RPh, MD, FACP, has been selected as the Chief Executive Officer (<b>CEO</b>) for Mountain Health Network and President of Cabell <b>Huntington</b> <b>Hospital</b> and St. Mary’s Medical Center. He will assume strategic oversight of growing the regional health system on August 9.
+
+Title: Mountain Health Network Announces New CEO - St. Mary’s
+Link: https://www.st-marys.org/connect/news/article/mountain-health-network-announces-new-ceo
+Snippet: Mountain Health Network and Cabell <b>Huntington</b> <b>Hospital</b> Board of Directors announce that Kevin W. Yingling, RPh, MD, FACP, has been selected as the Chief Executive Officer (<b>CEO</b>) for Mountain Health Network and President of Cabell <b>Huntington</b> <b>Hospital</b> and St. Mary’s Medical Center. He will assume strategic oversight of growing the regional health system on August 9.
+
+Title: Mountain Health Network Announces Paul English Smith, Interim CEO
+Link: https://cabellhuntington.org/connect/news/article/mountain-health-network-announces-paul-english-smith-interim-ceo
+Snippet: To provide continuity, the Board of Directors has named Paul English Smith to lead as Interim <b>CEO</b> for Mountain Health Network and President of Cabell <b>Huntington Hospital</b> and St. Mary’s Medical Center.
+
+Title: Mountain Health Network names local physician as new CEO
+Link: https://www.wvnews.com/statejournal/news/mountain-health-network-names-local-physician-as-new-ceo/article_c05072c8-f62f-11eb-9678-2377dc555689.html
+Snippet: <b>HUNTINGTON</b> — The Mountain Health Network and Cabell <b>Huntington</b> <b>Hospital</b> Board of Directors recently announced Kevin W. Yingling, RPh, MD, FACP, has been selected as the <b>CEO</b> for Mountain Health Network and president of Cabell <b>Huntington</b> <b>Hospital</b> and St. Mary’s Medical Center.
+
+Title: New Chief Executive Officer selected for Mountain Health Network - WSAZ
+Link: https://www.wsaz.com/2021/07/28/new-chief-executive-officer-selected-mountain-health-network/
+Snippet: <b>HUNTINGTON</b>, W.Va. (<b>WSAZ</b>) - The new Chief Executive Officer (<b>CEO</b>) for Mountain Health Network and President of Cabell <b>Huntington</b> <b>Hospital</b> and St. Mary’s Medical Center has been selected.
+
+Title: Kevin Fowler - Chief Executive Officer - Cabell Huntington Hospital ...
+Link: https://www.linkedin.com/in/kevin-fowler-316231213
+Snippet: · Experience: Cabell <b>Huntington</b> <b>Hospital</b> · Education: West Virginia University · Location: Charleston. View Kevin Fowler’s profile on LinkedIn, a professional community of 1 billion members.
+
+Title: Mountain Health Network Announces Paul English Smith, Interim CEO
+Link: https://www.st-marys.org/connect/news/article/mountain-health-network-announces-paul-english-smith-interim-ceo
+Snippet: Mountain Health Network Announces Paul English Smith, Interim <b>CEO</b> Thursday, May 20, 2021 Mountain Health Network and Cabell <b>Huntington</b> <b>Hospital</b> Board of Directors announce the departure of Chief Executive Officer Mike Mullins, effective today, to pursue other opportunities.
+
+Title: Mountain Health Network names Interim CEO - WSAZ
+Link: https://www.wsaz.com/2021/05/20/mountain-health-network-names-interim-ceo/
+Snippet: Thursday, Mountain Health Network and Cabell <b>Huntington</b> <b>Hospital</b> Board of Directors announced the departure of Chief Executive Officer Mike Mullins.
+
+Remi: Results for query 'Cabell Huntington Hospital Board of Directors':
+Title: Leadership - Cabell Huntington Hospital
+Link: https://cabellhuntington.org/about/leadership/
+Snippet: <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> 1340 Hal Greer Blvd <b>Huntington</b>, WV 25701 304.526.2000
+
+Title: Mountain Health Network Announces New CEO - Cabell Huntington Hospital
+Link: https://cabellhuntington.org/connect/news/article/mountain-health-network-announces-new-ceo
+Snippet: Mountain Health Network and <b>Cabell Huntington Hospital Board</b> of <b>Directors</b> announce that Kevin W. Yingling, RPh, MD, FACP, has been selected as the Chief Executive Officer (CEO) for Mountain Health Network and President of <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> and St. Mary’s Medical Center. He will assume strategic oversight of growing the regional ...
+
+Title: Mountain Health Network Announces New CEO - St. Mary’s
+Link: https://www.st-marys.org/connect/news/article/mountain-health-network-announces-new-ceo
+Snippet: Mountain Health Network and <b>Cabell Huntington Hospital Board</b> of <b>Directors</b> announce that Kevin W. Yingling, RPh, MD, FACP, has been selected as the Chief Executive Officer (CEO) for Mountain Health Network and President of <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> and St. Mary’s Medical Center. He will assume strategic oversight of growing the regional ...
+
+Title: Meet new CEO - Cabell Huntington
+Link: https://cabellhuntington.org/assets/Managed/News/Publications/1/Leading-Edge-2019-Spring.pdf
+Snippet: ge Magazine,contact the Strategic Marketing Planning &amp; Business Development Department at. View online at. www.cabellhuntington.org www.st-marys.org. 2019 by <b>Cabell</b> <b>Huntington</b> <b>Hospital</b>, Inc. 1340 Hal Greer Blvd. <b>Huntington</b>, WV 25701. HQ Publishing Co. P.O. Box 384 <b>Huntington</b>, WV 25708 Phone 304-529-6158 www.hqpublishing.com.
+
+Title: Mountain Health Network names local physician as new CEO
+Link: https://www.wvnews.com/statejournal/news/mountain-health-network-names-local-physician-as-new-ceo/article_c05072c8-f62f-11eb-9678-2377dc555689.html
+Snippet: Aug 9, 2021. 0. 1 min to read. <b>HUNTINGTON</b> — The Mountain Health Network and <b>Cabell Huntington Hospital Board</b> of <b>Directors</b> recently announced Kevin W. Yingling, RPh, MD, FACP, has been selected as the CEO for Mountain Health Network and president of <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> and St. Mary’s Medical Center. He assumed the role effective today.
+
+Title: New Chief Executive Officer selected for Mountain Health Network - WSAZ
+Link: https://www.wsaz.com/2021/07/28/new-chief-executive-officer-selected-mountain-health-network/
+Snippet: Mountain Health, <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> and St. Mary’s Medical Center boards of <b>directors</b> confirmed that Kevin W. Yingling, RPh, MD, FACP, will take over the role on August 9.
+
+Title: Mountain Health Network and... - Cabell Huntington Hospital - Facebook
+Link: https://www.facebook.com/cabellhuntington/posts/mountain-health-network-and-cabell-huntington-hospital-board-of-directors-announ/4809469759081447/
+Snippet: Mountain Health Network and <b>Cabell Huntington Hospital Board</b> of <b>Directors</b> announce that Kevin W. Yingling, RPh, MD, FACP, has been selected as the Chief Executive Officer (CEO) for Mountain Health Network and President of <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> and St. Mary’s Medical Center. He will assume strategic oversight of growing the regional ...
+
+Title: Mountain Health Network Announces Paul English Smith, Interim CEO
+Link: https://www.st-marys.org/connect/news/article/mountain-health-network-announces-paul-english-smith-interim-ceo
+Snippet: Mountain Health Network and <b>Cabell Huntington Hospital Board</b> of <b>Directors</b> announce the departure of Chief Executive Officer Mike Mullins, effective today, to pursue other opportunities. “Mr. Mullins has served our system well as CEO for the last two years,” stated Beth Hammers, chair, <b>Board</b> of <b>Directors</b> for <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> and ...
+
+Title: Council to consider first reading of hospital board deal
+Link: https://apnews.com/article/business-west-virginia-huntington-board-of-directors-ef5a84b90ff942e3a18cd582d946ffbd
+Snippet: <b>HUNTINGTON</b> — <b>Huntington</b> City Council members will perform a first reading Monday of an ordinance that would see them give up the council’s right to name people to the <b>Cabell Huntington Hospital Board</b> of <b>Directors</b> in exchange for $1 million. The <b>hospital</b> wants to have control over who serves on its 18-member <b>board</b> of <b>directors</b> as it works to ...
+
+Title: Mountain Health Network names Interim CEO - WSAZ
+Link: https://www.wsaz.com/2021/05/20/mountain-health-network-names-interim-ceo/
+Snippet: The <b>Board</b> of <b>Directors</b> has named Paul English Smith to lead as Interim CEO for Mountain Health Network and President of <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> and St. Mary’s Medical Center.
+
+Remi: Results for query 'Labor unions affiliated with Cabell Huntington Hospital':
+Title: Hospital management and RN union employees ratify ... - Cabell Huntington
+Link: https://cabellhuntington.org/connect/news/article/hospital-management-and-rn-union-employees-ratify-collective-bargaining-agreement
+Snippet: <b>Hospital</b> management and RN <b>union</b> employees ratify collective bargaining agreement . Saturday, January 13, 2024. After an exceptional level of collaboration during RN contract negotiations, <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> (CHH) management and RN <b>union</b> employees today ratified a 3-year collective bargaining agreement. The new agreement replaces a 3 ...
+
+Title: Union reports ratification for new nurse contract with Cabell ...
+Link: https://wvmetronews.com/2021/01/16/union-reports-ratification-for-new-nurse-contract-with-cabell-huntington-hospital/
+Snippet: January 16, 2021 - 4:34 am. <b>HUNTINGTON</b>, W.Va. — Nurses and nurse practitioners at <b>Cabell</b> <b>Huntington</b> <b>Hospital</b>, a Mountain Health facility, have approved a new three-year contract. Those with the ...
+
+Title: Union workers, Cabell Huntington Hospital to return to bargaining table ...
+Link: https://www.wowktv.com/news/west-virginia/union-workers-cabell-huntington-hospital-to-return-to-bargaining-table/
+Snippet: <b>HUNTINGTON</b>, WV (WOWK) – <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> and the SEIU District 1199 will return to the bargaining table one week from today. Officials say negotiations will resume Nov. 30, 2021. The news comes shortly after the announcement that the temporary restraining order taken out by <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> against SEIU <b>union</b> workers will ...
+
+Title: Three-year agreement reached between Cabell Huntington Hospital ... - MSN
+Link: https://www.msn.com/en-us/money/companies/three-year-agreement-reached-between-cabell-huntington-hospital-and-rn-union/ar-AA1mXPvE
+Snippet: A three-year collective bargaining agreement between a registered nurses <b>union</b> and <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> will go into effect Sunday, <b>union</b> representatives said. During contract negotiations ...
+
+Title: Union members accept hospital’s offer, effectively ending strike - WSAZ
+Link: https://www.wsaz.com/2021/12/02/union-members-accept-hospitals-offer-tentatively-ending-strike/
+Snippet: Published: Dec. 1, 2021 at 7:46 PM PST. <b>HUNTINGTON</b>, W.Va. (<b>WSAZ</b>) – <b>Union</b> rank and file on Wednesday night voted to accept an offer from <b>Cabell</b> <b>Huntington</b> <b>Hospital</b>, marking an effective end to ...
+
+Title: Hospital: Contract negotiations with union workers to restart on Monday
+Link: https://wchstv.com/news/local/hospital-contract-negotiations-with-union-workers-to-restart-on-monday
+Snippet: The <b>hospital</b> received notice from a federal mediator that the workers were ready to resume negotiations at noon on Monday, Nov. 8, according to a news release from <b>Cabell</b> <b>Huntington</b> <b>Hospital</b>.
+
+Title: 3-year agreement reached between Cabell Huntington Hospital and RN union
+Link: https://www.laborunionnews.com/2024/01/16/3-year-agreement-reached-between-cabell-huntington-hospital-and-rn-union/
+Snippet: 3-year agreement reached between <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> and RN <b>union</b>. Go to article. Posted on January 16, 2024 9:52 am in HEALTHCARE <b>UNION</b> NEWS. ... <b>Union</b> Membership in the private sector: 6.0% in 2022. Government-sector: <b>union</b> membership: 33.1% ... <b>Labor</b> Relations Radio, E109—The War on Independent Contractors, Part I: Rep. Kevin Kiley.
+
+Title: Hospital union workers announce strike plans - WSAZ
+Link: https://www.wsaz.com/2021/11/03/hospital-union-workers-announce-strike-plans/
+Snippet: The <b>union</b> represents more than 1,000 workers at <b>Cabell</b> <b>Huntington</b> <b>Hospital</b>. We reached out earlier Tuesday to Kevin Yingling, CEO of Mountain Health and president of <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> ...
+
+Title: Cabell-Huntington technical and professional workers approve union ...
+Link: https://www.wowktv.com/news/west-virginia/cabell-huntington-technical-and-professional-workers-approve-union-contract/
+Snippet: <b>HUNTINGTON</b>, WV (WOWK) – Technical and professional workers <b>with Cabell</b> <b>Huntington</b> <b>Hospital</b> have approved their first contract agreement with <b>hospital</b> executives, voting to ratify a new three-year <b>union</b> contract. According to the Service Employees International <b>Union</b> District 1199 WV/KY/OH, the contract includes improved insurance benefits and wage increases.
+
+Title: Cabell Huntington Hospital makes union new offer; vote on proposal set ...
+Link: https://wchstv.com/news/local/cabell-huntington-hospital-makes-union-new-offer-vote-on-proposal-set-for-wednesday
+Snippet: <b>Cabell</b> <b>Huntington</b> <b>Hospital</b> presented the <b>union</b> representing about 900 workers who have been on strike with a new offer on Tuesday, and the <b>union</b> said it will take the proposal to members for a vote.
+
+Remi: Results for query 'Cabell Huntington Hospital labor disputes':
+Title: Hospital management and RN union employees ratify ... - Cabell Huntington
+Link: https://cabellhuntington.org/connect/news/article/hospital-management-and-rn-union-employees-ratify-collective-bargaining-agreement
+Snippet: After an exceptional level of collaboration during RN contract negotiations, Cabell <b>Huntington</b> <b>Hospital</b> (CHH) management and RN union employees today ratified a 3-year collective bargaining agreement. The new agreement replaces a 3-year contract which was in effect from Jan. 15, 2021 through Jan. 15, 2024. ...
+
+Title: Striking Cabell Huntington Hospital workers speak up - WOWK 13 News
+Link: https://www.wowktv.com/news/local/striking-cabell-huntington-hospital-workers-speak-up/
+Snippet: UPDATE: 11:30 p.m., November 4, 2021: An agreement has not been met between the SEIU and Cabell-<b>Huntington</b> <b>Hospital</b> yet. The <b>hospital</b> released a statement on Thursday saying they are “looking forward to resuming negotiations with the goal of reaching a mutually beneficial contract.”. The Cabell-<b>Huntington Hospital</b> workers #strike continues ...
+
+Title: Cabell Huntington Hospital workers end strike after reaching contract ...
+Link: https://wvmetronews.com/2021/12/02/cabell-huntington-hospital-workers-end-strike-after-reaching-contract-deal/
+Snippet: <b>HUNTINGTON</b>, W.Va. — A contract agreement has been reached among Cabell <b>Huntington</b> <b>Hospital</b> employees, ending a nearly month-long strike. Members of SEIU District 1199 voted Wednesday to accept a ...
+
+Title: About 1,000 Cabell Huntington Hospital service workers remain on ... - WSAZ
+Link: https://www.wsaz.com/2021/11/03/cabell-huntington-hospital-releases-statement-about-rejection-contract-offer/
+Snippet: Published: Nov. 3, 2021 at 9:52 AM PDT. UPDATE 11/3/21 @ 10 p.m. <b>HUNTINGTON</b>, W.Va. (<b>WSAZ</b>) - Close to 1,000 employees at Cabell <b>Huntington</b> <b>Hospital</b> went on strike Wednesday after months of ...
+
+Title: Cabell Huntington Hospital receives temporary ... - WOWK 13 News
+Link: https://www.wowktv.com/news/west-virginia/cabell-huntington-hospital-receives-temporary-restraining-order-against-striking-union-workers/
+Snippet: “Cabell <b>Huntington</b> <b>Hospital</b> (CHH) Executives are once again trying to scare and intimidate workers on the strike line, as well as patients and community by making outrageous alleged claims against our members’ conduct, while constitutionally practicing their right to strike over <b>labor</b> <b>disputes</b>.
+
+Title: Huntington City Council discusses Cabell Huntington Hospital strike
+Link: https://wchstv.com/news/local/huntington-city-council-discusses-cabell-huntington-hospital-strike
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b> workers filled <b>Huntington</b> City Council&#39;s chambers Monday night, but council members decided not to back a resolutionin the <b>labor</b> <b>dispute</b>. Service and maintenance workers ...
+
+Title: Union members accept hospital’s offer, effectively ending strike - WSAZ
+Link: https://www.wsaz.com/2021/12/02/union-members-accept-hospitals-offer-tentatively-ending-strike/
+Snippet: Published: Dec. 1, 2021 at 7:46 PM PST. <b>HUNTINGTON</b>, W.Va. (<b>WSAZ</b>) – Union rank and file on Wednesday night voted to accept an offer from Cabell <b>Huntington</b> <b>Hospital</b>, marking an effective end to ...
+
+Title: Service and maintenance union workers walk out of Cabell Huntington ...
+Link: https://wchstv.com/news/local/service-and-maintenance-union-workers-walk-out-of-cabell-huntington-hospital-on-strike
+Snippet: At noon on Wednesday, service and maintenance workers with Cabell <b>Huntington Hospital</b> walked out on strike over what they believe is an unfair contract proposal from the <b>hospital</b>. SEIU District ...
+
+Title: Cabell Huntington Hospital employees threaten to strike over pay ...
+Link: https://wvmetronews.com/2021/10/21/cabell-huntington-hospital-employees-threaten-to-strike-over-pay-benefits/
+Snippet: October 21, 2021 - 12:27 pm. <b>HUNTINGTON</b>, W.Va. — Nearly 1,000 union workers in the service and maintenance units at Cabell <b>Huntington</b> <b>Hospital</b> are set to go on strike if a contract deal isn’t ...
+
+Title: No end in sight for striking workers at Cabell Huntington Hospital
+Link: https://wvmetronews.com/2021/11/12/no-end-in-sight-for-striking-workers-at-cabell-huntington-hospital/
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b> workers walked off the job Nov. 3. SEIU 1199 Facebook. <b>HUNTINGTON</b>, W.Va. — Union leaders representing striking Cabell <b>Huntington</b> <b>Hospital</b> employees say there’s no ...
+
+Remi: Results for query 'Cabell Huntington Hospital scandals':
+Title: Cabell Huntington Hospital agrees to nearly $5.7 million lawsuit ...
+Link: https://www.herald-dispatch.com/news/cabell-huntington-hospital-agrees-to-nearly-5-7-million-lawsuit-settlement-with-some-retirees/article_68c3dc80-e40a-589a-a6c5-8f5778f358b7.html
+Snippet: <b>HUNTINGTON</b> — A federal judge in <b>Huntington</b> granted preliminary approval of a nearly $5.7 million class action lawsuit settlement between Cabell <b>Huntington</b> <b>Hospital</b> and some of its retirees who ...
+
+Title: Detroit woman says hospital employees improperly accessed her medical ...
+Link: https://wvrecord.com/stories/649524714-detroit-woman-says-hospital-employees-improperly-accessed-her-medical-records
+Snippet: Sep 11, 2023. <b>HUNTINGTON</b> —An unnamed woman from Detroit is suing Cabell <b>Huntington</b> <b>Hospital</b> for improper and unauthorized access to her medical records. Jane Doe scheduled an appointment with ...
+
+Title: Former hospital worker claims wrongful discharge
+Link: https://wvrecord.com/stories/510793035-former-hospital-worker-claims-wrongful-discharge
+Snippet: Jun 20, 2016. <b>HUNTINGTON</b> — A former employee is suing Cabell <b>Huntington</b> <b>Hospital</b> Inc. and Thomas Jones, a health facility and its director of environmental services, citing alleged retaliatory ...
+
+Title: Man files collection class action against Huntington law firm
+Link: https://wvrecord.com/stories/511000354-man-files-collection-class-action-against-huntington-law-firm
+Snippet: Dwayne C. Edwards became in arrears upon an alleged indebtedness to Cabell <b>Huntington</b> <b>Hospital</b> and the defendant engaged in collection of the indebtedness through the use of telephone calls, by ...
+
+Title: Striking Cabell Huntington Hospital workers speak up - WOWK 13 News
+Link: https://www.wowktv.com/news/local/striking-cabell-huntington-hospital-workers-speak-up/
+Snippet: UPDATE: 11:30 p.m., November 4, 2021: An agreement has not been met between the SEIU and Cabell-<b>Huntington</b> <b>Hospital</b> yet. The <b>hospital</b> released a statement on Thursday saying they are “looking forward to resuming negotiations with the goal of reaching a mutually beneficial contract.” Member of the negotiations committee, Alesha Whitfield says so far the negotiations […]
+
+Title: Hoops Family Children’s Hospital medical director announces retirement
+Link: https://cabellhuntington.org/connect/news/article/hoops-family-childrens-hospital-medical-director-announces-retirement
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b> 1340 Hal Greer Blvd <b>Huntington</b>, WV 25701 304.526.2000 Online Bill Pay; Patient Portal; Price Transparency; Peak Health; Careers; Medical Records; Contact Us ©2024 Cabell <b>Huntington</b> <b>Hospital</b> - By using this website you are in agreement with the ...
+
+Title: FTC Dismisses Complaint Challenging Merger of Cabell Huntington ...
+Link: https://www.ftc.gov/news-events/news/press-releases/2016/07/ftc-dismisses-complaint-challenging-merger-cabell-huntington-hospital-st-marys-medical-center
+Snippet: The <b>Federal Trade Commission</b> has voted to dismiss without prejudice its administrative complaint challenging the proposed merger between Cabell <b>Huntington</b> <b>Hospital</b> and St. Mary’s Medical Center – two hospitals located three miles apart in <b>Huntington</b>, West Virginia.
+
+Title: Cabell Huntington Hospital/St. Mary&#39;s Medical Center, In the Matter of
+Link: https://www.ftc.gov/legal-library/browse/cases-proceedings/141-0218-cabell-huntington-hospitalst-marys-medical-center-matter
+Snippet: The Commission filed an administrative complaint alleging that Cabell <b>Huntington</b> <b>Hospital</b>’s proposed acquisition of St. Mary’s Medical Center – two hospitals located three miles apart in <b>Huntington</b>, West Virginia--would create a dominant firm with a near monopoly over general acute care inpatient <b>hospital</b> services and outpatient surgical services in the adjacent counties of Cabell, Wayne ...
+
+Title: Hospital merger litigation continues - herald-dispatch.com
+Link: https://www.herald-dispatch.com/_recent_news/hospital-merger-litigation-continues/article_a283ee1a-eea3-11e7-a539-23cb3f25fe5a.html
+Snippet: The ongoing litigation to decide the fate of a proposal to merge Cabell <b>Huntington</b> <b>Hospital</b> and St. Mary&#39;s Medical Center will continue into 2018 as the West Virginia Supreme Court
+
+Title: Complaints for Cabell Huntington Hospital - Better Business Bureau
+Link: https://www.bbb.org/us/wv/huntington/profile/hospital/cabell-huntington-hospital-0282-5001979/complaints
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b> makes multiple attempts to collect the balance due before a patient is sent to Bad Debt. This patient was telephoned and mailed multiple statements. On 03/21/2019 the ...
+
+Remi: Results for query 'Cabell Huntington Hospital reviews':
+Title: Cabell Huntington Hospital reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Cabell-Huntington-Hospital-Reviews-E121607.htm
+Snippet: Cabell <b>Huntington Hospital</b> has an overall rating of 3.6 out of 5, based on over 117 <b>reviews</b> left anonymously by employees. 71% of employees would recommend working at Cabell <b>Huntington Hospital</b> to a friend and 59% have a positive outlook for the business. This rating has improved by 10% over the last 12 months.
+
+Title: CABELL HUNTINGTON HOSPITAL - Updated August 2024 - Yelp
+Link: https://www.yelp.com/biz/cabell-huntington-hospital-huntington
+Snippet: Start your <b>review</b> of Cabell <b>Huntington Hospital</b>. Overall rating. 27 <b>reviews</b>. 5 stars. 4 stars. 3 stars. 2 stars. 1 star. Filter by rating. Search <b>reviews</b>. Search <b>reviews</b>. L S. Corydon, IN. 0. 1124. 2844. Mar 23, 2024. 1 photo. 5 check-ins. Certainly this is a hard one to rate, so much personal feelings to be objective.
+
+Title: Cabell Huntington Hospital in Huntington, WV - Rankings &amp; Ratings
+Link: https://health.usnews.com/best-hospitals/area/wv/cabell-huntington-hospital-6350345
+Snippet: Yes. Cabell <b>Huntington Hospital</b> in <b>Huntington</b>, WV is rated high performing in 2 adult procedures and conditions. It is a general medical and surgical facility. It is a teaching <b>hospital</b>. The ...
+
+Title: Cabell Huntington Hospital - Huntington, WV | Healthgrades
+Link: https://www.healthgrades.com/hospital-directory/west-virginia-wv/cabell-huntington-hospital-hgstce2b6bc6510055
+Snippet: Cabell <b>Huntington Hospital</b> is a medical facility located in <b>Huntington</b>, WV. This <b>hospital</b> has been recognized for America&#39;s 100 Best Hospitals Award™, America&#39;s 250 Best Hospitals Award™, and more. 69 %. Patient Experience Rating. 5% higher than the national average. Overview <b>Hospital</b> Quality Patient Experience Providers <b>Reviews</b> Location.
+
+Title: Cabell Huntington Hospital Reviews in Huntington, WV | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Cabell-Huntington-Hospital-Huntington-Reviews-EI_IE121607.0,26_IL.27,37_IM399.htm
+Snippet: <b>Glassdoor</b> has 107 Cabell <b>Huntington Hospital reviews</b> submitted anonymously by Cabell <b>Huntington</b> <b>Hospital</b> employees. Read employee <b>reviews</b> and ratings on <b>Glassdoor</b> to decide if Cabell <b>Huntington</b> <b>Hospital</b> is right for you. 63 Cabell <b>Huntington Hospital reviews</b> in <b>Huntington</b>, WV. A free inside look at company <b>reviews</b> and salaries posted ...
+
+Title: Working at Cabell Huntington Hospital: 183 Reviews - Indeed
+Link: https://www.indeed.com/cmp/Cabell-Huntington-Hospital/reviews?fcountry=ALL
+Snippet: Healthcare. Cabell <b>Huntington</b> <b>Hospital</b>. Employee <b>Reviews</b>. 182 <b>reviews</b> from Cabell <b>Huntington</b> <b>Hospital</b> employees about Cabell <b>Huntington</b> <b>Hospital</b> culture, salaries, benefits, work-life balance, management, job security, and more.
+
+Title: Cabell Huntington Hospital Reviews | Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Cabell-Huntington-Hospital-Reviews-E121607.htm
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b> has an overall rating of 3.1 out of 5, based on over 96 <b>reviews</b> left anonymously by employees. 41% of employees would recommend working at Cabell <b>Huntington</b> <b>Hospital</b> to a friend and 42% have a positive outlook for the business. This rating has decreased by -1% over the last 12 months.
+
+Title: Cabell Huntington Hospital Reviews in United States of America
+Link: https://www.glassdoor.com/Reviews/Cabell-Huntington-Hospital-US-Reviews-EI_IE121607.0,26_IL.27,29_IN1.htm
+Snippet: 53 Cabell <b>Huntington Hospital reviews</b> in United States of America. A free inside look at company <b>reviews</b> and salaries posted anonymously by employees.
+
+Title: Working at Cabell Huntington Hospital: 183 Reviews - Indeed
+Link: https://www.indeed.com/cmp/Cabell-Huntington-Hospital/reviews?start=20
+Snippet: Cabell <b>Huntington Hospital</b> Employee <b>Reviews</b> <b>Review</b> this company. Job Title. All. Location. United States 183 <b>reviews</b>. Ratings by category. 3.3 Work-Life Balance. 3.9 Pay &amp; Benefits. 3.2 Job Security &amp; Advancement. 2.8 Management. 3.3 Culture. Search <b>reviews</b>. Search. Sort by. Helpfulness Rating Date. Language.
+
+Title: CABELL HUNTINGTON HOSPITAL - Updated August 2024 - Yelp
+Link: https://www.yelp.com/biz/cabell-huntington-hospital-huntington-2
+Snippet: 5 <b>reviews</b> of CABELL <b>HUNTINGTON</b> <b>HOSPITAL</b> &quot;Admittedly it is hard to grade hospitals since there are so many nuances which go into whether you have a &quot;good&quot; or &quot;bad&quot; experience, though I would like to speak to some of the obvious qualities that help Cabell <b>Huntington</b> <b>Hospital</b> stand out as a great place to receive care. The first thing you&#39;ll readily notice is the huge volume of parking: plenty of ...
+
+Remi: Results for query 'Cabell Huntington Hospital employee satisfaction':
+No results found for this query.
+Remi: Results for query 'Cabell Huntington Hospital environmental sustainability commitments':
+Title: T he Cabell Standard - Cabell Huntington
+Link: https://cabellhuntington.org/assets/Managed/News/Publications/1/Leading-Edge-2017-2018-Annual-Report.pdf
+Snippet: T he Cabell Standard I n 2016 and 2017, Cabell <b>Huntington</b> <b>Hospital</b>’s <b>commitment</b> to excellent care was recognized in the form of multiple awards and distinctions to several departments and programs. For the third year, CHH was named to the Becker’s <b>Hospital</b> Review list of 150 Great Places to Work in Healthcare.
+
+Title: Environmental Services - Cabell-Huntington Health Department
+Link: https://cabellhealth.org/environmental-services/
+Snippet: <b>Environmental</b> Health: 304-523-6403. Cabell-<b>Huntington</b> Health Department. 703 7th Avenue <b>Huntington</b>, WV 25701 (304) 523-6483. Hours of Operation:
+
+Title: Cabell Huntington Hospital - Jamie Oliver&#39;s Food Revolution
+Link: https://www.aha.org/case-studies/2013-01-02-cabell-huntington-hospital-jamie-olivers-food-revolution
+Snippet: OverviewIn fall 2009, celebrity chef Jamie Oliver came to <b>Huntington</b> to shoot a six-part ABC-TV television series called “Jamie Oliver’s Food Revolution,” which started airing in March 2010. Cabell <b>Huntington</b> <b>Hospital</b> worked very closely with Jamie Oliver, donating $100,000 to overhaul the school lunch program in Cabell County, which included eliminating nearly all processed foods from ...
+
+Title: Annual Report FY2019 - cabellhealth.org
+Link: https://cabellhealth.org/wp-content/uploads/2019/12/FY2019-Annual-Report.pdf
+Snippet: ield is undeniable. The challenges we met in FY2019 required the capacity of an accredited health department, and the Cabell-<b>Huntington</b> Health Department rose. to those challenges.Fiscal year 2019 started amid the county’s largest ever outbreak of Hepatitis A and ended amid West Virginia’s first injection-drug-use associated HIV Cluster, cente.
+
+Title: Environmental FAQ&#39;s - Cabell-Huntington Health Department
+Link: https://cabellhealth.org/environmental-faqs/
+Snippet: <b>Environmental</b> Health: 304-523-6403. Cabell-<b>Huntington</b> Health Department. 703 7th Avenue <b>Huntington</b>, WV 25701 (304) 523-6483. Hours of Operation:
+
+Title: Cabell Huntington Hospital named one of America’s 100 Best Hospitals ...
+Link: https://cabellhuntington.org/connect/news/article/chh-named-one-of-americas-100-best-hospitals-for-2023
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b> (CHH), a member of Mountain Health Network, today announced that it is one of America’s 100 Best Hospitals for 2023. According to new research released by Healthgrades , this achievement puts CHH in the top 2% of hospitals nationwide for overall clinical performance across the most common conditions and procedures.
+
+Title: Table of Contents - Cabell Huntington
+Link: https://cabellhuntington.org/assets/Managed/CHNA/Documents/Cabell-Huntington-Hospital-CHNA-2016-Optimised.pdf
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b> 2016 CHNA Report 2 Table of Contents About Cabell <b>Huntington</b> <b>Hospital</b> 3 Our <b>Commitment</b> to Community Health 4 Executive Summary 5 The Cabell <b>Huntington</b> <b>Hospital</b> CHNA Process Identified Priority Needs ... Social Determinants of Health are factors within the <b>environment</b> in which people live, work, and play that can ...
+
+Title: volume 43, No. 4 September, 2024 KSHP NEWS
+Link: https://www.kshp.org/wp-content/uploads/2024/09/KSHP-Newsletter-September-2024.pdf
+Snippet: <b>commitment</b> and hard work in the spring ... Cabell <b>Huntington</b> <b>Hospital</b> <b>Huntington</b>, WV president@kshp.org President’s Message. volume 43, No. 4 September, 2024 ... we can create an <b>environment</b> where innovation thrives, collaboration flourishes, and success is sustainably achieved. As we continue to move
+
+Title: 2021 – 2024 Strategic Plan - Fairfield Community Development Corporation
+Link: https://fcdchuntington.com/wp-content/uploads/2020/12/FCDC-Strategic-Plan-Adopted-September-2021_compressed.pdf
+Snippet: An issue-based approach using a strength-based framework guided strategic thinking, conversations, and planning around the pillars of Discover, Dream, Design and Destiny. Components of the 2021 – 2024 strategic plan include: point-in-time snapshot of the current <b>environment</b> in which FCDC operates. clear mission and core values Four strategic ...
+
+Title: Cabell Huntington Hospital Inc - Nonprofit Explorer - ProPublica
+Link: https://projects.propublica.org/nonprofits/organizations/550675666
+Snippet: Details. According to its Sept. 2022 tax filing, this nonprofit: Operated <b>hospital</b> facilities. Organization operated one or more <b>hospital</b> facilities. Details are reported on Schedule H. Reported conflict of interest transactions. Organizations must report loans, grants or business transactions with interested parties, which may include key ...
+
+Remi: Results for query 'Cabell Huntington Hospital community health programs':
+Title: Community Health Needs Assessment - Cabell Huntington Hospital
+Link: https://cabellhuntington.org/about/community-health-needs-assessment/
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b> 1340 Hal Greer Blvd <b>Huntington</b>, WV 25701 304.526.2000
+
+Title: Community Health Improvement Plan (CHIP) - Cabell-Huntington Health ...
+Link: https://cabellhealth.org/community/community-health-improvement-plan-chip/
+Snippet: Click here to view or download our <b>Community</b> <b>Health</b> Improvement Plan. The Cabell-<b>Huntington Health</b> Department (CHHD) is pleased to present the Healthy Vision 2024: A CHIP helps organizations move from data to action to address <b>health</b> priorities identified in the <b>Community</b> <b>Health</b> Assessment (CHA). The CHIP serves as a guide for strategic ...
+
+Title: Home - Cabell Huntington Hospital
+Link: https://cabellhuntington.org/
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b>, a member of Marshall <b>Health</b> Network, is a 303-bed teaching <b>hospital</b> for Marshall University Schools of Medicine, Pharmacy and Nursing. We are home to the Hoops Family Children’s <b>Hospital</b> and the Edwards Comprehensive Cancer Center and serve patients throughout West Virginia, eastern Kentucky and southern Ohio.
+
+Title: Marshall Community Health Consortium - Marshall University
+Link: https://jcesom.marshall.edu/residents-fellows/marshall-community-health-consortium/
+Snippet: Marshall <b>Community Health</b> Consortium. The Marshall <b>Community Health</b> Consortium was established in 2014 by the working association of the Marshall University School of Medicine (MUSOM), Marshall <b>Health</b>, Valley <b>Health</b> Systems (VHS) and Cabell <b>Huntington</b> <b>Hospital</b> (CHH) to foster and promote the development of <b>community</b>-based rural primary care residency <b>programs</b>.
+
+Title: Serving residents of the City of Huntington and Cabell County West ...
+Link: https://cabellhealth.org/wp-content/uploads/2024/03/CHHD-2023-CHA-Final-Report-2024-3-4.pdf
+Snippet: In collaboration with <b>community</b> partners and representatives, Cabell-<b>Huntington</b> <b>Health</b> Department (CHHD) undertook a <b>Community</b> <b>Health</b> Assessment (CHA) in 2023. The CHA sought to illuminate unique <b>community</b> <b>health</b> strengths and challenges and to inform the development of a <b>Community</b> <b>Health</b> Improvement Plan (CHIP) to achieve optimal <b>health</b> for all.
+
+Title: Community Health Needs Assessment 2022 - Cabell Huntington
+Link: https://cabellhuntington.org/about/community-health-needs-assessment/community-health-needs-assessment-2022/
+Snippet: About CHH. <b>Community</b> <b>Health</b> Needs Assessment. <b>Community</b> <b>Health</b> Needs Assessment 2022. Read on issuu. Cabell <b>Huntington</b> <b>Hospital</b>. 1340 Hal Greer Blvd. <b>Huntington</b>, WV 25701. 304.526.2000. Online Bill Pay.
+
+Title: Senior Care Network Programs | Huntington Hospital
+Link: https://www.huntingtonhealth.org/community/senior-care-network/programs/
+Snippet: 50+ <b>Health</b> Connection Membership <b>Program</b>. 50+ <b>Health</b> Connection is Senior Care Network’s free membership <b>program</b> that helps <b>community</b> residents age 50 and over save money and keep up to date on <b>health</b> issues. The <b>program</b> offers monthly lectures as part of our Noon Hour series. Learn More about 50+ <b>Health</b> Connection.
+
+Title: Community Health Assessment (CHA) - Cabell-Huntington Health Department
+Link: https://cabellhealth.org/community/community-health-assessment-cha/
+Snippet: 304-523-6483. This number can be used for after business hours reporting of <b>health</b> emergencies and reportable conditions. FAX NUMBERS: Administration: 304-523-6482. Clinic: 304-697-0365. Environmental <b>Health</b>: 304-523-6403. Cabell-<b>Huntington Health</b> Department. 703 7th Avenue. <b>Huntington</b>, WV 25701.
+
+Title: CABELL HUNTINGTON HOSPITAL 2013 COMMUNITY HEALTH NEEDS ASSESSMENT
+Link: https://cabellhuntington.org/assets/Managed/CHNA/Documents/2013-CHH-CHNA1.pdf
+Snippet: CABELL <b>HUNTINGTON</b> <b>HOSPITAL</b>. EALTH NEEDS ASSESSMENTEXECUTIVE SUMMARYMessage to the CommunityCabell <b>Huntington</b> <b>Hospital</b> (CHH) is pleased to present the 2013 <b>Community</b> <b>Health</b> Needs Assessment (CHNA) Report for the <b>community</b> it serves: Cabell, Lincoln, Wayne counties in West Virginia, and Lawrence County Ohio, the counties which.
+
+Title: Volunteer Services - Marshall Health Network
+Link: https://chhacquisition.cabellhuntington.org/patients-and-visitors/volunteer-services/
+Snippet: Marshall <b>Health</b> Network, Inc. Corporate Office 1340 Hal Greer Blvd. <b>Huntington</b>, WV 25701 1.304.526.2000
+
+Remi: Results for query 'Cabell Huntington Hospital charitable contributions':
+Title: Foundation - Cabell Huntington Hospital
+Link: https://cabellhuntington.org/foundation/
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b> 1340 Hal Greer Blvd <b>Huntington</b>, WV 25701 304.526.2000
+
+Title: Cabell Huntington Hospital Foundation - MHN Foundations
+Link: https://mhnfoundations.org/our-foundations/cabell-huntington-hospital-foundation/
+Snippet: The Cabell <b>Huntington</b> <b>Hospital</b> Foundation qualifies as a 501(c)3 organization (Tax ID Number: 31-1096222 ) and therefore <b>contributions</b> are tax-deductible to the fullest extent allowable by law. The St. Mary’s Medical Center Foundation qualifies as a 501(c)3 organization (Tax ID Number: 14-1887211) and therefore <b>contributions</b> are tax ...
+
+Title: Cabell Huntington Hospital Inc - Nonprofit Explorer - ProPublica
+Link: https://projects.propublica.org/nonprofits/organizations/550675666
+Snippet: Cabell <b>Huntington Hospital</b> Inc. <b>Huntington</b>, WV; Tax-exempt since Jan. 1988 EIN: 55-0675666 ... Designated as a 501(c)(3) Organizations for any of the following purposes: religious, educational, <b>charitable</b>, scientific, literary, testing for public safety, ... <b>Contributions</b> $7,640,077 : 1.1% Program Services $681,147,512 : 94.5% Investment Income
+
+Title: St. Mary&#39;s Medical Center Foundation - MHN Foundations
+Link: https://mhnfoundations.org/our-foundations/st-marys-medical-center-foundation/
+Snippet: The Cabell <b>Huntington</b> <b>Hospital</b> Foundation qualifies as a 501(c)3 organization (Tax ID Number: 31-1096222 ) and therefore <b>contributions</b> are tax-deductible to the fullest extent allowable by law. The St. Mary’s Medical Center Foundation qualifies as a 501(c)3 organization (Tax ID Number: 14-1887211) and therefore <b>contributions</b> are tax ...
+
+Title: Charity Navigator - Rating for Cabell Huntington Hospital Inc.
+Link: https://www.charitynavigator.org/ein/550675666
+Snippet: This <b>Charitable</b> Organization is headquartered in <b>Huntington</b>, WV. Cabell <b>Huntington</b> <b>Hospital</b> Inc. has earned a 4/4 Star rating on Charity Navigator. This <b>Charitable</b> Organization is headquartered in <b>Huntington</b>, WV. ... <b>Donations</b> are tax-deductible. WWW.CABELLHUNTINGTON.ORG. 1340 HAL GREER BLVD. <b>Huntington</b> WV 25701-3804. 304-526-2000.
+
+Title: Cabell Huntington Hospital Foundation Inc - ProPublica
+Link: https://projects.propublica.org/nonprofits/organizations/311096222
+Snippet: Cabell <b>Huntington Hospital</b> Foundation Inc. <b>Huntington</b>, WV; Tax-exempt since May 1984 EIN: 31-1096222 ... Type of Nonprofit. Designated as a 501(c)3 Organizations for any of the following purposes: religious, educational, <b>charitable</b>, scientific, literary, testing for public ... <b>Contributions</b> $2,881,933 : 93.3% Program Services $0 : Investment ...
+
+Title: About Us - MHN Foundations
+Link: https://mhnfoundations.org/about-us/
+Snippet: The Cabell <b>Huntington</b> <b>Hospital</b> Foundation qualifies as a 501(c)3 organization (Tax ID Number: 31-1096222 ) and therefore <b>contributions</b> are tax-deductible to the fullest extent allowable by law. The St. Mary’s Medical Center Foundation qualifies as a 501(c)3 organization (Tax ID Number: 14-1887211) and therefore <b>contributions</b> are tax ...
+
+Title: Cabell Huntington Hospital Auxiliary | Huntington, WV - Cause IQ
+Link: https://www.causeiq.com/organizations/cabell-huntington-hospital-auxiliary,556014510/
+Snippet: The organization was successful in contributing more than 980,000 to the Cabell <b>Huntington</b> <b>Hospital</b> foundation in support of various builidng projects and medical equipment. These projects include a new parking garage. In addition, the organization supported other <b>charitable</b> endeavors for the <b>Hospital</b> foundation.
+
+Title: Cabell Huntington Hospital - Financial Assistance Policy
+Link: https://cabellhuntington.org/assets/CHH/Documents/Billing-Financial/FAP/CHH-Financial-Assistance-Policy.pdf
+Snippet: Patients seeking care at Cabell <b>Huntington</b> <b>Hospital</b> are eligible for Income based financial assistance under this Policy if the patient is a United States citizen, the patient’s Household Income does not exceed 150% of the FPG, the patient does not have assets in excess of $50,000 and the patient is seeking Emergency Services or Medically ...
+
+Title: Contact Us - Cabell Huntington Hospital
+Link: https://cabellhuntington.org/contact-us/
+Snippet: Cabell <b>Huntington Hospital</b> 1340 Hal Greer Blvd <b>Huntington</b>, WV 25701 304.526.2000
+
+Remi: Results for query 'Cabell Huntington Hospital local sponsorships':
+Title: Foundation - Cabell Huntington Hospital
+Link: https://cabellhuntington.org/foundation/
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b> 1340 Hal Greer Blvd <b>Huntington</b>, WV 25701 304.526.2000
+
+Title: Hoops Family Children’s Hospital medical director announces retirement
+Link: https://cabellhuntington.org/connect/news/article/hoops-family-childrens-hospital-medical-director-announces-retirement
+Snippet: He is also active with many <b>local</b>, state and national organizations, such as the Southeast <b>Huntington</b> Lions Club. He is a longtime board member of Kentucky Donor Affiliates and has served on a variety of other community boards. ... Cabell <b>Huntington</b> <b>Hospital</b> 1340 Hal Greer Blvd <b>Huntington</b>, WV 25701 304.526.2000 Online Bill Pay; Patient Portal ...
+
+Title: Home - Cabell Huntington Hospital
+Link: https://cabellhuntington.org/
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b> 1340 Hal Greer Blvd <b>Huntington</b>, WV 25701 304.526.2000 Online Bill Pay; Patient Portal; Price Transparency; Peak Health; Careers; Medical Records; Contact Us ©2024 Cabell <b>Huntington</b> <b>Hospital</b> - By using this website you are in agreement with the ...
+
+Title: Cabell Huntington Hospital | Huntington WV - Facebook
+Link: https://www.secure.facebook.com/cabellhuntington/
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b>, <b>Huntington</b>, West Virginia. 21,832 likes · 2,243 talking about this · 176,463 were here. Cabell <b>Huntington</b> <b>Hospital</b>, a member of Marshall Health Network, is a 303-bed...
+
+Title: Hoops Family Children’s Hospital medical director announces retirement
+Link: https://chhacquisition.cabellhuntington.org/connect/news/article/hoops-family-childrens-hospital-medical-director-announces-retirement
+Snippet: Dr. Ed Pino, MD, FAAP, medical director for Hoops Family Children&#39;s <b>Hospital</b> at Cabell <b>Huntington</b> <b>Hospital</b> and chief medical information officer for Marshall Health Network. Dr. Eduardo Pino has announced his retirement as the Medical Director of Hoops Family Children’s <b>Hospital</b> (HFCH), a member of Marshall Health Network (MHN), at the end of ...
+
+Title: Volunteer Services - Marshall Health Network
+Link: https://chhacquisition.cabellhuntington.org/patients-and-visitors/volunteer-services/
+Snippet: Marshall Health Network, Inc. Corporate Office 1340 Hal Greer Blvd. <b>Huntington</b>, WV 25701 1.304.526.2000
+
+Title: Cabell Huntington Hospital - LHC Group Partnerships with Purpose
+Link: https://lhcgroup.com/partnerships/cabell-huntington-hospital/
+Snippet: Cabell <b>Huntington Hospital</b>. We are proud supporters of our community. Please call us today to learn more about our <b>local</b> family of healthcare providers. St. Mary’s Home Health Service. 3246 US Route 60. Suite 13. <b>Huntington</b>, WV 25705. Phone: 304.733.5010. Fax: 304.733.5024 Learn More.
+
+Title: Marshall University, Cabell Huntington Hospital host Patient Quality ...
+Link: https://wchstv.com/news/local/marshall-university-cabell-huntington-hospital-host-patient-quality-and-safety-summit
+Snippet: <b>HUNTINGTON</b>, W.Va. (WCHS/WVAH) — Marshall University&#39;s School of Medicine and Cabell <b>Huntington</b> <b>Hospital</b> is hosting an event to help improve the quality of care for patients. The annual Patient ...
+
+Title: Cabell Huntington Hospital Foundation Inc - ProPublica
+Link: https://projects.propublica.org/nonprofits/organizations/311096222
+Snippet: Cabell <b>Huntington Hospital</b> Foundation Inc. <b>Huntington</b>, WV. Tax-exempt since May 1984. EIN: 31-1096222. Subscribe. Receive an email when new data is available for this organization.
+
+Title: Charity Navigator - Rating for Cabell Huntington Hospital Inc.
+Link: https://www.charitynavigator.org/ein/550675666
+Snippet: Cabell <b>Huntington</b> <b>Hospital</b> Inc. has earned a 4/4 Star rating on Charity Navigator. This Charitable Organization is headquartered in <b>Huntington</b>, WV. ... Become a <b>Sponsor</b>; Thought Leadership &amp; News; 2024 Methodology Enhancement; Reflecting on 2023: A Year of Challenges and Growth in Philanthropy; 2023 Holiday Season Donation Trends; 2023 Fall ...
+

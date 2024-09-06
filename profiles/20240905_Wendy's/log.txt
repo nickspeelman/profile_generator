@@ -1,0 +1,1469 @@
+Susan: Gathering information on 'Wendy's' will involve several stages:
+
+1. **Company Background**: Start with a general understanding of the business. Visit their official website to understand their core values, culture, key products and services, strategies, marketing campaigns, goals, and target audience. During this phase, also look at their geographical locations, number of employees, and history, including mergers, acquisitions, and expansions.
+
+2. **Financial Information**: Look up their public financial records. This is mainly for publicly traded companies like 'Wendy's'. These could be available on their official website under investor relations, or on financial databases like Yahoo Finance, Google Finance, Bloomberg, or Reuters. Check their latest quarterly and annual reports for revenue, profits, capital investments, debt, and other financial metrics. Look for market analysis reports that might shed light on their competitive positioning.
+
+3. **Key Decision Makers**: Identify the top executives and board members. You can do this from the official company website or associated news articles. Learn about their previous roles, credentials, successes, and failures. Scan the news for any controversies or extreme stands on policy issues. Their personal or professional affiliations can be treated as possible leverage points.
+
+4. **Labor Relations**: Search in trade publications, local newspapers, or news databases for any stories related to 'Wendy's' treatment of their employees. It may involve issues related to pay, benefits, working conditions, layoffs, strikes, or lawsuits. Look out for any recent or past protests, controversies, or notable decisions related to their workforce.
+
+5. **Recent Scandals**: Scan news portals, social media, and press releases for recent scandals involving the company. This can include issues related to product quality, customer service, lawsuits, environmental issues, or leadership scandals.
+
+6. **Social Media and Online Presence**: Look at Wendy's activity on all social media platforms. Identify how they interact with their customers, handle complaints, and their online reputation.
+
+7. **Customer Reviews**: Check review sites like Yelp, Google Reviews, and Trip Advisor to understand customer feedback. These could reveal potential ethical, service, or product quality issues.
+
+8. **Competitors and Market Environment**: Research on the key competitors and market environment to understand Wendy's positioning and strategies better. This may also reveal potential areas of vulnerability.
+
+This information will be compiled, organized, and summarized in a brief to provide a comprehensive understanding of Wendy's as an employer.
+Manny: Susan, this strategy seems comprehensive and well-structured. However, a few clarifying questions on specific points:
+
+1. **Financial Information**: Since Wendy's is public, we can access their financial information readily. However, are there elements we should pay special attention to? We want to understand their financial health but also look for potential leverage points.
+
+2. **Key Decision Makers**: Besides their professional background, what kind of personal information is appropriate to look for? We want to respect privacy issues as we identify potential leverage points.
+
+3. **Labor Relations**: Besides instances of strikes or lawsuits, which might be more evident, what other indicators should we look for that might indicate less-than-ideal labor practices?
+
+4. **Recent Scandals**: How far back should we look at when considering "recent" scandals for our report?
+
+5. **Customer Reviews**: While these reviews provide a wealth of information about customer sentiment, they can be quite subjective and potentially manipulated. How should we approach analyzing these reviews?
+
+6. **Competitors and Market Environment**: Could you suggest some direct competitors of Wendy's we should include in our research for comparison? 
+
+Your clarification on these points will assist greatly as we develop our research brief. Thanks!
+Manny: Sure, here's a list of search queries:
+
+```python
+search_queries_for_remi = [
+    "Wendy's company background",
+    "Wendy's core values",
+    "Wendy's investor relations",
+    "Wendy's financial reports",
+    "Wendy's key decision makers",
+    "Wendy's board of directors",
+    "Wendy's executive team",
+    "Wendy's labor relations",
+    "Wendy's employee treatment",
+    "Wendy's labor strikes",
+    "Wendy's recent scandals",
+    "Wendy's lawsuits",
+    "Wendy's social media presence",
+    "Wendy's customer reviews",
+    "Wendy's competition",
+    "Wendy's market position",
+    "Direct competitors of Wendy's"
+]
+```
+Please use these queries as a starting point and adapt them as necessary based on your findings.
+Remi: Results for query 'Wendy's company background':
+Title: The Wendy&#39;s Story | Wendy&#39;s
+Link: https://www.wendys.com/wendys-story
+Snippet: November 1969. November 15, 1969 – First <b>Wendy’s</b> Opens. The beginning of a journey – on November 15, 1969, Dave Thomas opened his very first <b>Wendy’s</b> restaurant in Columbus, Ohio at 257 East Broad Street. In no time, the quick-service chain became known for its square beef patties, made from fresh beef, and iconic Frosty ® desserts.
+
+Title: The Wendy&#39;s Company - Wikipedia
+Link: https://en.wikipedia.org/wiki/The_Wendy%27s_Company
+Snippet: <b>Wendy</b>&#39;s corporate headquarters in Dublin, Ohio. <b>Wendy</b>&#39;s International, Inc. is the franchisor of <b>Wendy</b>&#39;s restaurants and the former parent <b>company</b> of <b>Wendy</b>&#39;s.It also owned Tim Hortons, Baja Fresh, and had a 70 percent stake in Cafe Express.The corporate headquarters is located in Dublin, Ohio, a suburb of Columbus.<b>Wendy</b>&#39;s International is owned by the <b>Wendy</b>&#39;s <b>Company</b>.
+
+Title: Wendy&#39;s - Wikipedia
+Link: https://en.wikipedia.org/wiki/Wendy%27s
+Snippet: <b>Wendy</b>&#39;s is an American international fast food restaurant chain founded by Dave Thomas on November 15, 1969, in Columbus, Ohio.Its headquarters moved to Dublin, Ohio, on January 29, 2006.As of December 31, 2018, <b>Wendy</b>&#39;s was the world&#39;s third-largest hamburger fast-food chain with 6,711 locations, following McDonald’s and Burger King.On September 29, 2008, the <b>company</b> merged with Triarc ...
+
+Title: Who We Are | Wendy&#39;s
+Link: https://www.wendys.com/who-we-are
+Snippet: Learn about the people leading The <b>Wendy</b>&#39;s <b>Company</b>. OUR LEADERSHIP TEAM. MEET THE BOARD. Corporate Governance. CORPORATE GOVERNANCE. We Run on our Values. We live by a certain set of values and we run <b>Wendy</b>&#39;s according to a certain set of values. It&#39;s what makes us who we are: our values keep our vision in line with the future.
+
+Title: Wendy’s | History, Founder, &amp; Facts | Britannica Money
+Link: https://money.britannica.com/money/Wendys
+Snippet: <b>Wendy’s</b>, fast-food <b>company</b> that is the third largest hamburger chain in the United States, behind McDonald’s and Burger King. Dave Thomas founded the first <b>Wendy’s</b> restaurant in Columbus, Ohio, in 1969.One of fast food’s most famous brands and logos, <b>Wendy’s</b> cartoon image of a smiling redheaded girl, was based on the appearance of Thomas’s daughter, who also inspired the <b>company</b> ...
+
+Title: Wendy&#39;s International, Inc. -- Company History
+Link: https://www.company-histories.com/Wendys-International-Inc-Company-History.html
+Snippet: <b>Company</b> History: <b>Wendy</b>&#39;s International,<b></b> Inc. is the operator, developer, and franchiser of the <b>Wendy</b>&#39;s restaurant chain, which is the number three hamburger chain in the United States (with a market share of 12.7 percent in 2000), trailing McDonald&#39;s (43.1 percent) and Burger King (18.8 percent). At the end of 2001, there were more than 6,000 ...
+
+Title: Dave&#39;s Legacy - Founding Wendy&#39;s | Wendy&#39;s
+Link: https://www.wendys.com/who-we-are-daves-legacy-founding-wendys
+Snippet: Under Dave&#39;s leadership, <b>Wendy</b>&#39;s led the industry in product innovations. In 1979, the <b>company</b> was the first national chain to introduce salad bars, and in 1983, <b>Wendy</b>&#39;s added baked potatoes to the menu. Other innovations followed, and soon the restaurant industry and business community applauded Dave’s innovation and success. First Pickup ...
+
+Title: The History of Wendy&#39;s - Back Then History
+Link: https://www.backthenhistory.com/articles/the-history-of-wendys
+Snippet: November 4, 2021. Founder Dave Thomas opened the first <b>Wendy’s</b> on November 15, 1969 in Columbus, Ohio. He named the restaurant after his daughter, <b>Wendy</b>. A year later, he opened a second location that featured the first modern drive-thru window at a fast-food restaurant. <b>Wendy’s</b> was also the first fast-food chain to introduce a salad bar.
+
+Title: Dave Thomas - Wendy&#39;s, Daughter &amp; Facts - Biography
+Link: https://www.biography.com/business-leaders/dave-thomas
+Snippet: First <b>Wendy</b>&#39;s Opens. After complaining that he couldn&#39;t find a good hamburger in Columbus, Thomas decided to open his own restaurant. On November 15, 1969, he opened the first <b>Wendy</b>&#39;s restaurant ...
+
+Title: Exploring the Rich History of Wendy&#39;s: A Quick Summary
+Link: https://atouchofbusiness.com/companies/wendys/
+Snippet: In 2011, it became The <b>Wendy’s</b> <b>Company</b> and moved back near its first location in Dublin, Ohio. Brand and Menu Identity. <b>Wendy’s</b> is famous for square hamburgers, Frosty desserts, and unique sides like baked potatoes and chili. ... Dave Thomas’s <b>Background</b>. Thomas worked at KFC before <b>Wendy’s</b>, where he helped with business innovations.
+
+Remi: Results for query 'Wendy's company background':
+Title: The Wendy&#39;s Story | Wendy&#39;s
+Link: https://www.wendys.com/wendys-story
+Snippet: November 1969. November 15, 1969 – First <b>Wendy’s</b> Opens. The beginning of a journey – on November 15, 1969, Dave Thomas opened his very first <b>Wendy’s</b> restaurant in Columbus, Ohio at 257 East Broad Street. In no time, the quick-service chain became known for its square beef patties, made from fresh beef, and iconic Frosty ® desserts.
+
+Title: The Wendy&#39;s Company - Wikipedia
+Link: https://en.wikipedia.org/wiki/The_Wendy%27s_Company
+Snippet: <b>Wendy</b>&#39;s corporate headquarters in Dublin, Ohio. <b>Wendy</b>&#39;s International, Inc. is the franchisor of <b>Wendy</b>&#39;s restaurants and the former parent <b>company</b> of <b>Wendy</b>&#39;s.It also owned Tim Hortons, Baja Fresh, and had a 70 percent stake in Cafe Express.The corporate headquarters is located in Dublin, Ohio, a suburb of Columbus.<b>Wendy</b>&#39;s International is owned by the <b>Wendy</b>&#39;s <b>Company</b>.
+
+Title: Wendy&#39;s - Wikipedia
+Link: https://en.wikipedia.org/wiki/Wendy%27s
+Snippet: <b>Wendy</b>&#39;s is an American international fast food restaurant chain founded by Dave Thomas on November 15, 1969, in Columbus, Ohio.Its headquarters moved to Dublin, Ohio, on January 29, 2006.As of December 31, 2018, <b>Wendy</b>&#39;s was the world&#39;s third-largest hamburger fast-food chain with 6,711 locations, following McDonald’s and Burger King.On September 29, 2008, the <b>company</b> merged with Triarc ...
+
+Title: Who We Are | Wendy&#39;s
+Link: https://www.wendys.com/who-we-are
+Snippet: Learn about the people leading The <b>Wendy</b>&#39;s <b>Company</b>. OUR LEADERSHIP TEAM. MEET THE BOARD. Corporate Governance. CORPORATE GOVERNANCE. We Run on our Values. We live by a certain set of values and we run <b>Wendy</b>&#39;s according to a certain set of values. It&#39;s what makes us who we are: our values keep our vision in line with the future.
+
+Title: Wendy’s | History, Founder, &amp; Facts | Britannica Money
+Link: https://money.britannica.com/money/Wendys
+Snippet: <b>Wendy’s</b>, fast-food <b>company</b> that is the third largest hamburger chain in the United States, behind McDonald’s and Burger King. Dave Thomas founded the first <b>Wendy’s</b> restaurant in Columbus, Ohio, in 1969.One of fast food’s most famous brands and logos, <b>Wendy’s</b> cartoon image of a smiling redheaded girl, was based on the appearance of Thomas’s daughter, who also inspired the <b>company</b> ...
+
+Title: Wendy&#39;s International, Inc. -- Company History
+Link: https://www.company-histories.com/Wendys-International-Inc-Company-History.html
+Snippet: <b>Company</b> History: <b>Wendy</b>&#39;s International,<b></b> Inc. is the operator, developer, and franchiser of the <b>Wendy</b>&#39;s restaurant chain, which is the number three hamburger chain in the United States (with a market share of 12.7 percent in 2000), trailing McDonald&#39;s (43.1 percent) and Burger King (18.8 percent). At the end of 2001, there were more than 6,000 ...
+
+Title: Dave&#39;s Legacy - Founding Wendy&#39;s | Wendy&#39;s
+Link: https://www.wendys.com/who-we-are-daves-legacy-founding-wendys
+Snippet: Under Dave&#39;s leadership, <b>Wendy</b>&#39;s led the industry in product innovations. In 1979, the <b>company</b> was the first national chain to introduce salad bars, and in 1983, <b>Wendy</b>&#39;s added baked potatoes to the menu. Other innovations followed, and soon the restaurant industry and business community applauded Dave’s innovation and success. First Pickup ...
+
+Title: The History of Wendy&#39;s - Back Then History
+Link: https://www.backthenhistory.com/articles/the-history-of-wendys
+Snippet: November 4, 2021. Founder Dave Thomas opened the first <b>Wendy’s</b> on November 15, 1969 in Columbus, Ohio. He named the restaurant after his daughter, <b>Wendy</b>. A year later, he opened a second location that featured the first modern drive-thru window at a fast-food restaurant. <b>Wendy’s</b> was also the first fast-food chain to introduce a salad bar.
+
+Title: Dave Thomas - Wendy&#39;s, Daughter &amp; Facts - Biography
+Link: https://www.biography.com/business-leaders/dave-thomas
+Snippet: First <b>Wendy</b>&#39;s Opens. After complaining that he couldn&#39;t find a good hamburger in Columbus, Thomas decided to open his own restaurant. On November 15, 1969, he opened the first <b>Wendy</b>&#39;s restaurant ...
+
+Title: Exploring the Rich History of Wendy&#39;s: A Quick Summary
+Link: https://atouchofbusiness.com/companies/wendys/
+Snippet: In 2011, it became The <b>Wendy’s</b> <b>Company</b> and moved back near its first location in Dublin, Ohio. Brand and Menu Identity. <b>Wendy’s</b> is famous for square hamburgers, Frosty desserts, and unique sides like baked potatoes and chili. ... Dave Thomas’s <b>Background</b>. Thomas worked at KFC before <b>Wendy’s</b>, where he helped with business innovations.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's core values':
+Title: Workplace Values, Culture &amp; Resources | Wendy&#39;s® CSR
+Link: https://www.wendys.com/csr-what-we-value-people-workplace
+Snippet: Learn how Wendy&#39;s lives up to its founder&#39;s values of<b> integrity, respect and giving back in its workplace culture.</b> Explore the opportunities, benefits and recognition for employees, franchisees and company leaders.
+
+Title: Corporate Social Responsibility &amp; What We Value | Wendy&#39;s® CSR
+Link: https://www.wendys.com/csr-what-we-value
+Snippet: Learn how Wendy&#39;s follows<b> the principle of &quot;Good Done Right&quot; in its</b> food, people and footprint focus areas. See the company&#39;s goals, progress, reports and alignment with the UN Sustainable Development Goals.
+
+Title: Who We Are | Wendy&#39;s
+Link: https://www.wendys.com/who-we-are
+Snippet: We live by a certain set of <b>values</b> and we run <b>Wendy</b>&#39;s according to a certain set of <b>values</b>. It&#39;s what makes us who we are: our <b>values</b> keep our vision in line with the future. Don&#39;t believe us? You can check out The <b>Wendy</b>&#39;s Company Corporate Governance Guidelines right here. How&#39;s that for transparency?
+
+Title: Culture - Wendy&#39;s Careers
+Link: https://wendys-careers.com/culture/
+Snippet: Learn how Wendy&#39;s supports its employees with<b> fair and square values, beyond benefits,</b> and<b> diversity and inclusion initiatives.</b> Explore the employee resource groups, news, and opportunities at Wendy&#39;s.
+
+Title: Wendy’s 2022 Corporate Responsibility Report
+Link: https://prod.wendys.com/blog/wendys-releases-2022-corporate-responsibility-report
+Snippet: <b>Wendy’s</b>® is committed to driving positive change across the communities in which we serve. We continue to accelerate progress through our corporate responsibility platform, Good Done Right, and our key focus areas of Food, People and Footprint. Released today, our 2022 Corporate Responsibility Report reflects <b>Wendy’s</b> achievement of key milestones, including setting new goals to cut ...
+
+Title: Wendy&#39;s® | Wendy&#39;s 2023 Corporate Responsibility Report
+Link: https://prod.wendys.com/blog/wendysr-square-deal-blog/wendys-2023-corporate-responsibility-report
+Snippet: <b>Wendy’s</b> ® is committed to helping shape the future of fast food – one that’s focused on serving up high-quality food that our customers love, empowering our people and caring for the planet. We work to achieve this by delivering on our corporate responsibility strategy, Good Done Right. Released today, our 2023 Corporate Responsibility Report reflects on <b>Wendy’s</b> achievement of key ...
+
+Title: Wendy&#39;s® Releases its 2021 CSR Report | Wendy&#39;s Blog
+Link: https://test.wendys.com/blog/2021-corporate-responsibility-report
+Snippet: What We Value <b>Values</b>; Who We Are Company; Find Jobs Jobs; Utility 2. View Our Menu VIEW OUR MENU; Start An Order START AN ORDER; <b>Wendy</b>&#39;s Salad new Items. <b>Wendy</b>&#39;s 2021 Corporate Responsibility Report. Sharing Our Corporate Responsibility Activities and Progress Made Last Year. April 27, 2022.
+
+Title: Wendy&#39;s Advances Corporate Responsibility Commitments
+Link: https://www.irwendys.com/news/news-details/2022/Wendys-Advances-Corporate-Responsibility-Commitments/default.aspx
+Snippet: Wendy&#39;s released its 2021 Corporate Responsibility report, outlining progress under its Good Done Right platform focus areas of Food, People and Footprint. The report includes<b> Wendy&#39;s Diversity, Equity and Inclusion goals, climate roadmap, sustainable packaging goals</b> and<b> ESG compensation metric for executives.</b>
+
+Title: Corporate Responsibility Reports: Current &amp; Past - Wendy&#39;s
+Link: https://www.wendys.com/csr-what-we-value/reports
+Snippet: Find out how<b> Wendy&#39;s is committed</b> to<b> transparency and sustainability</b> across its U.S.<b> and</b> Canadian restaurants. View current and past reports on food, people and footprint focus areas.
+
+Title: The Wendy&#39;s Company - Wendy&#39;s Announces Advancement of Corporate ...
+Link: https://www.irwendys.com/news/news-details/2021/Wendys-Announces-Advancement-of-Corporate-Responsibility-Efforts-and-New-Goals/default.aspx
+Snippet: Wendy&#39;s<b> shares its progress and vision on Food, People and Footprint topics in its 2020</b> report. The report also includes new goals for responsible sourcing, sustainable packaging, greenhouse gas reduction and diversity.
+
+Remi: Results for query 'Wendy's core values':
+Title: Workplace Values, Culture &amp; Resources | Wendy&#39;s® CSR
+Link: https://www.wendys.com/csr-what-we-value-people-workplace
+Snippet: Learn how Wendy&#39;s lives up to its founder&#39;s values of<b> integrity, respect and giving back in its workplace culture.</b> Explore the opportunities, benefits and recognition for employees, franchisees and company leaders.
+
+Title: Corporate Social Responsibility &amp; What We Value | Wendy&#39;s® CSR
+Link: https://www.wendys.com/csr-what-we-value
+Snippet: Learn how Wendy&#39;s follows<b> the principle of &quot;Good Done Right&quot; in its</b> food, people and footprint focus areas. See the company&#39;s goals, progress, reports and alignment with the UN Sustainable Development Goals.
+
+Title: Who We Are | Wendy&#39;s
+Link: https://www.wendys.com/who-we-are
+Snippet: We live by a certain set of <b>values</b> and we run <b>Wendy</b>&#39;s according to a certain set of <b>values</b>. It&#39;s what makes us who we are: our <b>values</b> keep our vision in line with the future. Don&#39;t believe us? You can check out The <b>Wendy</b>&#39;s Company Corporate Governance Guidelines right here. How&#39;s that for transparency?
+
+Title: Culture - Wendy&#39;s Careers
+Link: https://wendys-careers.com/culture/
+Snippet: Learn how Wendy&#39;s supports its employees with<b> fair and square values, beyond benefits,</b> and<b> diversity and inclusion initiatives.</b> Explore the employee resource groups, news, and opportunities at Wendy&#39;s.
+
+Title: Wendy’s 2022 Corporate Responsibility Report
+Link: https://prod.wendys.com/blog/wendys-releases-2022-corporate-responsibility-report
+Snippet: <b>Wendy’s</b>® is committed to driving positive change across the communities in which we serve. We continue to accelerate progress through our corporate responsibility platform, Good Done Right, and our key focus areas of Food, People and Footprint. Released today, our 2022 Corporate Responsibility Report reflects <b>Wendy’s</b> achievement of key milestones, including setting new goals to cut ...
+
+Title: Wendy&#39;s® | Wendy&#39;s 2023 Corporate Responsibility Report
+Link: https://prod.wendys.com/blog/wendysr-square-deal-blog/wendys-2023-corporate-responsibility-report
+Snippet: <b>Wendy’s</b> ® is committed to helping shape the future of fast food – one that’s focused on serving up high-quality food that our customers love, empowering our people and caring for the planet. We work to achieve this by delivering on our corporate responsibility strategy, Good Done Right. Released today, our 2023 Corporate Responsibility Report reflects on <b>Wendy’s</b> achievement of key ...
+
+Title: Wendy&#39;s® Releases its 2021 CSR Report | Wendy&#39;s Blog
+Link: https://test.wendys.com/blog/2021-corporate-responsibility-report
+Snippet: What We Value <b>Values</b>; Who We Are Company; Find Jobs Jobs; Utility 2. View Our Menu VIEW OUR MENU; Start An Order START AN ORDER; <b>Wendy</b>&#39;s Salad new Items. <b>Wendy</b>&#39;s 2021 Corporate Responsibility Report. Sharing Our Corporate Responsibility Activities and Progress Made Last Year. April 27, 2022.
+
+Title: Wendy&#39;s Advances Corporate Responsibility Commitments
+Link: https://www.irwendys.com/news/news-details/2022/Wendys-Advances-Corporate-Responsibility-Commitments/default.aspx
+Snippet: Wendy&#39;s released its 2021 Corporate Responsibility report, outlining progress under its Good Done Right platform focus areas of Food, People and Footprint. The report includes<b> Wendy&#39;s Diversity, Equity and Inclusion goals, climate roadmap, sustainable packaging goals</b> and<b> ESG compensation metric for executives.</b>
+
+Title: Corporate Responsibility Reports: Current &amp; Past - Wendy&#39;s
+Link: https://www.wendys.com/csr-what-we-value/reports
+Snippet: Find out how<b> Wendy&#39;s is committed</b> to<b> transparency and sustainability</b> across its U.S.<b> and</b> Canadian restaurants. View current and past reports on food, people and footprint focus areas.
+
+Title: The Wendy&#39;s Company - Wendy&#39;s Announces Advancement of Corporate ...
+Link: https://www.irwendys.com/news/news-details/2021/Wendys-Announces-Advancement-of-Corporate-Responsibility-Efforts-and-New-Goals/default.aspx
+Snippet: Wendy&#39;s<b> shares its progress and vision on Food, People and Footprint topics in its 2020</b> report. The report also includes new goals for responsible sourcing, sustainable packaging, greenhouse gas reduction and diversity.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's investor relations':
+Title: The Wendy&#39;s Company - Investor Relations
+Link: https://www.irwendys.com/home/default.aspx
+Snippet: Corporate Overview. <b>Wendy&#39;s</b> ® was founded in 1969 by Dave Thomas in Columbus, Ohio. Dave built his business on the premise, “Quality is our Recipe ®,” which remains the guidepost of the <b>Wendy’s</b> system. <b>Wendy’s</b> is best known for its made-to-order square hamburgers, using fresh, never frozen beef*, freshly-prepared salads with hand ...
+
+Title: Online Investor Kit - Wendy&#39;s
+Link: https://www.wendys.com/online-investor-kit
+Snippet: <b>Investor</b> <b>Relations</b>. ONLINE <b>INVESTOR</b> KIT. You can quickly assemble your own <b>Investor</b> Kit by selecting and printing from the following documents. Q4 2018 Earnings Presentation. The <b>Wendy’s</b> Company Q4 2018 Webcast. Notice of 2018 Annual Meeting and Proxy Statement. 2017 Annual Report. 2017 10K.
+
+Title: 382927 004 BMK WEB - s1.q4cdn.com
+Link: https://s1.q4cdn.com/202642389/files/doc_financials/2022/ar/2022-Annual-Report_TWC.pdf
+Snippet: <b>Investor</b> <b>Relations</b> website, www.irwend ys.com, or contact the Company directly as follows: Kelsey Freed Director, <b>Investor</b> <b>Relations</b> 614.764.3345 kelsey.freed@<b>wendys</b>.com News media inquiries Heidi S. Schauer Vice President, Communications, Public Affairs, and Customer Care 614.764.3368 heidi.schauer@<b>wendys</b>.com Common stock listing CORPORATE ...
+
+Title: THE WENDY’S COMPANY
+Link: https://s1.q4cdn.com/202642389/files/doc_financials/2023/ar/2023-wendys-bookmarked-annual-report-final.pdf
+Snippet: <b>Investor</b> <b>Relations</b> website, www.irwendys.com, or contact the Company directly as follows: Kelsey Freed Director, <b>Investor</b> <b>Relations</b> 614.764.3345 ... <b>Wendy’s</b> Restaurants of Canada Inc., which is the owner and franchisor of the <b>Wendy’s</b> restaurant system in Canada. As used in this report, unless the context requires otherwise, the term ...
+
+Title: THE WENDY’S COMPANY REPORTS THIRD QUARTER 2022 RESULTS
+Link: https://s1.q4cdn.com/202642389/files/doc_financials/2022/q3/2022-Q3-Press-Release.pdf
+Snippet: THE <b>WENDY’S</b> COMPANY REPORTS THIRD QUARTER 2022 RESULTS Dublin, Ohio (November 9, 2022) - The <b>Wendy’s</b> Company (Nasdaq: WEN) today reported ... related presentation materials will also be available on the Company&#39;s <b>Investor</b> <b>Relations</b> website. The live conference call will be available by telephone at (844) 200-6205 for domestic callers and ...
+
+Title: THE WENDY’S COMPANY
+Link: https://www.wendys.com/sites/default/files/2018-06/Annual_Report_2017_web_0.PDF
+Snippet: Director,<b>Investor</b> <b>Relations</b> 614.764.8478 peter.koumas@<b>wendys.com</b> News mediainquiries Heidi S.Schauer Di re c tor,Corpo aeCommun ions 614.764.3368 heidi.schauer@<b>wendys.com</b> Common stock listing WEN L I S TED TODDA. PENEGOR Presidentand Chief Executive Officer GUNTHER PLOSCH Chief Financial Officer ROBERTD.WRIGHT ExecutiveVice President,
+
+Title: Investor Fact Sheet Final - Wendy&#39;s
+Link: https://www.wendys.com/sites/default/files/2019-02/Investor%20Fact%20Sheet_Q4%20Final.pdf
+Snippet: Strong Track Record of Returning Cash to Shareholders. This document includes certain non-GAAP financial measures, key business measures and results presented on a recast basis, as well as “forward-looking statements” that are not historical facts and that concern possible or anticipated future results or stated Company goals.
+
+Title: The Wendy&#39;s Company - Events &amp; Presentations
+Link: https://www.irwendys.com/events-and-presentations/default.aspx
+Snippet: of the presentation, Q2 2024 The <b>Wendy’s</b> Company Earnings Webcast &amp; Conference Call Presentation. May 2, 2024. Q1 2024 The <b>Wendy’s</b> Company Earnings Webcast &amp; Conference Call Presentation. Download PDF. of the presentation, Q1 2024 The <b>Wendy’s</b> Company Earnings Webcast &amp; Conference Call Presentation. February 15, 2024.
+
+Title: THE WENDY&#39;S COMPANY REPORTS SECOND QUARTER 2024 RESULTS - Yahoo Finance
+Link: https://finance.yahoo.com/news/wendys-company-reports-second-quarter-110000576.html
+Snippet: The Company repurchased 1.6 million shares for $27.3 million in the second quarter of 2024. In the third quarter of 2024, the Company has repurchased 0.9 million shares for $15.6 million through ...
+
+Title: REPORTING, STAKEHOLDER ENGAGEMENT AND GOVERNANCE - Wendy&#39;s
+Link: https://www.wendys.com/sites/default/files/2022-05/Wendys-CSR-Intro.pdf
+Snippet: Governance page on our <b>Investor</b> <b>Relations</b> website. Management <b>Wendy’s</b> recognizes the important role that governance and risk management play in supporting our overall ESG strategy, including building a sustainable and resilient supply chain, managing climate risk and supporting safe and responsible work environments.
+
+Remi: Results for query 'Wendy's investor relations':
+Title: The Wendy&#39;s Company - Investor Relations
+Link: https://www.irwendys.com/home/default.aspx
+Snippet: Corporate Overview. <b>Wendy&#39;s</b> ® was founded in 1969 by Dave Thomas in Columbus, Ohio. Dave built his business on the premise, “Quality is our Recipe ®,” which remains the guidepost of the <b>Wendy’s</b> system. <b>Wendy’s</b> is best known for its made-to-order square hamburgers, using fresh, never frozen beef*, freshly-prepared salads with hand ...
+
+Title: Online Investor Kit - Wendy&#39;s
+Link: https://www.wendys.com/online-investor-kit
+Snippet: <b>Investor</b> <b>Relations</b>. ONLINE <b>INVESTOR</b> KIT. You can quickly assemble your own <b>Investor</b> Kit by selecting and printing from the following documents. Q4 2018 Earnings Presentation. The <b>Wendy’s</b> Company Q4 2018 Webcast. Notice of 2018 Annual Meeting and Proxy Statement. 2017 Annual Report. 2017 10K.
+
+Title: 382927 004 BMK WEB - s1.q4cdn.com
+Link: https://s1.q4cdn.com/202642389/files/doc_financials/2022/ar/2022-Annual-Report_TWC.pdf
+Snippet: <b>Investor</b> <b>Relations</b> website, www.irwend ys.com, or contact the Company directly as follows: Kelsey Freed Director, <b>Investor</b> <b>Relations</b> 614.764.3345 kelsey.freed@<b>wendys</b>.com News media inquiries Heidi S. Schauer Vice President, Communications, Public Affairs, and Customer Care 614.764.3368 heidi.schauer@<b>wendys</b>.com Common stock listing CORPORATE ...
+
+Title: THE WENDY’S COMPANY
+Link: https://s1.q4cdn.com/202642389/files/doc_financials/2023/ar/2023-wendys-bookmarked-annual-report-final.pdf
+Snippet: <b>Investor</b> <b>Relations</b> website, www.irwendys.com, or contact the Company directly as follows: Kelsey Freed Director, <b>Investor</b> <b>Relations</b> 614.764.3345 ... <b>Wendy’s</b> Restaurants of Canada Inc., which is the owner and franchisor of the <b>Wendy’s</b> restaurant system in Canada. As used in this report, unless the context requires otherwise, the term ...
+
+Title: THE WENDY’S COMPANY REPORTS THIRD QUARTER 2022 RESULTS
+Link: https://s1.q4cdn.com/202642389/files/doc_financials/2022/q3/2022-Q3-Press-Release.pdf
+Snippet: THE <b>WENDY’S</b> COMPANY REPORTS THIRD QUARTER 2022 RESULTS Dublin, Ohio (November 9, 2022) - The <b>Wendy’s</b> Company (Nasdaq: WEN) today reported ... related presentation materials will also be available on the Company&#39;s <b>Investor</b> <b>Relations</b> website. The live conference call will be available by telephone at (844) 200-6205 for domestic callers and ...
+
+Title: THE WENDY’S COMPANY
+Link: https://www.wendys.com/sites/default/files/2018-06/Annual_Report_2017_web_0.PDF
+Snippet: Director,<b>Investor</b> <b>Relations</b> 614.764.8478 peter.koumas@<b>wendys.com</b> News mediainquiries Heidi S.Schauer Di re c tor,Corpo aeCommun ions 614.764.3368 heidi.schauer@<b>wendys.com</b> Common stock listing WEN L I S TED TODDA. PENEGOR Presidentand Chief Executive Officer GUNTHER PLOSCH Chief Financial Officer ROBERTD.WRIGHT ExecutiveVice President,
+
+Title: Investor Fact Sheet Final - Wendy&#39;s
+Link: https://www.wendys.com/sites/default/files/2019-02/Investor%20Fact%20Sheet_Q4%20Final.pdf
+Snippet: Strong Track Record of Returning Cash to Shareholders. This document includes certain non-GAAP financial measures, key business measures and results presented on a recast basis, as well as “forward-looking statements” that are not historical facts and that concern possible or anticipated future results or stated Company goals.
+
+Title: The Wendy&#39;s Company - Events &amp; Presentations
+Link: https://www.irwendys.com/events-and-presentations/default.aspx
+Snippet: of the presentation, Q2 2024 The <b>Wendy’s</b> Company Earnings Webcast &amp; Conference Call Presentation. May 2, 2024. Q1 2024 The <b>Wendy’s</b> Company Earnings Webcast &amp; Conference Call Presentation. Download PDF. of the presentation, Q1 2024 The <b>Wendy’s</b> Company Earnings Webcast &amp; Conference Call Presentation. February 15, 2024.
+
+Title: THE WENDY&#39;S COMPANY REPORTS SECOND QUARTER 2024 RESULTS - Yahoo Finance
+Link: https://finance.yahoo.com/news/wendys-company-reports-second-quarter-110000576.html
+Snippet: The Company repurchased 1.6 million shares for $27.3 million in the second quarter of 2024. In the third quarter of 2024, the Company has repurchased 0.9 million shares for $15.6 million through ...
+
+Title: REPORTING, STAKEHOLDER ENGAGEMENT AND GOVERNANCE - Wendy&#39;s
+Link: https://www.wendys.com/sites/default/files/2022-05/Wendys-CSR-Intro.pdf
+Snippet: Governance page on our <b>Investor</b> <b>Relations</b> website. Management <b>Wendy’s</b> recognizes the important role that governance and risk management play in supporting our overall ESG strategy, including building a sustainable and resilient supply chain, managing climate risk and supporting safe and responsible work environments.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's financial reports':
+Title: The Wendy&#39;s Company - Annual Report &amp; Proxy
+Link: https://www.irwendys.com/financials/annual-report-and-proxy/default.aspx
+Snippet: 2021 <b>Annual</b> <b>Report</b> Notice of 2022 <b>Annual</b> Meeting &amp; Proxy Statement 2022 Additional Soliciting Material. ... At <b>Wendys</b>, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the ‘unsubscribe’ section below.
+
+Title: The Wendy&#39;s Company - Financials - Quarterly Results
+Link: https://www.irwendys.com/financials/quarterly-results/default.aspx
+Snippet: At <b>Wendys</b>, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the ‘unsubscribe’ section below. ... <b>Annual</b> <b>Reports</b>: SEC Filings: End of Day Stock Quote : Enter the code shown above. * Unsubscribe. Twitter ...
+
+Title: THE WENDY’S COMPANY
+Link: https://s1.q4cdn.com/202642389/files/doc_financials/2023/ar/2023-wendys-bookmarked-annual-report-final.pdf
+Snippet: <b>Wendy’s</b>® restaurant system in the United States and all international jurisdictions except for Canada, and (2) <b>Wendy’s</b> Restaurants of Canada Inc., which is the owner and franchisor of the <b>Wendy’s</b> restaurant system in Canada. As used in this <b>report</b>, unless the context requires otherwise, the term “Company” refers to The <b>Wendy’s</b>
+
+Title: 382927 004 BMK WEB - s1.q4cdn.com
+Link: https://s1.q4cdn.com/202642389/files/doc_financials/2022/ar/2022-Annual-Report_TWC.pdf
+Snippet: www.<b>wendys</b>.com SEC certifications The certifications of the Company’s Chief Executive Officer and Chief <b>Financial</b> Officer required to be filed with the Securities and Exchange Commission pursuant to Sections 302 and 906 of the Sarbanes-Oxley Act of 2002 are included as exhibits to the Company’s <b>Annual</b> <b>Report</b> on Form 10-K for the fiscal
+
+Title: WEN | Wendy&#39;s Co. Financial Statements - WSJ
+Link: https://www.wsj.com/market-data/quotes/WEN/financials
+Snippet: <b>Wendy</b>&#39;s Co. balance sheet, income statement, cash flow, earnings &amp; estimates, ratio and margins. View WEN <b>financial</b> <b>statements</b> in full.
+
+Title: The Wendy&#39;s Company - THE WENDY&#39;S COMPANY REPORTS FOURTH QUARTER AND ...
+Link: https://www.irwendys.com/news/news-details/2024/THE-WENDYS-COMPANY-REPORTS-FOURTH-QUARTER-AND-FULL-YEAR-2023-RESULTS/default.aspx
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today reported unaudited results for the fourth quarter and full year ended December 31, 2023. &quot;The <b>Wendy</b>&#39;s® system delivered strong sales, profit, and cash flow growth in 2023, all supported by progress on our strategic growth pillars,&quot; President and Chief Executive Officer Kirk Tanner said. &quot;2023 marked the brand&#39;s 13th consecutive year of global same ...
+
+Title: The Wendy’s Company - AnnualReports.com
+Link: https://www.annualreports.com/Company/the-wendys-company
+Snippet: The <b>Wendy</b>&#39;s Company (NASDAQ: WEN) is the world&#39;s third largest quick-service hamburger restaurant chain. ... MOST RECENT 2023 <b>Annual</b> <b>Report</b> and Form 10K. View PDF View Form 10K (HTML) The <b>Wendy’s</b> Company does not currently have any hardcopy <b>reports</b> on AnnualReports.com. Click the button below to request a <b>report</b> when hardcopies become available.
+
+Title: The Wendy&#39;s Company (WEN) Income Statement - Yahoo Finance
+Link: https://finance.yahoo.com/quote/WEN/financials/
+Snippet: Get the detailed quarterly/<b>annual</b> income statement for The <b>Wendy</b>&#39;s Company <b>(WEN</b>). Find out the revenue, expenses and profit or loss over the last fiscal year.
+
+Title: THE WENDY&#39;S COMPANY REPORTS SECOND QUARTER 2024 RESULTS - Yahoo Finance
+Link: https://finance.yahoo.com/news/wendys-company-reports-second-quarter-110000576.html
+Snippet: The Company repurchased 1.6 million shares for $27.3 million in the second quarter of 2024. In the third quarter of 2024, the Company has repurchased 0.9 million shares for $15.6 million through ...
+
+Title: 2020 CORPORATE RESPONSIBILITY REPORT - Wendy&#39;s
+Link: https://www.wendys.com/sites/default/files/2021-04/Wendys-2020-CSR-0419_FINAL.pdf
+Snippet: s worldwide, including our corporateCompany-owned and (2) franchise locations employees and company-operated restaurant employees, was appr. imately 14,000 as of year-end 2020.Approximately 225,000 team members. rk across our franchised locations.23 Any trademarks referenced throughout this <b>report</b> are th.
+
+Remi: Results for query 'Wendy's financial reports':
+Title: The Wendy&#39;s Company - Annual Report &amp; Proxy
+Link: https://www.irwendys.com/financials/annual-report-and-proxy/default.aspx
+Snippet: 2021 <b>Annual</b> <b>Report</b> Notice of 2022 <b>Annual</b> Meeting &amp; Proxy Statement 2022 Additional Soliciting Material. ... At <b>Wendys</b>, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the ‘unsubscribe’ section below.
+
+Title: The Wendy&#39;s Company - Financials - Quarterly Results
+Link: https://www.irwendys.com/financials/quarterly-results/default.aspx
+Snippet: At <b>Wendys</b>, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the ‘unsubscribe’ section below. ... <b>Annual</b> <b>Reports</b>: SEC Filings: End of Day Stock Quote : Enter the code shown above. * Unsubscribe. Twitter ...
+
+Title: THE WENDY’S COMPANY
+Link: https://s1.q4cdn.com/202642389/files/doc_financials/2023/ar/2023-wendys-bookmarked-annual-report-final.pdf
+Snippet: <b>Wendy’s</b>® restaurant system in the United States and all international jurisdictions except for Canada, and (2) <b>Wendy’s</b> Restaurants of Canada Inc., which is the owner and franchisor of the <b>Wendy’s</b> restaurant system in Canada. As used in this <b>report</b>, unless the context requires otherwise, the term “Company” refers to The <b>Wendy’s</b>
+
+Title: 382927 004 BMK WEB - s1.q4cdn.com
+Link: https://s1.q4cdn.com/202642389/files/doc_financials/2022/ar/2022-Annual-Report_TWC.pdf
+Snippet: www.<b>wendys</b>.com SEC certifications The certifications of the Company’s Chief Executive Officer and Chief <b>Financial</b> Officer required to be filed with the Securities and Exchange Commission pursuant to Sections 302 and 906 of the Sarbanes-Oxley Act of 2002 are included as exhibits to the Company’s <b>Annual</b> <b>Report</b> on Form 10-K for the fiscal
+
+Title: WEN | Wendy&#39;s Co. Financial Statements - WSJ
+Link: https://www.wsj.com/market-data/quotes/WEN/financials
+Snippet: <b>Wendy</b>&#39;s Co. balance sheet, income statement, cash flow, earnings &amp; estimates, ratio and margins. View WEN <b>financial</b> <b>statements</b> in full.
+
+Title: The Wendy&#39;s Company - THE WENDY&#39;S COMPANY REPORTS FOURTH QUARTER AND ...
+Link: https://www.irwendys.com/news/news-details/2024/THE-WENDYS-COMPANY-REPORTS-FOURTH-QUARTER-AND-FULL-YEAR-2023-RESULTS/default.aspx
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today reported unaudited results for the fourth quarter and full year ended December 31, 2023. &quot;The <b>Wendy</b>&#39;s® system delivered strong sales, profit, and cash flow growth in 2023, all supported by progress on our strategic growth pillars,&quot; President and Chief Executive Officer Kirk Tanner said. &quot;2023 marked the brand&#39;s 13th consecutive year of global same ...
+
+Title: The Wendy’s Company - AnnualReports.com
+Link: https://www.annualreports.com/Company/the-wendys-company
+Snippet: The <b>Wendy</b>&#39;s Company (NASDAQ: WEN) is the world&#39;s third largest quick-service hamburger restaurant chain. ... MOST RECENT 2023 <b>Annual</b> <b>Report</b> and Form 10K. View PDF View Form 10K (HTML) The <b>Wendy’s</b> Company does not currently have any hardcopy <b>reports</b> on AnnualReports.com. Click the button below to request a <b>report</b> when hardcopies become available.
+
+Title: The Wendy&#39;s Company (WEN) Income Statement - Yahoo Finance
+Link: https://finance.yahoo.com/quote/WEN/financials/
+Snippet: Get the detailed quarterly/<b>annual</b> income statement for The <b>Wendy</b>&#39;s Company <b>(WEN</b>). Find out the revenue, expenses and profit or loss over the last fiscal year.
+
+Title: THE WENDY&#39;S COMPANY REPORTS SECOND QUARTER 2024 RESULTS - Yahoo Finance
+Link: https://finance.yahoo.com/news/wendys-company-reports-second-quarter-110000576.html
+Snippet: The Company repurchased 1.6 million shares for $27.3 million in the second quarter of 2024. In the third quarter of 2024, the Company has repurchased 0.9 million shares for $15.6 million through ...
+
+Title: 2020 CORPORATE RESPONSIBILITY REPORT - Wendy&#39;s
+Link: https://www.wendys.com/sites/default/files/2021-04/Wendys-2020-CSR-0419_FINAL.pdf
+Snippet: s worldwide, including our corporateCompany-owned and (2) franchise locations employees and company-operated restaurant employees, was appr. imately 14,000 as of year-end 2020.Approximately 225,000 team members. rk across our franchised locations.23 Any trademarks referenced throughout this <b>report</b> are th.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's key decision makers':
+Title: Leadership Team - Wendy&#39;s
+Link: https://www.wendys.com/who-we-are-leadership-team
+Snippet: Senior Vice President, Managing Director Canada &amp; LAC Regions. Dr. Beverly Stallings-Johnson Image. Dr. Beverly Stallings-Johnson
+
+Title: The Wendy&#39;s Company - Wendy&#39;s Announces CEO Succession
+Link: https://www.irwendys.com/news/news-details/2024/Wendys-Announces-CEO-Succession/default.aspx
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today announced that its Board of Directors has appointed Kirk Tanner as <b>Wendy</b>&#39;s President and CEO, effective February 5, 2024. Mr. Tanner will succeed Todd Penegor, who will depart from the Company and Board in February after serving in senior leadership positions at <b>Wendy</b>&#39;s for more than a decade. Mr. Tanner has also been elected to serve on the <b>Wendy</b>&#39;s ...
+
+Title: Wendy’s Operations Management, 10 Decisions, Productivity
+Link: https://panmore.com/wendys-operations-management-10-decisions-areas-productivity
+Snippet: 1. Design of Goods and Services. <b>Wendy’s</b> emphasizes high output quality. This <b>decision</b> area of operations management pertains to the design of the company’s products and how it addresses business and market needs. In this regard, <b>Wendy’s</b> strategy is based on product innovation to maintain product competitiveness. 2.
+
+Title: PEOPLE - Wendy&#39;s
+Link: https://www.wendys.com/sites/default/files/2021-04/People_0.pdf
+Snippet: <b>Wendy’s</b> is a people business, and respect, equity and fair treatment are central to what ... to many of our <b>key</b> stakeholders. We are <b>making</b> investments, such as the creation of a Diversity, Equity and Inclusion function, led by the ... members and ensuring representation when it comes to <b>key</b> <b>decisions</b>, such as benefits enhancements, creating ...
+
+Title: The Wendys CoExecutive &amp; Employee Information - GlobalData
+Link: https://www.globaldata.com/Company-Profile/the-wendys-company/executives/
+Snippet: The following section provides information on The <b>Wendys</b> Co’s senior management, executives, CEO and <b>key</b> <b>decision</b> <b>makers</b> and their roles in the organization. For more insight into The <b>Wendys</b> Co&#39;s management and employees, unlock the full data with our company analytics monitoring tool. ... Previously, she was the Vice President of Accounting ...
+
+Title: The Wendy&#39;s Company - THE WENDY&#39;S COMPANY REPORTS FOURTH QUARTER AND ...
+Link: https://www.irwendys.com/news/news-details/2023/THE-WENDYS-COMPANY-REPORTS-FOURTH-QUARTER-AND-FULL-YEAR-2022-RESULTS/default.aspx
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today reported audited results for the fourth quarter and full year ended January 1, 2023. The Company previously issued preliminary unaudited results for the fourth quarter and full year ended January 1, 2023 on January 13, 2023. &quot;Our strong 2022 results and the progress we made against our strategic growth pillars have laid the foundation for continued ...
+
+Title: The Wendy&#39;s Company - Wendy&#39;s Announces Advancement of Corporate ...
+Link: https://www.irwendys.com/news/news-details/2021/Wendys-Announces-Advancement-of-Corporate-Responsibility-Efforts-and-New-Goals/default.aspx
+Snippet: <b>Wendy</b>&#39;s will focus on responsible sourcing, sustainable packaging, greenhouse gas reduction and increasing diversity within its leadership, management, and franchisees Today, The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) released its 2020 Corporate Responsibility Report detailing the progress made across its three <b>key</b> focus areas of Food, People and Footprint. Within the report, <b>Wendy</b>&#39;s® shared the ...
+
+Title: The Wendy’s Company CEO and Key Executive Team | Craft.co
+Link: https://craft.co/wendy-s-company/executives
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. Learn more. The <b>Wendy’s</b> Company&#39;s Chief Corporate Affairs &amp; Sustainability Officer is Liliana M. Esposito. Other executives include M. Coley O&#39;Brien, Chief People Officer; Gunther Plosch, Chief Financial Officer and 16 others.
+
+Title: Wendy&#39;s: CEO Shakeup Suggests Shifting Strategic ... - Morningstar
+Link: https://www.morningstar.com/company-reports/1202759-wendys-ceo-shakeup-suggests-shifting-strategic-priorities-after-a-challenging-2023
+Snippet: On Jan. 18, no-moat <b>Wendy</b>&#39;s announced that Kirk Tanner will replace Todd Penegor as CEO, effective Feb. 5. We expect that the incoming CEO&#39;s New Year&#39;s resolutions will include a laser focus on ...
+
+Title: From Wendy&#39;s President &amp; CEO: 2021 Wendy&#39;s Recap
+Link: https://www.wendys.com/blog/2021-wendys-recap-from-president-ceo
+Snippet: December 21, 2021. <b>Wendy’s</b> Fans, As this year comes to a close, there is much to reflect on and many reasons to be thankful. Like last year, 2021 brought changes and unexpected challenges. By believing in our vision and following our brand values as a guidepost, we remained optimistic and together, we achieved several significant milestones ...
+
+Remi: Results for query 'Wendy's key decision makers':
+Title: Leadership Team - Wendy&#39;s
+Link: https://www.wendys.com/who-we-are-leadership-team
+Snippet: Senior Vice President, Managing Director Canada &amp; LAC Regions. Dr. Beverly Stallings-Johnson Image. Dr. Beverly Stallings-Johnson
+
+Title: The Wendy&#39;s Company - Wendy&#39;s Announces CEO Succession
+Link: https://www.irwendys.com/news/news-details/2024/Wendys-Announces-CEO-Succession/default.aspx
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today announced that its Board of Directors has appointed Kirk Tanner as <b>Wendy</b>&#39;s President and CEO, effective February 5, 2024. Mr. Tanner will succeed Todd Penegor, who will depart from the Company and Board in February after serving in senior leadership positions at <b>Wendy</b>&#39;s for more than a decade. Mr. Tanner has also been elected to serve on the <b>Wendy</b>&#39;s ...
+
+Title: Wendy’s Operations Management, 10 Decisions, Productivity
+Link: https://panmore.com/wendys-operations-management-10-decisions-areas-productivity
+Snippet: 1. Design of Goods and Services. <b>Wendy’s</b> emphasizes high output quality. This <b>decision</b> area of operations management pertains to the design of the company’s products and how it addresses business and market needs. In this regard, <b>Wendy’s</b> strategy is based on product innovation to maintain product competitiveness. 2.
+
+Title: PEOPLE - Wendy&#39;s
+Link: https://www.wendys.com/sites/default/files/2021-04/People_0.pdf
+Snippet: <b>Wendy’s</b> is a people business, and respect, equity and fair treatment are central to what ... to many of our <b>key</b> stakeholders. We are <b>making</b> investments, such as the creation of a Diversity, Equity and Inclusion function, led by the ... members and ensuring representation when it comes to <b>key</b> <b>decisions</b>, such as benefits enhancements, creating ...
+
+Title: The Wendys CoExecutive &amp; Employee Information - GlobalData
+Link: https://www.globaldata.com/Company-Profile/the-wendys-company/executives/
+Snippet: The following section provides information on The <b>Wendys</b> Co’s senior management, executives, CEO and <b>key</b> <b>decision</b> <b>makers</b> and their roles in the organization. For more insight into The <b>Wendys</b> Co&#39;s management and employees, unlock the full data with our company analytics monitoring tool. ... Previously, she was the Vice President of Accounting ...
+
+Title: The Wendy&#39;s Company - THE WENDY&#39;S COMPANY REPORTS FOURTH QUARTER AND ...
+Link: https://www.irwendys.com/news/news-details/2023/THE-WENDYS-COMPANY-REPORTS-FOURTH-QUARTER-AND-FULL-YEAR-2022-RESULTS/default.aspx
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today reported audited results for the fourth quarter and full year ended January 1, 2023. The Company previously issued preliminary unaudited results for the fourth quarter and full year ended January 1, 2023 on January 13, 2023. &quot;Our strong 2022 results and the progress we made against our strategic growth pillars have laid the foundation for continued ...
+
+Title: The Wendy&#39;s Company - Wendy&#39;s Announces Advancement of Corporate ...
+Link: https://www.irwendys.com/news/news-details/2021/Wendys-Announces-Advancement-of-Corporate-Responsibility-Efforts-and-New-Goals/default.aspx
+Snippet: <b>Wendy</b>&#39;s will focus on responsible sourcing, sustainable packaging, greenhouse gas reduction and increasing diversity within its leadership, management, and franchisees Today, The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) released its 2020 Corporate Responsibility Report detailing the progress made across its three <b>key</b> focus areas of Food, People and Footprint. Within the report, <b>Wendy</b>&#39;s® shared the ...
+
+Title: The Wendy’s Company CEO and Key Executive Team | Craft.co
+Link: https://craft.co/wendy-s-company/executives
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. Learn more. The <b>Wendy’s</b> Company&#39;s Chief Corporate Affairs &amp; Sustainability Officer is Liliana M. Esposito. Other executives include M. Coley O&#39;Brien, Chief People Officer; Gunther Plosch, Chief Financial Officer and 16 others.
+
+Title: Wendy&#39;s: CEO Shakeup Suggests Shifting Strategic ... - Morningstar
+Link: https://www.morningstar.com/company-reports/1202759-wendys-ceo-shakeup-suggests-shifting-strategic-priorities-after-a-challenging-2023
+Snippet: On Jan. 18, no-moat <b>Wendy</b>&#39;s announced that Kirk Tanner will replace Todd Penegor as CEO, effective Feb. 5. We expect that the incoming CEO&#39;s New Year&#39;s resolutions will include a laser focus on ...
+
+Title: From Wendy&#39;s President &amp; CEO: 2021 Wendy&#39;s Recap
+Link: https://www.wendys.com/blog/2021-wendys-recap-from-president-ceo
+Snippet: December 21, 2021. <b>Wendy’s</b> Fans, As this year comes to a close, there is much to reflect on and many reasons to be thankful. Like last year, 2021 brought changes and unexpected challenges. By believing in our vision and following our brand values as a guidepost, we remained optimistic and together, we achieved several significant milestones ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's board of directors':
+Title: Board of Directors - Wendy&#39;s
+Link: https://www.wendys.com/who-we-are-board-directors
+Snippet: Arthur B. Winkleblack. Learn more about the <b>Wendy</b>&#39;s <b>Board</b> of <b>Directors</b> and the <b>Wendy</b>&#39;s corporate leadership team.
+
+Title: Leadership Team - Wendy&#39;s
+Link: https://www.wendys.com/who-we-are-leadership-team
+Snippet: Senior Vice President, Managing <b>Director</b> Canada &amp; LAC Regions. Dr. Beverly Stallings-Johnson Image. Dr. Beverly Stallings-Johnson
+
+Title: Leadership Team | Wendy&#39;s
+Link: https://www.wendys.com/en-ca/who-we-are-leadership-team
+Snippet: Meet the <b>Wendy</b>&#39;s leadership team and learn more about our company leaders.
+
+Title: The Wendy&#39;s Company - Wendy&#39;s Announces CEO Succession
+Link: https://www.irwendys.com/news/news-details/2024/Wendys-Announces-CEO-Succession/default.aspx
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today announced that its <b>Board</b> of <b>Directors</b> has appointed Kirk Tanner as <b>Wendy</b>&#39;s President and CEO, effective February 5, 2024. Mr. Tanner will succeed Todd Penegor, who will depart from the Company and <b>Board</b> in February after serving in senior leadership positions at <b>Wendy</b>&#39;s for more than a decade. Mr. Tanner has also been elected to serve on the <b>Wendy</b>&#39;s ...
+
+Title: The Wendy&#39;s Company - Leadership
+Link: https://www.irwendys.com/leadership/default.aspx
+Snippet: Ms. Pringle has held a host of leadership roles at <b>Wendy’s</b> since joining the Company in 2002, including Chief Global Development Officer and International, Chief Development Officer, Senior Vice President of Restaurant Development and Growth Initiatives, and Senior Vice President of Strategic Initiatives and Planning.
+
+Title: The Wendy&#39;s Company - Annual Report &amp; Proxy
+Link: https://www.irwendys.com/financials/annual-report-and-proxy/default.aspx
+Snippet: The <b>Board</b> of <b>Directors</b> and management hope that you will be able to participate in the virtual Annual Meeting. ... At <b>Wendys</b>, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the ‘unsubscribe’ section below.
+
+Title: The Wendy&#39;s Company: Shareholders Board Members Managers and Company ...
+Link: https://www.marketscreener.com/quote/stock/THE-WENDY-S-COMPANY-9691436/company/
+Snippet: The <b>Wendy</b>&#39;s Company: Company profile, business summary, shareholders, managers, financial ratings, industry, sector and market information | Nasdaq: WEN | Nasdaq. ... <b>Director</b>/<b>Board</b> Member 81 93-03-31 : Peter Rothschild BRD. <b>Director</b>/<b>Board</b> Member 68 10-04-30 ...
+
+Title: WEN | Wendy&#39;s Co. Company Profile &amp; Executives - WSJ
+Link: https://www.wsj.com/market-data/quotes/WEN/company-people
+Snippet: <b>Board</b> of <b>Directors</b>. Name/Title. Current <b>Board</b> Membership. Nelson Peltz Non-Executive Chairman. The <b>Wendys</b> Co. Kirk Tanner President, Chief Executive Officer &amp; <b>Director</b>. The <b>Wendys</b> Co. Matthew ...
+
+Title: The Wendy&#39;s Company Announces Election of Wendy Arlin to Board of Directors
+Link: https://finance.yahoo.com/news/wendys-company-announces-election-wendy-213000299.html
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today announced that on December 13, 2023, its <b>Board</b> of <b>Directors</b> increased the size of the <b>Board</b> from 12 to 13 members and elected <b>Wendy</b> C. Arlin to serve as an ...
+
+Title: Wendy’s adds Wendy Arlin to its board of directors | Nation&#39;s ...
+Link: https://www.nrn.com/people/wendy-s-adds-wendy-arlin-its-board-directors
+Snippet: The announcement also comes shortly after <b>Wendy’s</b> noted a commitment to promote <b>board</b> diversity via its 2023 proxy statement. This commitment includes a push to add at least one additional ...
+
+Remi: Results for query 'Wendy's board of directors':
+Title: Board of Directors - Wendy&#39;s
+Link: https://www.wendys.com/who-we-are-board-directors
+Snippet: Arthur B. Winkleblack. Learn more about the <b>Wendy</b>&#39;s <b>Board</b> of <b>Directors</b> and the <b>Wendy</b>&#39;s corporate leadership team.
+
+Title: Leadership Team - Wendy&#39;s
+Link: https://www.wendys.com/who-we-are-leadership-team
+Snippet: Senior Vice President, Managing <b>Director</b> Canada &amp; LAC Regions. Dr. Beverly Stallings-Johnson Image. Dr. Beverly Stallings-Johnson
+
+Title: Leadership Team | Wendy&#39;s
+Link: https://www.wendys.com/en-ca/who-we-are-leadership-team
+Snippet: Meet the <b>Wendy</b>&#39;s leadership team and learn more about our company leaders.
+
+Title: The Wendy&#39;s Company - Wendy&#39;s Announces CEO Succession
+Link: https://www.irwendys.com/news/news-details/2024/Wendys-Announces-CEO-Succession/default.aspx
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today announced that its <b>Board</b> of <b>Directors</b> has appointed Kirk Tanner as <b>Wendy</b>&#39;s President and CEO, effective February 5, 2024. Mr. Tanner will succeed Todd Penegor, who will depart from the Company and <b>Board</b> in February after serving in senior leadership positions at <b>Wendy</b>&#39;s for more than a decade. Mr. Tanner has also been elected to serve on the <b>Wendy</b>&#39;s ...
+
+Title: The Wendy&#39;s Company - Leadership
+Link: https://www.irwendys.com/leadership/default.aspx
+Snippet: Ms. Pringle has held a host of leadership roles at <b>Wendy’s</b> since joining the Company in 2002, including Chief Global Development Officer and International, Chief Development Officer, Senior Vice President of Restaurant Development and Growth Initiatives, and Senior Vice President of Strategic Initiatives and Planning.
+
+Title: The Wendy&#39;s Company - Annual Report &amp; Proxy
+Link: https://www.irwendys.com/financials/annual-report-and-proxy/default.aspx
+Snippet: The <b>Board</b> of <b>Directors</b> and management hope that you will be able to participate in the virtual Annual Meeting. ... At <b>Wendys</b>, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the ‘unsubscribe’ section below.
+
+Title: The Wendy&#39;s Company: Shareholders Board Members Managers and Company ...
+Link: https://www.marketscreener.com/quote/stock/THE-WENDY-S-COMPANY-9691436/company/
+Snippet: The <b>Wendy</b>&#39;s Company: Company profile, business summary, shareholders, managers, financial ratings, industry, sector and market information | Nasdaq: WEN | Nasdaq. ... <b>Director</b>/<b>Board</b> Member 81 93-03-31 : Peter Rothschild BRD. <b>Director</b>/<b>Board</b> Member 68 10-04-30 ...
+
+Title: WEN | Wendy&#39;s Co. Company Profile &amp; Executives - WSJ
+Link: https://www.wsj.com/market-data/quotes/WEN/company-people
+Snippet: <b>Board</b> of <b>Directors</b>. Name/Title. Current <b>Board</b> Membership. Nelson Peltz Non-Executive Chairman. The <b>Wendys</b> Co. Kirk Tanner President, Chief Executive Officer &amp; <b>Director</b>. The <b>Wendys</b> Co. Matthew ...
+
+Title: The Wendy&#39;s Company Announces Election of Wendy Arlin to Board of Directors
+Link: https://finance.yahoo.com/news/wendys-company-announces-election-wendy-213000299.html
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today announced that on December 13, 2023, its <b>Board</b> of <b>Directors</b> increased the size of the <b>Board</b> from 12 to 13 members and elected <b>Wendy</b> C. Arlin to serve as an ...
+
+Title: Wendy’s adds Wendy Arlin to its board of directors | Nation&#39;s ...
+Link: https://www.nrn.com/people/wendy-s-adds-wendy-arlin-its-board-directors
+Snippet: The announcement also comes shortly after <b>Wendy’s</b> noted a commitment to promote <b>board</b> diversity via its 2023 proxy statement. This commitment includes a push to add at least one additional ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's executive team':
+Title: Leadership Team - Wendy&#39;s
+Link: https://www.wendys.com/who-we-are-leadership-team
+Snippet: Meet the <b>Wendy</b>&#39;s leadership <b>team</b> and learn more about our company leaders. Utility. Rewards Rewards; Find a <b>Wendy</b>&#39;s Find; Search Search; Order Pickup ... President and Chief <b>Executive</b> Officer, Director. Liliana Esposito Headshot Image. Liliana M. Esposito. Chief <b>Corporate</b> Affairs &amp; Sustainability Officer.
+
+Title: The Wendy&#39;s Company - Leadership
+Link: https://www.irwendys.com/leadership/default.aspx
+Snippet: Ms. Pringle has held a host of leadership roles at <b>Wendy’s</b> since joining the Company in 2002, including Chief Global Development Officer and International, Chief Development Officer, Senior Vice President of Restaurant Development and Growth Initiatives, and Senior Vice President of Strategic Initiatives and Planning.
+
+Title: The Wendy&#39;s Company - Wendy&#39;s Announces CEO Succession
+Link: https://www.irwendys.com/news/news-details/2024/Wendys-Announces-CEO-Succession/default.aspx
+Snippet: Kirk Tanner to Succeed Todd Penegor as President &amp; CEO. Company Reaffirms Previously Provided FY 2023 Outlook and Plans to Release Q4 2023 Results and 2024 and Long-Term Outlook February 15 . DUBLIN, Ohio, Jan. 18, 2024 /PRNewswire/ -- The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today announced that its Board of Directors has appointed Kirk Tanner as <b>Wendy</b>&#39;s President and CEO, effective February 5, 2024.
+
+Title: Board of Directors - Wendy&#39;s
+Link: https://www.wendys.com/who-we-are-board-directors
+Snippet: Learn more about the <b>Wendy</b>&#39;s Board of Directors and the <b>Wendy</b>&#39;s <b>corporate</b> leadership <b>team</b>.
+
+Title: The Wendy’s Company CEO and Key Executive Team | Craft.co
+Link: https://craft.co/wendy-s-company/executives
+Snippet: The <b>Wendy’s</b> Company&#39;s Chief <b>Corporate</b> Affairs &amp; Sustainability Officer is Liliana M. Esposito. Other <b>executives</b> include M. Coley O&#39;Brien, Chief People Officer; Gunther Plosch, Chief Financial Officer and 16 others. See the full leadership <b>team</b> at Craft.
+
+Title: The Wendy&#39;s Company - Wikipedia
+Link: https://en.wikipedia.org/wiki/The_Wendy%27s_Company
+Snippet: <b>Wendy</b>&#39;s <b>corporate</b> headquarters in Dublin, Ohio. <b>Wendy</b>&#39;s International, Inc. is the franchisor of <b>Wendy</b>&#39;s restaurants and the former parent company of <b>Wendy</b>&#39;s.It also owned Tim Hortons, Baja Fresh, and had a 70 percent stake in Cafe Express.The <b>corporate</b> headquarters is located in Dublin, Ohio, a suburb of Columbus.<b>Wendy</b>&#39;s International is owned by the <b>Wendy</b>&#39;s Company.
+
+Title: Wendy&#39;s Announces CEO Succession - PR Newswire
+Link: https://www.prnewswire.com/news-releases/wendys-announces-ceo-succession-302038791.html
+Snippet: Mr. Tanner most recently served as Chief <b>Executive</b> Officer of North American Beverages at PepsiCo, Inc., and joins <b>Wendy</b>&#39;s with more than 30 years of experience across beverages, snacks and ...
+
+Title: Wendy&#39;s CEO And Leadership: Executives and Demographics
+Link: https://www.zippia.com/wendy-s-careers-44303/executives/
+Snippet: <b>Executive</b> Summary. Based on our data <b>team</b>&#39;s research, Todd A. Penegor is the <b>Wendy</b>&#39;s&#39;s CEO. <b>Wendy</b>&#39;s has 12,500 employees, of which 66 are in a leadership position. Here are further demographic highlights of the leadership <b>team</b>: The <b>Wendy</b>&#39;s <b>executive team</b> is 42% femaleand 58% male. 65%of the <b>management</b> <b>team</b> is White.
+
+Title: Leadership Team | Wendy&#39;s
+Link: https://www.wendys.com/en-ca/who-we-are-leadership-team
+Snippet: Meet the <b>Wendy</b>&#39;s leadership <b>team</b> and learn more about our company leaders. Utility. Rewards Rewards; Find a <b>Wendy</b>&#39;s Find; Order Pickup Order Pickup; Order Delivery ... President and Chief <b>Executive</b> Officer, Director. Liliana Esposito Headshot Image. Liliana M. Esposito. Chief <b>Corporate</b> Affairs &amp; Sustainability Officer.
+
+Title: Who We Are - Wendy&#39;s
+Link: https://www.wendys.com/who-we-are
+Snippet: Leadership <b>Team</b> bkg. leadership mobile. LEADERSHIP &amp; BOARD OF DIRECTORS. We Believe in Quality. Inside and Out. ... You can check out The <b>Wendy</b>&#39;s Company <b>Corporate</b> Governance Guidelines right here. How&#39;s that for transparency? HOW WE GOVERN. We&#39;ll use this space to give you The Square Deal™ — our views on food, quality, culture, foster care ...
+
+Remi: Results for query 'Wendy's executive team':
+Title: Leadership Team - Wendy&#39;s
+Link: https://www.wendys.com/who-we-are-leadership-team
+Snippet: Meet the <b>Wendy</b>&#39;s leadership <b>team</b> and learn more about our company leaders. Utility. Rewards Rewards; Find a <b>Wendy</b>&#39;s Find; Search Search; Order Pickup ... President and Chief <b>Executive</b> Officer, Director. Liliana Esposito Headshot Image. Liliana M. Esposito. Chief <b>Corporate</b> Affairs &amp; Sustainability Officer.
+
+Title: The Wendy&#39;s Company - Leadership
+Link: https://www.irwendys.com/leadership/default.aspx
+Snippet: Ms. Pringle has held a host of leadership roles at <b>Wendy’s</b> since joining the Company in 2002, including Chief Global Development Officer and International, Chief Development Officer, Senior Vice President of Restaurant Development and Growth Initiatives, and Senior Vice President of Strategic Initiatives and Planning.
+
+Title: The Wendy&#39;s Company - Wendy&#39;s Announces CEO Succession
+Link: https://www.irwendys.com/news/news-details/2024/Wendys-Announces-CEO-Succession/default.aspx
+Snippet: Kirk Tanner to Succeed Todd Penegor as President &amp; CEO. Company Reaffirms Previously Provided FY 2023 Outlook and Plans to Release Q4 2023 Results and 2024 and Long-Term Outlook February 15 . DUBLIN, Ohio, Jan. 18, 2024 /PRNewswire/ -- The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today announced that its Board of Directors has appointed Kirk Tanner as <b>Wendy</b>&#39;s President and CEO, effective February 5, 2024.
+
+Title: Board of Directors - Wendy&#39;s
+Link: https://www.wendys.com/who-we-are-board-directors
+Snippet: Learn more about the <b>Wendy</b>&#39;s Board of Directors and the <b>Wendy</b>&#39;s <b>corporate</b> leadership <b>team</b>.
+
+Title: The Wendy’s Company CEO and Key Executive Team | Craft.co
+Link: https://craft.co/wendy-s-company/executives
+Snippet: The <b>Wendy’s</b> Company&#39;s Chief <b>Corporate</b> Affairs &amp; Sustainability Officer is Liliana M. Esposito. Other <b>executives</b> include M. Coley O&#39;Brien, Chief People Officer; Gunther Plosch, Chief Financial Officer and 16 others. See the full leadership <b>team</b> at Craft.
+
+Title: The Wendy&#39;s Company - Wikipedia
+Link: https://en.wikipedia.org/wiki/The_Wendy%27s_Company
+Snippet: <b>Wendy</b>&#39;s <b>corporate</b> headquarters in Dublin, Ohio. <b>Wendy</b>&#39;s International, Inc. is the franchisor of <b>Wendy</b>&#39;s restaurants and the former parent company of <b>Wendy</b>&#39;s.It also owned Tim Hortons, Baja Fresh, and had a 70 percent stake in Cafe Express.The <b>corporate</b> headquarters is located in Dublin, Ohio, a suburb of Columbus.<b>Wendy</b>&#39;s International is owned by the <b>Wendy</b>&#39;s Company.
+
+Title: Wendy&#39;s Announces CEO Succession - PR Newswire
+Link: https://www.prnewswire.com/news-releases/wendys-announces-ceo-succession-302038791.html
+Snippet: Mr. Tanner most recently served as Chief <b>Executive</b> Officer of North American Beverages at PepsiCo, Inc., and joins <b>Wendy</b>&#39;s with more than 30 years of experience across beverages, snacks and ...
+
+Title: Wendy&#39;s CEO And Leadership: Executives and Demographics
+Link: https://www.zippia.com/wendy-s-careers-44303/executives/
+Snippet: <b>Executive</b> Summary. Based on our data <b>team</b>&#39;s research, Todd A. Penegor is the <b>Wendy</b>&#39;s&#39;s CEO. <b>Wendy</b>&#39;s has 12,500 employees, of which 66 are in a leadership position. Here are further demographic highlights of the leadership <b>team</b>: The <b>Wendy</b>&#39;s <b>executive team</b> is 42% femaleand 58% male. 65%of the <b>management</b> <b>team</b> is White.
+
+Title: Leadership Team | Wendy&#39;s
+Link: https://www.wendys.com/en-ca/who-we-are-leadership-team
+Snippet: Meet the <b>Wendy</b>&#39;s leadership <b>team</b> and learn more about our company leaders. Utility. Rewards Rewards; Find a <b>Wendy</b>&#39;s Find; Order Pickup Order Pickup; Order Delivery ... President and Chief <b>Executive</b> Officer, Director. Liliana Esposito Headshot Image. Liliana M. Esposito. Chief <b>Corporate</b> Affairs &amp; Sustainability Officer.
+
+Title: Who We Are - Wendy&#39;s
+Link: https://www.wendys.com/who-we-are
+Snippet: Leadership <b>Team</b> bkg. leadership mobile. LEADERSHIP &amp; BOARD OF DIRECTORS. We Believe in Quality. Inside and Out. ... You can check out The <b>Wendy</b>&#39;s Company <b>Corporate</b> Governance Guidelines right here. How&#39;s that for transparency? HOW WE GOVERN. We&#39;ll use this space to give you The Square Deal™ — our views on food, quality, culture, foster care ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's labor relations':
+Title: The Wendy&#39;s Company - The Wendy&#39;s Company Reports Fourth Quarter And ...
+Link: https://www.irwendys.com/news/news-details/2021/The-Wendys-Company-Reports-Fourth-Quarter-And-Full-Year-2020-Results/default.aspx
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today reported results for the fourth quarter and fiscal year ended January 3, 2021. &quot;I could not be more proud of our results and the work that was done by the <b>Wendy</b>&#39;s ® System across the globe in 2020 with all the challenges we faced and overcame during the year. I am confident that we have emerged as a stronger, more unified brand that is poised to deliver ...
+
+Title: The Wendy&#39;s Company - THE WENDY&#39;S COMPANY REPORTS FOURTH QUARTER AND ...
+Link: https://www.irwendys.com/news/news-details/2022/THE-WENDYS-COMPANY-REPORTS-FOURTH-QUARTER-AND-FULL-YEAR-2021-RESULTS/default.aspx
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today reported results for the fourth quarter and fiscal year ended January 2, 2022. &quot;2021 was a breakthrough year, as evidenced by significant growth across our business,&quot; President and Chief Executive Officer Todd Penegor said. &quot;Global same-restaurant sales accelerated to double digits on a one- and two-year basis, Company restaurant margins expanded by ...
+
+Title: The Wendy&#39;s Company - Investor Relations
+Link: https://www.irwendys.com/home/default.aspx
+Snippet: <b>Wendy</b>&#39;s ® was founded in 1969 by Dave Thomas in <b>Columbus</b>, <b>Ohio</b>. Dave built his business on the premise, “Quality is our Recipe ®,” which remains the guidepost of the <b>Wendy’s</b> system.<b>Wendy’s</b> is best known for its made-to-order square hamburgers, using fresh, never frozen beef*, freshly-prepared salads with hand-chopped lettuce, and other signature items like chili, baked potatoes and ...
+
+Title: THE WENDY&#39;S COMPANY REPORTS SECOND QUARTER 2022 RESULTS - PR Newswire
+Link: https://www.prnewswire.com/news-releases/the-wendys-company-reports-second-quarter-2022-results-301603035.html
+Snippet: The <b>Wendy’s</b> Company. Aug 10, 2022, 07:00 ET. DUBLIN, <b>Ohio</b>, Aug. 10, 2022 /PRNewswire/ -- The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today reported unaudited results for the second quarter ended July 3 ...
+
+Title: Corporate - Wendy&#39;s Careers
+Link: https://wendys-careers.com/corporate/
+Snippet: Work at our corporate headquarters and you’ll have access to specialty training programs, individual development plans, and other resources and tools that will help you grow as an employee and person. New café. Summer Fridays. Free on-site gym. Free fitness classes &amp; rec leagues.
+
+Title: The Wendy’s Company Code of Business Conduct and Ethics
+Link: https://www.wendys.com/sites/default/files/2018-06/LEGAL-%23251274-v12-TWC_Code_of_Business_Conduct_and_Ethics_%28updated_2_28_17%29.pdf
+Snippet: This Code of Business Conduct and Ethics (this “Code”) applies to <b>Wendy’s</b> and to our subsidiary companies, including <b>Wendy’s</b> International, LLC. It is for all directors and employees of <b>Wendy’s</b>, and is a guide to legal and ethical behavior. This Code does not describe all applicable laws or Company policies, or give full details on ...
+
+Title: Careers Home - Wendy&#39;s Careers
+Link: https://wendys-careers.com/
+Snippet: First of all, yes, <b>Wendy</b> is a real person. And a pretty special one, being the daughter of our founder Dave Thomas. Today, she is one of the most involved and successful franchise owners in the <b>Wendy’s</b> enterprise. We think Dave would be proud. Back in 1969, he looked around at all other hamburger joints and was like, “Nah. People deserve ...
+
+Title: Wendy&#39;s announces corporate revamp, possible job cuts
+Link: https://www.10tv.com/article/news/local/wendys-corporate-revamp-possible-job-cuts/530-493d471d-8c73-40d9-be29-ce614ea48d44
+Snippet: <b>Wendy’s</b> said Friday, Jan. 13, 2023, that it is planning a restructuring, including possible corporate layoffs, in an effort to speed decision-making and invest more in new restaurant development ...
+
+Title: The Wendy&#39;s Company - THE WENDY&#39;S COMPANY REPORTS PRELIMINARY FOURTH ...
+Link: https://www.irwendys.com/news/news-details/2023/THE-WENDYS-COMPANY-REPORTS-PRELIMINARY-FOURTH-QUARTER-AND-FULL-YEAR-2022-RESULTS/default.aspx
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today reported preliminary, unaudited results for the fourth quarter and fiscal year ended January 1, 2023. The Company plans to release its audited financial statements and file its annual report on Form 10-K on March 1, 2023. &quot;Our 2022 results highlight the strength and resiliency of the <b>Wendy</b>&#39;s® brand as we continued to deliver compelling sales and profit ...
+
+Title: Wendy Kane - Labor Relations Specialist - City of Columbus, Human ...
+Link: https://www.linkedin.com/in/wendy-kane-334495a4
+Snippet: <b>Labor</b> <b>Relations</b> Specialist at City of <b>Columbus</b>, Human Resources · Experience: City of <b>Columbus</b>, Human Resources · Location: United States · 60 connections on LinkedIn. View <b>Wendy</b> Kane’s ...
+
+Remi: Results for query 'Wendy's labor relations':
+Title: The Wendy&#39;s Company - The Wendy&#39;s Company Reports Fourth Quarter And ...
+Link: https://www.irwendys.com/news/news-details/2021/The-Wendys-Company-Reports-Fourth-Quarter-And-Full-Year-2020-Results/default.aspx
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today reported results for the fourth quarter and fiscal year ended January 3, 2021. &quot;I could not be more proud of our results and the work that was done by the <b>Wendy</b>&#39;s ® System across the globe in 2020 with all the challenges we faced and overcame during the year. I am confident that we have emerged as a stronger, more unified brand that is poised to deliver ...
+
+Title: The Wendy&#39;s Company - THE WENDY&#39;S COMPANY REPORTS FOURTH QUARTER AND ...
+Link: https://www.irwendys.com/news/news-details/2022/THE-WENDYS-COMPANY-REPORTS-FOURTH-QUARTER-AND-FULL-YEAR-2021-RESULTS/default.aspx
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today reported results for the fourth quarter and fiscal year ended January 2, 2022. &quot;2021 was a breakthrough year, as evidenced by significant growth across our business,&quot; President and Chief Executive Officer Todd Penegor said. &quot;Global same-restaurant sales accelerated to double digits on a one- and two-year basis, Company restaurant margins expanded by ...
+
+Title: The Wendy&#39;s Company - Investor Relations
+Link: https://www.irwendys.com/home/default.aspx
+Snippet: <b>Wendy</b>&#39;s ® was founded in 1969 by Dave Thomas in <b>Columbus</b>, <b>Ohio</b>. Dave built his business on the premise, “Quality is our Recipe ®,” which remains the guidepost of the <b>Wendy’s</b> system.<b>Wendy’s</b> is best known for its made-to-order square hamburgers, using fresh, never frozen beef*, freshly-prepared salads with hand-chopped lettuce, and other signature items like chili, baked potatoes and ...
+
+Title: THE WENDY&#39;S COMPANY REPORTS SECOND QUARTER 2022 RESULTS - PR Newswire
+Link: https://www.prnewswire.com/news-releases/the-wendys-company-reports-second-quarter-2022-results-301603035.html
+Snippet: The <b>Wendy’s</b> Company. Aug 10, 2022, 07:00 ET. DUBLIN, <b>Ohio</b>, Aug. 10, 2022 /PRNewswire/ -- The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today reported unaudited results for the second quarter ended July 3 ...
+
+Title: Corporate - Wendy&#39;s Careers
+Link: https://wendys-careers.com/corporate/
+Snippet: Work at our corporate headquarters and you’ll have access to specialty training programs, individual development plans, and other resources and tools that will help you grow as an employee and person. New café. Summer Fridays. Free on-site gym. Free fitness classes &amp; rec leagues.
+
+Title: The Wendy’s Company Code of Business Conduct and Ethics
+Link: https://www.wendys.com/sites/default/files/2018-06/LEGAL-%23251274-v12-TWC_Code_of_Business_Conduct_and_Ethics_%28updated_2_28_17%29.pdf
+Snippet: This Code of Business Conduct and Ethics (this “Code”) applies to <b>Wendy’s</b> and to our subsidiary companies, including <b>Wendy’s</b> International, LLC. It is for all directors and employees of <b>Wendy’s</b>, and is a guide to legal and ethical behavior. This Code does not describe all applicable laws or Company policies, or give full details on ...
+
+Title: Careers Home - Wendy&#39;s Careers
+Link: https://wendys-careers.com/
+Snippet: First of all, yes, <b>Wendy</b> is a real person. And a pretty special one, being the daughter of our founder Dave Thomas. Today, she is one of the most involved and successful franchise owners in the <b>Wendy’s</b> enterprise. We think Dave would be proud. Back in 1969, he looked around at all other hamburger joints and was like, “Nah. People deserve ...
+
+Title: Wendy&#39;s announces corporate revamp, possible job cuts
+Link: https://www.10tv.com/article/news/local/wendys-corporate-revamp-possible-job-cuts/530-493d471d-8c73-40d9-be29-ce614ea48d44
+Snippet: <b>Wendy’s</b> said Friday, Jan. 13, 2023, that it is planning a restructuring, including possible corporate layoffs, in an effort to speed decision-making and invest more in new restaurant development ...
+
+Title: The Wendy&#39;s Company - THE WENDY&#39;S COMPANY REPORTS PRELIMINARY FOURTH ...
+Link: https://www.irwendys.com/news/news-details/2023/THE-WENDYS-COMPANY-REPORTS-PRELIMINARY-FOURTH-QUARTER-AND-FULL-YEAR-2022-RESULTS/default.aspx
+Snippet: The <b>Wendy</b>&#39;s Company (Nasdaq: WEN) today reported preliminary, unaudited results for the fourth quarter and fiscal year ended January 1, 2023. The Company plans to release its audited financial statements and file its annual report on Form 10-K on March 1, 2023. &quot;Our 2022 results highlight the strength and resiliency of the <b>Wendy</b>&#39;s® brand as we continued to deliver compelling sales and profit ...
+
+Title: Wendy Kane - Labor Relations Specialist - City of Columbus, Human ...
+Link: https://www.linkedin.com/in/wendy-kane-334495a4
+Snippet: <b>Labor</b> <b>Relations</b> Specialist at City of <b>Columbus</b>, Human Resources · Experience: City of <b>Columbus</b>, Human Resources · Location: United States · 60 connections on LinkedIn. View <b>Wendy</b> Kane’s ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's employee treatment':
+Title: WeCare &amp; Other Employee Benefits | Wendy&#39;s® CSR
+Link: https://www.wendys.com/csr-what-we-value/people/workplace/wecare-employee-experience
+Snippet: <b>Wendy’s</b> has introduced <b>employee</b> benefit and experience enhancements that set our Company <b>employees</b> up for success and make <b>Wendy’s</b> a great place to work. Enhanced <b>employee</b> benefits. In 2021, we expanded our paid sick time policy to provide paid sick time to all eligible part-time hourly <b>employees</b> on a permanent basis.
+
+Title: Suspect who stole $2K from Putnam Wendy&#39;s believed to be former employee
+Link: https://www.wtnh.com/news/connecticut/windham/suspect-who-stole-2k-from-putnam-wendys-believed-to-be-former-employee/
+Snippet: State police said the suspect gained access to the restaurant around 5 a.m. and stole about $2,100 from a safe inside, noting they do not know if the suspect fled on foot or in a vehicle.
+
+Title: Former employee suspected of burglary at Wendy’s in Putnam - WFSB
+Link: https://www.wfsb.com/2024/09/05/former-employee-suspected-burglary-wendys-putnam/
+Snippet: PUTNAM, Conn. (WFSB) - A burglary is being investigated at the <b>Wendy’s</b> in Putnam, according to state police. Around 5 a.m., the suspect entered the restaurant on Providence Pike, accessed a safe ...
+
+Title: PEOPLE - Wendy&#39;s
+Link: https://www.wendys.com/sites/default/files/2021-04/People_0.pdf
+Snippet: Workplace <b>Wendy’s</b> is a people business, and respect, equity and fair <b>treatment</b> are central to what we do. Our founder, Dave Thomas, believed the impact we make on others and our communities is just as important as the food we serve. We strive to bring the values Dave established— Do the Right Thing, Treat People with Respect and Give Something Back—to life daily with our team members and ...
+
+Title: BENEFITS AT A GLANCE - Wendy&#39;s Careers
+Link: https://wendys-careers.com/wp-content/uploads/2019/12/benefits.pdf
+Snippet: For information regarding benefits available to <b>employees</b> of a <b>Wendy’s</b> franchisee, see each particular franchisee for further details. Full details of Company benefits are available in the official plan documents and/or policies which govern.
+
+Title: The Wendy&#39;s Company - ESG - Governance - Code of Conduct
+Link: https://www.irwendys.com/esg/governance/code-of-conduct/default.aspx
+Snippet: We expect that all our <b>employees</b>, officers, and directors will reflect these standards in their day-to-day dealings on behalf of the Company. The <b>Wendy’s</b> Company Code of Business Conduct and Ethics (the “Code”) is a guide to the ethical and legal responsibilities that we share as members of the <b>Wendy’s</b> family.
+
+Title: Wendy’s Commits to Better Employee and Animal Treatment After Boycotts ...
+Link: https://www.eater.com/2020/1/23/21078508/wendys-corporate-social-responsibility-report-pledges-fairer-treatment-more-sustainability
+Snippet: The plan comes after <b>Wendy’s</b> faced boycotts for refusing to sign onto a program to source tomatoes from growers who follow strict labor standards, such as protecting workers from sexual assault.
+
+Title: The Wendy’s Company Code of Business Conduct and Ethics
+Link: https://www.wendys.com/sites/default/files/2018-06/LEGAL-%23251274-v12-TWC_Code_of_Business_Conduct_and_Ethics_%28updated_2_28_17%29.pdf
+Snippet: This Code of Business Conduct and Ethics (this “Code”) applies to <b>Wendy’s</b> and to our subsidiary companies, including <b>Wendy’s</b> International, LLC. It is for all directors and <b>employees</b> of <b>Wendy’s</b>, and is a guide to legal and ethical behavior. This Code does not describe all applicable laws or Company policies, or give full details on ...
+
+Title: Wendy&#39;s | Employee Benefits Center | wendysbenefits.com
+Link: https://www.healthmanagementcorp.com/wendysbenefits-com
+Snippet: Welcome to the assistance page for: <b>Wendy’s</b> <b>Employee</b> Insurance Benefits Customer Service Representative Center Phone Number: 1-855-557-9603.
+
+Title: Wendy&#39;s - Sign On
+Link: https://weconnect.wendys.com/
+Snippet: Sign on to WeConnect, the online portal for <b>Wendy</b>&#39;s <b>employees</b>, to access your work schedule, benefits, training and more.
+
+Remi: Results for query 'Wendy's employee treatment':
+Title: WeCare &amp; Other Employee Benefits | Wendy&#39;s® CSR
+Link: https://www.wendys.com/csr-what-we-value/people/workplace/wecare-employee-experience
+Snippet: <b>Wendy’s</b> has introduced <b>employee</b> benefit and experience enhancements that set our Company <b>employees</b> up for success and make <b>Wendy’s</b> a great place to work. Enhanced <b>employee</b> benefits. In 2021, we expanded our paid sick time policy to provide paid sick time to all eligible part-time hourly <b>employees</b> on a permanent basis.
+
+Title: Suspect who stole $2K from Putnam Wendy&#39;s believed to be former employee
+Link: https://www.wtnh.com/news/connecticut/windham/suspect-who-stole-2k-from-putnam-wendys-believed-to-be-former-employee/
+Snippet: State police said the suspect gained access to the restaurant around 5 a.m. and stole about $2,100 from a safe inside, noting they do not know if the suspect fled on foot or in a vehicle.
+
+Title: Former employee suspected of burglary at Wendy’s in Putnam - WFSB
+Link: https://www.wfsb.com/2024/09/05/former-employee-suspected-burglary-wendys-putnam/
+Snippet: PUTNAM, Conn. (WFSB) - A burglary is being investigated at the <b>Wendy’s</b> in Putnam, according to state police. Around 5 a.m., the suspect entered the restaurant on Providence Pike, accessed a safe ...
+
+Title: PEOPLE - Wendy&#39;s
+Link: https://www.wendys.com/sites/default/files/2021-04/People_0.pdf
+Snippet: Workplace <b>Wendy’s</b> is a people business, and respect, equity and fair <b>treatment</b> are central to what we do. Our founder, Dave Thomas, believed the impact we make on others and our communities is just as important as the food we serve. We strive to bring the values Dave established— Do the Right Thing, Treat People with Respect and Give Something Back—to life daily with our team members and ...
+
+Title: BENEFITS AT A GLANCE - Wendy&#39;s Careers
+Link: https://wendys-careers.com/wp-content/uploads/2019/12/benefits.pdf
+Snippet: For information regarding benefits available to <b>employees</b> of a <b>Wendy’s</b> franchisee, see each particular franchisee for further details. Full details of Company benefits are available in the official plan documents and/or policies which govern.
+
+Title: The Wendy&#39;s Company - ESG - Governance - Code of Conduct
+Link: https://www.irwendys.com/esg/governance/code-of-conduct/default.aspx
+Snippet: We expect that all our <b>employees</b>, officers, and directors will reflect these standards in their day-to-day dealings on behalf of the Company. The <b>Wendy’s</b> Company Code of Business Conduct and Ethics (the “Code”) is a guide to the ethical and legal responsibilities that we share as members of the <b>Wendy’s</b> family.
+
+Title: Wendy’s Commits to Better Employee and Animal Treatment After Boycotts ...
+Link: https://www.eater.com/2020/1/23/21078508/wendys-corporate-social-responsibility-report-pledges-fairer-treatment-more-sustainability
+Snippet: The plan comes after <b>Wendy’s</b> faced boycotts for refusing to sign onto a program to source tomatoes from growers who follow strict labor standards, such as protecting workers from sexual assault.
+
+Title: The Wendy’s Company Code of Business Conduct and Ethics
+Link: https://www.wendys.com/sites/default/files/2018-06/LEGAL-%23251274-v12-TWC_Code_of_Business_Conduct_and_Ethics_%28updated_2_28_17%29.pdf
+Snippet: This Code of Business Conduct and Ethics (this “Code”) applies to <b>Wendy’s</b> and to our subsidiary companies, including <b>Wendy’s</b> International, LLC. It is for all directors and <b>employees</b> of <b>Wendy’s</b>, and is a guide to legal and ethical behavior. This Code does not describe all applicable laws or Company policies, or give full details on ...
+
+Title: Wendy&#39;s | Employee Benefits Center | wendysbenefits.com
+Link: https://www.healthmanagementcorp.com/wendysbenefits-com
+Snippet: Welcome to the assistance page for: <b>Wendy’s</b> <b>Employee</b> Insurance Benefits Customer Service Representative Center Phone Number: 1-855-557-9603.
+
+Title: Wendy&#39;s - Sign On
+Link: https://weconnect.wendys.com/
+Snippet: Sign on to WeConnect, the online portal for <b>Wendy</b>&#39;s <b>employees</b>, to access your work schedule, benefits, training and more.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's labor strikes':
+Title: Tomato workers put Wendy&#39;s billionaire in the hot seat
+Link: https://www.motherjones.com/food/2022/05/tomato-workers-wendys-poultry-coalition-imokalee-workers-labor/
+Snippet: <b>Wendy’s</b> says it won’t join the program because since 2019, it has sourced all of its tomatoes from greenhouses, not from Florida’s fields. CIW counters that there are <b>labor</b> abuses in ...
+
+Title: Students and Farmworkers Are Teaming Up to Boot Wendy’s Off Their ...
+Link: https://www.thenation.com/article/archive/students-and-farmworkers-are-teaming-up-to-boot-wendys-off-their-campuses/
+Snippet: After years of protests, hunger <b>strikes</b>, boycotts, and petitions, each of the top five fast food companies have signed on to the FFP except for <b>Wendy’s</b>. In response, the CIW launched a national ...
+
+Title: At a Wendy’s near Newark, here’s why human rights advocates protested
+Link: https://www.delawareonline.com/story/news/local/2023/06/24/farmworkers-protest-wendys-newark-delaware-fair-food-program/70351790007/
+Snippet: The crowd arrived shortly after 10:30 a.m. Saturday waving signs in support of the Fair Food Program with slogans such as, &quot;Shame on <b>Wendy&#39;s</b>,&quot; &quot;Provide Better Housing,&quot; and &quot;No Child <b>Labor</b>.&quot;
+
+Title: Why Wendy’s Is Facing Campus Protests (It’s About the Tomatoes)
+Link: https://www.nytimes.com/2019/03/07/business/economy/wendys-farm-workers-tomatoes.html
+Snippet: Protesters outside a <b>Wendy’s</b> restaurant in Carrboro, N.C., who are part of an effort by a nonprofit, the Coalition of Immokalee Workers, to pressure the fast-food chain to buy its tomatoes from ...
+
+Title: Following years of student protests, Wendy’s departs FAU campus
+Link: https://www.wlrn.org/news/2022-05-25/following-years-of-student-protests-wendys-departs-fau-campus
+Snippet: <b>Wendy&#39;s</b> left Florida Atlantic University a month after students and farmworkers marched through the Town of Palm Beach to urge <b>Wendy&#39;s</b> chairman to end &#39;modern-day slavery&#39; on farms.
+
+Title: BOYCOTT WENDY&#39;S
+Link: http://www.boycott-wendys.org/
+Snippet: The <b>Wendy’s</b> Boycott has been built through a commitment to community, action, farmworker justice and the broader movement for Fair Food. It is through this commitment that we are able to strengthen the boycott, and ensure that our network can fuel the growing demand for justice from farmworkers, people of faith, students and consumers of conscience.
+
+Title: USA: Wendy&#39;s targeted to buy tomatoes from growers following strict ...
+Link: https://www.business-humanrights.org/en/latest-news/usa-wendys-targeted-to-buy-tomatoes-from-growers-following-strict-labour-standards-as-part-of-fair-food-program/
+Snippet: <b>Wendy’s</b> said the change was unrelated to the Fair Food Program... Under the Fair Food Program, buyers... agree to pay 1 to 4 cents more per pound of tomatoes. The growers, in turn, agree to pay farmworkers at least the local minimum wage, to which the premium adds a bonus, and to meet a set of <b>labor</b> standards like providing shade and water ...
+
+Title: Amid Call for Boycott, Concerns Rise That Eating at Wendy&#39;s Supports ...
+Link: https://news.yahoo.com/students-eating-wendys-supports-slave-labor-call-boycott-000305269.html
+Snippet: College students are pledging to boycott fast-food giant <b>Wendy&#39;s</b> over the farming practices that bring fresh slabs of tomato to the purveyor&#39;s famously square burgers. Students at Ohio State University in Columbus, about 15 minutes from <b>Wendy&#39;s</b> headquarters, announced their boycott this weekend, launching a national campaign that calls on the burger vendor to start buying its tomatoes ...
+
+Title: Wendy&#39;s | Portside
+Link: https://portside.org/wendys
+Snippet: The Bay Area <b>strike</b> is one of a series of nationwide one-day <b>strikes</b> -- timed for <b>Labor</b> Day and the 50th anniversary of the historic civil rights-era March on Washington for Jobs and Freedom. The <b>strikes</b> are the culmination of months of fast-food walkouts that began on the East Coast, organized by New York-based grassroots movement Fast Food ...
+
+Title: Ohio State students do week-long fast in fight against Wendy&#39;s
+Link: https://www.10tv.com/article/news/local/ohio-state-students-do-week-long-fast-fight-against-wendys/530-7d192935-47d8-487e-a23f-11080390293f
+Snippet: The Coalition of Immokalee Workers push <b>Wendy&#39;s</b> Corporation to join Fair Food Program. Nineteen OSU students take part in week-long fast.
+
+Remi: Results for query 'Wendy's labor strikes':
+Title: Tomato workers put Wendy&#39;s billionaire in the hot seat
+Link: https://www.motherjones.com/food/2022/05/tomato-workers-wendys-poultry-coalition-imokalee-workers-labor/
+Snippet: <b>Wendy’s</b> says it won’t join the program because since 2019, it has sourced all of its tomatoes from greenhouses, not from Florida’s fields. CIW counters that there are <b>labor</b> abuses in ...
+
+Title: Students and Farmworkers Are Teaming Up to Boot Wendy’s Off Their ...
+Link: https://www.thenation.com/article/archive/students-and-farmworkers-are-teaming-up-to-boot-wendys-off-their-campuses/
+Snippet: After years of protests, hunger <b>strikes</b>, boycotts, and petitions, each of the top five fast food companies have signed on to the FFP except for <b>Wendy’s</b>. In response, the CIW launched a national ...
+
+Title: At a Wendy’s near Newark, here’s why human rights advocates protested
+Link: https://www.delawareonline.com/story/news/local/2023/06/24/farmworkers-protest-wendys-newark-delaware-fair-food-program/70351790007/
+Snippet: The crowd arrived shortly after 10:30 a.m. Saturday waving signs in support of the Fair Food Program with slogans such as, &quot;Shame on <b>Wendy&#39;s</b>,&quot; &quot;Provide Better Housing,&quot; and &quot;No Child <b>Labor</b>.&quot;
+
+Title: Why Wendy’s Is Facing Campus Protests (It’s About the Tomatoes)
+Link: https://www.nytimes.com/2019/03/07/business/economy/wendys-farm-workers-tomatoes.html
+Snippet: Protesters outside a <b>Wendy’s</b> restaurant in Carrboro, N.C., who are part of an effort by a nonprofit, the Coalition of Immokalee Workers, to pressure the fast-food chain to buy its tomatoes from ...
+
+Title: Following years of student protests, Wendy’s departs FAU campus
+Link: https://www.wlrn.org/news/2022-05-25/following-years-of-student-protests-wendys-departs-fau-campus
+Snippet: <b>Wendy&#39;s</b> left Florida Atlantic University a month after students and farmworkers marched through the Town of Palm Beach to urge <b>Wendy&#39;s</b> chairman to end &#39;modern-day slavery&#39; on farms.
+
+Title: BOYCOTT WENDY&#39;S
+Link: http://www.boycott-wendys.org/
+Snippet: The <b>Wendy’s</b> Boycott has been built through a commitment to community, action, farmworker justice and the broader movement for Fair Food. It is through this commitment that we are able to strengthen the boycott, and ensure that our network can fuel the growing demand for justice from farmworkers, people of faith, students and consumers of conscience.
+
+Title: USA: Wendy&#39;s targeted to buy tomatoes from growers following strict ...
+Link: https://www.business-humanrights.org/en/latest-news/usa-wendys-targeted-to-buy-tomatoes-from-growers-following-strict-labour-standards-as-part-of-fair-food-program/
+Snippet: <b>Wendy’s</b> said the change was unrelated to the Fair Food Program... Under the Fair Food Program, buyers... agree to pay 1 to 4 cents more per pound of tomatoes. The growers, in turn, agree to pay farmworkers at least the local minimum wage, to which the premium adds a bonus, and to meet a set of <b>labor</b> standards like providing shade and water ...
+
+Title: Amid Call for Boycott, Concerns Rise That Eating at Wendy&#39;s Supports ...
+Link: https://news.yahoo.com/students-eating-wendys-supports-slave-labor-call-boycott-000305269.html
+Snippet: College students are pledging to boycott fast-food giant <b>Wendy&#39;s</b> over the farming practices that bring fresh slabs of tomato to the purveyor&#39;s famously square burgers. Students at Ohio State University in Columbus, about 15 minutes from <b>Wendy&#39;s</b> headquarters, announced their boycott this weekend, launching a national campaign that calls on the burger vendor to start buying its tomatoes ...
+
+Title: Wendy&#39;s | Portside
+Link: https://portside.org/wendys
+Snippet: The Bay Area <b>strike</b> is one of a series of nationwide one-day <b>strikes</b> -- timed for <b>Labor</b> Day and the 50th anniversary of the historic civil rights-era March on Washington for Jobs and Freedom. The <b>strikes</b> are the culmination of months of fast-food walkouts that began on the East Coast, organized by New York-based grassroots movement Fast Food ...
+
+Title: Ohio State students do week-long fast in fight against Wendy&#39;s
+Link: https://www.10tv.com/article/news/local/ohio-state-students-do-week-long-fast-fight-against-wendys/530-7d192935-47d8-487e-a23f-11080390293f
+Snippet: The Coalition of Immokalee Workers push <b>Wendy&#39;s</b> Corporation to join Fair Food Program. Nineteen OSU students take part in week-long fast.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's recent scandals':
+Title: These 11 Scandals Shook Wendy&#39;s To Its Core - Mashed
+Link: https://www.mashed.com/1409702/wendys-scandals/
+Snippet: But who knows when or if the next <b>scandal</b> may sink the ship for good. Take a gander, dear readers, at the 11 <b>scandals</b> that shook <b>Wendy&#39;s</b> to its core. 1. Chili finger lady. Perhaps the most famous <b>Wendy&#39;s</b> <b>scandal</b>, the chili finger lady became a national headline and raised the bar for over-the-top fast food hoaxes.
+
+Title: Surge in Wendy&#39;s Complaints Exposes Limits to Consumer Tolerance of ...
+Link: https://www.usnews.com/news/business/articles/2024-02-28/surge-in-wendys-complaints-exposes-limits-to-consumer-tolerance-of-floating-prices
+Snippet: Nam Y. Huh. FILE - An Uber sign is displayed inside a car in Glenview, Ill., Saturday, Dec. 17, 2022. Consumers will pay more for that airline flight or willing to fork out more for a ride on Uber ...
+
+Title: McDonald’s and Wendy’s win false advertising lawsuit
+Link: https://www.cnn.com/2023/10/04/business/wendys-mcdonalds-false-advertising-lawsuit/index.html
+Snippet: New York <b>CNN</b> —. <b>Wendy’s</b> and McDonald’s have emerged victorious from a lawsuit that accused the fast food chains of false advertising. A federal judge dismissed a lawsuit brought against the ...
+
+Title: Suit Against McDonald’s and Wendy’s Alleging False Advertising Is ...
+Link: https://www.nytimes.com/2023/10/04/business/wendys-mcdonalds-burgers-lawsuit.html
+Snippet: Mr. Chimienti filed the lawsuit in 2022. The 35-page complaint said he bought burgers at <b>Wendy’s</b> and McDonald’s locations and found that the burgers “were much smaller than advertised and he ...
+
+Title: Federal judge dismisses false advertising claims against Wendy&#39;s ...
+Link: https://apnews.com/article/mcdonalds-wendys-false-advertising-lawsuit-9b60d8ff04b52635a14dcdef5a44d68f
+Snippet: On Saturday, Sept. 30, 2023, a federal judge in New York dismissed a lawsuit that accused McDonald’s and <b>Wendy’s</b> of misleading consumers with ads that show bigger, juicier burgers than their restaurants actually serve. (AP Photo/Jeff Roberson, File) FILE - A sign stands over a <b>Wendy’s</b> restaurant, Feb. 25, 2021, in Des Moines, Iowa.
+
+Title: Wendy&#39;s settles class-action lawsuit over biometric finger data
+Link: https://www.fastcompany.com/91030897/wendys-class-action-lawsuit-settlement-claim-finger-scan-biometric-data
+Snippet: <b>Wendy’s</b> will pay some workers $575 each after it collected their fingerprint data. The fast-food chain has settled a class action lawsuit alleging it violated an Illinois privacy law through its ...
+
+Title: McDonald&#39;s and Wendy&#39;s sued for burger ads that mislead on size - BBC
+Link: https://www.bbc.com/news/business-61497812
+Snippet: A New York man has a beef to pick with McDonald&#39;s and <b>Wendy&#39;s</b>: misleading adverts he says make their burgers look much bigger than they actually are. In a proposed class-action lawsuit, he accuses ...
+
+Title: WendysIsOverParty: Here&#39;s why Twitter canceled Wendy&#39;s - USA TODAY
+Link: https://www.usatoday.com/story/money/2020/06/02/wendysisoverparty-heres-why-twitter-canceled-wendys/3127096001/
+Snippet: A Business Insider article detailing $440,000 in donations from <b>Wendy&#39;s</b> CEO to President Trump&#39;s reelection campaign sparked outrage on Twitter. ... His most <b>recent</b> donation was on March 12, when ...
+
+Title: Here&#39;s What You Should Know About The Wendy&#39;s Data Breach
+Link: https://money.com/wendys-data-hack-breach/
+Snippet: <b>Wendy&#39;s</b> said Thursday it&#39;s become the victim of a data breach. <b>Wendy&#39;s</b> revealed on Thursday that hackers stole payment card data of some of its customers in a malware attack that affected more than 1,000 of its franchises across the country. The hackers pilfered cardholder names, credit or debit card numbers, expiration dates, cardholder ...
+
+Title: The #BoycottWendys Controversy, Explained - ELLE
+Link: https://www.elle.com/culture/a19564354/the-boycottwendys-controversy-explained/
+Snippet: Not surprisingly, <b>Wendy&#39;s</b> refusal to get on board with basic human rights has become increasingly problematic—and that all came to a head this week. FFP was founded by the Coalition of Immokalee ...
+
+Remi: Results for query 'Wendy's recent scandals':
+Title: These 11 Scandals Shook Wendy&#39;s To Its Core - Mashed
+Link: https://www.mashed.com/1409702/wendys-scandals/
+Snippet: But who knows when or if the next <b>scandal</b> may sink the ship for good. Take a gander, dear readers, at the 11 <b>scandals</b> that shook <b>Wendy&#39;s</b> to its core. 1. Chili finger lady. Perhaps the most famous <b>Wendy&#39;s</b> <b>scandal</b>, the chili finger lady became a national headline and raised the bar for over-the-top fast food hoaxes.
+
+Title: Surge in Wendy&#39;s Complaints Exposes Limits to Consumer Tolerance of ...
+Link: https://www.usnews.com/news/business/articles/2024-02-28/surge-in-wendys-complaints-exposes-limits-to-consumer-tolerance-of-floating-prices
+Snippet: Nam Y. Huh. FILE - An Uber sign is displayed inside a car in Glenview, Ill., Saturday, Dec. 17, 2022. Consumers will pay more for that airline flight or willing to fork out more for a ride on Uber ...
+
+Title: McDonald’s and Wendy’s win false advertising lawsuit
+Link: https://www.cnn.com/2023/10/04/business/wendys-mcdonalds-false-advertising-lawsuit/index.html
+Snippet: New York <b>CNN</b> —. <b>Wendy’s</b> and McDonald’s have emerged victorious from a lawsuit that accused the fast food chains of false advertising. A federal judge dismissed a lawsuit brought against the ...
+
+Title: Suit Against McDonald’s and Wendy’s Alleging False Advertising Is ...
+Link: https://www.nytimes.com/2023/10/04/business/wendys-mcdonalds-burgers-lawsuit.html
+Snippet: Mr. Chimienti filed the lawsuit in 2022. The 35-page complaint said he bought burgers at <b>Wendy’s</b> and McDonald’s locations and found that the burgers “were much smaller than advertised and he ...
+
+Title: Federal judge dismisses false advertising claims against Wendy&#39;s ...
+Link: https://apnews.com/article/mcdonalds-wendys-false-advertising-lawsuit-9b60d8ff04b52635a14dcdef5a44d68f
+Snippet: On Saturday, Sept. 30, 2023, a federal judge in New York dismissed a lawsuit that accused McDonald’s and <b>Wendy’s</b> of misleading consumers with ads that show bigger, juicier burgers than their restaurants actually serve. (AP Photo/Jeff Roberson, File) FILE - A sign stands over a <b>Wendy’s</b> restaurant, Feb. 25, 2021, in Des Moines, Iowa.
+
+Title: Wendy&#39;s settles class-action lawsuit over biometric finger data
+Link: https://www.fastcompany.com/91030897/wendys-class-action-lawsuit-settlement-claim-finger-scan-biometric-data
+Snippet: <b>Wendy’s</b> will pay some workers $575 each after it collected their fingerprint data. The fast-food chain has settled a class action lawsuit alleging it violated an Illinois privacy law through its ...
+
+Title: McDonald&#39;s and Wendy&#39;s sued for burger ads that mislead on size - BBC
+Link: https://www.bbc.com/news/business-61497812
+Snippet: A New York man has a beef to pick with McDonald&#39;s and <b>Wendy&#39;s</b>: misleading adverts he says make their burgers look much bigger than they actually are. In a proposed class-action lawsuit, he accuses ...
+
+Title: WendysIsOverParty: Here&#39;s why Twitter canceled Wendy&#39;s - USA TODAY
+Link: https://www.usatoday.com/story/money/2020/06/02/wendysisoverparty-heres-why-twitter-canceled-wendys/3127096001/
+Snippet: A Business Insider article detailing $440,000 in donations from <b>Wendy&#39;s</b> CEO to President Trump&#39;s reelection campaign sparked outrage on Twitter. ... His most <b>recent</b> donation was on March 12, when ...
+
+Title: Here&#39;s What You Should Know About The Wendy&#39;s Data Breach
+Link: https://money.com/wendys-data-hack-breach/
+Snippet: <b>Wendy&#39;s</b> said Thursday it&#39;s become the victim of a data breach. <b>Wendy&#39;s</b> revealed on Thursday that hackers stole payment card data of some of its customers in a malware attack that affected more than 1,000 of its franchises across the country. The hackers pilfered cardholder names, credit or debit card numbers, expiration dates, cardholder ...
+
+Title: The #BoycottWendys Controversy, Explained - ELLE
+Link: https://www.elle.com/culture/a19564354/the-boycottwendys-controversy-explained/
+Snippet: Not surprisingly, <b>Wendy&#39;s</b> refusal to get on board with basic human rights has become increasingly problematic—and that all came to a head this week. FFP was founded by the Coalition of Immokalee ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's lawsuits':
+Title: Hudsonville family sues Wendy’s franchise owner after 11-year-old ...
+Link: https://www.woodtv.com/news/ottawa-county/hudsonville-family-sues-wendys-franchise-owner-after-11-year-old-hospitalized/
+Snippet: An undated courtesy photo of Aspen Lamfers. The Lamfers are now suing Meritage Hospitality Group, the company that owns more than 380 <b>Wendy’s</b>, Taco John’s, Morning Belle and Stan’s Tacos ...
+
+Title: ‘Disgusting’ Wendy’s gave 11-year-old girl nearly deadly disease ...
+Link: https://nypost.com/2024/04/17/us-news/michigan-wendys-gave-11-year-old-girl-nearly-deadly-disease-michigan-family-claims-in-new-20m-lawsuit/
+Snippet: The family of an 11-year-old Michigan girl claimed “disgusting” <b>Wendy’s</b> conditions severely infected their daughter with an E. coli-related disease in a new $20 million <b>lawsuit</b>, according to ...
+
+Title: McDonald’s and Wendy’s win false advertising lawsuit
+Link: https://www.cnn.com/2023/10/04/business/wendys-mcdonalds-false-advertising-lawsuit/index.html
+Snippet: New York <b>CNN</b> —. <b>Wendy’s</b> and McDonald’s have emerged victorious from a <b>lawsuit</b> that accused the fast food chains of false advertising. A federal judge dismissed a <b>lawsuit</b> brought against the ...
+
+Title: Wendy&#39;s sued after woman is hospitalized from eating burger - New York Post
+Link: https://nypost.com/2023/04/01/wendys-sued-after-womans-hospitalization-from-eating-burger/
+Snippet: A Louisiana woman is suing <b>Wendy’s</b> after she was hospitalized after eating a burger from the fast-food restaurant. Getty Images. Jena Vogt alleges the contamination was due to poor handwashing ...
+
+Title: Exclusive | Wendy&#39;s E. coli outbreak sickens more than 100 as lawsuits ...
+Link: https://nypost.com/2022/08/23/wendys-e-coli-outbreak-sickens-more-than-100-as-lawsuits-pile-up/
+Snippet: More than 100 people reportedly have become ill from eating lettuce from <b>Wendy&#39;s</b> sandwiches -- far more than the CDC reported last week -- and <b>lawsuits</b> against the company are piling up, The Post ...
+
+Title: Wendy&#39;s Lettuce E. Coli Outbreak Leads to Lawsuits in Michigan, Ohio ...
+Link: https://www.businessinsider.com/wendys-romaine-lettuce-e-coli-outbreak-lawsuits-michigan-ohio-sandwich-2022-9
+Snippet: <b>Lawsuits</b> against <b>Wendy&#39;s</b> are mounting as an E. coli outbreak, believed to be caused by romaine lettuce served in its sandwiches, continues to spread, with close to 100 cases in the Midwest and one ...
+
+Title: Suit Against McDonald’s and Wendy’s Alleging False Advertising Is ...
+Link: https://www.nytimes.com/2023/10/04/business/wendys-mcdonalds-burgers-lawsuit.html
+Snippet: Mr. Chimienti filed the <b>lawsuit</b> in 2022. The 35-page complaint said he bought burgers at <b>Wendy’s</b> and McDonald’s locations and found that the burgers “were much smaller than advertised and he ...
+
+Title: Wendy&#39;s settles class-action lawsuit over biometric finger data
+Link: https://www.fastcompany.com/91030897/wendys-class-action-lawsuit-settlement-claim-finger-scan-biometric-data
+Snippet: <b>Wendy’s</b> will pay some workers $575 each after it collected their fingerprint data. The fast-food chain has settled a class action <b>lawsuit</b> alleging it violated an Illinois privacy law through its ...
+
+Title: Wendy&#39;s E. coli illnesses top 75 as lawsuits against fast-food giant ...
+Link: https://www.foxbusiness.com/lifestyle/wendys-e-coli-illnesses-top-75-lawsuits-fast-food-giant-roll-in
+Snippet: Fast-food chain <b>Wendy’s</b> is facing multiple <b>lawsuits</b> as the number of illnesses potentially related to its restaurants in the Midwest reached 75. On Friday, the Centers for Disease Control and ...
+
+Title: As E. coli outbreak grows, Wendy&#39;s customers describe food poisoning
+Link: https://www.nbcnews.com/health/health-news/e-coli-outbreak-grows-wendys-customers-describe-food-poisoning-rcna44466
+Snippet: As E. coli outbreak grows, 6 <b>Wendy&#39;s</b> customers describe severe food poisoning. The CDC has linked 84 E. coli cases to an outbreak in four states. Romaine lettuce from <b>Wendy’s</b> is suspected as the ...
+
+Remi: Results for query 'Wendy's lawsuits':
+Title: Hudsonville family sues Wendy’s franchise owner after 11-year-old ...
+Link: https://www.woodtv.com/news/ottawa-county/hudsonville-family-sues-wendys-franchise-owner-after-11-year-old-hospitalized/
+Snippet: An undated courtesy photo of Aspen Lamfers. The Lamfers are now suing Meritage Hospitality Group, the company that owns more than 380 <b>Wendy’s</b>, Taco John’s, Morning Belle and Stan’s Tacos ...
+
+Title: ‘Disgusting’ Wendy’s gave 11-year-old girl nearly deadly disease ...
+Link: https://nypost.com/2024/04/17/us-news/michigan-wendys-gave-11-year-old-girl-nearly-deadly-disease-michigan-family-claims-in-new-20m-lawsuit/
+Snippet: The family of an 11-year-old Michigan girl claimed “disgusting” <b>Wendy’s</b> conditions severely infected their daughter with an E. coli-related disease in a new $20 million <b>lawsuit</b>, according to ...
+
+Title: McDonald’s and Wendy’s win false advertising lawsuit
+Link: https://www.cnn.com/2023/10/04/business/wendys-mcdonalds-false-advertising-lawsuit/index.html
+Snippet: New York <b>CNN</b> —. <b>Wendy’s</b> and McDonald’s have emerged victorious from a <b>lawsuit</b> that accused the fast food chains of false advertising. A federal judge dismissed a <b>lawsuit</b> brought against the ...
+
+Title: Wendy&#39;s sued after woman is hospitalized from eating burger - New York Post
+Link: https://nypost.com/2023/04/01/wendys-sued-after-womans-hospitalization-from-eating-burger/
+Snippet: A Louisiana woman is suing <b>Wendy’s</b> after she was hospitalized after eating a burger from the fast-food restaurant. Getty Images. Jena Vogt alleges the contamination was due to poor handwashing ...
+
+Title: Exclusive | Wendy&#39;s E. coli outbreak sickens more than 100 as lawsuits ...
+Link: https://nypost.com/2022/08/23/wendys-e-coli-outbreak-sickens-more-than-100-as-lawsuits-pile-up/
+Snippet: More than 100 people reportedly have become ill from eating lettuce from <b>Wendy&#39;s</b> sandwiches -- far more than the CDC reported last week -- and <b>lawsuits</b> against the company are piling up, The Post ...
+
+Title: Wendy&#39;s Lettuce E. Coli Outbreak Leads to Lawsuits in Michigan, Ohio ...
+Link: https://www.businessinsider.com/wendys-romaine-lettuce-e-coli-outbreak-lawsuits-michigan-ohio-sandwich-2022-9
+Snippet: <b>Lawsuits</b> against <b>Wendy&#39;s</b> are mounting as an E. coli outbreak, believed to be caused by romaine lettuce served in its sandwiches, continues to spread, with close to 100 cases in the Midwest and one ...
+
+Title: Suit Against McDonald’s and Wendy’s Alleging False Advertising Is ...
+Link: https://www.nytimes.com/2023/10/04/business/wendys-mcdonalds-burgers-lawsuit.html
+Snippet: Mr. Chimienti filed the <b>lawsuit</b> in 2022. The 35-page complaint said he bought burgers at <b>Wendy’s</b> and McDonald’s locations and found that the burgers “were much smaller than advertised and he ...
+
+Title: Wendy&#39;s settles class-action lawsuit over biometric finger data
+Link: https://www.fastcompany.com/91030897/wendys-class-action-lawsuit-settlement-claim-finger-scan-biometric-data
+Snippet: <b>Wendy’s</b> will pay some workers $575 each after it collected their fingerprint data. The fast-food chain has settled a class action <b>lawsuit</b> alleging it violated an Illinois privacy law through its ...
+
+Title: Wendy&#39;s E. coli illnesses top 75 as lawsuits against fast-food giant ...
+Link: https://www.foxbusiness.com/lifestyle/wendys-e-coli-illnesses-top-75-lawsuits-fast-food-giant-roll-in
+Snippet: Fast-food chain <b>Wendy’s</b> is facing multiple <b>lawsuits</b> as the number of illnesses potentially related to its restaurants in the Midwest reached 75. On Friday, the Centers for Disease Control and ...
+
+Title: As E. coli outbreak grows, Wendy&#39;s customers describe food poisoning
+Link: https://www.nbcnews.com/health/health-news/e-coli-outbreak-grows-wendys-customers-describe-food-poisoning-rcna44466
+Snippet: As E. coli outbreak grows, 6 <b>Wendy&#39;s</b> customers describe severe food poisoning. The CDC has linked 84 E. coli cases to an outbreak in four states. Romaine lettuce from <b>Wendy’s</b> is suspected as the ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's social media presence':
+Title: Wendy’s Social Media Strategy: Serving Humorous Engagement Online
+Link: https://keyhole.co/blog/wendys-social-media-strategy/
+Snippet: A deep dive into <b>Wendy’s</b> <b>social</b> <b>media</b> strategy. From the active interactions and regular posting, it is evident <b>Wendy’s</b> <b>social</b> <b>media</b> marketing is a well-oiled machine. There is a clear voice in <b>Wendy’s</b> <b>social</b> <b>media</b> accounts, and the brand uses humor very effectively. Here is how this translated into user engagement. 1. <b>Wendy’s</b> on Instagram
+
+Title: What You Can Learn from Wendy’s Social Media Strategy
+Link: https://www.rivaliq.com/blog/wendys-social-media-strategy/
+Snippet: <b>Wendy’s</b> is the queen of comebacks and absolutely savage when it comes to roasting competitors and consumers alike on Twitter. With more than 6,500 restaurants globally, The <b>Wendy’s</b> Company is the world’s third-largest quick-service hamburger company, with a market cap of $4.5B and over 3.8 million Twitter followers.
+
+Title: Behind Wendy’s Epic Social Strategy - Fast Company
+Link: https://www.fastcompany.com/90330377/behind-wendys-epic-social-strategy
+Snippet: Behind <b>Wendy’s</b> Epic <b>Social</b> Strategy. The secret to <b>Wendy’s</b> <b>social</b> <b>media</b> success is confidence and culture. BY FastCo Works 2 minute read. <b>Wendy’s</b> isn’t afraid to drop the mic. Three ...
+
+Title: Beefing Up Brand: Wendy&#39;s Marketing Campaigns &amp; Strategies
+Link: https://thebrandhopper.com/2023/05/01/beefing-up-brand-how-wendys-marketing-campaigns-drive-sales/
+Snippet: <b>Social</b> <b>Media</b> Engagement. <b>Wendy’s</b> has a strong <b>presence</b> on <b>social</b> <b>media</b>, particularly Twitter. The company’s <b>social</b> <b>media</b> team is known for their witty responses and humorous banter with other brands and customers. This has helped <b>Wendy’s</b> stand out from other fast-food chains and generate buzz on <b>social</b> <b>media</b>. <b>Wendy’s</b> has also launched ...
+
+Title: Behold: The sass master behind Wendy&#39;s Twitter | Mashable
+Link: https://mashable.com/article/sassy-wendys-social-media-manager
+Snippet: UPDATE: Sept. 12, 2019, 11:08 a.m. EDT As of March 2017, Brown no longer manages <b>Wendy</b>&#39;s <b>social</b> <b>media</b>.. Newsflash: Not all heroes wear capes -- some, like Amy Brown, manage <b>social</b> <b>media</b> for fast ...
+
+Title: How Wendy&#39;s Learned To Stop Worrying And Love Its Twitter ... - Forbes
+Link: https://www.forbes.com/sites/andriacheng/2018/10/08/wendys-twitter-roasts-have-become-the-envy-of-marketers-heres-how-it-does-it/
+Snippet: Before Kurt Kane joined <b>Wendy’s</b> as chief concept and marketing officer, it was &quot;a very bureaucratic place,&quot; he says. Now its <b>social</b> <b>media</b> team has free rein, with enviable results.
+
+Title: Roasting the Competition: How Wendy’s Became the Queen of Social Media ...
+Link: https://riibon.medium.com/roasting-the-competition-how-wendys-became-the-queen-of-social-media-engagement-4579ce3cfdb9
+Snippet: <b>Wendy’s</b> has taken <b>social</b> <b>media</b> by storm with its witty, humorous, and often snarky interactions to become the queen of <b>social</b> <b>media</b> engagement. This strategy has not only increased brand engagement but also positioned <b>Wendy’s</b> as a standout player in the fast-food industry. Here’s an in-depth look at how <b>Wendy’s</b> achieved this success and ...
+
+Title: How Kristin Tormey Elevated Wendy’s to Influencer Status
+Link: https://www.qsrmagazine.com/growth/marketing-promotions/how-kristin-tormey-elevated-wendys-influencer-status/
+Snippet: Tormey started at <b>Wendy’s</b> five years ago, when <b>Wendy’s</b> <b>social</b> <b>presence</b> was focused almost exclusively on Twitter. Since then, she’s been a driving force behind taking the brand into not only new socialscapes like TikTok, but also the gaming world. In summer 2019, “<b>Wendy</b>” began playing Fortnite on the game-streaming platform Twitch.
+
+Title: How Wendy’s Revolutionized Corporate Social Media Accounts
+Link: https://bettermarketing.pub/how-wendys-revolutionized-corporate-social-media-accounts-6d4aec739f37
+Snippet: In 2017 <b>Wendy’s</b> Twitter account went from 2.1 to 2.4 million followers in just six months, and their account currently has 3.7 million followers. Source: author’s screenshot from Twitter. Financially this also proved to be an ingenious marketing move by <b>Wendy’s</b> as their net income increased from $129.6 million to $194 million.
+
+Title: How Wendy&#39;s Is Keeping Social Media Fresh (Never Frozen)
+Link: https://vantagep.com/insights/how-wendys-is-keeping-social-media-fresh-never-frozen/
+Snippet: It’s fast, it’s irreverent and it’s highly entertaining — not exactly the pre-approved, blessed-by-legal-and-PR blurbs we’re used to seeing from large corporations with a customer-facing online <b>presence</b>. Recently, the <b>Wendy’s</b> <b>social</b> <b>media</b> team participated in a Reddit AMA (Ask Me Anything) session, detailed here by Adweek. While the ...
+
+Remi: Results for query 'Wendy's social media presence':
+Title: Wendy’s Social Media Strategy: Serving Humorous Engagement Online
+Link: https://keyhole.co/blog/wendys-social-media-strategy/
+Snippet: A deep dive into <b>Wendy’s</b> <b>social</b> <b>media</b> strategy. From the active interactions and regular posting, it is evident <b>Wendy’s</b> <b>social</b> <b>media</b> marketing is a well-oiled machine. There is a clear voice in <b>Wendy’s</b> <b>social</b> <b>media</b> accounts, and the brand uses humor very effectively. Here is how this translated into user engagement. 1. <b>Wendy’s</b> on Instagram
+
+Title: What You Can Learn from Wendy’s Social Media Strategy
+Link: https://www.rivaliq.com/blog/wendys-social-media-strategy/
+Snippet: <b>Wendy’s</b> is the queen of comebacks and absolutely savage when it comes to roasting competitors and consumers alike on Twitter. With more than 6,500 restaurants globally, The <b>Wendy’s</b> Company is the world’s third-largest quick-service hamburger company, with a market cap of $4.5B and over 3.8 million Twitter followers.
+
+Title: Behind Wendy’s Epic Social Strategy - Fast Company
+Link: https://www.fastcompany.com/90330377/behind-wendys-epic-social-strategy
+Snippet: Behind <b>Wendy’s</b> Epic <b>Social</b> Strategy. The secret to <b>Wendy’s</b> <b>social</b> <b>media</b> success is confidence and culture. BY FastCo Works 2 minute read. <b>Wendy’s</b> isn’t afraid to drop the mic. Three ...
+
+Title: Beefing Up Brand: Wendy&#39;s Marketing Campaigns &amp; Strategies
+Link: https://thebrandhopper.com/2023/05/01/beefing-up-brand-how-wendys-marketing-campaigns-drive-sales/
+Snippet: <b>Social</b> <b>Media</b> Engagement. <b>Wendy’s</b> has a strong <b>presence</b> on <b>social</b> <b>media</b>, particularly Twitter. The company’s <b>social</b> <b>media</b> team is known for their witty responses and humorous banter with other brands and customers. This has helped <b>Wendy’s</b> stand out from other fast-food chains and generate buzz on <b>social</b> <b>media</b>. <b>Wendy’s</b> has also launched ...
+
+Title: Behold: The sass master behind Wendy&#39;s Twitter | Mashable
+Link: https://mashable.com/article/sassy-wendys-social-media-manager
+Snippet: UPDATE: Sept. 12, 2019, 11:08 a.m. EDT As of March 2017, Brown no longer manages <b>Wendy</b>&#39;s <b>social</b> <b>media</b>.. Newsflash: Not all heroes wear capes -- some, like Amy Brown, manage <b>social</b> <b>media</b> for fast ...
+
+Title: How Wendy&#39;s Learned To Stop Worrying And Love Its Twitter ... - Forbes
+Link: https://www.forbes.com/sites/andriacheng/2018/10/08/wendys-twitter-roasts-have-become-the-envy-of-marketers-heres-how-it-does-it/
+Snippet: Before Kurt Kane joined <b>Wendy’s</b> as chief concept and marketing officer, it was &quot;a very bureaucratic place,&quot; he says. Now its <b>social</b> <b>media</b> team has free rein, with enviable results.
+
+Title: Roasting the Competition: How Wendy’s Became the Queen of Social Media ...
+Link: https://riibon.medium.com/roasting-the-competition-how-wendys-became-the-queen-of-social-media-engagement-4579ce3cfdb9
+Snippet: <b>Wendy’s</b> has taken <b>social</b> <b>media</b> by storm with its witty, humorous, and often snarky interactions to become the queen of <b>social</b> <b>media</b> engagement. This strategy has not only increased brand engagement but also positioned <b>Wendy’s</b> as a standout player in the fast-food industry. Here’s an in-depth look at how <b>Wendy’s</b> achieved this success and ...
+
+Title: How Kristin Tormey Elevated Wendy’s to Influencer Status
+Link: https://www.qsrmagazine.com/growth/marketing-promotions/how-kristin-tormey-elevated-wendys-influencer-status/
+Snippet: Tormey started at <b>Wendy’s</b> five years ago, when <b>Wendy’s</b> <b>social</b> <b>presence</b> was focused almost exclusively on Twitter. Since then, she’s been a driving force behind taking the brand into not only new socialscapes like TikTok, but also the gaming world. In summer 2019, “<b>Wendy</b>” began playing Fortnite on the game-streaming platform Twitch.
+
+Title: How Wendy’s Revolutionized Corporate Social Media Accounts
+Link: https://bettermarketing.pub/how-wendys-revolutionized-corporate-social-media-accounts-6d4aec739f37
+Snippet: In 2017 <b>Wendy’s</b> Twitter account went from 2.1 to 2.4 million followers in just six months, and their account currently has 3.7 million followers. Source: author’s screenshot from Twitter. Financially this also proved to be an ingenious marketing move by <b>Wendy’s</b> as their net income increased from $129.6 million to $194 million.
+
+Title: How Wendy&#39;s Is Keeping Social Media Fresh (Never Frozen)
+Link: https://vantagep.com/insights/how-wendys-is-keeping-social-media-fresh-never-frozen/
+Snippet: It’s fast, it’s irreverent and it’s highly entertaining — not exactly the pre-approved, blessed-by-legal-and-PR blurbs we’re used to seeing from large corporations with a customer-facing online <b>presence</b>. Recently, the <b>Wendy’s</b> <b>social</b> <b>media</b> team participated in a Reddit AMA (Ask Me Anything) session, detailed here by Adweek. While the ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's customer reviews':
+Title: Wendy&#39;s Reviews | Read Customer Service Reviews of wendys.com - Yelp
+Link: https://www.yelp.com/brands/wendys
+Snippet: <b>Wendy</b>&#39;s has an average rating of 2 from 94902 <b>reviews</b>. The rating indicates that most customers are generally dissatisfied. The official website is <b>wendys</b>.com. <b>Wendy</b>&#39;s is popular for Fast Food, Restaurants, Burgers. <b>Wendy</b>&#39;s has 5385 locations on <b>Yelp</b> across the US. Read below to see the top rated <b>Wendy</b>&#39;s businesses on <b>Yelp</b> and their <b>customer</b> ...
+
+Title: Top 641 Reviews From Legit Wendy&#39;s Buyers - ConsumerAffairs
+Link: https://www.consumeraffairs.com/food/wendys.html
+Snippet: Worst $15.00 meal ever. Shame on you <b>Wendy</b>&#39;s. Paul Great Falls, MT. Reviewed Aug. 27, 2024. The <b>Wendy</b>&#39;s in Great Falls, Mt. charged me $3.00 more for a Dave&#39;s triple and $1.00 more for fries at ...
+
+Title: Wendy&#39;s Reviews | Read Customer Service Reviews of www.wendys.com
+Link: https://www.trustpilot.com/review/www.wendys.com
+Snippet: I wrote to <b>customer</b> services 2 weeks ago and have heard nothing. This was my first time using <b>Wendy’s</b> and if the coffee and <b>customer</b> service is anything to go by, they both leave a bad taste in your mouth. Shame on you <b>Wendy’s</b>. Date of experience: August 06, 2024. Useful.
+
+Title: Wendy&#39;s Reviews | Read Customer Service Reviews of www.wendys.com | 5 of 36
+Link: https://www.trustpilot.com/review/www.wendys.com?page=5
+Snippet: I will call the better bureau and informed what is going on at this <b>Wendy’s</b> on Madison. <b>Wendy’s</b> Restaurant # 06601060 11 North Harlem Avenue 708-383-2748 #3046. Date of experience: December 02, 2023. Useful.
+
+Title: Wendy&#39;s - Facebook
+Link: https://www.facebook.com/wendys/reviews/
+Snippet: <b>Wendy</b>&#39;s, Dublin, OH. 8,451,817 likes · 18,003 talking about this · 274,955 were here. <b>Wendy</b>&#39;s® Official <b>Facebook</b> Page.
+
+Title: Wendy&#39;s Customer Survey - Welcome
+Link: https://www.wendyswantstoknow.com/
+Snippet: <b>Wendy</b>&#39;s <b>Customer</b> Survey - Welcome. Welcome to the <b>Wendy</b>&#39;s <b>Customer</b> Satisfaction Survey. We value your candid feedback and appreciate you taking the time to complete our survey. Please enter the following information from your receipt. Restaurant Number: Date of Visit:
+
+Title: Wendy’s | Reviews | Better Business Bureau® Profile
+Link: https://www.bbb.org/us/mo/kansas-city/profile/fast-food-restaurants/wendys-0714-1000062048/customer-reviews
+Snippet: If you have not received a code within 2 minutes, you can re-send it. This business has 0 <b>reviews</b>. 5363 E Bannister Rd. Kansas City, MO 64137. Visit Website. (816) 763-3161.
+
+Title: Wendy&#39;s NPS &amp; Customer Reviews - Comparably
+Link: https://www.comparably.com/brands/wendys
+Snippet: <b>Wendy</b>&#39;s <b>Customer Reviews</b>. Out of the 59 <b>Wendy</b>&#39;s <b>customer reviews</b> 32 were positive and 27 were constructive. <b>Wendy</b>&#39;s <b>customer reviews</b> reflect that more than half of the customers have a favorable experience using the products/services of the company. All <b>Reviews</b>. Positive <b>Reviews</b>.
+
+Title: Wendy&#39;s Reviews | Read Customer Service Reviews of www.wendys.com | 35 ...
+Link: https://www.trustpilot.com/review/www.wendys.com?page=35
+Snippet: How many stars would you give <b>Wendy</b>&#39;s? Join the 739 people who&#39;ve already contributed. Your experience matters. | Read 681-700 <b>Reviews</b> out of 709 ... <b>Wendy</b>&#39;s <b>Reviews</b> 739 ... If you as a company have <b>customer</b> service classes I suggest sending this locations whole Team through it. The GM is a clear reflection on the whole staff, there is a reason ...
+
+Title: Wendy&#39;s Fast-food Restaurant Review - Consumer Reports
+Link: https://www.consumerreports.org/health/fast-food-restaurants/na-wendy-s/m275578/
+Snippet: About. <b>Wendy</b>&#39;s is part of the Fast food restaurants test program at <b>Consumer</b> Reports. In our lab tests, Fast food restaurants models like the <b>Wendy</b>&#39;s are rated on multiple criteria, such as those ...
+
+Remi: Results for query 'Wendy's customer reviews':
+Title: Wendy&#39;s Reviews | Read Customer Service Reviews of wendys.com - Yelp
+Link: https://www.yelp.com/brands/wendys
+Snippet: <b>Wendy</b>&#39;s has an average rating of 2 from 94902 <b>reviews</b>. The rating indicates that most customers are generally dissatisfied. The official website is <b>wendys</b>.com. <b>Wendy</b>&#39;s is popular for Fast Food, Restaurants, Burgers. <b>Wendy</b>&#39;s has 5385 locations on <b>Yelp</b> across the US. Read below to see the top rated <b>Wendy</b>&#39;s businesses on <b>Yelp</b> and their <b>customer</b> ...
+
+Title: Top 641 Reviews From Legit Wendy&#39;s Buyers - ConsumerAffairs
+Link: https://www.consumeraffairs.com/food/wendys.html
+Snippet: Worst $15.00 meal ever. Shame on you <b>Wendy</b>&#39;s. Paul Great Falls, MT. Reviewed Aug. 27, 2024. The <b>Wendy</b>&#39;s in Great Falls, Mt. charged me $3.00 more for a Dave&#39;s triple and $1.00 more for fries at ...
+
+Title: Wendy&#39;s Reviews | Read Customer Service Reviews of www.wendys.com
+Link: https://www.trustpilot.com/review/www.wendys.com
+Snippet: I wrote to <b>customer</b> services 2 weeks ago and have heard nothing. This was my first time using <b>Wendy’s</b> and if the coffee and <b>customer</b> service is anything to go by, they both leave a bad taste in your mouth. Shame on you <b>Wendy’s</b>. Date of experience: August 06, 2024. Useful.
+
+Title: Wendy&#39;s Reviews | Read Customer Service Reviews of www.wendys.com | 5 of 36
+Link: https://www.trustpilot.com/review/www.wendys.com?page=5
+Snippet: I will call the better bureau and informed what is going on at this <b>Wendy’s</b> on Madison. <b>Wendy’s</b> Restaurant # 06601060 11 North Harlem Avenue 708-383-2748 #3046. Date of experience: December 02, 2023. Useful.
+
+Title: Wendy&#39;s - Facebook
+Link: https://www.facebook.com/wendys/reviews/
+Snippet: <b>Wendy</b>&#39;s, Dublin, OH. 8,451,817 likes · 18,003 talking about this · 274,955 were here. <b>Wendy</b>&#39;s® Official <b>Facebook</b> Page.
+
+Title: Wendy&#39;s Customer Survey - Welcome
+Link: https://www.wendyswantstoknow.com/
+Snippet: <b>Wendy</b>&#39;s <b>Customer</b> Survey - Welcome. Welcome to the <b>Wendy</b>&#39;s <b>Customer</b> Satisfaction Survey. We value your candid feedback and appreciate you taking the time to complete our survey. Please enter the following information from your receipt. Restaurant Number: Date of Visit:
+
+Title: Wendy’s | Reviews | Better Business Bureau® Profile
+Link: https://www.bbb.org/us/mo/kansas-city/profile/fast-food-restaurants/wendys-0714-1000062048/customer-reviews
+Snippet: If you have not received a code within 2 minutes, you can re-send it. This business has 0 <b>reviews</b>. 5363 E Bannister Rd. Kansas City, MO 64137. Visit Website. (816) 763-3161.
+
+Title: Wendy&#39;s NPS &amp; Customer Reviews - Comparably
+Link: https://www.comparably.com/brands/wendys
+Snippet: <b>Wendy</b>&#39;s <b>Customer Reviews</b>. Out of the 59 <b>Wendy</b>&#39;s <b>customer reviews</b> 32 were positive and 27 were constructive. <b>Wendy</b>&#39;s <b>customer reviews</b> reflect that more than half of the customers have a favorable experience using the products/services of the company. All <b>Reviews</b>. Positive <b>Reviews</b>.
+
+Title: Wendy&#39;s Reviews | Read Customer Service Reviews of www.wendys.com | 35 ...
+Link: https://www.trustpilot.com/review/www.wendys.com?page=35
+Snippet: How many stars would you give <b>Wendy</b>&#39;s? Join the 739 people who&#39;ve already contributed. Your experience matters. | Read 681-700 <b>Reviews</b> out of 709 ... <b>Wendy</b>&#39;s <b>Reviews</b> 739 ... If you as a company have <b>customer</b> service classes I suggest sending this locations whole Team through it. The GM is a clear reflection on the whole staff, there is a reason ...
+
+Title: Wendy&#39;s Fast-food Restaurant Review - Consumer Reports
+Link: https://www.consumerreports.org/health/fast-food-restaurants/na-wendy-s/m275578/
+Snippet: About. <b>Wendy</b>&#39;s is part of the Fast food restaurants test program at <b>Consumer</b> Reports. In our lab tests, Fast food restaurants models like the <b>Wendy</b>&#39;s are rated on multiple criteria, such as those ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's competition':
+Title: Top The Wendy’s Company Competitors and Alternatives - Craft
+Link: https://craft.co/wendy-s-company/competitors
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. The <b>Wendy’s</b> Company&#39;s main competitors include Taco Bell, Yum! Brands, McDonald&#39;s and Chick-fil-A. Compare The <b>Wendy’s</b> Company to its competitors by revenue, employee growth and other metrics at Craft.
+
+Title: Wendy&#39;s Competitors - Comparably
+Link: https://www.comparably.com/companies/wendys/competitors
+Snippet: <b>Wendy</b>&#39;s competitors include Chick-fil-A, KFC, Good Times Restaurants, Luby&#39;s and Burger King. <b>Wendy</b>&#39;s ranks 2nd in Gender Score on Comparably vs its competitors. See below how <b>Wendy</b>&#39;s compares to its competitors with CEO Rankings, Product &amp; Services, NPS, Pricing, Customer Services, Overall Culture Score, eNPS, Gender and Diversity Scores. ...
+
+Title: How Wendy’s Dethroned Burger King To Become The No. 2 Burger Chain
+Link: https://www.forbes.com/sites/aliciakelso/2021/04/21/how-wendys-dethroned-burger-king-to-become-the-no-2-burger-chain/
+Snippet: According to Technomic data, <b>Wendy’s</b> U.S. system sales increased by 4.8% last year to $10.2 billion. Burger King, meanwhile, dropped by 5.4% to $9.6 billion.
+
+Title: The Wendy S Company Comparisons to its Competitors and ... - CSIMarket
+Link: https://csimarket.com/stocks/compet_glance.php?code=WEN
+Snippet: Each <b>Wendy’s</b> restaurant is in <b>competition</b> with other food service operations within the same geographical area. The quick-service restaurant segment is highly competitive and includes well-established competitors. <b>Wendy’s</b> competes with other restaurant companies and food outlets, primarily through the quality, variety, convenience, price ...
+
+Title: Wendy&#39;s SWOT Analysis (2024) - Business Strategy Hub
+Link: https://bstrategyhub.com/wendys-swot-analysis/
+Snippet: 3. Intense <b>competition</b>. <b>Wendy’s</b> faces tough <b>competition</b> from other established brands like KFC, McDonald’s, and Burger King, especially regarding international expansion. If <b>Wendy’s</b> doesn’t put enough effort into marketing and ensuring consistent customer experience, the company will undoubtedly lose market share to larger-scale ...
+
+Title: Top Wendy&#39;s Competitors &amp; Similar Companies - MBA Skool
+Link: https://www.mbaskool.com/competitors/companies/18522-wendys.html
+Snippet: 8. Papa Johns Pizza. 9. McDonald&#39;s. Below we look at the top 9 competitors of <b>Wendy</b>&#39;s. 1. KFC: KFC is an American Fast food chain earlier called as Kentucky Fried Chicken. It was established in Colonel Harland Sanders with humble beginning in a roadside stall during great depression.
+
+Title: Wendy&#39;s (WEN) Competitors and Alternatives 2024 - MarketBeat
+Link: https://www.marketbeat.com/stocks/NASDAQ/WEN/competitors-and-alternatives/
+Snippet: In the previous week, <b>Wendy</b>&#39;s had 3 more articles in the media than Shake Shack. MarketBeat recorded 29 mentions for <b>Wendy</b>&#39;s and 26 mentions for Shake Shack. <b>Wendy</b>&#39;s&#39; average media sentiment score of 0.27 beat Shake Shack&#39;s score of 0.12 indicating that <b>Wendy</b>&#39;s is being referred to more favorably in the news media.
+
+Title: Top Wendy&#39;s Company Alternatives, Competitors - CB Insights
+Link: https://www.cbinsights.com/company/the-wendys-company/alternatives-competitors
+Snippet: McDonald&#39;s. McDonald&#39;s is a company that operates in the fast food industry. The company primarily offers a variety of food items including burgers, fries, chicken and fish sandwiches, and beverages. McDonald&#39;s primarily serves to the general consumer market. It was founded in 1955 and is based in Chicago, Illinois.
+
+Title: Wendy’s Five Forces Analysis (Porter Model) - Panmore Institute
+Link: https://panmore.com/wendys-five-forces-analysis-porters-model
+Snippet: In this part of the Five Forces analysis, <b>Wendy’s</b> must prioritize <b>competition</b> as one of the most significant forces in its industry environment. Bargaining Power of <b>Wendy’s</b> Customers/Buyers (Strong Force) Consumers are major influences in the hamburger fast-food restaurant industry environment where <b>Wendy’s</b> operates. This part of the Five ...
+
+Title: Wendy&#39;s - Wikipedia
+Link: https://en.wikipedia.org/wiki/Wendy%27s
+Snippet: <b>Wendy</b>&#39;s is an American international fast food restaurant chain founded by Dave Thomas on November 15, 1969, in Columbus, Ohio.Its headquarters moved to Dublin, Ohio, on January 29, 2006.As of December 31, 2018, <b>Wendy</b>&#39;s was the world&#39;s third-largest hamburger fast-food chain with 6,711 locations, following McDonald’s and Burger King.On September 29, 2008, the company merged with Triarc ...
+
+Remi: Results for query 'Wendy's competition':
+Title: Top The Wendy’s Company Competitors and Alternatives - Craft
+Link: https://craft.co/wendy-s-company/competitors
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. The <b>Wendy’s</b> Company&#39;s main competitors include Taco Bell, Yum! Brands, McDonald&#39;s and Chick-fil-A. Compare The <b>Wendy’s</b> Company to its competitors by revenue, employee growth and other metrics at Craft.
+
+Title: Wendy&#39;s Competitors - Comparably
+Link: https://www.comparably.com/companies/wendys/competitors
+Snippet: <b>Wendy</b>&#39;s competitors include Chick-fil-A, KFC, Good Times Restaurants, Luby&#39;s and Burger King. <b>Wendy</b>&#39;s ranks 2nd in Gender Score on Comparably vs its competitors. See below how <b>Wendy</b>&#39;s compares to its competitors with CEO Rankings, Product &amp; Services, NPS, Pricing, Customer Services, Overall Culture Score, eNPS, Gender and Diversity Scores. ...
+
+Title: How Wendy’s Dethroned Burger King To Become The No. 2 Burger Chain
+Link: https://www.forbes.com/sites/aliciakelso/2021/04/21/how-wendys-dethroned-burger-king-to-become-the-no-2-burger-chain/
+Snippet: According to Technomic data, <b>Wendy’s</b> U.S. system sales increased by 4.8% last year to $10.2 billion. Burger King, meanwhile, dropped by 5.4% to $9.6 billion.
+
+Title: The Wendy S Company Comparisons to its Competitors and ... - CSIMarket
+Link: https://csimarket.com/stocks/compet_glance.php?code=WEN
+Snippet: Each <b>Wendy’s</b> restaurant is in <b>competition</b> with other food service operations within the same geographical area. The quick-service restaurant segment is highly competitive and includes well-established competitors. <b>Wendy’s</b> competes with other restaurant companies and food outlets, primarily through the quality, variety, convenience, price ...
+
+Title: Wendy&#39;s SWOT Analysis (2024) - Business Strategy Hub
+Link: https://bstrategyhub.com/wendys-swot-analysis/
+Snippet: 3. Intense <b>competition</b>. <b>Wendy’s</b> faces tough <b>competition</b> from other established brands like KFC, McDonald’s, and Burger King, especially regarding international expansion. If <b>Wendy’s</b> doesn’t put enough effort into marketing and ensuring consistent customer experience, the company will undoubtedly lose market share to larger-scale ...
+
+Title: Top Wendy&#39;s Competitors &amp; Similar Companies - MBA Skool
+Link: https://www.mbaskool.com/competitors/companies/18522-wendys.html
+Snippet: 8. Papa Johns Pizza. 9. McDonald&#39;s. Below we look at the top 9 competitors of <b>Wendy</b>&#39;s. 1. KFC: KFC is an American Fast food chain earlier called as Kentucky Fried Chicken. It was established in Colonel Harland Sanders with humble beginning in a roadside stall during great depression.
+
+Title: Wendy&#39;s (WEN) Competitors and Alternatives 2024 - MarketBeat
+Link: https://www.marketbeat.com/stocks/NASDAQ/WEN/competitors-and-alternatives/
+Snippet: In the previous week, <b>Wendy</b>&#39;s had 3 more articles in the media than Shake Shack. MarketBeat recorded 29 mentions for <b>Wendy</b>&#39;s and 26 mentions for Shake Shack. <b>Wendy</b>&#39;s&#39; average media sentiment score of 0.27 beat Shake Shack&#39;s score of 0.12 indicating that <b>Wendy</b>&#39;s is being referred to more favorably in the news media.
+
+Title: Top Wendy&#39;s Company Alternatives, Competitors - CB Insights
+Link: https://www.cbinsights.com/company/the-wendys-company/alternatives-competitors
+Snippet: McDonald&#39;s. McDonald&#39;s is a company that operates in the fast food industry. The company primarily offers a variety of food items including burgers, fries, chicken and fish sandwiches, and beverages. McDonald&#39;s primarily serves to the general consumer market. It was founded in 1955 and is based in Chicago, Illinois.
+
+Title: Wendy’s Five Forces Analysis (Porter Model) - Panmore Institute
+Link: https://panmore.com/wendys-five-forces-analysis-porters-model
+Snippet: In this part of the Five Forces analysis, <b>Wendy’s</b> must prioritize <b>competition</b> as one of the most significant forces in its industry environment. Bargaining Power of <b>Wendy’s</b> Customers/Buyers (Strong Force) Consumers are major influences in the hamburger fast-food restaurant industry environment where <b>Wendy’s</b> operates. This part of the Five ...
+
+Title: Wendy&#39;s - Wikipedia
+Link: https://en.wikipedia.org/wiki/Wendy%27s
+Snippet: <b>Wendy</b>&#39;s is an American international fast food restaurant chain founded by Dave Thomas on November 15, 1969, in Columbus, Ohio.Its headquarters moved to Dublin, Ohio, on January 29, 2006.As of December 31, 2018, <b>Wendy</b>&#39;s was the world&#39;s third-largest hamburger fast-food chain with 6,711 locations, following McDonald’s and Burger King.On September 29, 2008, the company merged with Triarc ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Wendy's market position':
+Title: Careers Home - Wendy&#39;s Careers
+Link: https://wendys-careers.com/
+Snippet: First of all, yes, <b>Wendy</b> is a real person. And a pretty special one, being the daughter of our founder Dave Thomas. Today, she is one of the most involved and successful franchise owners in the <b>Wendy’s</b> enterprise. We think Dave would be proud. Back in 1969, he looked around at all other hamburger joints and was like, “Nah. People deserve ...
+
+Title: A Thorough Analysis of Wendy&#39;s Marketing Strategy in 2024
+Link: https://www.brandvm.com/post/wendys-marketing-2024
+Snippet: 4. Promotional and Advertising Strategy. <b>Wendy&#39;s</b> employs a comprehensive promotional and advertising strategy, integrating both offline and online channels to enhance brand visibility and engage with a diverse audience. <b>Wendy&#39;s</b> recognizes its competitors, including McDonald’s, Burger King, KFC, and Subway.
+
+Title: Wendy&#39;s: Analyzing Its Position In A Competitive Industry - Seeking Alpha
+Link: https://seekingalpha.com/article/4624959-wendys-analyzing-position-competitive-industry
+Snippet: <b>Wendy&#39;s</b> operates in a competitive fast food landscape, with competition driven by product, access to customers, dining experience, and price. WEN&#39;s primary competitors are McDonald&#39;s, Burger King ...
+
+Title: Wendy’s Marketing Mix (4Ps) Analysis - Panmore Institute
+Link: https://panmore.com/wendys-marketing-mix-4ps-analysis
+Snippet: <b>Wendy’s</b> is one of the leading international hamburger fast-food restaurant chains in the world. The company’s <b>marketing</b> mix (4Ps) supports such an industry <b>position</b>. The <b>marketing</b> mix defines the strategies and tactics the company uses to implement its <b>marketing</b> plan and indicates how the business relates with the target <b>market</b>. <b>Wendy’s</b> ...
+
+Title: In-Depth Examination Of 18 Analyst Recommendations For Wendy&#39;s
+Link: https://markets.businessinsider.com/news/stocks/in-depth-examination-of-18-analyst-recommendations-for-wendy-s-1033540169
+Snippet: The <b>Wendy&#39;s</b> Company is the second-largest burger quick-service restaurant, or QSR, chain in the United States by systemwide sales, with $12.3 billion in 2023, narrowly edging Burger King ($11.5 ...
+
+Title: Wendy&#39;s SWOT Analysis (2024) - Business Strategy Hub
+Link: https://bstrategyhub.com/wendys-swot-analysis/
+Snippet: 10. Strong financial <b>position</b>. <b>Wendy’s</b> has a robust financial <b>position</b> and healthy cash flow generation. That means the company has the strength to expand to new markets, run advertisements, and meet operational costs. Furthermore, if a franchise could be struggling, <b>Wendy’s</b> may easily count on its financial strength to help it out. 11.
+
+Title: Wendy&#39;s - statistics &amp; facts | Statista
+Link: https://www.statista.com/topics/2416/wendy-s/
+Snippet: In 2023, the revenue of the <b>Wendy’s</b> Company reached 2.18 billion U.S dollars, showing growth over the previous year. Much like many other U.S. fast foood restaurants, <b>Wendy’s</b> menu centers on ...
+
+Title: Wendy’s Is Accelerating Its Growth Through Both Traditional ... - Forbes
+Link: https://www.forbes.com/sites/aliciakelso/2022/03/08/wendys-is-accelerating-its-growth-through-both-traditional-and-non-traditional-formats/
+Snippet: About 50% of <b>Wendy&#39;s</b> growth will come from non-traditional locations, including a plan to open 700 Reef kitchen locations throughout the U.S., UK and Canada by 2025.
+
+Title: Wendy&#39;s: Scaled Market Penetration Drives Systemwide Sales Growth (WEN)
+Link: https://seekingalpha.com/article/4605990-wendys-company-scaled-market-penetration-drives-systemwide-sales-growth
+Snippet: Wall Street Consensus. Analysts largely support my positive outlook on <b>Wendy&#39;s</b>, projecting an average one-year price increase of 7.77%, to a price of $25.25. TradingView. At the minimum projected ...
+
+Title: Wendy&#39;s Company (The) Common Stock (WEN) - Nasdaq
+Link: https://www.nasdaq.com/market-activity/stocks/wen
+Snippet: The <b>Wendy&#39;s</b> Company is the second-largest burger quick-service restaurant, or QSR, chain in the United States by systemwide sales, with $11.1 billion in 2021, narrowly edging Burger King ($10.3 ...
+
+Remi: Results for query 'Wendy's market position':
+Title: Careers Home - Wendy&#39;s Careers
+Link: https://wendys-careers.com/
+Snippet: First of all, yes, <b>Wendy</b> is a real person. And a pretty special one, being the daughter of our founder Dave Thomas. Today, she is one of the most involved and successful franchise owners in the <b>Wendy’s</b> enterprise. We think Dave would be proud. Back in 1969, he looked around at all other hamburger joints and was like, “Nah. People deserve ...
+
+Title: A Thorough Analysis of Wendy&#39;s Marketing Strategy in 2024
+Link: https://www.brandvm.com/post/wendys-marketing-2024
+Snippet: 4. Promotional and Advertising Strategy. <b>Wendy&#39;s</b> employs a comprehensive promotional and advertising strategy, integrating both offline and online channels to enhance brand visibility and engage with a diverse audience. <b>Wendy&#39;s</b> recognizes its competitors, including McDonald’s, Burger King, KFC, and Subway.
+
+Title: Wendy&#39;s: Analyzing Its Position In A Competitive Industry - Seeking Alpha
+Link: https://seekingalpha.com/article/4624959-wendys-analyzing-position-competitive-industry
+Snippet: <b>Wendy&#39;s</b> operates in a competitive fast food landscape, with competition driven by product, access to customers, dining experience, and price. WEN&#39;s primary competitors are McDonald&#39;s, Burger King ...
+
+Title: Wendy’s Marketing Mix (4Ps) Analysis - Panmore Institute
+Link: https://panmore.com/wendys-marketing-mix-4ps-analysis
+Snippet: <b>Wendy’s</b> is one of the leading international hamburger fast-food restaurant chains in the world. The company’s <b>marketing</b> mix (4Ps) supports such an industry <b>position</b>. The <b>marketing</b> mix defines the strategies and tactics the company uses to implement its <b>marketing</b> plan and indicates how the business relates with the target <b>market</b>. <b>Wendy’s</b> ...
+
+Title: In-Depth Examination Of 18 Analyst Recommendations For Wendy&#39;s
+Link: https://markets.businessinsider.com/news/stocks/in-depth-examination-of-18-analyst-recommendations-for-wendy-s-1033540169
+Snippet: The <b>Wendy&#39;s</b> Company is the second-largest burger quick-service restaurant, or QSR, chain in the United States by systemwide sales, with $12.3 billion in 2023, narrowly edging Burger King ($11.5 ...
+
+Title: Wendy&#39;s SWOT Analysis (2024) - Business Strategy Hub
+Link: https://bstrategyhub.com/wendys-swot-analysis/
+Snippet: 10. Strong financial <b>position</b>. <b>Wendy’s</b> has a robust financial <b>position</b> and healthy cash flow generation. That means the company has the strength to expand to new markets, run advertisements, and meet operational costs. Furthermore, if a franchise could be struggling, <b>Wendy’s</b> may easily count on its financial strength to help it out. 11.
+
+Title: Wendy&#39;s - statistics &amp; facts | Statista
+Link: https://www.statista.com/topics/2416/wendy-s/
+Snippet: In 2023, the revenue of the <b>Wendy’s</b> Company reached 2.18 billion U.S dollars, showing growth over the previous year. Much like many other U.S. fast foood restaurants, <b>Wendy’s</b> menu centers on ...
+
+Title: Wendy’s Is Accelerating Its Growth Through Both Traditional ... - Forbes
+Link: https://www.forbes.com/sites/aliciakelso/2022/03/08/wendys-is-accelerating-its-growth-through-both-traditional-and-non-traditional-formats/
+Snippet: About 50% of <b>Wendy&#39;s</b> growth will come from non-traditional locations, including a plan to open 700 Reef kitchen locations throughout the U.S., UK and Canada by 2025.
+
+Title: Wendy&#39;s: Scaled Market Penetration Drives Systemwide Sales Growth (WEN)
+Link: https://seekingalpha.com/article/4605990-wendys-company-scaled-market-penetration-drives-systemwide-sales-growth
+Snippet: Wall Street Consensus. Analysts largely support my positive outlook on <b>Wendy&#39;s</b>, projecting an average one-year price increase of 7.77%, to a price of $25.25. TradingView. At the minimum projected ...
+
+Title: Wendy&#39;s Company (The) Common Stock (WEN) - Nasdaq
+Link: https://www.nasdaq.com/market-activity/stocks/wen
+Snippet: The <b>Wendy&#39;s</b> Company is the second-largest burger quick-service restaurant, or QSR, chain in the United States by systemwide sales, with $11.1 billion in 2021, narrowly edging Burger King ($10.3 ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for query 'Direct competitors of Wendy's':
+Title: Top The Wendy’s Company Competitors and Alternatives - Craft
+Link: https://craft.co/wendy-s-company/competitors
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. The <b>Wendy’s</b> Company&#39;s main <b>competitors</b> include Taco Bell, Yum! Brands, McDonald&#39;s and Chick-fil-A. Compare The <b>Wendy’s</b> Company to its <b>competitors</b> by revenue, employee growth and other metrics at Craft.
+
+Title: Wendy&#39;s Competitors - Comparably
+Link: https://www.comparably.com/companies/wendys/competitors
+Snippet: <b>Wendy</b>&#39;s <b>Competitors</b>. <b>Wendy</b>&#39;s <b>competitors</b> include Chick-fil-A, KFC, Good Times Restaurants, Luby&#39;s and Burger King. <b>Wendy</b>&#39;s ranks 2nd in Gender Score on Comparably vs its <b>competitors</b>. See below how <b>Wendy</b>&#39;s compares to its <b>competitors</b> with CEO Rankings, Product &amp; Services, NPS, Pricing, Customer Services, Overall Culture Score, eNPS, Gender and ...
+
+Title: The Wendy&#39;s: Business Model, SWOT Analysis, and Competitors 2024
+Link: https://pitchgrade.com/companies/the-wendys
+Snippet: Burger King&#39;s marketing often focuses on taste and quality, positioning itself as a <b>direct</b> <b>competitor</b> to both <b>Wendy</b>&#39;s and McDonald&#39;s. 3. Taco Bell. Taco Bell, a subsidiary of Yum! Brands, offers a different type of fast-food experience with its focus on Mexican-inspired cuisine. With a menu that includes tacos, burritos, quesadillas, and nachos ...
+
+Title: How Wendy’s Dethroned Burger King To Become The No. 2 Burger Chain
+Link: https://www.forbes.com/sites/aliciakelso/2021/04/21/how-wendys-dethroned-burger-king-to-become-the-no-2-burger-chain/
+Snippet: <b>Wendy’s</b> digital business is now over 6% of U.S. sales–more than double from 2019. The chain’s digital traffic share growth reached double digits, which is ahead of its <b>competitors</b>, according ...
+
+Title: Direct vs. Indirect Competition, Explained - HubSpot Blog
+Link: https://blog.hubspot.com/marketing/direct-indirect-competition
+Snippet: There are many examples of <b>direct</b> <b>competition</b>. McDonald’s, <b>Wendy’s</b>, and Burger King are all <b>direct</b> <b>competitors</b>. Similarly, consider the infamous fast-food chicken sandwich wars, when major restaurant chains like Popeyes, KFC, <b>Wendy’s</b>, Zaxby’s, and more all launched chicken sandwiches to appeal to the same consumer base across the U.S.. ...
+
+Title: Wendy&#39;s Competitors and Alternatives - Owler
+Link: https://www.owler.com/company/wendys/competitors
+Snippet: <b>Wendy</b>&#39;s VS Popeyes. Popeyes is <b>Wendy</b>&#39;s&#39;s #3 rival. Popeyes is headquartered in Miami, Florida, and was founded in 1972. Like <b>Wendy</b>&#39;s, Popeyes also competes in the Food &amp; Beverages industry. Popeyes generates 295% the revenue <b>of Wendy</b>&#39;s.
+
+Title: Top Wendy&#39;s Company Alternatives, Competitors - CB Insights
+Link: https://www.cbinsights.com/company/the-wendys-company/alternatives-competitors
+Snippet: McDonald&#39;s. McDonald&#39;s is a company that operates in the fast food industry. The company primarily offers a variety of food items including burgers, fries, chicken and fish sandwiches, and beverages. McDonald&#39;s primarily serves to the general consumer market. It was founded in 1955 and is based in Chicago, Illinois.
+
+Title: Better Buy: McDonald&#39;s vs. Wendy&#39;s | The Motley Fool
+Link: https://www.fool.com/investing/2020/12/18/better-buy-mcdonalds-vs-wendys/
+Snippet: McDonald&#39;s (MCD 0.28%) is the bigger of the two fast-food names, but <b>Wendy</b>&#39;s ... raising the prospect that a <b>Wendy</b>&#39;s franchisee would also own <b>direct</b> <b>competitors</b> like Arby&#39;s and Panera Bread.
+
+Title: Top Wendy&#39;s Competitors &amp; Similar Companies - MBA Skool
+Link: https://www.mbaskool.com/competitors/companies/18522-wendys.html
+Snippet: 8. Papa Johns Pizza. 9. McDonald&#39;s. Below we look at the top 9 <b>competitors</b> <b>of Wendy</b>&#39;s. 1. KFC: KFC is an American Fast food chain earlier called as Kentucky Fried Chicken. It was established in Colonel Harland Sanders with humble beginning in a roadside stall during great depression.
+
+Title: Breakfast did well for Wendy’s, but so did the rest of the day
+Link: https://www.restaurantbusinessonline.com/financing/breakfast-did-well-wendys-so-did-rest-day
+Snippet: <b>Wendy’s</b> share price was up 3% in morning trading. “In the U.S., sales accelerated nicely in the first quarter on the strength of rest-of-day business,” Penegor said on Wednesday. Fast-food sales have recovered strongly from the pandemic and many chains have seen strong early-2021 results, including <b>Wendy’s</b> <b>direct</b> <b>competitors</b> McDonald ...
+
+Remi: Results for query 'Direct competitors of Wendy's':
+Title: Top The Wendy’s Company Competitors and Alternatives - Craft
+Link: https://craft.co/wendy-s-company/competitors
+Snippet: Craft can deliver 250+ data points of financial, operating, and human capital indicators on companies via API. The <b>Wendy’s</b> Company&#39;s main <b>competitors</b> include Taco Bell, Yum! Brands, McDonald&#39;s and Chick-fil-A. Compare The <b>Wendy’s</b> Company to its <b>competitors</b> by revenue, employee growth and other metrics at Craft.
+
+Title: Wendy&#39;s Competitors - Comparably
+Link: https://www.comparably.com/companies/wendys/competitors
+Snippet: <b>Wendy</b>&#39;s <b>Competitors</b>. <b>Wendy</b>&#39;s <b>competitors</b> include Chick-fil-A, KFC, Good Times Restaurants, Luby&#39;s and Burger King. <b>Wendy</b>&#39;s ranks 2nd in Gender Score on Comparably vs its <b>competitors</b>. See below how <b>Wendy</b>&#39;s compares to its <b>competitors</b> with CEO Rankings, Product &amp; Services, NPS, Pricing, Customer Services, Overall Culture Score, eNPS, Gender and ...
+
+Title: The Wendy&#39;s: Business Model, SWOT Analysis, and Competitors 2024
+Link: https://pitchgrade.com/companies/the-wendys
+Snippet: Burger King&#39;s marketing often focuses on taste and quality, positioning itself as a <b>direct</b> <b>competitor</b> to both <b>Wendy</b>&#39;s and McDonald&#39;s. 3. Taco Bell. Taco Bell, a subsidiary of Yum! Brands, offers a different type of fast-food experience with its focus on Mexican-inspired cuisine. With a menu that includes tacos, burritos, quesadillas, and nachos ...
+
+Title: How Wendy’s Dethroned Burger King To Become The No. 2 Burger Chain
+Link: https://www.forbes.com/sites/aliciakelso/2021/04/21/how-wendys-dethroned-burger-king-to-become-the-no-2-burger-chain/
+Snippet: <b>Wendy’s</b> digital business is now over 6% of U.S. sales–more than double from 2019. The chain’s digital traffic share growth reached double digits, which is ahead of its <b>competitors</b>, according ...
+
+Title: Direct vs. Indirect Competition, Explained - HubSpot Blog
+Link: https://blog.hubspot.com/marketing/direct-indirect-competition
+Snippet: There are many examples of <b>direct</b> <b>competition</b>. McDonald’s, <b>Wendy’s</b>, and Burger King are all <b>direct</b> <b>competitors</b>. Similarly, consider the infamous fast-food chicken sandwich wars, when major restaurant chains like Popeyes, KFC, <b>Wendy’s</b>, Zaxby’s, and more all launched chicken sandwiches to appeal to the same consumer base across the U.S.. ...
+
+Title: Wendy&#39;s Competitors and Alternatives - Owler
+Link: https://www.owler.com/company/wendys/competitors
+Snippet: <b>Wendy</b>&#39;s VS Popeyes. Popeyes is <b>Wendy</b>&#39;s&#39;s #3 rival. Popeyes is headquartered in Miami, Florida, and was founded in 1972. Like <b>Wendy</b>&#39;s, Popeyes also competes in the Food &amp; Beverages industry. Popeyes generates 295% the revenue <b>of Wendy</b>&#39;s.
+
+Title: Top Wendy&#39;s Company Alternatives, Competitors - CB Insights
+Link: https://www.cbinsights.com/company/the-wendys-company/alternatives-competitors
+Snippet: McDonald&#39;s. McDonald&#39;s is a company that operates in the fast food industry. The company primarily offers a variety of food items including burgers, fries, chicken and fish sandwiches, and beverages. McDonald&#39;s primarily serves to the general consumer market. It was founded in 1955 and is based in Chicago, Illinois.
+
+Title: Better Buy: McDonald&#39;s vs. Wendy&#39;s | The Motley Fool
+Link: https://www.fool.com/investing/2020/12/18/better-buy-mcdonalds-vs-wendys/
+Snippet: McDonald&#39;s (MCD 0.28%) is the bigger of the two fast-food names, but <b>Wendy</b>&#39;s ... raising the prospect that a <b>Wendy</b>&#39;s franchisee would also own <b>direct</b> <b>competitors</b> like Arby&#39;s and Panera Bread.
+
+Title: Top Wendy&#39;s Competitors &amp; Similar Companies - MBA Skool
+Link: https://www.mbaskool.com/competitors/companies/18522-wendys.html
+Snippet: 8. Papa Johns Pizza. 9. McDonald&#39;s. Below we look at the top 9 <b>competitors</b> <b>of Wendy</b>&#39;s. 1. KFC: KFC is an American Fast food chain earlier called as Kentucky Fried Chicken. It was established in Colonel Harland Sanders with humble beginning in a roadside stall during great depression.
+
+Title: Breakfast did well for Wendy’s, but so did the rest of the day
+Link: https://www.restaurantbusinessonline.com/financing/breakfast-did-well-wendys-so-did-rest-day
+Snippet: <b>Wendy’s</b> share price was up 3% in morning trading. “In the U.S., sales accelerated nicely in the first quarter on the strength of rest-of-day business,” Penegor said on Wednesday. Fast-food sales have recovered strongly from the pandemic and many chains have seen strong early-2021 results, including <b>Wendy’s</b> <b>direct</b> <b>competitors</b> McDonald ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)

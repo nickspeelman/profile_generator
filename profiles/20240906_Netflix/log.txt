@@ -1,0 +1,424 @@
+Susan: To gather information on 'Netflix', we should follow a comprehensive fivefold strategy. 
+
+1. **Company Overview:** Start with basic information like headquarters location, size of organization (number of employees), primary industry, operation territories, and a brief history. This would provide a holistic overview of the company.
+
+2. **Financial Information:** Make use of available tools such as Google Finance, Yahoo Finance, Bloomberg, or Reuters. Look at their revenues, profits, operating costs, and recent financial news. Determine company's market share, ratings, and the latest news on their stock performance. Review recent quarterly or annual reports from the investor relations section on Netflix's website.
+
+3. **Key Decision Makers:** Identify executives, the Board of Directors, critical shareholders and their bio-data. Determine the percentages of the company they own, and any pressure points, i.e., other businesses they own, their public reputation and philanthropic interests.
+
+4. **Company's Labor Relations:** Complete a deep dive on the past and recent labor-relations history. This involves workforce morale, trade unions' involvement, strikes or walkouts, wage issues or layoffs. Use resources like news portals, LinkedIn, Glassdoor, and other employee review sites. Research any lawsuits against the company.
+
+5. **Scandals, Legal Issues & Reputational Risks:** Search for historical and recent scandals or legal issues involving Netflix. Investigate through sources like news outlets, legal databases, and business news websites. Consider the wider impacts of potential risks, such as boycotts or protests against the company.
+
+6. **Reviews and Social Listening:** Monitor reviews posted by employees on platforms like Glassdoor, Indeed, and PayScale. Social listening on forums, and platforms such as Twitter, Facebook, and other social media can also provide real-time updates about what is being said about the company. 
+
+All the information gathered will need to be cross-verified using multiple open web resources to ensure its credibility. 
+
+Manny: Sure, here's a list of 5 specific search queries:
+
+```python
+search_queries_for_remi = [
+    "Netflix financial statements 2022",
+    "Netflix key decision makers 2022",
+    "Netflix labor relations history",
+    "Netflix scandals and legal issues",
+    "Netflix reviews on Glassdoor and Indeed"
+]
+```
+Remi: Results for 'Netflix financial statements 2022':
+Title: Netflix - Financials - Annual Reports &amp; Proxies
+Link: https://ir.netflix.net/financials/annual-reports-and-proxies/default.aspx
+Snippet: About Netflix; Financials. Quarterly Earnings; <b>Financial</b> <b>Statements</b>; Annual Reports &amp; Proxies; SEC Filings; News &amp; Events. <b>Financial</b> Releases; Investor Events; Stock Info. Stock Quote; Stock Chart; ... <b>2022</b> Proxy <b>Statement</b> Supplement PDF Format Download (opens in new window) PDF 30 KB. 2020.
+
+Title: Netflix - Financials - Financial Statements
+Link: https://ir.netflix.net/financials/financial-statements/default.aspx
+Snippet: <b>Financial</b> <b>Statements</b>. Overview. Profile; Long-Term View; Top Investor Questions; Content Accounting Overview
+
+Title: Netflix Releases First-Quarter 2022 Financial Results
+Link: https://ir.netflix.net/investor-news-and-events/financial-releases/press-release-details/2022/Netflix-Releases-First-Quarter-2022-Financial-Results/default.aspx
+Snippet: Questions that investors would like to see asked should be sent to douglas.anmuth@jpmorgan.com . About Netflix, Inc. Netflix is the world&#39;s leading streaming entertainment service with 222 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages.
+
+Title: NFLX | Netflix Inc. Financial Statements - WSJ
+Link: https://www.wsj.com/market-data/quotes/NFLX/financials
+Snippet: Netflix Inc. balance sheet, income <b>statement</b>, cash flow, earnings &amp; estimates, ratio and margins. View NFLX <b>financial</b> <b>statements</b> in full.
+
+PDF Link: https://s22.q4cdn.com/959853165/files/doc_financials/2022/ar/4e32b45c-a99e-4c7d-b988-4eef8377500c.pdf
+PDF Link: https://s22.q4cdn.com/959853165/files/doc_financials/2021/q4/da27d24b-9358-4b5c-a424-6da061d91836.pdf
+Title: Netflix Releases Second-Quarter 2022 Financial Results - PR Newswire
+Link: https://www.prnewswire.com/news-releases/netflix-releases-second-quarter-2022-financial-results-301589472.html
+Snippet: LOS GATOS, Calif., July 19, <b>2022</b> /PRNewswire/ -- Netflix, Inc. (NASDAQ: NFLX) has released its second-quarter <b>2022</b> <b>financial</b> results by posting them to its website.
+
+PDF Link: https://s22.q4cdn.com/959853165/files/doc_financials/2022/q3/Netflix,-Inc.,-Q3-2022-Earnings-Call,-Oct-18,-2022.pdf
+Title: Netflix, Inc. (NFLX) Income Statement - Yahoo Finance
+Link: https://finance.yahoo.com/quote/NFLX/financials/
+Snippet: Get the detailed quarterly/annual income <b>statement</b> for Netflix, Inc. (NFLX). Find out the revenue, expenses and profit or loss over the last fiscal year. ... 12/31/<b>2022</b> . 12/31/2021 . 12/31/2020 ...
+
+Title: NFLX | Netflix Inc. Annual Income Statement - WSJ
+Link: https://www.wsj.com/market-data/quotes/NFLX/financials/annual/income-statement
+Snippet: Netflix Inc.<b></b> annual income <b>statement</b>. View NFLX <b>financial</b> <b>statements</b> in full, including balance sheets and ratios. ... Netflix Inc. NFLX (U.S.: Nasdaq) search. ... <b>2022</b> 2021 2020 2019 5-year trend ...
+
+Remi: Results for 'Netflix financial statements 2022':
+Title: Netflix - Financials - Annual Reports &amp; Proxies
+Link: https://ir.netflix.net/financials/annual-reports-and-proxies/default.aspx
+Snippet: About Netflix; Financials. Quarterly Earnings; <b>Financial</b> <b>Statements</b>; Annual Reports &amp; Proxies; SEC Filings; News &amp; Events. <b>Financial</b> Releases; Investor Events; Stock Info. Stock Quote; Stock Chart; ... <b>2022</b> Proxy <b>Statement</b> Supplement PDF Format Download (opens in new window) PDF 30 KB. 2020.
+
+Title: Netflix - Financials - Financial Statements
+Link: https://ir.netflix.net/financials/financial-statements/default.aspx
+Snippet: <b>Financial</b> <b>Statements</b>. Overview. Profile; Long-Term View; Top Investor Questions; Content Accounting Overview
+
+Title: Netflix Releases First-Quarter 2022 Financial Results
+Link: https://ir.netflix.net/investor-news-and-events/financial-releases/press-release-details/2022/Netflix-Releases-First-Quarter-2022-Financial-Results/default.aspx
+Snippet: Questions that investors would like to see asked should be sent to douglas.anmuth@jpmorgan.com . About Netflix, Inc. Netflix is the world&#39;s leading streaming entertainment service with 222 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages.
+
+Title: NFLX | Netflix Inc. Financial Statements - WSJ
+Link: https://www.wsj.com/market-data/quotes/NFLX/financials
+Snippet: Netflix Inc. balance sheet, income <b>statement</b>, cash flow, earnings &amp; estimates, ratio and margins. View NFLX <b>financial</b> <b>statements</b> in full.
+
+PDF Link: https://s22.q4cdn.com/959853165/files/doc_financials/2022/ar/4e32b45c-a99e-4c7d-b988-4eef8377500c.pdf
+PDF Link: https://s22.q4cdn.com/959853165/files/doc_financials/2021/q4/da27d24b-9358-4b5c-a424-6da061d91836.pdf
+Title: Netflix Releases Second-Quarter 2022 Financial Results - PR Newswire
+Link: https://www.prnewswire.com/news-releases/netflix-releases-second-quarter-2022-financial-results-301589472.html
+Snippet: LOS GATOS, Calif., July 19, <b>2022</b> /PRNewswire/ -- Netflix, Inc. (NASDAQ: NFLX) has released its second-quarter <b>2022</b> <b>financial</b> results by posting them to its website.
+
+PDF Link: https://s22.q4cdn.com/959853165/files/doc_financials/2022/q3/Netflix,-Inc.,-Q3-2022-Earnings-Call,-Oct-18,-2022.pdf
+Title: Netflix, Inc. (NFLX) Income Statement - Yahoo Finance
+Link: https://finance.yahoo.com/quote/NFLX/financials/
+Snippet: Get the detailed quarterly/annual income <b>statement</b> for Netflix, Inc. (NFLX). Find out the revenue, expenses and profit or loss over the last fiscal year. ... 12/31/<b>2022</b> . 12/31/2021 . 12/31/2020 ...
+
+Title: NFLX | Netflix Inc. Annual Income Statement - WSJ
+Link: https://www.wsj.com/market-data/quotes/NFLX/financials/annual/income-statement
+Snippet: Netflix Inc.<b></b> annual income <b>statement</b>. View NFLX <b>financial</b> <b>statements</b> in full, including balance sheets and ratios. ... Netflix Inc. NFLX (U.S.: Nasdaq) search. ... <b>2022</b> 2021 2020 2019 5-year trend ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Netflix key decision makers 2022':
+Title: 12 People Running Netflix’s Rapidly Growing Entertainment ... - Observer
+Link: https://observer.com/2024/01/netflix-top-executives/
+Snippet: Here are the 12 <b>key</b> people at <b>Netflix</b>. ... <b>Netflix</b>&#39;s top <b>decision</b>-<b>making</b> team consists of about a dozen executives coming from a diverse background in filmmaking, advertising and Big Tech ...
+
+Title: How data drives decision-making at Netflix - Outside Insight
+Link: https://outsideinsight.com/insights/data-drives-decision-making-netflix/
+Snippet: Every <b>decision</b> made at <b>Netflix</b> is deeply driven by data. According to a presentation by Jeff Magnusson, manager of data platform architecture at <b>Netflix</b>, and engineer Charles Smith, the brand’s data philosophy encompasses 3 <b>key</b> tenets: 1. Data should be accessible, easy to discover, and easy to process for everyone.
+
+Title: How Netflix has changed the global entertainment industry
+Link: https://www.businessinsider.com/how-netflix-is-changing-the-entertainment-industry-2021-8
+Snippet: More on <b>Netflix</b>&#39;s business model and company culture: <b>Netflix</b> insiders describe a culture shift to &#39;fear-based&#39; <b>decision</b> <b>making</b>, execs stretched thin, and belt tightening amid layoffs and ...
+
+Title: Netflix global pricing strategy, 2022
+Link: https://www.spglobal.com/marketintelligence/en/news-insights/research/netflix-global-pricing-strategy-2022
+Snippet: <b>Netflix</b>&#39;s pricing strategy in 2023 and beyond could employ a similar market-to-market approach globally, especially if macroeconomic pressures and inflation keep rising. Individual price hikes of 20% or greater are likely a thing of the past and future increases could be more in the roughly 10% to 12% range common in 2021 and <b>2022</b>.
+
+Title: Netflix&#39;s struggles spawn &#39;fear-based&#39; decision-making - Fortune
+Link: https://fortune.com/2022/08/04/netflix-culture-shifting-to-fear-based-decision-making/
+Snippet: <b>Netflix</b> has announced that it will continue to expand its streaming library, although spending on new content will be flat at $17 billion a year in <b>2022</b>, after years of annual increases. The ...
+
+Title: Netflix Has Monster Q3 With 2.4 Million New Subscribers ... - Forbes
+Link: https://www.forbes.com/sites/dbloom/2022/10/18/netflix-has-monster-q3-with-24-million-new-subscribers-forecast-beat-and-profits/
+Snippet: <b>Netflix</b> bounced back from an ugly first half of <b>2022</b>, thanks to hit shows such as &quot;Monster - Dahmer&quot; that plumped up subscriber rolls by 2.4 million. The company also saw other important metrics ...
+
+Title: Netflix 2023 Upfront: Building a Forever Business
+Link: https://about.netflix.com/news/netflix-2023-upfront-building-a-forever-business
+Snippet: In <b>2022</b> <b>Netflix</b> viewing across Nielsen’s Top 10 most watched lists was three times greater than our competitors combined – and five times greater than our nearest competitor. Last year, per Nielsen’s Top Streaming Originals list — every one of the top 10 most watched original TV shows and 4 of the top 10 movies on streaming in the US ...
+
+Title: Netflix: A Culture of Learning - Medium
+Link: https://netflixtechblog.com/netflix-a-culture-of-learning-394bc7d0f94c
+Snippet: As discussed in Part 6, there are experimentation and causal inference focussed data scientists who collaborate with product innovation teams across <b>Netflix</b>.These data scientists design and execute tests to support learning agendas and contribute to <b>decision</b> <b>making</b>. By diving deep into the details of single test results, looking for patterns across tests, and exploring other data sources ...
+
+Title: Analytics at Netflix: Who We Are and What We Do - Medium
+Link: https://netflixtechblog.com/analytics-at-netflix-who-we-are-and-what-we-do-7d9c08fe6965
+Snippet: But here we are talking about <b>Netflix</b>’s Data Science and Engineering group, which specializes in analytics at scale. The group has technical, engineering-oriented roles that fall under two broad category titles: “Analytics Engineers” and “Visualization Engineers.”. In this post, we refer to these two titles collectively as the ...
+
+Title: Netflix – Growth Strategy &amp; Q4 2022 Business Update
+Link: https://thirdbridge.com/transcripts/netflix-growth-strategy-q4-2022-business-update/
+Snippet: 5. You said the USD 9.99 tier seems most likely to downgrade, but also that <b>Netflix</b> has certainly been thinking about what CPM it could command and how that will play into its ARPU. The number publicised over summer <b>2022</b> was that the company might get USD 65 CPM, which is certainly above industry averages. How could the ad tier from a revenue ...
+
+Remi: Results for 'Netflix key decision makers 2022':
+Title: 12 People Running Netflix’s Rapidly Growing Entertainment ... - Observer
+Link: https://observer.com/2024/01/netflix-top-executives/
+Snippet: Here are the 12 <b>key</b> people at <b>Netflix</b>. ... <b>Netflix</b>&#39;s top <b>decision</b>-<b>making</b> team consists of about a dozen executives coming from a diverse background in filmmaking, advertising and Big Tech ...
+
+Title: How data drives decision-making at Netflix - Outside Insight
+Link: https://outsideinsight.com/insights/data-drives-decision-making-netflix/
+Snippet: Every <b>decision</b> made at <b>Netflix</b> is deeply driven by data. According to a presentation by Jeff Magnusson, manager of data platform architecture at <b>Netflix</b>, and engineer Charles Smith, the brand’s data philosophy encompasses 3 <b>key</b> tenets: 1. Data should be accessible, easy to discover, and easy to process for everyone.
+
+Title: How Netflix has changed the global entertainment industry
+Link: https://www.businessinsider.com/how-netflix-is-changing-the-entertainment-industry-2021-8
+Snippet: More on <b>Netflix</b>&#39;s business model and company culture: <b>Netflix</b> insiders describe a culture shift to &#39;fear-based&#39; <b>decision</b> <b>making</b>, execs stretched thin, and belt tightening amid layoffs and ...
+
+Title: Netflix global pricing strategy, 2022
+Link: https://www.spglobal.com/marketintelligence/en/news-insights/research/netflix-global-pricing-strategy-2022
+Snippet: <b>Netflix</b>&#39;s pricing strategy in 2023 and beyond could employ a similar market-to-market approach globally, especially if macroeconomic pressures and inflation keep rising. Individual price hikes of 20% or greater are likely a thing of the past and future increases could be more in the roughly 10% to 12% range common in 2021 and <b>2022</b>.
+
+Title: Netflix&#39;s struggles spawn &#39;fear-based&#39; decision-making - Fortune
+Link: https://fortune.com/2022/08/04/netflix-culture-shifting-to-fear-based-decision-making/
+Snippet: <b>Netflix</b> has announced that it will continue to expand its streaming library, although spending on new content will be flat at $17 billion a year in <b>2022</b>, after years of annual increases. The ...
+
+Title: Netflix Has Monster Q3 With 2.4 Million New Subscribers ... - Forbes
+Link: https://www.forbes.com/sites/dbloom/2022/10/18/netflix-has-monster-q3-with-24-million-new-subscribers-forecast-beat-and-profits/
+Snippet: <b>Netflix</b> bounced back from an ugly first half of <b>2022</b>, thanks to hit shows such as &quot;Monster - Dahmer&quot; that plumped up subscriber rolls by 2.4 million. The company also saw other important metrics ...
+
+Title: Netflix 2023 Upfront: Building a Forever Business
+Link: https://about.netflix.com/news/netflix-2023-upfront-building-a-forever-business
+Snippet: In <b>2022</b> <b>Netflix</b> viewing across Nielsen’s Top 10 most watched lists was three times greater than our competitors combined – and five times greater than our nearest competitor. Last year, per Nielsen’s Top Streaming Originals list — every one of the top 10 most watched original TV shows and 4 of the top 10 movies on streaming in the US ...
+
+Title: Netflix: A Culture of Learning - Medium
+Link: https://netflixtechblog.com/netflix-a-culture-of-learning-394bc7d0f94c
+Snippet: As discussed in Part 6, there are experimentation and causal inference focussed data scientists who collaborate with product innovation teams across <b>Netflix</b>.These data scientists design and execute tests to support learning agendas and contribute to <b>decision</b> <b>making</b>. By diving deep into the details of single test results, looking for patterns across tests, and exploring other data sources ...
+
+Title: Analytics at Netflix: Who We Are and What We Do - Medium
+Link: https://netflixtechblog.com/analytics-at-netflix-who-we-are-and-what-we-do-7d9c08fe6965
+Snippet: But here we are talking about <b>Netflix</b>’s Data Science and Engineering group, which specializes in analytics at scale. The group has technical, engineering-oriented roles that fall under two broad category titles: “Analytics Engineers” and “Visualization Engineers.”. In this post, we refer to these two titles collectively as the ...
+
+Title: Netflix – Growth Strategy &amp; Q4 2022 Business Update
+Link: https://thirdbridge.com/transcripts/netflix-growth-strategy-q4-2022-business-update/
+Snippet: 5. You said the USD 9.99 tier seems most likely to downgrade, but also that <b>Netflix</b> has certainly been thinking about what CPM it could command and how that will play into its ARPU. The number publicised over summer <b>2022</b> was that the company might get USD 65 CPM, which is certainly above industry averages. How could the ad tier from a revenue ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Netflix labor relations history':
+Title: How Netflix Reinvented HR - Harvard Business Review
+Link: https://hbr.org/2014/01/how-netflix-reinvented-hr
+Snippet: The firm draws on five key tenets: Hire, reward, and tolerate only fully formed adults. Ask workers to rely on logic and common sense instead of formal policies, whether the issue is communication ...
+
+Title: Netflix&#39;s slowdown causes staffers to question its culture - Los ...
+Link: https://www.latimes.com/entertainment-arts/business/story/2022-04-29/netflixs-turmoil-causes-staffers-to-question-its-culture
+Snippet: At Netflix, it has long been known that an “adequate performance gets a generous severance package.” The Los Gatos, Calif., company views its roughly 11,300 employees as members of a pro ...
+
+Title: Netflix: employee count 2023 - Statista
+Link: https://www.statista.com/statistics/587671/netflix-employees/
+Snippet: Research expert covering TV and video media. Get in touch with us now. , Jan 30, 2024. As of 2023, Netflix employed approximately 13,000 full-time workers, over double the number recorded in 2017 ...
+
+Title: How Netflix’s Corporate Culture Has Changed - The New York Times
+Link: https://www.nytimes.com/2024/06/24/business/media/netflix-corporate-culture.html
+Snippet: The company’s latest internal memo about its corporate culture is more about how it expects employees to behave than what it wants to become. The new memo highlights Netflix’s philosophy of ...
+
+Title: Netflix: Number of Employees 2010-2024 | NFLX | MacroTrends
+Link: https://www.macrotrends.net/stocks/charts/NFLX/netflix/number-of-employees
+Snippet: Interactive chart of Netflix (NFLX) annual worldwide employee count from 2010 to 2024. Netflix total number of employees in 2023 was 13,000, a 1.56% increase from 2022. Netflix total number of employees in 2022 was 12,800, a 13.27% increase from 2021. Netflix total number of employees in 2021 was 11,300, a 20.21% increase from 2020.
+
+Title: <b>Netflix</b> Productions, LLC and 42-affiliates - National <b>Labor</b> <b>Relations</b> Board
+Link: https://www.nlrb.gov/case/31-RC-305802
+Snippet: Our <b>History</b>. Pre-Wagner Act <b>labor</b> <b>relations</b>; 1933 The NLB and &quot;The Old NLRB&quot; 1935 Enforcement of the Wagner Act ... managers, guards, confidential employees, and supervisors as defined by the National <b>Labor</b> <b>Relations</b> Act. Docket Activity. Items per page. Leave this field blank . Date ... Employer Employer <b>Netflix</b> Productions, LLC and 42 ...
+
+Title: Netflix could play a key role in upcoming Hollywood labor drama
+Link: https://www.latimes.com/entertainment-arts/business/story/2019-11-20/netflix-could-play-key-role-in-upcoming-labor-talks-with-studios
+Snippet: Stephen Carroll, a former senior vice president and senior <b>labor</b> <b>relations</b> counsel at Warner Bros. Entertainment, joined last year as Netflix’s head of <b>labor</b> <b>relations</b>. His department has ...
+
+Title: Netflix - Financials - Quarterly Earnings
+Link: https://ir.netflix.net/financials/quarterly-earnings/default.aspx
+Snippet: Quarterly Earnings. Overview. Profile; Long-Term View; Top Investor Questions; Content Accounting Overview
+
+Title: Our Progress on Inclusion: 2021 Update - About Netflix
+Link: https://about.netflix.com/en/news/our-progress-on-inclusion-2021-update
+Snippet: Netflix grew from about 8,000 to 10,000 full-time employees globally in 2021. In the US — where we collect and report race and ethnicity data — we grew from 6,300 to 7,300 employees.*. Gender (Global): Women now make up 51.7% of our global workforce, up from 48.7% in 2020. This includes 6.9% growth of women directors and above, totaling 51.1%.
+
+Title: Former <b>Netflix</b> employees withdraw <b>labor</b> complaint - <b>Los Angeles Times</b>
+Link: https://www.latimes.com/entertainment-arts/business/story/2021-11-22/former-netflix-employees-withdraw-labor-complaint
+Snippet: Two former <b>Netflix</b> employees withdrew an accusation they lodged with the National <b>Labor</b> <b>Relations</b> Board that alleged the streamer tried to stop them from speaking up about working conditions.
+
+Remi: Results for 'Netflix labor relations history':
+Title: How Netflix Reinvented HR - Harvard Business Review
+Link: https://hbr.org/2014/01/how-netflix-reinvented-hr
+Snippet: The firm draws on five key tenets: Hire, reward, and tolerate only fully formed adults. Ask workers to rely on logic and common sense instead of formal policies, whether the issue is communication ...
+
+Title: Netflix&#39;s slowdown causes staffers to question its culture - Los ...
+Link: https://www.latimes.com/entertainment-arts/business/story/2022-04-29/netflixs-turmoil-causes-staffers-to-question-its-culture
+Snippet: At Netflix, it has long been known that an “adequate performance gets a generous severance package.” The Los Gatos, Calif., company views its roughly 11,300 employees as members of a pro ...
+
+Title: Netflix: employee count 2023 - Statista
+Link: https://www.statista.com/statistics/587671/netflix-employees/
+Snippet: Research expert covering TV and video media. Get in touch with us now. , Jan 30, 2024. As of 2023, Netflix employed approximately 13,000 full-time workers, over double the number recorded in 2017 ...
+
+Title: How Netflix’s Corporate Culture Has Changed - The New York Times
+Link: https://www.nytimes.com/2024/06/24/business/media/netflix-corporate-culture.html
+Snippet: The company’s latest internal memo about its corporate culture is more about how it expects employees to behave than what it wants to become. The new memo highlights Netflix’s philosophy of ...
+
+Title: Netflix: Number of Employees 2010-2024 | NFLX | MacroTrends
+Link: https://www.macrotrends.net/stocks/charts/NFLX/netflix/number-of-employees
+Snippet: Interactive chart of Netflix (NFLX) annual worldwide employee count from 2010 to 2024. Netflix total number of employees in 2023 was 13,000, a 1.56% increase from 2022. Netflix total number of employees in 2022 was 12,800, a 13.27% increase from 2021. Netflix total number of employees in 2021 was 11,300, a 20.21% increase from 2020.
+
+Title: <b>Netflix</b> Productions, LLC and 42-affiliates - National <b>Labor</b> <b>Relations</b> Board
+Link: https://www.nlrb.gov/case/31-RC-305802
+Snippet: Our <b>History</b>. Pre-Wagner Act <b>labor</b> <b>relations</b>; 1933 The NLB and &quot;The Old NLRB&quot; 1935 Enforcement of the Wagner Act ... managers, guards, confidential employees, and supervisors as defined by the National <b>Labor</b> <b>Relations</b> Act. Docket Activity. Items per page. Leave this field blank . Date ... Employer Employer <b>Netflix</b> Productions, LLC and 42 ...
+
+Title: Netflix could play a key role in upcoming Hollywood labor drama
+Link: https://www.latimes.com/entertainment-arts/business/story/2019-11-20/netflix-could-play-key-role-in-upcoming-labor-talks-with-studios
+Snippet: Stephen Carroll, a former senior vice president and senior <b>labor</b> <b>relations</b> counsel at Warner Bros. Entertainment, joined last year as Netflix’s head of <b>labor</b> <b>relations</b>. His department has ...
+
+Title: Netflix - Financials - Quarterly Earnings
+Link: https://ir.netflix.net/financials/quarterly-earnings/default.aspx
+Snippet: Quarterly Earnings. Overview. Profile; Long-Term View; Top Investor Questions; Content Accounting Overview
+
+Title: Our Progress on Inclusion: 2021 Update - About Netflix
+Link: https://about.netflix.com/en/news/our-progress-on-inclusion-2021-update
+Snippet: Netflix grew from about 8,000 to 10,000 full-time employees globally in 2021. In the US — where we collect and report race and ethnicity data — we grew from 6,300 to 7,300 employees.*. Gender (Global): Women now make up 51.7% of our global workforce, up from 48.7% in 2020. This includes 6.9% growth of women directors and above, totaling 51.1%.
+
+Title: Former <b>Netflix</b> employees withdraw <b>labor</b> complaint - <b>Los Angeles Times</b>
+Link: https://www.latimes.com/entertainment-arts/business/story/2021-11-22/former-netflix-employees-withdraw-labor-complaint
+Snippet: Two former <b>Netflix</b> employees withdrew an accusation they lodged with the National <b>Labor</b> <b>Relations</b> Board that alleged the streamer tried to stop them from speaking up about working conditions.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Netflix scandals and legal issues':
+Title: Here are the 5 Biggest Lawsuits Filed Against Netflix - CordCutting.com
+Link: https://cordcutting.com/services/netflix/5-biggest-lawsuits/
+Snippet: Broadcom and patent infringement. Though it may not be as tabloid-ready and some of Netflix’s other lawsuits, the Broadcom patent case is a great example of the sort of lawsuit that streaming ...
+
+Title: Netflix beats shareholder lawsuit over account-sharing disclosures ...
+Link: https://www.reuters.com/legal/netflix-beats-shareholder-lawsuit-over-account-sharing-disclosures-2024-01-08/
+Snippet: Netflix&#39;s then-CEO, Reed Hastings, said at the time that the COVID-19 pandemic had made it difficult for the company to interpret subscription trends. Netflix shares were up 1.1% at $479.09 at ...
+
+Title: 17 Netflix Controversies That Almost Ended The Service - Screen Rant
+Link: https://screenrant.com/netflix-controversies-almost-ended-service/
+Snippet: Every big company has its secrets and <b>scandals</b>, and Netflix is no different. Whether the original content stirred up controversy or the company found itself in some <b>legal</b> trouble, there are some <b>issues</b> that have made things a bit more complicated for the massive global provider. Since its launch in 1998, Netflix has seen its fair share of <b>issues</b>.
+
+Title: Netflix Sued by Shareholders for Securities Fraud Over Subscriber ...
+Link: https://finance.yahoo.com/news/netflix-sued-shareholders-securities-fraud-212721388.html
+Snippet: Looking at the six-month period stated in the lawsuit, Netflix’s stock dropped 67%, from $691.69 per share on November 17, 2021, to $226.19 per share on April 20, 2022. Shares closed at $204.01 ...
+
+Title: Judge Dismisses Netflix Investor Suit Over Account-Sharing Disclosures
+Link: https://www.hollywoodreporter.com/business/business-news/netflix-staves-off-shareholder-lawsuit-over-subscriber-losses-1235782591/
+Snippet: Netflix has won the first round of a case over allegations it downplayed the impact of account-sharing on subscriber growth, with a federal judge’s dismissal of the shareholder lawsuit. U.S ...
+
+Title: The 10 Biggest Netflix Lawsuits in Company History - Lawyer Inc
+Link: https://lawyerinc.com/biggest-netflix-lawsuits/
+Snippet: 10. George Keritsis v. Netflix, Inc.: The Biggest Outrage. In 2016, George Keritsis filed for a class-action lawsuit over an alleged price-for-life plan that guaranteed subscribers a $7.99 per month price tag forever so long as they never canceled or had their accounts suspended.
+
+Title: Netflix shareholders sue over subscription slump disclosures
+Link: https://www.reuters.com/legal/government/netflix-shareholders-sue-over-subscription-slump-disclosures-2022-05-04/
+Snippet: Netflix shares dropped 20% in January after it disclosed weak subscriber growth. Netflix shares then plunged more than 35% on April 20 to close at $226.19 after it said it lost 200,000 subscribers ...
+
+Title: Netflix Hit With Shareholder Lawsuit After Disclosing Subscriber Loss
+Link: https://www.hollywoodreporter.com/business/business-news/netflix-hit-with-shareholder-lawsuit-after-disclosing-subscriber-loss-1235140743/
+Snippet: Netflix’s share price fell by roughly $110, or 21 percent, because of the news, according to the lawsuit. “As a result of these materially false and/or misleading statements, and/or failures ...
+
+Title: Netflix Gets Shareholder Lawsuit Over Subscriber Drop Tossed
+Link: https://news.bloomberglaw.com/litigation/netflix-gets-shareholder-lawsuit-over-subscriber-drop-tossed
+Snippet: Netflix Inc. staved off allegations that it misled investors about subscriber growth before revealing the negative impacts of password sharing and streaming competition, according to a federal judge’s order dismissing the shareholder class action. The investors failed to plead that Netflix knowingly made false statements, Judge Jon Tigar said in a Jan. 5 order dismissing the case in US ...
+
+Title: Netflix Shareholder Lawsuit Alleges Fraud After Subscriber Miss - Variety
+Link: https://variety.com/2022/digital/news/netflix-lawsuit-shareholders-subscriber-miss-1235258330/
+Snippet: Over the period covered in the lawsuit, Netflix’s stock price dropped 67%, from a high of $691.69/share on Nov. 17, 2021, to $226.19/share on April 20. The company’s shares closed at $204.01 ...
+
+Remi: Results for 'Netflix scandals and legal issues':
+Title: Here are the 5 Biggest Lawsuits Filed Against Netflix - CordCutting.com
+Link: https://cordcutting.com/services/netflix/5-biggest-lawsuits/
+Snippet: Broadcom and patent infringement. Though it may not be as tabloid-ready and some of Netflix’s other lawsuits, the Broadcom patent case is a great example of the sort of lawsuit that streaming ...
+
+Title: Netflix beats shareholder lawsuit over account-sharing disclosures ...
+Link: https://www.reuters.com/legal/netflix-beats-shareholder-lawsuit-over-account-sharing-disclosures-2024-01-08/
+Snippet: Netflix&#39;s then-CEO, Reed Hastings, said at the time that the COVID-19 pandemic had made it difficult for the company to interpret subscription trends. Netflix shares were up 1.1% at $479.09 at ...
+
+Title: 17 Netflix Controversies That Almost Ended The Service - Screen Rant
+Link: https://screenrant.com/netflix-controversies-almost-ended-service/
+Snippet: Every big company has its secrets and <b>scandals</b>, and Netflix is no different. Whether the original content stirred up controversy or the company found itself in some <b>legal</b> trouble, there are some <b>issues</b> that have made things a bit more complicated for the massive global provider. Since its launch in 1998, Netflix has seen its fair share of <b>issues</b>.
+
+Title: Netflix Sued by Shareholders for Securities Fraud Over Subscriber ...
+Link: https://finance.yahoo.com/news/netflix-sued-shareholders-securities-fraud-212721388.html
+Snippet: Looking at the six-month period stated in the lawsuit, Netflix’s stock dropped 67%, from $691.69 per share on November 17, 2021, to $226.19 per share on April 20, 2022. Shares closed at $204.01 ...
+
+Title: Judge Dismisses Netflix Investor Suit Over Account-Sharing Disclosures
+Link: https://www.hollywoodreporter.com/business/business-news/netflix-staves-off-shareholder-lawsuit-over-subscriber-losses-1235782591/
+Snippet: Netflix has won the first round of a case over allegations it downplayed the impact of account-sharing on subscriber growth, with a federal judge’s dismissal of the shareholder lawsuit. U.S ...
+
+Title: The 10 Biggest Netflix Lawsuits in Company History - Lawyer Inc
+Link: https://lawyerinc.com/biggest-netflix-lawsuits/
+Snippet: 10. George Keritsis v. Netflix, Inc.: The Biggest Outrage. In 2016, George Keritsis filed for a class-action lawsuit over an alleged price-for-life plan that guaranteed subscribers a $7.99 per month price tag forever so long as they never canceled or had their accounts suspended.
+
+Title: Netflix shareholders sue over subscription slump disclosures
+Link: https://www.reuters.com/legal/government/netflix-shareholders-sue-over-subscription-slump-disclosures-2022-05-04/
+Snippet: Netflix shares dropped 20% in January after it disclosed weak subscriber growth. Netflix shares then plunged more than 35% on April 20 to close at $226.19 after it said it lost 200,000 subscribers ...
+
+Title: Netflix Hit With Shareholder Lawsuit After Disclosing Subscriber Loss
+Link: https://www.hollywoodreporter.com/business/business-news/netflix-hit-with-shareholder-lawsuit-after-disclosing-subscriber-loss-1235140743/
+Snippet: Netflix’s share price fell by roughly $110, or 21 percent, because of the news, according to the lawsuit. “As a result of these materially false and/or misleading statements, and/or failures ...
+
+Title: Netflix Gets Shareholder Lawsuit Over Subscriber Drop Tossed
+Link: https://news.bloomberglaw.com/litigation/netflix-gets-shareholder-lawsuit-over-subscriber-drop-tossed
+Snippet: Netflix Inc. staved off allegations that it misled investors about subscriber growth before revealing the negative impacts of password sharing and streaming competition, according to a federal judge’s order dismissing the shareholder class action. The investors failed to plead that Netflix knowingly made false statements, Judge Jon Tigar said in a Jan. 5 order dismissing the case in US ...
+
+Title: Netflix Shareholder Lawsuit Alleges Fraud After Subscriber Miss - Variety
+Link: https://variety.com/2022/digital/news/netflix-lawsuit-shareholders-subscriber-miss-1235258330/
+Snippet: Over the period covered in the lawsuit, Netflix’s stock price dropped 67%, from a high of $691.69/share on Nov. 17, 2021, to $226.19/share on April 20. The company’s shares closed at $204.01 ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Netflix reviews on Glassdoor and Indeed':
+Title: Working at Netflix: 667 Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Netflix/reviews
+Snippet: The most useful <b>review</b> selected by <b>Indeed</b>. A typical work day starts at 2:30 am with return mail processing and the day usually ends about 9-10:00am. The Netflix facility is a non-descript building without signage. Our employees are awesome and some of the hardest working you&#39;ll find anywhere.
+
+Title: Netflix Reviews: What Is It Like to Work At Netflix? | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Netflix-Reviews-E11891.htm
+Snippet: Is Netflix a good company to work for? Netflix has an overall rating of 4.2 out of 5, based on over 2,961 <b>reviews</b> left anonymously by employees. 76% of employees would recommend working at Netflix to a friend and 70% have a positive outlook for the business. This rating has decreased by 1% over the last 12 months.
+
+Title: Compare Working at Netflix vs Indeed - Glassdoor
+Link: https://www.glassdoor.com/Compare/Netflix-vs-Indeed-EI_IE11891-E100561.htm
+Snippet: Compare Netflix vs <b>Indeed</b> See how working at Netflix vs.<b> Indeed</b> compares on a variety of workplace factors. By comparing employers on employee ratings, salaries, <b>reviews</b>, pros/cons, job openings and more, you&#39;ll feel one step ahead of the rest. All salaries and <b>reviews</b> are posted by employees working at Netflix vs.<b> Indeed</b>.
+
+Title: Netflix &quot;netflix&quot; Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Netflix-netflix-Reviews-EI_IE11891.0,7_KH8,15.htm
+Snippet: Is Netflix a good company to work for? Netflix has an overall rating of 4.2 out of 5, based on over 2,981 <b>reviews</b> left anonymously by employees. 80% of employees would recommend working at Netflix to a friend and 71% have a positive outlook for the business. This rating has decreased by 1% over the last 12 months.
+
+Title: Working at Netflix - Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-Netflix-EI_IE11891.11,18.htm
+Snippet: Los Gatos, CA. 5001 to 10000 Employees. 22 Locations. Type: Company - Public (NFLX) Founded in 1997. Revenue: $5 to $10 billion (USD) Internet &amp; Web Services. Competitors: Unknown. Netflix is one of the world&#39;s leading entertainment services with 270 million paid memberships in over 190 countries enjoying TV series, films and games across a ...
+
+Title: Netflix Reviews - Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Netflix-Reviews-E11891.htm
+Snippet: Netflix has an employee rating of 4.2 out of 5 stars, based on 2,128 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most employees have an excellent working experience there. The Netflix employee rating is in line with the average (within 1 standard deviation) for employers within the Information Technology industry (3.9 stars). Read more
+
+Title: Working at Netflix in Remote: Employee Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Netflix/reviews?fcountry=US&floc=Remote
+Snippet: Editorial Inights (Former Employee) - Remote - September 21, 2023. The work hours are flexible depending on the position, and the work load is big. There&#39;s a lot of independence given, and the people you work with are talented and reliable and great teammates. The hardest part of the job is the intense workload, and very high quality standards.
+
+Title: Netflix Reviews: What Is It Like to Work At Netflix? | Glassdoor
+Link: https://www.glassdoor.com.au/Reviews/Netflix-Reviews-E11891.htm
+Snippet: Netflix has an employee rating of 4.2 out of 5 stars, based on 2,125 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most employees have an excellent working experience there. The Netflix employee rating is in line with the average (within 1 standard deviation) for employers within the Information Technology industry (3.9 stars). Read more
+
+Title: Working at Netflix - Glassdoor
+Link: https://www.glassdoor.sg/Overview/Working-at-Netflix-EI_IE11891.11,18.htm
+Snippet: Claim your free Employer Profile. www.netflix.com. Los Gatos, United States. 5001 to 10000 Employees. 22 Locations. Type: Company - Public (NFLX) Founded in 1997. Revenue: $5 to $10 billion (USD) Internet &amp; Web Services.
+
+Title: Netflix Careers and Employment | Indeed.com
+Link: https://www.indeed.com/cmp/Netflix
+Snippet: Find out what works well at Netflix from the people who know best. Get the inside scoop on jobs, salaries, top office locations, and CEO insights. Compare pay for popular roles and read about the team’s work-life balance. Uncover why Netflix is the best company for you.
+
+Remi: Results for 'Netflix reviews on Glassdoor and Indeed':
+Title: Working at Netflix: 667 Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Netflix/reviews
+Snippet: The most useful <b>review</b> selected by <b>Indeed</b>. A typical work day starts at 2:30 am with return mail processing and the day usually ends about 9-10:00am. The Netflix facility is a non-descript building without signage. Our employees are awesome and some of the hardest working you&#39;ll find anywhere.
+
+Title: Netflix Reviews: What Is It Like to Work At Netflix? | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Netflix-Reviews-E11891.htm
+Snippet: Is Netflix a good company to work for? Netflix has an overall rating of 4.2 out of 5, based on over 2,961 <b>reviews</b> left anonymously by employees. 76% of employees would recommend working at Netflix to a friend and 70% have a positive outlook for the business. This rating has decreased by 1% over the last 12 months.
+
+Title: Compare Working at Netflix vs Indeed - Glassdoor
+Link: https://www.glassdoor.com/Compare/Netflix-vs-Indeed-EI_IE11891-E100561.htm
+Snippet: Compare Netflix vs <b>Indeed</b> See how working at Netflix vs.<b> Indeed</b> compares on a variety of workplace factors. By comparing employers on employee ratings, salaries, <b>reviews</b>, pros/cons, job openings and more, you&#39;ll feel one step ahead of the rest. All salaries and <b>reviews</b> are posted by employees working at Netflix vs.<b> Indeed</b>.
+
+Title: Netflix &quot;netflix&quot; Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Netflix-netflix-Reviews-EI_IE11891.0,7_KH8,15.htm
+Snippet: Is Netflix a good company to work for? Netflix has an overall rating of 4.2 out of 5, based on over 2,981 <b>reviews</b> left anonymously by employees. 80% of employees would recommend working at Netflix to a friend and 71% have a positive outlook for the business. This rating has decreased by 1% over the last 12 months.
+
+Title: Working at Netflix - Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-Netflix-EI_IE11891.11,18.htm
+Snippet: Los Gatos, CA. 5001 to 10000 Employees. 22 Locations. Type: Company - Public (NFLX) Founded in 1997. Revenue: $5 to $10 billion (USD) Internet &amp; Web Services. Competitors: Unknown. Netflix is one of the world&#39;s leading entertainment services with 270 million paid memberships in over 190 countries enjoying TV series, films and games across a ...
+
+Title: Netflix Reviews - Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Netflix-Reviews-E11891.htm
+Snippet: Netflix has an employee rating of 4.2 out of 5 stars, based on 2,128 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most employees have an excellent working experience there. The Netflix employee rating is in line with the average (within 1 standard deviation) for employers within the Information Technology industry (3.9 stars). Read more
+
+Title: Working at Netflix in Remote: Employee Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Netflix/reviews?fcountry=US&floc=Remote
+Snippet: Editorial Inights (Former Employee) - Remote - September 21, 2023. The work hours are flexible depending on the position, and the work load is big. There&#39;s a lot of independence given, and the people you work with are talented and reliable and great teammates. The hardest part of the job is the intense workload, and very high quality standards.
+
+Title: Netflix Reviews: What Is It Like to Work At Netflix? | Glassdoor
+Link: https://www.glassdoor.com.au/Reviews/Netflix-Reviews-E11891.htm
+Snippet: Netflix has an employee rating of 4.2 out of 5 stars, based on 2,125 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most employees have an excellent working experience there. The Netflix employee rating is in line with the average (within 1 standard deviation) for employers within the Information Technology industry (3.9 stars). Read more
+
+Title: Working at Netflix - Glassdoor
+Link: https://www.glassdoor.sg/Overview/Working-at-Netflix-EI_IE11891.11,18.htm
+Snippet: Claim your free Employer Profile. www.netflix.com. Los Gatos, United States. 5001 to 10000 Employees. 22 Locations. Type: Company - Public (NFLX) Founded in 1997. Revenue: $5 to $10 billion (USD) Internet &amp; Web Services.
+
+Title: Netflix Careers and Employment | Indeed.com
+Link: https://www.indeed.com/cmp/Netflix
+Snippet: Find out what works well at Netflix from the people who know best. Get the inside scoop on jobs, salaries, top office locations, and CEO insights. Compare pay for popular roles and read about the team’s work-life balance. Uncover why Netflix is the best company for you.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)

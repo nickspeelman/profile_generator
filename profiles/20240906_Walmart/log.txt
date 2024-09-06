@@ -1,0 +1,498 @@
+Susan: Certainly. To approach gathering information for a research brief on Walmart, here's a step-by-step plan using resources available on the open web:
+
+1. **Company Website & Official Reports:** Start with Walmart's official website to get basic details about the company. Look for their annual report (usually in the investor's relation section) to get an understanding of their overall financial situation. You should find a goldmine of data in their annual reports, such as financial statements, executive compensation, major merger and acquisition activity, operational highlights, and future strategy.
+
+2. **Key Decision Makers:** Use resources like Bloomberg or Forbes to identify the key players in the organization like the CEO, Board of Directors, and key shareholders. Leverage platforms like LinkedIn or corporate biography entries to gather more detailed information about their past experience, public sentiment, and potential points of leverage.
+
+3. **Company News:** Use news outlets like Business Insider, Wall Street Journal, New York Times, or Forbes for articles related to Walmart. Look out for insights on company's labor relations, market performance, expansion plans, recent scandals, or anything that can provide possible points of leverage.
+
+4. **Labor Relations:** Utilize resources from the Department of Labor to understand Walmart's labor relations history. Look for information regarding strikes, wage disputes, discrimination lawsuits, and issues regarding working conditions.
+
+5. **Public Perception:** Use social media platforms (like Twitter, Facebook, LinkedIn) to understand public perception and employee sentiment about the company. Websites like Glassdoor or Indeed can provide an inside perspective from employees working at different levels within the company.
+
+6. **Competitor Analysis:** Examining major competitors can also provide context for understanding how Walmart operates within its industry. Websites like Yahoo Finance or Google Finance can assist in comparing financial data.
+
+7. **Environmental, Social, and Governance (ESG) Issues:** Consider reviewing any ESG reports or ratings that Walmart might have. These can provide information about their sustainability efforts or lack therof, as well as other potential reputational risks.
+
+8. **Local News:** Local newspapers can provide unique perspectives on Walmart’s interactions with local communities. This could include contention related to store openings, local government issues, employment practices, and other local disputes.
+
+Remember to document all your findings thoroughly with appropriate annotation to their sources. You can use tools like OneNote, Google Keep or Evernote for this purpose. This will allow the research team to retrieve the information and perform a deep dive when necessary.
+Manny: Sure, here is a list of specific search queries `search_queries_for_remi` in python that Remi should perform:
+
+```python
+search_queries_for_remi = [
+    "site:walmart.com investors annual report",
+    "Walmart key decision makers Forbes",
+    "Walmart labor relations history Department of Labor",
+    "Walmart employee reviews on Glassdoor",
+    "Walmart ESG report"
+]
+```
+Each search query is specially tailored to extract the information as outlined in the approach detailed above. Be sure to adjust as necessary depending on the specifics of the information needed.
+Remi: Results for 'site:walmart.com investors annual report':
+Title: Financials Investor Relations - Walmart
+Link: https://stock.walmart.com/financials/annual-reports/default.aspx
+Snippet: Proxy Ballot. Shareholders&#39; Meeting Materials: Register for Electronic Delivery. To opt-in for <b>investor</b> email alerts, please enter your email address in the field below and select at least one alert option. After submitting your request, you will receive an activation email to the requested email address. You must click the activation link in ...
+Body Content: Content could not be retrieved.
+
+PDF Link: https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2024/04/25/walmart-releases-2024-annual-report-and-proxy-statement/walmart-inc-2024-annual-report.pdf
+PDF Link: https://corporate.walmart.com/content/dam/corporate/documents/press-center/walmart-releases-2022-annual-report-and-proxy-statement/walmart-inc-2022-annual-report.pdf
+PDF Link: https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2023/04/20/walmart-releases-2023-annual-report-and-proxy-statement/walmart-inc-2023-annual-report.pdf
+Title: Walmart Releases 2023 Annual Report and Proxy Statement
+Link: https://corporate.walmart.com/news/2023/04/20/walmart-releases-2023-annual-report-and-proxy-statement
+Snippet: View Press Center. BENTONVILLE, Ark., April 20, 2023 — Walmart Inc. (NYSE: WMT) today issued its 2023 <b>Annual</b> <b>Report</b> and filed its Proxy Statement in preparation for the company’s <b>Annual</b> Shareholders’ Meeting on Wednesday, May 31, 2023. Shareholders will be able to attend the meeting online. There will be no physical location for the meeting.
+Body Content: Content could not be retrieved.
+
+Title: Walmart Releases 2022 Annual Report and Proxy Statement
+Link: https://corporate.walmart.com/news/2022/04/21/walmart-releases-2022-annual-report-and-proxy-statement
+Snippet: View Press Center. BENTONVILLE, Ark., April 21, 2022 — Walmart Inc. (NYSE: WMT) today issued its 2022 <b>Annual</b> <b>Report</b> and filed its Proxy Statement in preparation for the company’s <b>Annual</b> Shareholders’ Meeting on Wednesday, June 1, 2022. Shareholders will be able to attend the meeting online. There will be no physical location for the meeting.
+Body Content: Content could not be retrieved.
+
+Title: Walmart Investor Relations - Financials - SEC Filings - SEC Filings Details
+Link: https://stock.walmart.com/financials/sec-filings/sec-filings-details/default.aspx?FilingId=16500445
+Snippet: 10-K. 03/17/2023. <b>Annual</b> <b>Report</b>. To opt-in for <b>investor</b> email alerts, please enter your email address in the field below and select at least one alert option. After submitting your request, you will receive an activation email to the requested email address. You must click the activation link in order to complete your subscription.
+Body Content: Content could not be retrieved.
+
+Title: Investor Relations - Walmart
+Link: https://stock.walmart.com/Home/default.aspx
+Snippet: 4.2% U.S. Comp Sales. 26% Global Ads Business Growth. $2.7B Returns to Shareholders YTD. 15.1% Return on Investment. Press Release. Presentation. Earnings Terminology. View HTML Release and Related Photos. Transcript – Management Call.
+Body Content: Content could not be retrieved.
+
+Title: Walmart Releases 2021 Annual Report and Proxy Statement
+Link: https://corporate.walmart.com/news/2021/04/22/walmart-releases-2021-annual-report-and-proxy-statement
+Snippet: BENTONVILLE, Ark., April 22, 2021 — Walmart Inc. (NYSE: WMT) today issued its 2021 <b>Annual</b> <b>Report</b> and filed its Proxy Statement in preparation for the company’s upcoming virtual <b>Annual</b> Shareholders’ Meeting on Wednesday, June 2, 2021. Shareholders will be able to attend the meeting online. There will be no physical location for the meeting, and the…
+Body Content: Content could not be retrieved.
+
+Title: Stock Info Investor Relations - Walmart
+Link: https://stock.walmart.com/stock-information/default.aspx
+Snippet: For historical cost basis information, you may use NetBasis to calculate the cost basis for your Walmart common stock, adjusted for any corporate actions or dividend reinvestments. For help, email NetBasis at customerservice@networthservices.com or call 1-888-80-BASIS (1-888-802-2747). When you select Visit NetBasis below, you will leave ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'site:walmart.com investors annual report':
+Title: Financials Investor Relations - Walmart
+Link: https://stock.walmart.com/financials/annual-reports/default.aspx
+Snippet: Proxy Ballot. Shareholders&#39; Meeting Materials: Register for Electronic Delivery. To opt-in for <b>investor</b> email alerts, please enter your email address in the field below and select at least one alert option. After submitting your request, you will receive an activation email to the requested email address. You must click the activation link in ...
+Body Content: Content could not be retrieved.
+
+PDF Link: https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2024/04/25/walmart-releases-2024-annual-report-and-proxy-statement/walmart-inc-2024-annual-report.pdf
+PDF Link: https://corporate.walmart.com/content/dam/corporate/documents/press-center/walmart-releases-2022-annual-report-and-proxy-statement/walmart-inc-2022-annual-report.pdf
+PDF Link: https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2023/04/20/walmart-releases-2023-annual-report-and-proxy-statement/walmart-inc-2023-annual-report.pdf
+Title: Walmart Releases 2023 Annual Report and Proxy Statement
+Link: https://corporate.walmart.com/news/2023/04/20/walmart-releases-2023-annual-report-and-proxy-statement
+Snippet: View Press Center. BENTONVILLE, Ark., April 20, 2023 — Walmart Inc. (NYSE: WMT) today issued its 2023 <b>Annual</b> <b>Report</b> and filed its Proxy Statement in preparation for the company’s <b>Annual</b> Shareholders’ Meeting on Wednesday, May 31, 2023. Shareholders will be able to attend the meeting online. There will be no physical location for the meeting.
+Body Content: Content could not be retrieved.
+
+Title: Walmart Releases 2022 Annual Report and Proxy Statement
+Link: https://corporate.walmart.com/news/2022/04/21/walmart-releases-2022-annual-report-and-proxy-statement
+Snippet: View Press Center. BENTONVILLE, Ark., April 21, 2022 — Walmart Inc. (NYSE: WMT) today issued its 2022 <b>Annual</b> <b>Report</b> and filed its Proxy Statement in preparation for the company’s <b>Annual</b> Shareholders’ Meeting on Wednesday, June 1, 2022. Shareholders will be able to attend the meeting online. There will be no physical location for the meeting.
+Body Content: Content could not be retrieved.
+
+Title: Walmart Investor Relations - Financials - SEC Filings - SEC Filings Details
+Link: https://stock.walmart.com/financials/sec-filings/sec-filings-details/default.aspx?FilingId=16500445
+Snippet: 10-K. 03/17/2023. <b>Annual</b> <b>Report</b>. To opt-in for <b>investor</b> email alerts, please enter your email address in the field below and select at least one alert option. After submitting your request, you will receive an activation email to the requested email address. You must click the activation link in order to complete your subscription.
+Body Content: Content could not be retrieved.
+
+Title: Investor Relations - Walmart
+Link: https://stock.walmart.com/Home/default.aspx
+Snippet: 4.2% U.S. Comp Sales. 26% Global Ads Business Growth. $2.7B Returns to Shareholders YTD. 15.1% Return on Investment. Press Release. Presentation. Earnings Terminology. View HTML Release and Related Photos. Transcript – Management Call.
+Body Content: Content could not be retrieved.
+
+Title: Walmart Releases 2021 Annual Report and Proxy Statement
+Link: https://corporate.walmart.com/news/2021/04/22/walmart-releases-2021-annual-report-and-proxy-statement
+Snippet: BENTONVILLE, Ark., April 22, 2021 — Walmart Inc. (NYSE: WMT) today issued its 2021 <b>Annual</b> <b>Report</b> and filed its Proxy Statement in preparation for the company’s upcoming virtual <b>Annual</b> Shareholders’ Meeting on Wednesday, June 2, 2021. Shareholders will be able to attend the meeting online. There will be no physical location for the meeting, and the…
+Body Content: Content could not be retrieved.
+
+Title: Stock Info Investor Relations - Walmart
+Link: https://stock.walmart.com/stock-information/default.aspx
+Snippet: For historical cost basis information, you may use NetBasis to calculate the cost basis for your Walmart common stock, adjusted for any corporate actions or dividend reinvestments. For help, email NetBasis at customerservice@networthservices.com or call 1-888-80-BASIS (1-888-802-2747). When you select Visit NetBasis below, you will leave ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Walmart key decision makers Forbes':
+Title: Walmart’s Massive Investment In A Supply Chain Transformation - Forbes
+Link: https://www.forbes.com/sites/stevebanker/2021/04/23/walmarts-massive-investment-in-a-supply-chain-transformation/
+Snippet: <b>Walmart</b>’s fiscal 2021 ended on January 31 st.With $555 billion in sales, the world’s largest retailer grew by 6.8%. <b>Walmart</b>’s operating income was $22.5 billion, 4.1% of sales.
+Body Content: Content could not be retrieved.
+
+Title: As Walmart Plans For Future Growth, Here’s Where It Is ... - Forbes
+Link: https://www.forbes.com/sites/walterloeb/2021/02/19/walmart-reports-2020-results-and-plans-for-future-growth/
+Snippet: The hard work <b>Walmart</b>’s WMT +1.1% management invested in their company in 2020 paid off: Revenues jumped $35 billion, or up 6.7%. U.S. e-commerce contributed to the growth by jumping 79% ...
+Body Content: Content could not be retrieved.
+
+Title: What Is The Secret To Walmart’s Success? - Forbes
+Link: https://www.forbes.com/sites/christianstadler/2024/05/24/what-is-the-secret-to-walmarts-success/
+Snippet: <b>Walmart</b>’s strategy is boring but reliable. The foundation is provided by the scale of the business, creating the fuel necessary to maintain cost leadership. Slowly though, the company has looked ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart&#39;s Strategic Omni-Channel Approach Rewrites Retail Rules - Forbes
+Link: https://www.forbes.com/sites/jonmarkman/2023/11/06/walmarts-strategic-omni-channel-approach-rewrites-retail-rules/
+Snippet: This omni-channel, click and collect strategy gives consumers control, and lower prices. Click and collect e-commerce orders in 2021 reached $20.4 billion. <b>Walmart</b> accounted for 25% of those ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart’s Communication Tactic Anyone Can Use To Align Teams ... - Forbes
+Link: https://www.forbes.com/sites/carminegallo/2024/08/18/walmarts-communication-tactic-anyone-can-use-to-align-teams-and-stakeholders/
+Snippet: Since <b>Walmart</b> reported revenue of $169.3 billion for its second quarter alone—an increase of nearly 5% year over year—it’s safe to say its quarter was ‘strong.’. McMillon’s statement ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart Sets Its Sights On More Than Just Selling Stuff - Forbes
+Link: https://www.forbes.com/sites/shelleykohan/2022/02/17/walmart-sets-its-sights-on-more-than-just-selling-stuff/
+Snippet: STRF/STAR MAX/IPx. In <b>Walmart</b>’s earnings call for the full year ending January 31, 2022, the company discussed the major wins for 2021 and what we can expect leading into 2022. <b>Walmart</b>’s full ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart Outlines Growth Strategy, Unveils Next ... - Walmart Corporate
+Link: https://corporate.walmart.com/news/2023/04/04/walmart-outlines-growth-strategy-unveils-next-generation-supply-chain-at-2023-investment-community-meeting
+Snippet: TAMPA, Fla., April 4, 2023 — <b>Walmart</b> Inc. (NYSE: WMT) is kicking off its two-day 2023 Investment Community meeting, where leadership will highlight how the company is investing to strengthen its business through its people and an unparalleled, next generation supply chain network of stores, clubs, and fulfillment centers and driving future global…
+Body Content: Content could not be retrieved.
+
+Title: Five moves Walmart is making to overhaul its business for the future - CNN
+Link: https://www.cnn.com/2024/02/19/business/walmart-earnings-walkup/index.html
+Snippet: <b>Walmart</b> is boosting the average pay of its store managers to $128,000 from $117,000. The boost of 9%, the first increase in a decade, went into effect on February 1. The company said in a news ...
+Body Content: Content could not be retrieved.
+
+Title: An Inside Look at the Ups and Downs of Walmart’s Journey
+Link: https://hbr.org/2017/03/we-need-people-to-lean-into-the-future
+Snippet: Going digital is a top priority—which is why <b>Walmart</b> recently paid $3 billion to acquire e-tailer Jet.com. But the company also wants to strengthen the in-store experience. “The reality ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart CEO Doug McMillon&#39;s success story | Fortune
+Link: https://fortune.com/2024/06/04/walmart-ceo-doug-mcmillon-amazon-customers-fortune-500/
+Snippet: Doug McMillon, CEO, <b>Walmart</b>. Under McMillon, <b>Walmart</b> has lifted its entry-level wage a number of times, from $9 in 2015 to $14 today, and ramped up training to create more career paths like the ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Walmart key decision makers Forbes':
+Title: Walmart’s Massive Investment In A Supply Chain Transformation - Forbes
+Link: https://www.forbes.com/sites/stevebanker/2021/04/23/walmarts-massive-investment-in-a-supply-chain-transformation/
+Snippet: <b>Walmart</b>’s fiscal 2021 ended on January 31 st.With $555 billion in sales, the world’s largest retailer grew by 6.8%. <b>Walmart</b>’s operating income was $22.5 billion, 4.1% of sales.
+Body Content: Content could not be retrieved.
+
+Title: As Walmart Plans For Future Growth, Here’s Where It Is ... - Forbes
+Link: https://www.forbes.com/sites/walterloeb/2021/02/19/walmart-reports-2020-results-and-plans-for-future-growth/
+Snippet: The hard work <b>Walmart</b>’s WMT +1.1% management invested in their company in 2020 paid off: Revenues jumped $35 billion, or up 6.7%. U.S. e-commerce contributed to the growth by jumping 79% ...
+Body Content: Content could not be retrieved.
+
+Title: What Is The Secret To Walmart’s Success? - Forbes
+Link: https://www.forbes.com/sites/christianstadler/2024/05/24/what-is-the-secret-to-walmarts-success/
+Snippet: <b>Walmart</b>’s strategy is boring but reliable. The foundation is provided by the scale of the business, creating the fuel necessary to maintain cost leadership. Slowly though, the company has looked ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart&#39;s Strategic Omni-Channel Approach Rewrites Retail Rules - Forbes
+Link: https://www.forbes.com/sites/jonmarkman/2023/11/06/walmarts-strategic-omni-channel-approach-rewrites-retail-rules/
+Snippet: This omni-channel, click and collect strategy gives consumers control, and lower prices. Click and collect e-commerce orders in 2021 reached $20.4 billion. <b>Walmart</b> accounted for 25% of those ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart’s Communication Tactic Anyone Can Use To Align Teams ... - Forbes
+Link: https://www.forbes.com/sites/carminegallo/2024/08/18/walmarts-communication-tactic-anyone-can-use-to-align-teams-and-stakeholders/
+Snippet: Since <b>Walmart</b> reported revenue of $169.3 billion for its second quarter alone—an increase of nearly 5% year over year—it’s safe to say its quarter was ‘strong.’. McMillon’s statement ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart Sets Its Sights On More Than Just Selling Stuff - Forbes
+Link: https://www.forbes.com/sites/shelleykohan/2022/02/17/walmart-sets-its-sights-on-more-than-just-selling-stuff/
+Snippet: STRF/STAR MAX/IPx. In <b>Walmart</b>’s earnings call for the full year ending January 31, 2022, the company discussed the major wins for 2021 and what we can expect leading into 2022. <b>Walmart</b>’s full ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart Outlines Growth Strategy, Unveils Next ... - Walmart Corporate
+Link: https://corporate.walmart.com/news/2023/04/04/walmart-outlines-growth-strategy-unveils-next-generation-supply-chain-at-2023-investment-community-meeting
+Snippet: TAMPA, Fla., April 4, 2023 — <b>Walmart</b> Inc. (NYSE: WMT) is kicking off its two-day 2023 Investment Community meeting, where leadership will highlight how the company is investing to strengthen its business through its people and an unparalleled, next generation supply chain network of stores, clubs, and fulfillment centers and driving future global…
+Body Content: Content could not be retrieved.
+
+Title: Five moves Walmart is making to overhaul its business for the future - CNN
+Link: https://www.cnn.com/2024/02/19/business/walmart-earnings-walkup/index.html
+Snippet: <b>Walmart</b> is boosting the average pay of its store managers to $128,000 from $117,000. The boost of 9%, the first increase in a decade, went into effect on February 1. The company said in a news ...
+Body Content: Content could not be retrieved.
+
+Title: An Inside Look at the Ups and Downs of Walmart’s Journey
+Link: https://hbr.org/2017/03/we-need-people-to-lean-into-the-future
+Snippet: Going digital is a top priority—which is why <b>Walmart</b> recently paid $3 billion to acquire e-tailer Jet.com. But the company also wants to strengthen the in-store experience. “The reality ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart CEO Doug McMillon&#39;s success story | Fortune
+Link: https://fortune.com/2024/06/04/walmart-ceo-doug-mcmillon-amazon-customers-fortune-500/
+Snippet: Doug McMillon, CEO, <b>Walmart</b>. Under McMillon, <b>Walmart</b> has lifted its entry-level wage a number of times, from $9 in 2015 to $14 today, and ramped up training to create more career paths like the ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Walmart labor relations history Department of Labor':
+Title: How Walmart Persuades Its Workers Not to Unionize - The Atlantic
+Link: https://www.theatlantic.com/business/archive/2015/06/how-walmart-convinces-its-employees-not-to-unionize/395051/
+Snippet: Indeed, <b>Walmart</b>’s anti-union campaign goes back decades: There was “<b>Labor</b> <b>Relations</b> and You at the <b>Wal-Mart</b> Distribution Center,” a 1991 guide aimed at beating back the Teamsters at its ...
+Body Content: Content could not be retrieved.
+
+Title: A Brief History of the Attempts to Unionize Walmart
+Link: https://lithub.com/a-brief-history-of-the-attempts-to-unionize-walmart/
+Snippet: If there is one thing that runs as deep in <b>Walmart</b>’s DNA as its devotion to keeping costs down and prices low, it would have to be its antipathy toward organized <b>labor</b>.Article continues after advertisementRemove Ads The company’s open-door policy, Sam Walton maintained, was the perfect avenue for hourly employees to bring any complaints they […]
+Body Content: Content could not be retrieved.
+
+Title: The long, complicated history of Walmart&#39;s HR management. - HR Brew
+Link: https://www.hr-brew.com/stories/2023/01/18/walmart-has-one-of-corporate-america-s-most-complicated-hrm-stories
+Snippet: January 18, 2023. • 5 min read. In the mid-2000s, it would’ve been tough to convince anyone that <b>Walmart</b> was a good place to work—including business journalist and historian Rick Wartzman, who wrote in his last book that the company’s workers had been “placed on a path to impoverishment.”. The pay was so low that at least one ...
+Body Content: Content could not be retrieved.
+
+Title: Discounting Rights: Wal-Mart&#39;s Violation of US Workers’ Right to ...
+Link: https://www.hrw.org/report/2007/05/01/discounting-rights/wal-marts-violation-us-workers-right-freedom-association
+Snippet: <b>Human Rights Watch</b> sent a third letter to Scott on September 27, 2006, requesting &quot;a meeting with members of <b>Wal-Mart</b>&#39;s <b>Labor</b> <b>Relations</b> Team and other members of <b>Wal-Mart</b> management.&quot;On October 5 ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart&#39;s Biggest Liability: Labor Costs (WMT) - Investopedia
+Link: https://www.investopedia.com/articles/investing/020916/walmarts-biggest-liability-labor-costs-wmt.asp
+Snippet: Key Takeaways. The greatest single cost for <b>Walmart</b> is <b>labor</b>. <b>Walmart</b> has a well-known <b>history</b> of <b>labor</b> disputes and a strong anti-union culture. Since the mid-2010s, <b>Walmart</b> has put in place some ...
+Body Content: Content could not be retrieved.
+
+Title: How Walmart Keeps an Eye on Its Massive Workforce - Bloomberg.com
+Link: https://www.bloomberg.com/features/2015-walmart-union-surveillance/
+Snippet: The <b>labor</b> <b>relations</b> team reported “a record-breaking” 1,600 hotline calls from 977 stores; 250 locations reported protests of some kind. On Black Friday itself, there were 372 hotline calls ...
+Body Content: Content could not be retrieved.
+
+Title: US Department of Labor recovers $4.83 million in back wages, damages ...
+Link: https://www.dol.gov/newsroom/releases/whd/whd20120501
+Snippet: Misapplied exemption resulted in pay violations; nearly $464,000 assessed in penalties. WASHINGTON — <b>Wal-Mart</b> Stores Inc., headquartered in Bentonville, Ark., has agreed to pay $4,828,442 in back wages and damages to more than 4,500 employees nationwide following an investigation by the U.S. <b>Department</b> of <b>Labor</b>&#39;s Wage and Hour Division that found violations of the federal Fair <b>Labor</b> ...
+Body Content: Content could not be retrieved.
+
+Title: What is Walmart doing to promote responsible labor practices in the ...
+Link: https://corporate.walmart.com/askwalmart/what-is-walmart-doing-to-promote-responsible-labor-practices-in-the-supply-chain
+Snippet: Forced and underage <b>labor</b> is a key area for <b>Walmart</b>’s Responsible Sourcing team, and an area where we focus greater attention and resources to help prevent it from occurring throughout the global supply chain. More Information. <b>Walmart</b>’s Responsible Sourcing program began in 1992 to promote the dignity of workers.
+Body Content: Content could not be retrieved.
+
+Title: The Decline of the Labor Movement | Walmart at 50 Years: How Retail ...
+Link: https://business.time.com/2012/07/02/ten-ways-walmart-changed-the-world/slide/the-decline-of-the-labor-movement/
+Snippet: A front-page story in the New York Times in 2004 revealed <b>Walmart</b>’s routine practice of locking employees inside about 10 percent of its stores overnight, a practice the company altered before the Times could publish its story.” <b>Walmart</b> has made an effort in recent years to improve its <b>labor</b> practices.
+Body Content: Content could not be retrieved.
+
+Title: Wal-Mart: Corporate Rap Sheet | Corporate Research Project
+Link: https://www.corp-research.org/wal-mart
+Snippet: <b>Wal-Mart</b>’s <b>labor</b> <b>relations</b> practices have been so egregious that they go beyond regulatory infractions and enter the realm of human rights abuses. ... for the first time in the company’s <b>history</b>, ... In January 2007 the U.S. <b>Labor</b> <b>Department</b> announced that <b>Wal-Mart</b> would pay $33.5 million in back pay to more than 86,000 employees to resolve ...
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Walmart labor relations history Department of Labor':
+Title: How Walmart Persuades Its Workers Not to Unionize - The Atlantic
+Link: https://www.theatlantic.com/business/archive/2015/06/how-walmart-convinces-its-employees-not-to-unionize/395051/
+Snippet: Indeed, <b>Walmart</b>’s anti-union campaign goes back decades: There was “<b>Labor</b> <b>Relations</b> and You at the <b>Wal-Mart</b> Distribution Center,” a 1991 guide aimed at beating back the Teamsters at its ...
+Body Content: Content could not be retrieved.
+
+Title: A Brief History of the Attempts to Unionize Walmart
+Link: https://lithub.com/a-brief-history-of-the-attempts-to-unionize-walmart/
+Snippet: If there is one thing that runs as deep in <b>Walmart</b>’s DNA as its devotion to keeping costs down and prices low, it would have to be its antipathy toward organized <b>labor</b>.Article continues after advertisementRemove Ads The company’s open-door policy, Sam Walton maintained, was the perfect avenue for hourly employees to bring any complaints they […]
+Body Content: Content could not be retrieved.
+
+Title: The long, complicated history of Walmart&#39;s HR management. - HR Brew
+Link: https://www.hr-brew.com/stories/2023/01/18/walmart-has-one-of-corporate-america-s-most-complicated-hrm-stories
+Snippet: January 18, 2023. • 5 min read. In the mid-2000s, it would’ve been tough to convince anyone that <b>Walmart</b> was a good place to work—including business journalist and historian Rick Wartzman, who wrote in his last book that the company’s workers had been “placed on a path to impoverishment.”. The pay was so low that at least one ...
+Body Content: Content could not be retrieved.
+
+Title: Discounting Rights: Wal-Mart&#39;s Violation of US Workers’ Right to ...
+Link: https://www.hrw.org/report/2007/05/01/discounting-rights/wal-marts-violation-us-workers-right-freedom-association
+Snippet: <b>Human Rights Watch</b> sent a third letter to Scott on September 27, 2006, requesting &quot;a meeting with members of <b>Wal-Mart</b>&#39;s <b>Labor</b> <b>Relations</b> Team and other members of <b>Wal-Mart</b> management.&quot;On October 5 ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart&#39;s Biggest Liability: Labor Costs (WMT) - Investopedia
+Link: https://www.investopedia.com/articles/investing/020916/walmarts-biggest-liability-labor-costs-wmt.asp
+Snippet: Key Takeaways. The greatest single cost for <b>Walmart</b> is <b>labor</b>. <b>Walmart</b> has a well-known <b>history</b> of <b>labor</b> disputes and a strong anti-union culture. Since the mid-2010s, <b>Walmart</b> has put in place some ...
+Body Content: Content could not be retrieved.
+
+Title: How Walmart Keeps an Eye on Its Massive Workforce - Bloomberg.com
+Link: https://www.bloomberg.com/features/2015-walmart-union-surveillance/
+Snippet: The <b>labor</b> <b>relations</b> team reported “a record-breaking” 1,600 hotline calls from 977 stores; 250 locations reported protests of some kind. On Black Friday itself, there were 372 hotline calls ...
+Body Content: Content could not be retrieved.
+
+Title: US Department of Labor recovers $4.83 million in back wages, damages ...
+Link: https://www.dol.gov/newsroom/releases/whd/whd20120501
+Snippet: Misapplied exemption resulted in pay violations; nearly $464,000 assessed in penalties. WASHINGTON — <b>Wal-Mart</b> Stores Inc., headquartered in Bentonville, Ark., has agreed to pay $4,828,442 in back wages and damages to more than 4,500 employees nationwide following an investigation by the U.S. <b>Department</b> of <b>Labor</b>&#39;s Wage and Hour Division that found violations of the federal Fair <b>Labor</b> ...
+Body Content: Content could not be retrieved.
+
+Title: What is Walmart doing to promote responsible labor practices in the ...
+Link: https://corporate.walmart.com/askwalmart/what-is-walmart-doing-to-promote-responsible-labor-practices-in-the-supply-chain
+Snippet: Forced and underage <b>labor</b> is a key area for <b>Walmart</b>’s Responsible Sourcing team, and an area where we focus greater attention and resources to help prevent it from occurring throughout the global supply chain. More Information. <b>Walmart</b>’s Responsible Sourcing program began in 1992 to promote the dignity of workers.
+Body Content: Content could not be retrieved.
+
+Title: The Decline of the Labor Movement | Walmart at 50 Years: How Retail ...
+Link: https://business.time.com/2012/07/02/ten-ways-walmart-changed-the-world/slide/the-decline-of-the-labor-movement/
+Snippet: A front-page story in the New York Times in 2004 revealed <b>Walmart</b>’s routine practice of locking employees inside about 10 percent of its stores overnight, a practice the company altered before the Times could publish its story.” <b>Walmart</b> has made an effort in recent years to improve its <b>labor</b> practices.
+Body Content: Content could not be retrieved.
+
+Title: Wal-Mart: Corporate Rap Sheet | Corporate Research Project
+Link: https://www.corp-research.org/wal-mart
+Snippet: <b>Wal-Mart</b>’s <b>labor</b> <b>relations</b> practices have been so egregious that they go beyond regulatory infractions and enter the realm of human rights abuses. ... for the first time in the company’s <b>history</b>, ... In January 2007 the U.S. <b>Labor</b> <b>Department</b> announced that <b>Wal-Mart</b> would pay $33.5 million in back pay to more than 86,000 employees to resolve ...
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Walmart employee reviews on Glassdoor':
+Title: Walmart Reviews: What Is It Like to Work At Walmart? - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Walmart-Reviews-E715.htm
+Snippet: Walmart has an <b>employee</b> rating of 3.4 out of 5 stars, based on 124,505 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The Walmart <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Retail &amp; Wholesale industry (3.5 stars). Read more
+Body Content: Content could not be retrieved.
+
+Title: Working at Walmart - Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-Walmart-EI_IE715.11,18.htm
+Snippet: Overall, 55% of <b>employees</b> would recommend working at Walmart to a friend. This is based on 129,921 anonymously submitted <b>reviews</b> <b>on Glassdoor</b>. How do job seekers rate their interview experience at Walmart? 63% of job seekers rate their interview experience at Walmart as positive.
+Body Content: Content could not be retrieved.
+
+Title: Walmart Employee Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Walmart-Employee-Reviews-EI_IE715.0,7_KO8,16.htm
+Snippet: <b>Employee</b> professionals working at Walmart have rated their employer with 3.3 out of 5 stars in 105 <b>Glassdoor</b> <b>reviews</b>. This is a lower than average score with the overall rating of Walmart <b>employees</b> being 3.4 out of 5 stars. Search open <b>Employee</b> Jobs at Walmart now and start preparing for your job interview by browsing frequently asked <b>Employee</b> ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart Reviews - Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Walmart-Reviews-E715.htm
+Snippet: Walmart has an <b>employee</b> rating of 3.4 out of 5 stars, based on 1,23,968 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The Walmart <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Retail and wholesale industry (3.5 stars). Read more
+Body Content: Content could not be retrieved.
+
+Title: Walmart Reviews: What Is It Like to Work At Walmart? - Glassdoor
+Link: https://www.glassdoor.ie/Reviews/Walmart-Reviews-E715.htm
+Snippet: 120,721 Walmart <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Body Content: Content could not be retrieved.
+
+Title: Working at Walmart: 238,169 Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Walmart/reviews
+Snippet: Customer Service Associate / Cashier. Replenishment Associate. See all job titles at Walmart. Companies. General Merchandise &amp; Superstores. Walmart. <b>Employee</b> <b>Reviews</b>. 238,169 <b>reviews</b> from Walmart <b>employees</b> about Walmart culture, salaries, benefits, work-life balance, management, job security, and more.
+Body Content: Content could not be retrieved.
+
+Title: Working at Walmart - Glassdoor
+Link: https://www.glassdoor.sg/Overview/Working-at-Walmart-EI_IE715.11,18.htm
+Snippet: Bentonville, United States. 10000+ <b>Employees</b>. 4 Locations. Type: Company - Public (WMT) Founded in 1962. Revenue: $10+ billion (USD) General Merchandise &amp; Superstores. Competitors: Target, Costco Wholesale, Amazon Create comparison. Sam Walton opened the first Walmart in 1962 in Rogers, Arkansas with the simple premise of offering quality goods ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart Workers Reveal What It&#39;s Like to Work at the Largest Retailer ...
+Link: https://www.businessinsider.com/walmart-workers-reveal-what-its-like-work-largest-retailer-2021-5
+Snippet: Many of Walmart&#39;s <b>employees</b> are based in the retailer&#39;s stores, working the checkout lines, stocking goods, and packing grocery orders, among other duties. Walmart pays about $15.25 an hour on ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart Reviews: What Is It Like to Work At Walmart? - Glassdoor
+Link: https://www.glassdoor.ca/Reviews/Walmart-Reviews-E715.htm
+Snippet: Walmart has an <b>employee</b> rating of 3.4 out of 5 stars, based on 124,535 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The Walmart <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Retail and wholesale industry (3.5 stars). Read more
+Body Content: Content could not be retrieved.
+
+Title: Walmart Wal Mart Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Walmart-Wal-Mart-Reviews-EI_IE715.0,7_KO8,16.htm
+Snippet: 118,286 Walmart <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Walmart employee reviews on Glassdoor':
+Title: Walmart Reviews: What Is It Like to Work At Walmart? - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Walmart-Reviews-E715.htm
+Snippet: Walmart has an <b>employee</b> rating of 3.4 out of 5 stars, based on 124,505 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The Walmart <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Retail &amp; Wholesale industry (3.5 stars). Read more
+Body Content: Content could not be retrieved.
+
+Title: Working at Walmart - Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-Walmart-EI_IE715.11,18.htm
+Snippet: Overall, 55% of <b>employees</b> would recommend working at Walmart to a friend. This is based on 129,921 anonymously submitted <b>reviews</b> <b>on Glassdoor</b>. How do job seekers rate their interview experience at Walmart? 63% of job seekers rate their interview experience at Walmart as positive.
+Body Content: Content could not be retrieved.
+
+Title: Walmart Employee Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Walmart-Employee-Reviews-EI_IE715.0,7_KO8,16.htm
+Snippet: <b>Employee</b> professionals working at Walmart have rated their employer with 3.3 out of 5 stars in 105 <b>Glassdoor</b> <b>reviews</b>. This is a lower than average score with the overall rating of Walmart <b>employees</b> being 3.4 out of 5 stars. Search open <b>Employee</b> Jobs at Walmart now and start preparing for your job interview by browsing frequently asked <b>Employee</b> ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart Reviews - Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Walmart-Reviews-E715.htm
+Snippet: Walmart has an <b>employee</b> rating of 3.4 out of 5 stars, based on 1,23,968 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The Walmart <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Retail and wholesale industry (3.5 stars). Read more
+Body Content: Content could not be retrieved.
+
+Title: Walmart Reviews: What Is It Like to Work At Walmart? - Glassdoor
+Link: https://www.glassdoor.ie/Reviews/Walmart-Reviews-E715.htm
+Snippet: 120,721 Walmart <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Body Content: Content could not be retrieved.
+
+Title: Working at Walmart: 238,169 Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Walmart/reviews
+Snippet: Customer Service Associate / Cashier. Replenishment Associate. See all job titles at Walmart. Companies. General Merchandise &amp; Superstores. Walmart. <b>Employee</b> <b>Reviews</b>. 238,169 <b>reviews</b> from Walmart <b>employees</b> about Walmart culture, salaries, benefits, work-life balance, management, job security, and more.
+Body Content: Content could not be retrieved.
+
+Title: Working at Walmart - Glassdoor
+Link: https://www.glassdoor.sg/Overview/Working-at-Walmart-EI_IE715.11,18.htm
+Snippet: Bentonville, United States. 10000+ <b>Employees</b>. 4 Locations. Type: Company - Public (WMT) Founded in 1962. Revenue: $10+ billion (USD) General Merchandise &amp; Superstores. Competitors: Target, Costco Wholesale, Amazon Create comparison. Sam Walton opened the first Walmart in 1962 in Rogers, Arkansas with the simple premise of offering quality goods ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart Workers Reveal What It&#39;s Like to Work at the Largest Retailer ...
+Link: https://www.businessinsider.com/walmart-workers-reveal-what-its-like-work-largest-retailer-2021-5
+Snippet: Many of Walmart&#39;s <b>employees</b> are based in the retailer&#39;s stores, working the checkout lines, stocking goods, and packing grocery orders, among other duties. Walmart pays about $15.25 an hour on ...
+Body Content: Content could not be retrieved.
+
+Title: Walmart Reviews: What Is It Like to Work At Walmart? - Glassdoor
+Link: https://www.glassdoor.ca/Reviews/Walmart-Reviews-E715.htm
+Snippet: Walmart has an <b>employee</b> rating of 3.4 out of 5 stars, based on 124,535 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The Walmart <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Retail and wholesale industry (3.5 stars). Read more
+Body Content: Content could not be retrieved.
+
+Title: Walmart Wal Mart Reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Walmart-Wal-Mart-Reviews-EI_IE715.0,7_KO8,16.htm
+Snippet: 118,286 Walmart <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Walmart ESG report':
+Title: ESG Reporting - Walmart Corporate
+Link: https://corporate.walmart.com/purpose/esgreport
+Snippet: Shared value – addressing societal issues in ways that create value for our business and stakeholders – lies at the heart of <b>Walmart</b>’s enterprise strategy and our approach to <b>ESG</b> issues. We prioritize the <b>ESG</b> issues that offer the greatest potential for <b>Walmart</b> to create shared value. Based on our most recent <b>ESG</b> priority assessment, we ...
+Body Content: Content could not be retrieved.
+
+Title: Environmental, Social and Governance Report Archive - Walmart Corporate
+Link: https://corporate.walmart.com/purpose/esgreport/environmental-social-and-governance-report-archive
+Snippet: Find past environmental,<b> social and governance reports</b> from<b> Walmart</b> since 2005. Browse the archive by year and access the PDF files of each<b> report.</b>
+Body Content: Content could not be retrieved.
+
+PDF Link: https://corporate.walmart.com/content/dam/corporate/documents/esgreport/fy2023-walmart-esg-highlights.pdf
+Title: About Our Reporting - Walmart Corporate
+Link: https://corporate.walmart.com/purpose/esgreport/esg-approach/about-our-reporting
+Snippet: <b>About Our Reporting</b>. <b>Walmart</b> has reported on a wide range of <b>ESG</b> issues since 2005. Our reporting is focused on our priority <b>ESG</b> issues—those that we believe are the most relevant to our business and important to our stakeholders. Beginning in 2021, our reporting has centered around a series of <b>ESG</b> issue briefs covering each of <b>Walmart</b>’s ...
+Body Content: Content could not be retrieved.
+
+Title: ESG Issue Briefs - Walmart Corporate
+Link: https://corporate.walmart.com/purpose/esgreport/resources-archives/esg-issue-briefs
+Snippet: Animal Welfare. Our reporting is centered around a series of issue briefs covering each of <b>Walmart</b>’s priority <b>ESG</b> issues in depth. Each brief covers our aspiration and strategy with respect to the issue, the relevance of the issue to business and society, our key goals and metrics, and our progress to date.
+Body Content: Content could not be retrieved.
+
+PDF Link: https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/walmart-2019-esg-report.pdf
+Title: Environmental, Social and Governance (ESG) | Walmart 2022 Annual Report
+Link: https://corporatereport.com/walmart/2022/ar/environmental-social-and-governance/
+Snippet: Download <b>Report</b> Download 10-K <b>ESG</b> <b>Report</b> Investor Information. Environmental, Social and Governance (<b>ESG</b>) Our <b>ESG</b> Priorities. Opportunity. Good jobs and advancement; ... <b>Walmart</b> is committed to science-based targets for emissions and: Achieving zero emissions by 2040. Engaging Suppliers through Project Gigaton to
+Body Content: Content could not be retrieved.
+
+PDF Link: https://dq06ugkuram52.cloudfront.net/files/15059391/40956733.pdf
+Title: ESG Investors Investor Relations - Walmart
+Link: https://stock.walmart.com/esg/default.aspx
+Snippet: <b>Walmart</b> Hosted <b>ESG</b> Events. Download item year list. Date Download Description. May 6, 2022. 2022 Discussion on Responsible Sourcing (opens in new window) ... <b>Walmart</b>&#39;s Global Ethics and Compliance Program <b>Report</b> on Fiscal Year 2019: May 8, 2019 (opens in new window) 222 KB. May 2, 2022.
+Body Content: Content could not be retrieved.
+
+Title: You’re Shaping the Future of Walmart
+Link: https://wlfc.walmart.com/content/walmart-world/en_us/articles/2021/06/top-5-takeways-from-the-esg-report.html
+Snippet: Top takeaways from the <b>ESG</b> <b>Report</b>. 💙Shoutouts to these associates: Shelby Minor, Naomi Bryan, Roshan Budhathoki, Joby Carlson &amp; AJ Craddock
+Body Content: Content could not be retrieved.
+
+Remi: Results for 'Walmart ESG report':
+Title: ESG Reporting - Walmart Corporate
+Link: https://corporate.walmart.com/purpose/esgreport
+Snippet: Shared value – addressing societal issues in ways that create value for our business and stakeholders – lies at the heart of <b>Walmart</b>’s enterprise strategy and our approach to <b>ESG</b> issues. We prioritize the <b>ESG</b> issues that offer the greatest potential for <b>Walmart</b> to create shared value. Based on our most recent <b>ESG</b> priority assessment, we ...
+Body Content: Content could not be retrieved.
+
+Title: Environmental, Social and Governance Report Archive - Walmart Corporate
+Link: https://corporate.walmart.com/purpose/esgreport/environmental-social-and-governance-report-archive
+Snippet: Find past environmental,<b> social and governance reports</b> from<b> Walmart</b> since 2005. Browse the archive by year and access the PDF files of each<b> report.</b>
+Body Content: Content could not be retrieved.
+
+PDF Link: https://corporate.walmart.com/content/dam/corporate/documents/esgreport/fy2023-walmart-esg-highlights.pdf
+Title: About Our Reporting - Walmart Corporate
+Link: https://corporate.walmart.com/purpose/esgreport/esg-approach/about-our-reporting
+Snippet: <b>About Our Reporting</b>. <b>Walmart</b> has reported on a wide range of <b>ESG</b> issues since 2005. Our reporting is focused on our priority <b>ESG</b> issues—those that we believe are the most relevant to our business and important to our stakeholders. Beginning in 2021, our reporting has centered around a series of <b>ESG</b> issue briefs covering each of <b>Walmart</b>’s ...
+Body Content: Content could not be retrieved.
+
+Title: ESG Issue Briefs - Walmart Corporate
+Link: https://corporate.walmart.com/purpose/esgreport/resources-archives/esg-issue-briefs
+Snippet: Animal Welfare. Our reporting is centered around a series of issue briefs covering each of <b>Walmart</b>’s priority <b>ESG</b> issues in depth. Each brief covers our aspiration and strategy with respect to the issue, the relevance of the issue to business and society, our key goals and metrics, and our progress to date.
+Body Content: Content could not be retrieved.
+
+PDF Link: https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/walmart-2019-esg-report.pdf
+Title: Environmental, Social and Governance (ESG) | Walmart 2022 Annual Report
+Link: https://corporatereport.com/walmart/2022/ar/environmental-social-and-governance/
+Snippet: Download <b>Report</b> Download 10-K <b>ESG</b> <b>Report</b> Investor Information. Environmental, Social and Governance (<b>ESG</b>) Our <b>ESG</b> Priorities. Opportunity. Good jobs and advancement; ... <b>Walmart</b> is committed to science-based targets for emissions and: Achieving zero emissions by 2040. Engaging Suppliers through Project Gigaton to
+Body Content: Content could not be retrieved.
+
+PDF Link: https://dq06ugkuram52.cloudfront.net/files/15059391/40956733.pdf
+Title: ESG Investors Investor Relations - Walmart
+Link: https://stock.walmart.com/esg/default.aspx
+Snippet: <b>Walmart</b> Hosted <b>ESG</b> Events. Download item year list. Date Download Description. May 6, 2022. 2022 Discussion on Responsible Sourcing (opens in new window) ... <b>Walmart</b>&#39;s Global Ethics and Compliance Program <b>Report</b> on Fiscal Year 2019: May 8, 2019 (opens in new window) 222 KB. May 2, 2022.
+Body Content: Content could not be retrieved.
+
+Title: You’re Shaping the Future of Walmart
+Link: https://wlfc.walmart.com/content/walmart-world/en_us/articles/2021/06/top-5-takeways-from-the-esg-report.html
+Snippet: Top takeaways from the <b>ESG</b> <b>Report</b>. 💙Shoutouts to these associates: Shelby Minor, Naomi Bryan, Roshan Budhathoki, Joby Carlson &amp; AJ Craddock
+Body Content: Content could not be retrieved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)

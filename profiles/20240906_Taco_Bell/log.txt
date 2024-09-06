@@ -1,0 +1,36 @@
+Susan: Devising a strategy for gathering information about Taco Bell, we can break the task into several aspects: Financial Information, Key Decision Makers, Labor Relations, and Recent Scandals.
+
+1. Financial Information: Start by looking at Taco Bell's financial performance through open sources such as Bloomberg and Reuters. Review their latest annual reports and financial statements available online which can provide insight into their financial status including revenue, profit margins, assets, liabilities, and equity. 
+
+2. Key Decision Makers: Identify Taco Bell's executive team and board members. This information can often be found on the company’s website under 'Leadership' or 'Team'. We should also use professional websites like LinkedIn and Crunchbase for more in-depth info about their professional backgrounds, affiliations, and points of leverage.
+
+3. Labor Relations: Scrutinize industry-specific platforms or trade magazines, as well as general news outlets, to scrap out information regarding Taco Bell's labor relations. This would include researching any recent strikes, collective bargaining agreements, or disputes. Delve into forums where employees might share their experiences such as Glassdoor, Indeed. Consider also looking at National Labor Relations Board's (NLRB) website for any filings involving Taco Bell.
+
+4. Recent Scandals: For any recent scandals, focus on news media and social media platforms. Use search filters to find recent articles by certain time periods on news aggregators such as Google News. 
+
+5. Other Leverage Points: Check if there were any controversies regarding health violations, customer complaints, or any activity that could tarnish their reputation. 
+
+6. Regulatory filings: SEC’s EDGAR database or the equivalent in the company’s home country can provide a wealth of information on potential vulnerabilities in the form of pending litigation, financial issues, etc.
+
+7. Company's Corporate Social Responsibility (CSR) initiatives: This information could be used as a pressure point in campaigns and can often be found on the company’s website.
+
+Once all the raw data has been collected, it would then be synthesized into a succinct yet comprehensive report, detailing the findings and highlighting potential leverage points. 
+
+Remember to document all your sources to ensure the validity of your findings and to create a repository of information that can be built upon in the future.
+Manny: Sure, here is a Python list object named 'search_queries_for_remi' containing several search queries that Remi could perform:
+
+```python
+search_queries_for_remi = [
+    "Taco Bell annual report 2021",
+    "Taco Bell key executives",
+    "Taco Bell board members LinkedIn profiles",
+    "Taco Bell labor relations",
+    "Taco Bell strikes",
+    "National Labor Relations Board Taco Bell complaints",
+    "Taco Bell recent scandals",
+    "Taco Bell health violations",
+    "Taco Bell customer complaints",
+    "Taco Bell SEC filings",
+    "Taco Bell corporate social responsibility initiatives"
+]
+```

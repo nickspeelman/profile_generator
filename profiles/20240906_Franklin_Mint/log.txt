@@ -1,0 +1,26 @@
+Susan: I propose the following strategy for researching the Franklin Mint:
+
+1. **Review of Official Sources:** Visit the company's official website and scrutinize everything available: company's mission, vision, financial statements, annual reports, executive team, board of directors, corporate governance, etc. This information could provide insight into their operations, financial performance, and key decision-makers.
+
+2. **Industry and Financial Analyses:** Use websites such as Bloomberg, Reuters, or SEC EDGAR database for any financial records, market performance, industry comparisons, or trends associated with Franklin Mint. This can help in understanding the company's financial stability and future prospects.
+
+3. **Media Scrutiny:** Review news websites, industry publications, and blogs for any recent news about Franklin Mint. Focus your search on the company's labor relations, any changes in policies, reports on working conditions, strikes, disputes, recent scandals, etc. This information can give you some leverage points and provide perspective on their labor relations.
+
+4. **Social Media and Employee Review Sites:** Evaluate Franklin Mint's profiles on social networks such as LinkedIn, Facebook, and Twitter. Also, check for reviews on Glassdoor and Indeed by current and former employees. Comments and discussions can highlight the company's workplace culture, employee satisfaction, and any potential labor issues.
+
+5. **Competitor Analysis:** Research Franklin Mint's primary competitors to have a better understanding of the industry landscape and practices. This can provide additional context when digesting information about Franklin Mint.
+
+Remember to document all findings with links and notes, pinpoint key decision-makers and possible points of leverage, highlight any significant or recurring issues mentioned in multiple sources. 
+
+After collecting all the information, compile it into a cohesive and comprehensive research brief, outlining the company's financial position, labor relationships, key personnel, and potential opportunities or threats from our viewpoint.
+Manny: Sure, here are five search queries that Remi can use for researching the Franklin Mint:
+
+```python
+search_queries_for_remi = [
+    'Franklin Mint official website',
+    'Franklin Mint financial information on Bloomberg',
+    'Franklin Mint labor relations news',
+    'Franklin Mint reviews on Glassdoor',
+    'Franklin Mint main competitors'
+]
+```

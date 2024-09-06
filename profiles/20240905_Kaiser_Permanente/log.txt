@@ -1,0 +1,1195 @@
+Susan: 1. **Company Website:** Start by reviewing Kaiser Permanente's official website. You can find crucial information on their mission statement, company values, leadership team, and any significant news or updates.
+
+2. **Financial Reports:** Publicly available financial reports and statements can be useful in understanding the company's financial health and scenario. Look for annual reports, quarterly reports, investor presentations, and earnings call transcripts. Websites such as Yahoo Finance, Bloomberg, and Google Finance may provide access to these.
+
+3. **Corporate Leadership:** Identify key decision-makers in Kaiser Permanente. This information is typically available within the 'Leadership' or 'Team' page of the organizational website. LinkedIn is also a valuable resource for this information as you can use it to provide a broader picture of the individuals' career trajectories, network affiliacies, and perhaps even possible points of leverage.
+
+4. **Union Publications and Affiliations**: Investigate whether Kaiser Permanente has any previous or ongoing connections with labor unions. Websites of labor unions, media articles, press releases, and legal databases can provide details about any interactions, disputes, or collaborations.
+
+5. **News and Media Coverage:** Recent news articles can provide insights into the company's current actions, its public reputation, and any recent scandals. News aggregators like Google News can be useful tools for this, as well as industry-specific news sites.
+
+6. **Legal Filings and Court Records:** Investigate potential legal issues or complaints leveled at the company. Court records, if publicly available, may reveal patterns of behavior that could be useful in labor negotiations. 
+
+7. **Social Media:** Social media offers real-time updates on companies. Follow Kaiser Permanent on platforms like LinkedIn, Twitter, and Facebook. Also, look at employee reviews on websites like Glassdoor and Indeed to gauge employee sentiment about working conditions, management, and labor relations.
+
+8. **Industry Reports and Competitor Analysis:** Review industry reports for a more comprehensive view of their business environment and competitor behaviors.
+
+Remember, it is crucial to filter the relevant information and faithfully cite sources in briefs. Double-check facts and verify from multiple sources to ensure accuracy.
+Manny: Here are the specific search queries that Remi should perform:
+
+```python
+search_queries_for_remi = [
+    "Kaiser Permanente official website",
+    "Kaiser Permanente annual report 2021",
+    "Kaiser Permanente financial statements",
+    "Kaiser Permanente management team",
+    "Kaiser Permanente executive profiles",
+    "Kaiser Permanente LinkedIn",
+    "Kaiser Permanente's labor union affiliations",
+    "Kaiser Permanente labor disputes",
+    "Kaiser Permanente current news",
+    "Kaiser Permanente recent scandals",
+    "Kaiser Permanente court cases",
+    "Kaiser Permanente employee reviews on Glassdoor",
+    "Kaiser Permanente official twitter account",
+    "Kaiser Permanente industry report",
+    "Kaiser Permanente main competitors"
+]
+```
+
+Remi should use these queries as starting points and adjust them as needed based on the results he gets. He should aim to be comprehensive and gather as much relevant information as possible.
+Remi: Results for 'Kaiser Permanente official website':
+Title: Custom Care &amp; Coverage Just For You | Kaiser Permanente
+Link: https://www.kaiserpermanente.org/
+Snippet: Our cause. At Kaiser <b>Permanente</b>, everything works together for one very important cause. You. Our doctors, hospitals, and health plans are all connected — collaborating seamlessly across specialties so you can stay at your best. You get convenient access to care that fits your life. Talk to a health care professional from anywhere — by ...
+
+Title: Sign in - Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/consumer-sign-on
+Snippet: Kaiser <b>Permanente</b> health plans around the country: Kaiser Foundation Health Plan, Inc., in Northern and Southern California and Hawaii • Kaiser Foundation Health Plan of Colorado • Kaiser Foundation Health Plan of Georgia, Inc., Nine Piedmont Center, 3495 Piedmont Road NE, Atlanta, GA 30305, 404-364-7000 • Kaiser Foundation Health Plan of ...
+
+Title: Sign In - Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/as/authorization.oauth2?login_hint=&client_id=mobileKPMobileAppOAuthClient&redirect_uri=org.kp.m://auth&response_type=code&scope=openid%20&state=klHX86KfLe0X7loQOSsW&prompt=login&code_challenge_method=S256&code_challenge=ZsDrlElO_hAvDNa60FqWMZ1Lz4anY8bZiibFlI35wZw
+Snippet: Please enter User ID and Password to enable Biometrics User ID Password
+
+Title: New Member | Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/new-members
+Snippet: Learn how to create your account, choose your doctor, transition prescriptions, and get care online or on the app. Kaiser Permanente is your connection to great health and great care.
+
+Title: Care and Coverage | Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/learn/what-is-kaiser-permanente
+Snippet: Learn about<b> Kaiser Permanente&#39;s health care</b> model, quality, and services. Find doctors, facilities, plans, and tips for healthy living.
+
+Title: Kaiser Permanente - We’re transforming health and health care
+Link: https://about.kaiserpermanente.org/
+Snippet: We support public policies that help us provide high-quality, affordable health care and improve the health of our members and the communities we serve. See how we’re a leading voice in health care. Kaiser <b>Permanente</b> cares for our members with a coordinated and connected approach to care, nation-leading prevention, and cutting-edge treatment.
+
+Title: My Care | My Doctor Online - Kaiser Permanente
+Link: https://www.mydoctoronline.kaiserpermanente.org/ncal/my-care/
+Snippet: View upcoming appointments and details. Stay connected with your doctors, including updates about your care. Track life-saving screenings and immunizations. View personalized information about health conditions, pregnancy, and surgeries relevant to you. Tell us your health concern, and we&#39;ll guide you to timely, convenient care.
+
+Title: Quality Health Care Provider | Kaiser Permanente
+Link: https://thrive.kaiserpermanente.org/homepage
+Snippet: <b>Kaiser Permanente</b> is a health plan and care provider that offers coordinated and connected care for its members. Find out how to shop for plans, access specialty and maternity care, and support community health.
+
+Title: Individual &amp; Family Plans | Apply | Kaiser Permanente
+Link: https://apply-individual-family.kaiserpermanente.org/shopplan
+Snippet: With Kaiser <b>Permanente</b>, you get a partner in health on top of great care and coverage. Apply now for an individual and family plan that’s right for you.
+
+Title: My Doctor Online
+Link: https://mydoctor.kaiserpermanente.org/
+Snippet: Access your doctors, appointments, messages, prescriptions, and health topics online. Get care options, support for a healthy weight, menopause, autism, and more.
+
+Remi: Results for 'Kaiser Permanente official website':
+Title: Custom Care &amp; Coverage Just For You | Kaiser Permanente
+Link: https://www.kaiserpermanente.org/
+Snippet: Our cause. At Kaiser <b>Permanente</b>, everything works together for one very important cause. You. Our doctors, hospitals, and health plans are all connected — collaborating seamlessly across specialties so you can stay at your best. You get convenient access to care that fits your life. Talk to a health care professional from anywhere — by ...
+
+Title: Sign in - Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/consumer-sign-on
+Snippet: Kaiser <b>Permanente</b> health plans around the country: Kaiser Foundation Health Plan, Inc., in Northern and Southern California and Hawaii • Kaiser Foundation Health Plan of Colorado • Kaiser Foundation Health Plan of Georgia, Inc., Nine Piedmont Center, 3495 Piedmont Road NE, Atlanta, GA 30305, 404-364-7000 • Kaiser Foundation Health Plan of ...
+
+Title: Sign In - Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/as/authorization.oauth2?login_hint=&client_id=mobileKPMobileAppOAuthClient&redirect_uri=org.kp.m://auth&response_type=code&scope=openid%20&state=klHX86KfLe0X7loQOSsW&prompt=login&code_challenge_method=S256&code_challenge=ZsDrlElO_hAvDNa60FqWMZ1Lz4anY8bZiibFlI35wZw
+Snippet: Please enter User ID and Password to enable Biometrics User ID Password
+
+Title: New Member | Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/new-members
+Snippet: Learn how to create your account, choose your doctor, transition prescriptions, and get care online or on the app. Kaiser Permanente is your connection to great health and great care.
+
+Title: Care and Coverage | Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/learn/what-is-kaiser-permanente
+Snippet: Learn about<b> Kaiser Permanente&#39;s health care</b> model, quality, and services. Find doctors, facilities, plans, and tips for healthy living.
+
+Title: Kaiser Permanente - We’re transforming health and health care
+Link: https://about.kaiserpermanente.org/
+Snippet: We support public policies that help us provide high-quality, affordable health care and improve the health of our members and the communities we serve. See how we’re a leading voice in health care. Kaiser <b>Permanente</b> cares for our members with a coordinated and connected approach to care, nation-leading prevention, and cutting-edge treatment.
+
+Title: My Care | My Doctor Online - Kaiser Permanente
+Link: https://www.mydoctoronline.kaiserpermanente.org/ncal/my-care/
+Snippet: View upcoming appointments and details. Stay connected with your doctors, including updates about your care. Track life-saving screenings and immunizations. View personalized information about health conditions, pregnancy, and surgeries relevant to you. Tell us your health concern, and we&#39;ll guide you to timely, convenient care.
+
+Title: Quality Health Care Provider | Kaiser Permanente
+Link: https://thrive.kaiserpermanente.org/homepage
+Snippet: <b>Kaiser Permanente</b> is a health plan and care provider that offers coordinated and connected care for its members. Find out how to shop for plans, access specialty and maternity care, and support community health.
+
+Title: Individual &amp; Family Plans | Apply | Kaiser Permanente
+Link: https://apply-individual-family.kaiserpermanente.org/shopplan
+Snippet: With Kaiser <b>Permanente</b>, you get a partner in health on top of great care and coverage. Apply now for an individual and family plan that’s right for you.
+
+Title: My Doctor Online
+Link: https://mydoctor.kaiserpermanente.org/
+Snippet: Access your doctors, appointments, messages, prescriptions, and health topics online. Get care options, support for a healthy weight, menopause, autism, and more.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Kaiser Permanente annual report 2021':
+Title: 2021 Annual Report - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports/2021-annual-report
+Snippet: During <b>2021</b> we administered 9.4 million COVID-19 diagnostic tests and cared for 808,000 patients with COVID-19, including 62,500 who required hospitalization. Kaiser <b>Permanente</b> was among the first health care organizations to administer vaccinations when the COVID-19 vaccines became available at the end of 2020.
+
+PDF Link: https://about.kaiserpermanente.org/content/dam/kp/mykp/documents/reports/2021_annual_report_accessible.pdf
+Title: Annual Reports - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports
+Snippet: 2023 Community Health Snapshot. We play a vital role in improving the health of our communities. Our <b>annual</b> <b>reports</b>, ESG <b>report</b>, and Community Health <b>report</b> explain our impact and progress in providing high-quality, affordable health care services to our members and the communities we serve.
+
+PDF Link: https://divisionofresearch.kaiserpermanente.org/wp-content/uploads/2023/04/Kaiser-Permanente-Division-Of-Research-2021-Annual-Report.pdf
+PDF Link: https://permanente.org/wp-content/uploads/2022/09/2021-Annual-Report-final-small-compressed.pdf
+Title: IMPACT: 2021 Annual Report edition - Kaiser Permanente Department of ...
+Link: https://www.kp-scalresearch.org/impact-newsletters/impact-2021-annual-report-edition/
+Snippet: The Department of Research &amp; Evaluation <b>2021</b> <b>Annual</b> <b>Report</b> celebrates the trailblazers at Kaiser <b>Permanente</b> Southern California who are transforming the boundaries of medicine. ... Kaiser <b>Permanente</b> identifies financial conflicts of interest (FCOI) and other situations that may give rise to conflicts of interest, and addresses such situations ...
+
+Title: 2021 Annual Report - Kaiser Permanente Department of Research &amp; Evaluation
+Link: https://www.kp-scalresearch.org/aboutus/2021-annual-report-health-impacts/
+Snippet: The study, published in Annals of Internal Medicine in August <b>2021</b>, analyzed the electronic health records of nearly 300,000 Kaiser <b>Permanente</b> Southern California members. It revealed that, compared to white patients, people of color were more likely to be diagnosed with COVID-19.
+
+Title: 2021 Annual Report - Kaiser Permanente Department of Research &amp; Evaluation
+Link: https://www.kp-scalresearch.org/aboutus/2021-annual-report-lab-collaboration/
+Snippet: In January <b>2021</b>, the researchers and the vaccine makers, recognizing the value of Kaiser <b>Permanente</b> Southern California’s unique potential to track the evolution of coronavirus into new forms, began to converge around the idea of the COVID-19 variants study.
+
+Title: The Year in Review - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports/2021-annual-report/2021-the-year-in-review
+Snippet: In <b>2021</b>, Kaiser <b>Permanente</b> continued to navigate through the pandemic with 3 major surges of COVID-19. We endured incredible loss but also gained renewed hope as the newly approved vaccines promised an ability to save lives. In <b>2021</b>, we administered more than 10.5 million vaccine doses, including boosters, to members and nonmembers alike and ...
+
+PDF Link: https://permanente.org/wp-content/uploads/2022/08/2020-Annual-Report_final-1.pdf
+Remi: Results for 'Kaiser Permanente annual report 2021':
+Title: 2021 Annual Report - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports/2021-annual-report
+Snippet: During <b>2021</b> we administered 9.4 million COVID-19 diagnostic tests and cared for 808,000 patients with COVID-19, including 62,500 who required hospitalization. Kaiser <b>Permanente</b> was among the first health care organizations to administer vaccinations when the COVID-19 vaccines became available at the end of 2020.
+
+PDF Link: https://about.kaiserpermanente.org/content/dam/kp/mykp/documents/reports/2021_annual_report_accessible.pdf
+Title: Annual Reports - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports
+Snippet: 2023 Community Health Snapshot. We play a vital role in improving the health of our communities. Our <b>annual</b> <b>reports</b>, ESG <b>report</b>, and Community Health <b>report</b> explain our impact and progress in providing high-quality, affordable health care services to our members and the communities we serve.
+
+PDF Link: https://divisionofresearch.kaiserpermanente.org/wp-content/uploads/2023/04/Kaiser-Permanente-Division-Of-Research-2021-Annual-Report.pdf
+PDF Link: https://permanente.org/wp-content/uploads/2022/09/2021-Annual-Report-final-small-compressed.pdf
+Title: IMPACT: 2021 Annual Report edition - Kaiser Permanente Department of ...
+Link: https://www.kp-scalresearch.org/impact-newsletters/impact-2021-annual-report-edition/
+Snippet: The Department of Research &amp; Evaluation <b>2021</b> <b>Annual</b> <b>Report</b> celebrates the trailblazers at Kaiser <b>Permanente</b> Southern California who are transforming the boundaries of medicine. ... Kaiser <b>Permanente</b> identifies financial conflicts of interest (FCOI) and other situations that may give rise to conflicts of interest, and addresses such situations ...
+
+Title: 2021 Annual Report - Kaiser Permanente Department of Research &amp; Evaluation
+Link: https://www.kp-scalresearch.org/aboutus/2021-annual-report-health-impacts/
+Snippet: The study, published in Annals of Internal Medicine in August <b>2021</b>, analyzed the electronic health records of nearly 300,000 Kaiser <b>Permanente</b> Southern California members. It revealed that, compared to white patients, people of color were more likely to be diagnosed with COVID-19.
+
+Title: 2021 Annual Report - Kaiser Permanente Department of Research &amp; Evaluation
+Link: https://www.kp-scalresearch.org/aboutus/2021-annual-report-lab-collaboration/
+Snippet: In January <b>2021</b>, the researchers and the vaccine makers, recognizing the value of Kaiser <b>Permanente</b> Southern California’s unique potential to track the evolution of coronavirus into new forms, began to converge around the idea of the COVID-19 variants study.
+
+Title: The Year in Review - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports/2021-annual-report/2021-the-year-in-review
+Snippet: In <b>2021</b>, Kaiser <b>Permanente</b> continued to navigate through the pandemic with 3 major surges of COVID-19. We endured incredible loss but also gained renewed hope as the newly approved vaccines promised an ability to save lives. In <b>2021</b>, we administered more than 10.5 million vaccine doses, including boosters, to members and nonmembers alike and ...
+
+PDF Link: https://permanente.org/wp-content/uploads/2022/08/2020-Annual-Report_final-1.pdf
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Kaiser Permanente financial statements':
+Title: Annual Reports - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports
+Snippet: 2023 Community Health Snapshot. We play a vital role in improving the health of our communities. Our annual reports, ESG report, and Community Health report explain our impact and progress in providing high-quality, affordable health care services to our members and the communities we serve.
+
+Title: Kaiser Foundation Health Plan and Hospitals Report 2022 Financial ...
+Link: https://about.kaiserpermanente.org/news/kaiser-foundation-health-plan-and-hospitals-2022-financial-results
+Snippet: The Kaiser <b>Permanente</b> Medical <b>Financial</b> Assistance program provided nearly 320,000 low-income and uninsured patients more than $433 million in assistance to cover part or all of their medical expenses. ... Such <b>statements</b> are generally identifiable by the terminology used, such as “plan,” “project,” “forecast,” “expect ...
+
+Title: 2021 Annual Report - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports/2021-annual-report
+Snippet: During 2021 we administered 9.4 million COVID-19 diagnostic tests and cared for 808,000 patients with COVID-19, including 62,500 who required hospitalization. Kaiser <b>Permanente</b> was among the first health care organizations to administer vaccinations when the COVID-19 vaccines became available at the end of 2020.
+
+Title: Kaiser Foundation Health Plan and Hospitals report 2023 financial results
+Link: https://www.prnewswire.com/news-releases/kaiser-foundation-health-plan-and-hospitals-report-2023-financial-results-302058872.html
+Snippet: Operating revenues for 2023 were $100.8 billion compared to $95.4 billion in 2022. Operating expenses were $100.5 billion compared to $96.7 billion in the prior year. Separate from operating ...
+
+PDF Link: https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/reports/annual-reports/2019/kp-annual-report-en-2019.pdf
+PDF Link: https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/reports/annual-reports/2018/kp-annual-report-en-2018.pdf
+Title: Kaiser Foundation Health Plan and Hospitals Report 2021 financial results
+Link: https://www.prnewswire.com/news-releases/kaiser-foundation-health-plan-and-hospitals-report-2021-financial-results-301481027.html
+Snippet: The Kaiser <b>Permanente</b> Medical <b>Financial</b> Assistance program provided almost 370,000 low-income, ... Note: Certain <b>statements</b> included in this document may constitute &quot;forward-looking <b>statements</b> ...
+
+PDF Link: https://emma.msrb.org/P21456322-P21130401-P21542678.pdf
+Title: Kaiser Foundation Health Plan and Hospitals report 2022 financial results
+Link: https://www.prnewswire.com/news-releases/kaiser-foundation-health-plan-and-hospitals-report-2022-financial-results-301744483.html
+Snippet: For 2022, there was a net loss of $4.5 billion compared to net income of $8.1 billion in 2021. Capital spending totaled $3.5 billion, consistent with the $3.5 billion spent the prior year. During ...
+
+Title: 2022 Annual Report - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports/2022-annual-report
+Snippet: So, severe illnesses and death caused by the virus were less common than in the first 2 years of the pandemic. During 2022, our care teams treated 1.8 million patients who had COVID-19, including 53,000 who required hospitalization. We also administered more than 5 million COVID-19 vaccinations.
+
+Remi: Results for 'Kaiser Permanente financial statements':
+Title: Annual Reports - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports
+Snippet: 2023 Community Health Snapshot. We play a vital role in improving the health of our communities. Our annual reports, ESG report, and Community Health report explain our impact and progress in providing high-quality, affordable health care services to our members and the communities we serve.
+
+Title: Kaiser Foundation Health Plan and Hospitals Report 2022 Financial ...
+Link: https://about.kaiserpermanente.org/news/kaiser-foundation-health-plan-and-hospitals-2022-financial-results
+Snippet: The Kaiser <b>Permanente</b> Medical <b>Financial</b> Assistance program provided nearly 320,000 low-income and uninsured patients more than $433 million in assistance to cover part or all of their medical expenses. ... Such <b>statements</b> are generally identifiable by the terminology used, such as “plan,” “project,” “forecast,” “expect ...
+
+Title: 2021 Annual Report - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports/2021-annual-report
+Snippet: During 2021 we administered 9.4 million COVID-19 diagnostic tests and cared for 808,000 patients with COVID-19, including 62,500 who required hospitalization. Kaiser <b>Permanente</b> was among the first health care organizations to administer vaccinations when the COVID-19 vaccines became available at the end of 2020.
+
+Title: Kaiser Foundation Health Plan and Hospitals report 2023 financial results
+Link: https://www.prnewswire.com/news-releases/kaiser-foundation-health-plan-and-hospitals-report-2023-financial-results-302058872.html
+Snippet: Operating revenues for 2023 were $100.8 billion compared to $95.4 billion in 2022. Operating expenses were $100.5 billion compared to $96.7 billion in the prior year. Separate from operating ...
+
+PDF Link: https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/reports/annual-reports/2019/kp-annual-report-en-2019.pdf
+PDF Link: https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/reports/annual-reports/2018/kp-annual-report-en-2018.pdf
+Title: Kaiser Foundation Health Plan and Hospitals Report 2021 financial results
+Link: https://www.prnewswire.com/news-releases/kaiser-foundation-health-plan-and-hospitals-report-2021-financial-results-301481027.html
+Snippet: The Kaiser <b>Permanente</b> Medical <b>Financial</b> Assistance program provided almost 370,000 low-income, ... Note: Certain <b>statements</b> included in this document may constitute &quot;forward-looking <b>statements</b> ...
+
+PDF Link: https://emma.msrb.org/P21456322-P21130401-P21542678.pdf
+Title: Kaiser Foundation Health Plan and Hospitals report 2022 financial results
+Link: https://www.prnewswire.com/news-releases/kaiser-foundation-health-plan-and-hospitals-report-2022-financial-results-301744483.html
+Snippet: For 2022, there was a net loss of $4.5 billion compared to net income of $8.1 billion in 2021. Capital spending totaled $3.5 billion, consistent with the $3.5 billion spent the prior year. During ...
+
+Title: 2022 Annual Report - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports/2022-annual-report
+Snippet: So, severe illnesses and death caused by the virus were less common than in the first 2 years of the pandemic. During 2022, our care teams treated 1.8 million patients who had COVID-19, including 53,000 who required hospitalization. We also administered more than 5 million COVID-19 vaccinations.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Kaiser Permanente management team':
+Title: National leaders - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/leadership-team/national-leaders
+Snippet: Kaiser <b>Permanente</b>’s executive leadership <b>team</b> is committed to the total health of our members and communities. About Kaiser <b>Permanente</b> Home. About Kaiser <b>Permanente</b> Home. ... Kaiser <b>Permanente</b> Home News and views from one of America’s leading health care providers and not-for-profit health plans.
+
+Title: Regional Leaders - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/leadership-team/regional-leaders
+Snippet: Linda Tolbert, MD, JD, EdD, MPH. Chief Executive Officer and Executive Medical Director, Washington <b>Permanente</b> Medical Group. Kaiser <b>Permanente</b> leadership <b>team</b> is composed of executives who are committed to making strides in total health for our members.
+
+Title: Greg A. Adams - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/leadership-team/national-leaders/greg-a-adams
+Snippet: Chair and Chief Executive Officer. Greg A. Adams is the chair and chief executive officer of Kaiser Foundation Health Plan and Hospitals, which includes integrated care and coverage under the Kaiser <b>Permanente</b> brand, the KP Medical Foundation, and Risant Health and its subsidiaries. The entire Kaiser <b>Permanente</b> enterprise provides coverage for ...
+
+Title: Executive Leadership - Kaiser Permanente
+Link: https://www.kaiserpermanentejobs.org/leadership
+Snippet: Join Our Leadership &amp; Executive <b>Team</b>. Directors. Vice Presidents. Executive VPs. These roles are vital to our mission of providing high-quality, affordable health care services that improve health for our members, communities, and beyond. As a member of this <b>team</b>, you’ll be empowered to influence and impact the critical work we do.
+
+Title: Our Team - Kaiser Permanente Research Bank
+Link: https://researchbank.kaiserpermanente.org/our-team/
+Snippet: Prior to working at Kaiser <b>Permanente</b>, he worked in the Aerospace industry and in <b>management</b> consulting firms developing software applications and decision models to manage risk for pharmaceutical, R&amp;D, and electric utility companies. ... Dr. Sheila Weinmann is a member of the KPRB Leadership <b>Team</b> and the KP Research Bank Scientific Lead ...
+
+Title: Leadership | Kaiser Permanente Washington
+Link: https://wa.kaiserpermanente.org/html/public/about/leadership.html
+Snippet: Information about the Board of Directors and leadership <b>team</b>. Information about the Board of Directors and leadership <b>team</b>. Sign in to access care; Created with Sketch. ... Kaiser <b>Permanente</b> health plans around the country: Kaiser Foundation Health Plan, Inc., in Northern and Southern California and Hawaii • Kaiser Foundation Health Plan of ...
+
+Title: Board of Directors - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/leadership-team/board-of-directors
+Snippet: A. Eugene Washington, MD, MPH. Kaiser Foundation Health Plan and Hospitals Boards of Directors. Kaiser <b>Permanente</b>’s Board of Directors is composed of executives who are committed to making strides in total health for our members.
+
+Title: Chris Grant - Permanente Medicine
+Link: https://permanente.org/chris-grant/
+Snippet: Chris Grant. Chris Grant is Executive Vice President and Chief Operating Officer for The <b>Permanente</b> Federation in Oakland, Calif. and serves as a member of Kaiser <b>Permanente</b>’s senior executive <b>management</b> <b>team</b>. Grant supports the work of more than 23,000 physicians and 80,000 employed across the <b>Permanente</b> Medical Groups — providing care to ...
+
+Title: Case Management - Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/community-providers/permanente-advantage/case-management
+Snippet: Case <b>Management</b> is defined by the Commission for Case Manager Certification (CCMC) as a collaborative process that assess, plans, implements, coordinates, monitors, and evaluates the options and services required to meet an individual’s health needs, using communication and available resources to promote quality, cost-effective outcomes.
+
+Title: Our Team - Kaiser Permanente
+Link: https://kpcmi.org/about/our-team/
+Snippet: Joan joined Kaiser <b>Permanente</b> in September of 2015. In her position as Vice President of Quality, Regulatory and Risk <b>Management</b> for Mid-Atlantic States, Joan provided strategic leadership for Kaiser <b>Permanente</b> to compete as a quality leader in health care. She had responsibility for the quality and safety of care, treatment and services ...
+
+Remi: Results for 'Kaiser Permanente management team':
+Title: National leaders - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/leadership-team/national-leaders
+Snippet: Kaiser <b>Permanente</b>’s executive leadership <b>team</b> is committed to the total health of our members and communities. About Kaiser <b>Permanente</b> Home. About Kaiser <b>Permanente</b> Home. ... Kaiser <b>Permanente</b> Home News and views from one of America’s leading health care providers and not-for-profit health plans.
+
+Title: Regional Leaders - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/leadership-team/regional-leaders
+Snippet: Linda Tolbert, MD, JD, EdD, MPH. Chief Executive Officer and Executive Medical Director, Washington <b>Permanente</b> Medical Group. Kaiser <b>Permanente</b> leadership <b>team</b> is composed of executives who are committed to making strides in total health for our members.
+
+Title: Greg A. Adams - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/leadership-team/national-leaders/greg-a-adams
+Snippet: Chair and Chief Executive Officer. Greg A. Adams is the chair and chief executive officer of Kaiser Foundation Health Plan and Hospitals, which includes integrated care and coverage under the Kaiser <b>Permanente</b> brand, the KP Medical Foundation, and Risant Health and its subsidiaries. The entire Kaiser <b>Permanente</b> enterprise provides coverage for ...
+
+Title: Executive Leadership - Kaiser Permanente
+Link: https://www.kaiserpermanentejobs.org/leadership
+Snippet: Join Our Leadership &amp; Executive <b>Team</b>. Directors. Vice Presidents. Executive VPs. These roles are vital to our mission of providing high-quality, affordable health care services that improve health for our members, communities, and beyond. As a member of this <b>team</b>, you’ll be empowered to influence and impact the critical work we do.
+
+Title: Our Team - Kaiser Permanente Research Bank
+Link: https://researchbank.kaiserpermanente.org/our-team/
+Snippet: Prior to working at Kaiser <b>Permanente</b>, he worked in the Aerospace industry and in <b>management</b> consulting firms developing software applications and decision models to manage risk for pharmaceutical, R&amp;D, and electric utility companies. ... Dr. Sheila Weinmann is a member of the KPRB Leadership <b>Team</b> and the KP Research Bank Scientific Lead ...
+
+Title: Leadership | Kaiser Permanente Washington
+Link: https://wa.kaiserpermanente.org/html/public/about/leadership.html
+Snippet: Information about the Board of Directors and leadership <b>team</b>. Information about the Board of Directors and leadership <b>team</b>. Sign in to access care; Created with Sketch. ... Kaiser <b>Permanente</b> health plans around the country: Kaiser Foundation Health Plan, Inc., in Northern and Southern California and Hawaii • Kaiser Foundation Health Plan of ...
+
+Title: Board of Directors - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/leadership-team/board-of-directors
+Snippet: A. Eugene Washington, MD, MPH. Kaiser Foundation Health Plan and Hospitals Boards of Directors. Kaiser <b>Permanente</b>’s Board of Directors is composed of executives who are committed to making strides in total health for our members.
+
+Title: Chris Grant - Permanente Medicine
+Link: https://permanente.org/chris-grant/
+Snippet: Chris Grant. Chris Grant is Executive Vice President and Chief Operating Officer for The <b>Permanente</b> Federation in Oakland, Calif. and serves as a member of Kaiser <b>Permanente</b>’s senior executive <b>management</b> <b>team</b>. Grant supports the work of more than 23,000 physicians and 80,000 employed across the <b>Permanente</b> Medical Groups — providing care to ...
+
+Title: Case Management - Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/community-providers/permanente-advantage/case-management
+Snippet: Case <b>Management</b> is defined by the Commission for Case Manager Certification (CCMC) as a collaborative process that assess, plans, implements, coordinates, monitors, and evaluates the options and services required to meet an individual’s health needs, using communication and available resources to promote quality, cost-effective outcomes.
+
+Title: Our Team - Kaiser Permanente
+Link: https://kpcmi.org/about/our-team/
+Snippet: Joan joined Kaiser <b>Permanente</b> in September of 2015. In her position as Vice President of Quality, Regulatory and Risk <b>Management</b> for Mid-Atlantic States, Joan provided strategic leadership for Kaiser <b>Permanente</b> to compete as a quality leader in health care. She had responsibility for the quality and safety of care, treatment and services ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Kaiser Permanente executive profiles':
+Title: National leaders - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/leadership-team/national-leaders
+Snippet: Kaiser <b>Permanente</b>’s <b>executive</b> leadership team is committed to the total health of our members and communities. About Kaiser <b>Permanente</b> Home. ... Kaiser <b>Permanente</b> Home News and views from one of America’s leading health care providers and not-for-profit health plans. On this site
+
+Title: Executive Leadership - Kaiser Permanente
+Link: https://www.kaiserpermanentejobs.org/leadership
+Snippet: Join Our Leadership &amp; <b>Executive</b> Team. Directors. Vice Presidents. <b>Executive</b> VPs. These roles are vital to our mission of providing high-quality, affordable health care services that improve health for our members, communities, and beyond. As a member of this team, you’ll be empowered to influence and impact the critical work we do.
+
+Title: Regional Leaders - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/leadership-team/regional-leaders
+Snippet: Linda Tolbert, MD, JD, EdD, MPH. Chief <b>Executive</b> Officer and <b>Executive</b> Medical Director, Washington <b>Permanente</b> Medical Group. Kaiser <b>Permanente</b> leadership team is composed of <b>executives</b> who are committed to making strides in total health for our members.
+
+Title: Our People - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/our-people
+Snippet: Our people are the heart of Kaiser <b>Permanente</b> — on Labor Day and every day. Read our leaders’ message . Celebrating Labor Day. July 10, 2024 We help members lower their risk of heart attacks and strokes May 21, 2024 Our award-winning volunteers make communities better ...
+
+Title: Our Team - Kaiser Permanente Research Bank
+Link: https://researchbank.kaiserpermanente.org/our-team/
+Snippet: Devin Absher joined KP in 2022 to further both genomic research and precision medicine as VP of the Kaiser <b>Permanente</b> Research Bank. The Research Bank’s integration of genetic data, medical data, and health surveys, on over 400,000 KP participants, will serve as a vital resource for KP’s ground breaking research and its innovative delivery ...
+
+Title: Working at Kaiser Permanente - Kaiser Permanente
+Link: https://www.kaiserpermanentejobs.org/
+Snippet: Help 12.7 million people reach total health. At the heart of health care, you’ll find Kaiser <b>Permanente</b>. Here, our teams are empowered to maximize the total health of our members, our employees and our communities. Proudly working as one for a healthier today and tomorrow, we all have the power to shape the future of care.
+
+Title: Medical leadership positions abound at Kaiser Permanente
+Link: https://permanente.org/careers/careerpaths/physician-and-medical-leadership-at-kaiser-permanente/
+Snippet: As doctors progress in their practice, <b>Permanente</b> Medical Groups develop and promote physician leaders from within to spearhead change and inspire colleagues and staff. Development opportunities and programs meet the needs of emerging leaders, newly appointed chiefs, and senior <b>executives</b>. These clinical leaders play a pivotal role in directing ...
+
+Title: Chris Grant - Kaiser Permanente - LinkedIn
+Link: https://www.linkedin.com/in/chris-m-grant
+Snippet: Chris Grant is the Chief Operating Officer and <b>Executive</b> Vice President of Kaiser… · Experience: Kaiser <b>Permanente</b> · Education: Harvard Business School · Location: Pleasanton · 500 ...
+
+Title: Leadership | Kaiser Permanente Washington
+Link: https://wa.kaiserpermanente.org/html/public/about/leadership.html
+Snippet: Kaiser <b>Permanente</b> health plans around the country: Kaiser Foundation Health Plan, Inc., in Northern and Southern California and Hawaii • Kaiser Foundation Health Plan of Colorado • Kaiser Foundation Health Plan of Georgia, Inc., Nine Piedmont Center, 3495 Piedmont Road NE, Atlanta, GA 30305, 404-364-7000 • Kaiser Foundation Health Plan of ...
+
+Title: Roy J. Hubb PMP® - Executive Director, Employer and Broker Services ...
+Link: https://www.linkedin.com/in/roy-hubb-pmp
+Snippet: <b>Executive</b> Director at Kaiser <b>Permanente</b> with expertise in process improvement and employee benefits. · With over 20 years of experience in the healthcare industry, I am the <b>Executive</b> Director of ...
+
+Remi: Results for 'Kaiser Permanente executive profiles':
+Title: National leaders - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/leadership-team/national-leaders
+Snippet: Kaiser <b>Permanente</b>’s <b>executive</b> leadership team is committed to the total health of our members and communities. About Kaiser <b>Permanente</b> Home. ... Kaiser <b>Permanente</b> Home News and views from one of America’s leading health care providers and not-for-profit health plans. On this site
+
+Title: Executive Leadership - Kaiser Permanente
+Link: https://www.kaiserpermanentejobs.org/leadership
+Snippet: Join Our Leadership &amp; <b>Executive</b> Team. Directors. Vice Presidents. <b>Executive</b> VPs. These roles are vital to our mission of providing high-quality, affordable health care services that improve health for our members, communities, and beyond. As a member of this team, you’ll be empowered to influence and impact the critical work we do.
+
+Title: Regional Leaders - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/leadership-team/regional-leaders
+Snippet: Linda Tolbert, MD, JD, EdD, MPH. Chief <b>Executive</b> Officer and <b>Executive</b> Medical Director, Washington <b>Permanente</b> Medical Group. Kaiser <b>Permanente</b> leadership team is composed of <b>executives</b> who are committed to making strides in total health for our members.
+
+Title: Our People - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/our-people
+Snippet: Our people are the heart of Kaiser <b>Permanente</b> — on Labor Day and every day. Read our leaders’ message . Celebrating Labor Day. July 10, 2024 We help members lower their risk of heart attacks and strokes May 21, 2024 Our award-winning volunteers make communities better ...
+
+Title: Our Team - Kaiser Permanente Research Bank
+Link: https://researchbank.kaiserpermanente.org/our-team/
+Snippet: Devin Absher joined KP in 2022 to further both genomic research and precision medicine as VP of the Kaiser <b>Permanente</b> Research Bank. The Research Bank’s integration of genetic data, medical data, and health surveys, on over 400,000 KP participants, will serve as a vital resource for KP’s ground breaking research and its innovative delivery ...
+
+Title: Working at Kaiser Permanente - Kaiser Permanente
+Link: https://www.kaiserpermanentejobs.org/
+Snippet: Help 12.7 million people reach total health. At the heart of health care, you’ll find Kaiser <b>Permanente</b>. Here, our teams are empowered to maximize the total health of our members, our employees and our communities. Proudly working as one for a healthier today and tomorrow, we all have the power to shape the future of care.
+
+Title: Medical leadership positions abound at Kaiser Permanente
+Link: https://permanente.org/careers/careerpaths/physician-and-medical-leadership-at-kaiser-permanente/
+Snippet: As doctors progress in their practice, <b>Permanente</b> Medical Groups develop and promote physician leaders from within to spearhead change and inspire colleagues and staff. Development opportunities and programs meet the needs of emerging leaders, newly appointed chiefs, and senior <b>executives</b>. These clinical leaders play a pivotal role in directing ...
+
+Title: Chris Grant - Kaiser Permanente - LinkedIn
+Link: https://www.linkedin.com/in/chris-m-grant
+Snippet: Chris Grant is the Chief Operating Officer and <b>Executive</b> Vice President of Kaiser… · Experience: Kaiser <b>Permanente</b> · Education: Harvard Business School · Location: Pleasanton · 500 ...
+
+Title: Leadership | Kaiser Permanente Washington
+Link: https://wa.kaiserpermanente.org/html/public/about/leadership.html
+Snippet: Kaiser <b>Permanente</b> health plans around the country: Kaiser Foundation Health Plan, Inc., in Northern and Southern California and Hawaii • Kaiser Foundation Health Plan of Colorado • Kaiser Foundation Health Plan of Georgia, Inc., Nine Piedmont Center, 3495 Piedmont Road NE, Atlanta, GA 30305, 404-364-7000 • Kaiser Foundation Health Plan of ...
+
+Title: Roy J. Hubb PMP® - Executive Director, Employer and Broker Services ...
+Link: https://www.linkedin.com/in/roy-hubb-pmp
+Snippet: <b>Executive</b> Director at Kaiser <b>Permanente</b> with expertise in process improvement and employee benefits. · With over 20 years of experience in the healthcare industry, I am the <b>Executive</b> Director of ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Kaiser Permanente LinkedIn':
+Title: Kaiser Permanente - LinkedIn
+Link: https://www.linkedin.com/company/kaiser-permanente
+Snippet: Kaiser <b>Permanente</b> | 883,873 followers on <b>LinkedIn</b>. At the heart of health care, you’ll find Kaiser <b>Permanente</b>. As the nation’s leading not-for-profit, integrated health plan, we make a ...
+
+Title: Kaiser Permanente: Jobs - LinkedIn
+Link: https://www.linkedin.com/company/kaiser-permanente/jobs
+Snippet: Kaiser <b>Permanente</b> | 881,484 followers on <b>LinkedIn</b>. At the heart of health care, you’ll find Kaiser <b>Permanente</b>. As the nation’s leading not-for-profit, integrated health plan, we make a ...
+
+Title: Bridget Karlin - SVP of IT - Kaiser Permanente | LinkedIn
+Link: https://www.linkedin.com/in/bridget-karlin
+Snippet: Bridget Karlin is the senior vice president, Information Technology, Services &amp; Operations, at Kaiser <b>Permanente</b>, a $100 billion healthcare business.
+
+Title: Kaiser Permanente Northwest - LinkedIn
+Link: https://www.linkedin.com/company/kaiser-permanente-northwest
+Snippet: Kaiser <b>Permanente</b> Northwest | 15,312 followers on <b>LinkedIn</b>. Care and coverage together to help Oregon and Southwest Washington thrive. | Kaiser <b>Permanente</b> is committed to helping shape the future ...
+
+Title: Kaiser Permanente: Culture - LinkedIn
+Link: https://www.linkedin.com/company/kaiser-permanente/life
+Snippet: At Kaiser <b>Permanente</b>, we work as one for a healthier today and tomorrow. As the nation’s leading not-for-profit health plan, we proudly serve 12.6 million members from more than 734 locations in ...
+
+Title: Working at Kaiser Permanente
+Link: https://www.kaiserpermanentejobs.org/
+Snippet: Help 12.7 million people reach total health. At the heart of health care, you’ll find Kaiser <b>Permanente</b>. Here, our teams are empowered to maximize the total health of our members, our employees and our communities. Proudly working as one for a healthier today and tomorrow, we all have the power to shape the future of care.
+
+Title: Kaiser Permanente on LinkedIn: Chair and CEO Greg A. Adams shared with ...
+Link: https://www.linkedin.com/posts/kaiser-permanente_chair-and-ceo-greg-a-adams-shared-with-president-activity-6844034850501070848-P30-
+Snippet: Chair and CEO Greg A. Adams shared with President Joe Biden today our successes increasing employee vaccination rates – from 78% on Aug. 2 to nearly 90% today. As part of Kaiser <b>Permanente</b>’s ...
+
+Title: Kaiser Permanente Ventures - LinkedIn
+Link: https://www.linkedin.com/company/kaiser-permanente-ventures-llc
+Snippet: Kaiser <b>Permanente</b> Ventures | 2,246 followers on <b>LinkedIn</b>. Partnering with entrepreneurs to build great companies | Kaiser <b>Permanente</b> Ventures makes investments in promising healthcare companies ...
+
+Title: Kaiser Permanente International - LinkedIn
+Link: https://www.linkedin.com/company/kaiser-permanente-international
+Snippet: Kaiser <b>Permanente</b> International | 3,465 followers on <b>LinkedIn</b>. An educational subsidiary for global impact | Helping Improve World Health by Sharing Kaiser <b>Permanente</b>&#39;s Leading Practices Kaiser ...
+
+Title: Our Team - Kaiser Permanente Research Bank
+Link: https://researchbank.kaiserpermanente.org/our-team/
+Snippet: Devin Absher joined KP in 2022 to further both genomic research and precision medicine as VP of the Kaiser <b>Permanente</b> Research Bank. The Research Bank’s integration of genetic data, medical data, and health surveys, on over 400,000 KP participants, will serve as a vital resource for KP’s ground breaking research and its innovative delivery ...
+
+Remi: Results for 'Kaiser Permanente LinkedIn':
+Title: Kaiser Permanente - LinkedIn
+Link: https://www.linkedin.com/company/kaiser-permanente
+Snippet: Kaiser <b>Permanente</b> | 883,873 followers on <b>LinkedIn</b>. At the heart of health care, you’ll find Kaiser <b>Permanente</b>. As the nation’s leading not-for-profit, integrated health plan, we make a ...
+
+Title: Kaiser Permanente: Jobs - LinkedIn
+Link: https://www.linkedin.com/company/kaiser-permanente/jobs
+Snippet: Kaiser <b>Permanente</b> | 881,484 followers on <b>LinkedIn</b>. At the heart of health care, you’ll find Kaiser <b>Permanente</b>. As the nation’s leading not-for-profit, integrated health plan, we make a ...
+
+Title: Bridget Karlin - SVP of IT - Kaiser Permanente | LinkedIn
+Link: https://www.linkedin.com/in/bridget-karlin
+Snippet: Bridget Karlin is the senior vice president, Information Technology, Services &amp; Operations, at Kaiser <b>Permanente</b>, a $100 billion healthcare business.
+
+Title: Kaiser Permanente Northwest - LinkedIn
+Link: https://www.linkedin.com/company/kaiser-permanente-northwest
+Snippet: Kaiser <b>Permanente</b> Northwest | 15,312 followers on <b>LinkedIn</b>. Care and coverage together to help Oregon and Southwest Washington thrive. | Kaiser <b>Permanente</b> is committed to helping shape the future ...
+
+Title: Kaiser Permanente: Culture - LinkedIn
+Link: https://www.linkedin.com/company/kaiser-permanente/life
+Snippet: At Kaiser <b>Permanente</b>, we work as one for a healthier today and tomorrow. As the nation’s leading not-for-profit health plan, we proudly serve 12.6 million members from more than 734 locations in ...
+
+Title: Working at Kaiser Permanente
+Link: https://www.kaiserpermanentejobs.org/
+Snippet: Help 12.7 million people reach total health. At the heart of health care, you’ll find Kaiser <b>Permanente</b>. Here, our teams are empowered to maximize the total health of our members, our employees and our communities. Proudly working as one for a healthier today and tomorrow, we all have the power to shape the future of care.
+
+Title: Kaiser Permanente on LinkedIn: Chair and CEO Greg A. Adams shared with ...
+Link: https://www.linkedin.com/posts/kaiser-permanente_chair-and-ceo-greg-a-adams-shared-with-president-activity-6844034850501070848-P30-
+Snippet: Chair and CEO Greg A. Adams shared with President Joe Biden today our successes increasing employee vaccination rates – from 78% on Aug. 2 to nearly 90% today. As part of Kaiser <b>Permanente</b>’s ...
+
+Title: Kaiser Permanente Ventures - LinkedIn
+Link: https://www.linkedin.com/company/kaiser-permanente-ventures-llc
+Snippet: Kaiser <b>Permanente</b> Ventures | 2,246 followers on <b>LinkedIn</b>. Partnering with entrepreneurs to build great companies | Kaiser <b>Permanente</b> Ventures makes investments in promising healthcare companies ...
+
+Title: Kaiser Permanente International - LinkedIn
+Link: https://www.linkedin.com/company/kaiser-permanente-international
+Snippet: Kaiser <b>Permanente</b> International | 3,465 followers on <b>LinkedIn</b>. An educational subsidiary for global impact | Helping Improve World Health by Sharing Kaiser <b>Permanente</b>&#39;s Leading Practices Kaiser ...
+
+Title: Our Team - Kaiser Permanente Research Bank
+Link: https://researchbank.kaiserpermanente.org/our-team/
+Snippet: Devin Absher joined KP in 2022 to further both genomic research and precision medicine as VP of the Kaiser <b>Permanente</b> Research Bank. The Research Bank’s integration of genetic data, medical data, and health surveys, on over 400,000 KP participants, will serve as a vital resource for KP’s ground breaking research and its innovative delivery ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Kaiser Permanente's labor union affiliations':
+Title: Home New - Coalition of Kaiser Permanente Unions
+Link: https://www.unioncoalition.org/
+Snippet: This victory was delivered by the sheer grit, unwavering dedication, and unbreakable spirit of our Coalition <b>union</b> members. It is a victory well deserved. The 4-year contract covering 85,000 represented healthcare workers is in effect from October 1, 2023, to September 30, 2027. “Millions of Americans are safer today because tens of thousands ...
+
+Title: New 4-Year Agreement Ratified | Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/labor-relations/new-4-year-coalition-agreement-ratified
+Snippet: The employees are represented by 11 local <b>unions</b> in nearly every Kaiser <b>Permanente</b> market. The national agreement is effective October 1, 2023, through September 30, 2027. It includes annual wage increases, new minimum wages, and a redesigned Performance Sharing Plan. ... Kaiser <b>Permanente&#39;s</b> early support from <b>labor</b>.
+
+Title: Coalition &amp; Partnership - Coalition of Kaiser Permanente Unions
+Link: https://www.unioncoalition.org/about-the-coalition/
+Snippet: A Complete 180. Through the <b>Labor</b> Management Partnership, Kaiser <b>Permanente</b> and the Coalition of Kaiser <b>Permanente Unions</b> have transformed a collapsing system into an industry leader in the delivery of affordable, high-quality health care. Our 2019 National Agreement will help ensure that the Partnership remains a leader for the 21st century.
+
+Title: Historic Ties to Labor | Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/labor-relations/kaiser-permanentes-history-future-deeply-connected-labor-unions
+Snippet: 2017 — Kaiser <b>Permanente’s</b> <b>Labor</b> Management Partnership reaches 150,000 members and celebrates its 20th anniversary. 2018 — The Alliance of Health Care <b>Unions</b> forms and signs its first-ever national agreement with Kaiser <b>Permanente</b>. 2019 — Kaiser <b>Permanente</b> signs a 4-year national agreement with the Coalition. 2020 — <b>Union</b> members ...
+
+Title: Coalition Unions - Coalition of Kaiser Permanente Unions
+Link: https://www.unioncoalition.org/coalition-unions/
+Snippet: The Coalition of Kaiser <b>Permanente Unions</b> unites 85,000 members of four international <b>unions</b> at Kaiser hospitals, clinics, and facilities throughout the United States. IFPTE Local 20. Northern California. Membership: 1,517 — Clinical laboratory scientists, medical laboratory technicians, optometrists and optometric assistants, genetic ...
+
+PDF Link: https://www.lmpartnership.org/sites/default/files/2019_coalition_national_agreement.pdf
+Title: Coalition Bargaining: Working Together for You - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/labor-relations/coalition-bargaining-working-together-for-you
+Snippet: This message was sent to employees represented by the Coalition of Kaiser <b>Permanente</b> <b>Unions</b>. ... we are continuing to overcome higher care volumes and the effects of a nationwide <b>labor</b> shortage in health care, which has created significant staffing issues in many areas. At the same time, economic conditions have resulted in higher prices for ...
+
+Title: Standing Agreements | Labor Management Partnership
+Link: https://www.lmpartnership.org/standing-agreements
+Snippet: The <b>Labor</b> Management Partnership is governed by a series of agreements between Kaiser <b>Permanente</b> and its Partnership <b>unions</b>. The 1997 Partnership Agreement established its founding goals and principles; it is the foundational document for the partnership between KP and the Coalition of Kaiser <b>Permanente</b> <b>Unions</b>. The 2018 Alliance <b>Labor</b> ...
+
+PDF Link: https://www.seiu-uhw.org/wp-content/uploads/2022/02/UHW-CBA-Final-1-31-22.pdf
+Title: UNAC/UHCP and Alliance Unions Ratify New Contract With Kaiser Permanente
+Link: https://unacuhcp.org/press_release/unac-uhcp-and-alliance-unions-ratify-new-contract-with-kaiser-permanente/
+Snippet: FOR IMMEDIATE RELEASE: December 9, 2021 Media Contacts: <b>UNAC/UHCP</b> Jeff Rogers Jeff.Rogers@<b>unacuhcp</b>.org 909-263-7230 Alliance of Health Care <b>Unions</b> Maureen Anderson Maureen.Anderson@<b>unacuhcp</b>.org 909-455-5146 Kaiser <b>Permanente</b> Stephen Shivinsky Stephen.Shivinsky@kp.org 925-393-3911 Photos available here OAKLAND, Calif. — Nearly 50,000 health care workers have overwhelmingly voted to ratify a 4 ...
+
+Remi: Results for 'Kaiser Permanente's labor union affiliations':
+Title: Home New - Coalition of Kaiser Permanente Unions
+Link: https://www.unioncoalition.org/
+Snippet: This victory was delivered by the sheer grit, unwavering dedication, and unbreakable spirit of our Coalition <b>union</b> members. It is a victory well deserved. The 4-year contract covering 85,000 represented healthcare workers is in effect from October 1, 2023, to September 30, 2027. “Millions of Americans are safer today because tens of thousands ...
+
+Title: New 4-Year Agreement Ratified | Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/labor-relations/new-4-year-coalition-agreement-ratified
+Snippet: The employees are represented by 11 local <b>unions</b> in nearly every Kaiser <b>Permanente</b> market. The national agreement is effective October 1, 2023, through September 30, 2027. It includes annual wage increases, new minimum wages, and a redesigned Performance Sharing Plan. ... Kaiser <b>Permanente&#39;s</b> early support from <b>labor</b>.
+
+Title: Coalition &amp; Partnership - Coalition of Kaiser Permanente Unions
+Link: https://www.unioncoalition.org/about-the-coalition/
+Snippet: A Complete 180. Through the <b>Labor</b> Management Partnership, Kaiser <b>Permanente</b> and the Coalition of Kaiser <b>Permanente Unions</b> have transformed a collapsing system into an industry leader in the delivery of affordable, high-quality health care. Our 2019 National Agreement will help ensure that the Partnership remains a leader for the 21st century.
+
+Title: Historic Ties to Labor | Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/labor-relations/kaiser-permanentes-history-future-deeply-connected-labor-unions
+Snippet: 2017 — Kaiser <b>Permanente’s</b> <b>Labor</b> Management Partnership reaches 150,000 members and celebrates its 20th anniversary. 2018 — The Alliance of Health Care <b>Unions</b> forms and signs its first-ever national agreement with Kaiser <b>Permanente</b>. 2019 — Kaiser <b>Permanente</b> signs a 4-year national agreement with the Coalition. 2020 — <b>Union</b> members ...
+
+Title: Coalition Unions - Coalition of Kaiser Permanente Unions
+Link: https://www.unioncoalition.org/coalition-unions/
+Snippet: The Coalition of Kaiser <b>Permanente Unions</b> unites 85,000 members of four international <b>unions</b> at Kaiser hospitals, clinics, and facilities throughout the United States. IFPTE Local 20. Northern California. Membership: 1,517 — Clinical laboratory scientists, medical laboratory technicians, optometrists and optometric assistants, genetic ...
+
+PDF Link: https://www.lmpartnership.org/sites/default/files/2019_coalition_national_agreement.pdf
+Title: Coalition Bargaining: Working Together for You - Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/labor-relations/coalition-bargaining-working-together-for-you
+Snippet: This message was sent to employees represented by the Coalition of Kaiser <b>Permanente</b> <b>Unions</b>. ... we are continuing to overcome higher care volumes and the effects of a nationwide <b>labor</b> shortage in health care, which has created significant staffing issues in many areas. At the same time, economic conditions have resulted in higher prices for ...
+
+Title: Standing Agreements | Labor Management Partnership
+Link: https://www.lmpartnership.org/standing-agreements
+Snippet: The <b>Labor</b> Management Partnership is governed by a series of agreements between Kaiser <b>Permanente</b> and its Partnership <b>unions</b>. The 1997 Partnership Agreement established its founding goals and principles; it is the foundational document for the partnership between KP and the Coalition of Kaiser <b>Permanente</b> <b>Unions</b>. The 2018 Alliance <b>Labor</b> ...
+
+PDF Link: https://www.seiu-uhw.org/wp-content/uploads/2022/02/UHW-CBA-Final-1-31-22.pdf
+Title: UNAC/UHCP and Alliance Unions Ratify New Contract With Kaiser Permanente
+Link: https://unacuhcp.org/press_release/unac-uhcp-and-alliance-unions-ratify-new-contract-with-kaiser-permanente/
+Snippet: FOR IMMEDIATE RELEASE: December 9, 2021 Media Contacts: <b>UNAC/UHCP</b> Jeff Rogers Jeff.Rogers@<b>unacuhcp</b>.org 909-263-7230 Alliance of Health Care <b>Unions</b> Maureen Anderson Maureen.Anderson@<b>unacuhcp</b>.org 909-455-5146 Kaiser <b>Permanente</b> Stephen Shivinsky Stephen.Shivinsky@kp.org 925-393-3911 Photos available here OAKLAND, Calif. — Nearly 50,000 health care workers have overwhelmingly voted to ratify a 4 ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Kaiser Permanente labor disputes':
+Title: Kaiser Permanente workers win big wage and staffing concessions after ...
+Link: https://www.npr.org/sections/health-shots/2023/10/13/1205788228/kaiser-permanente-strike-contract-deal-reached
+Snippet: Kaiser <b>Permanente</b> and a coalition of unions reached a tentative deal Friday morning, ending the largest healthcare <b>labor</b> <b>dispute</b> in U.S. history.
+
+Title: Kaiser Permanente Reaches Tentative Deal With Health Care Workers
+Link: https://www.nytimes.com/2023/10/13/health/kaiser-permanente-labor-settlement.html
+Snippet: Striking Kaiser <b>Permanente</b> workers outside Springfield Medical Center on Oct. 4. ... The <b>labor</b> <b>dispute</b> was the latest in a series between health care systems and their employees, ...
+
+Title: Kaiser health care worker strike averted as tentative deal is reached ...
+Link: https://www.cbsnews.com/news/kaiser-permanente-union-nurses-health-care-workers-deal-reached-strike-averted/
+Snippet: Kaiser <b>Permanente</b> and the Alliance of Health Care Unions reached a tentative agreement on Saturday after more than 30,000 Kaiser <b>Permanente</b> employees threatened to strike on Monday due to a <b>labor</b> ...
+
+Title: Kaiser Permanente workers have tentative deal after historic strike
+Link: https://www.cbsnews.com/news/kaiser-permante-health-care-labor-agreement-workers/
+Snippet: The <b>dispute</b> involved worker complaints of chronic understaffing, a problem that the managed care giant pinned on an industrywide shortage of workers. Kaiser &quot;needs to retain and attract qualified ...
+
+Title: Kaiser strike: Why more than 75,000 workers walked off the job - USA TODAY
+Link: https://www.usatoday.com/story/news/health/2023/10/05/kaiser-permanente-strike-what-to-know/71068206007/
+Snippet: 0:46. Talks between Kaiser <b>Permanente</b> and more than 75,000 striking health care and support workers broke off without a settlement. The workers walked off the job in five states Wednesday morning ...
+
+Title: Su Notches Second Labor Win With Kaiser’s Health-Care Union Deal
+Link: https://news.bloomberglaw.com/daily-labor-report/su-notches-second-labor-win-with-kaisers-health-care-union-deal
+Snippet: Parker Purifoy. Acting <b>Labor</b> Secretary Julie Su is being lauded for helping bring together a tentative <b>labor</b> agreement for Kaiser <b>Permanente</b> workers, the latest example of her assisting in <b>labor</b> <b>disputes</b> that threatened to sideline critical economic sectors. Late last week, leaders of the Coalition of Kaiser <b>Permanente</b> Unions announced they had ...
+
+Title: The largest health care strike in history is over — for now
+Link: https://edition.cnn.com/2023/10/07/business/strike-over-kaiser-permanente-workers/index.html
+Snippet: <b>CNN</b> —. More than 75,000 unionized Kaiser <b>Permanente</b> employees are returning to work after a historic three-day strike. But an even bigger, longer work stoppage could be just around the corner ...
+
+Title: Kaiser Permanente labor deal shows why short, disruptive strikes are ...
+Link: https://www.cnn.com/2023/10/15/business/strikes-kaiser-permanente-deal-short/index.html
+Snippet: The largest health care strike in US history produced a tentative <b>labor</b> agreement for a coalition of unions at Kaiser <b>Permanente</b> — but the deal was reached almost a week after the strike ended.
+
+Title: 75,000 Kaiser Permanente workers walk off the job. It’s the ... - CNN
+Link: https://www.cnn.com/2023/10/04/business/thousands-of-kaiser-permanente-workers-go-on-strike/index.html
+Snippet: On Wednesday, more than 75,000 unionized employees of Kaiser <b>Permanente</b>, one of the nation’s largest not-for-profit health providers, walked off the job, marking the largest health care worker ...
+
+Title: Kaiser Permanente Workers Near End of Strike Without a Deal
+Link: https://www.nytimes.com/2023/10/06/health/kaiser-permanente-strike.html
+Snippet: Oct. 6, 2023. Kaiser <b>Permanente</b> health care workers were finishing a three-day strike on Friday, and were expected to return to work early Saturday morning without a new contract. No new ...
+
+Remi: Results for 'Kaiser Permanente labor disputes':
+Title: Kaiser Permanente workers win big wage and staffing concessions after ...
+Link: https://www.npr.org/sections/health-shots/2023/10/13/1205788228/kaiser-permanente-strike-contract-deal-reached
+Snippet: Kaiser <b>Permanente</b> and a coalition of unions reached a tentative deal Friday morning, ending the largest healthcare <b>labor</b> <b>dispute</b> in U.S. history.
+
+Title: Kaiser Permanente Reaches Tentative Deal With Health Care Workers
+Link: https://www.nytimes.com/2023/10/13/health/kaiser-permanente-labor-settlement.html
+Snippet: Striking Kaiser <b>Permanente</b> workers outside Springfield Medical Center on Oct. 4. ... The <b>labor</b> <b>dispute</b> was the latest in a series between health care systems and their employees, ...
+
+Title: Kaiser health care worker strike averted as tentative deal is reached ...
+Link: https://www.cbsnews.com/news/kaiser-permanente-union-nurses-health-care-workers-deal-reached-strike-averted/
+Snippet: Kaiser <b>Permanente</b> and the Alliance of Health Care Unions reached a tentative agreement on Saturday after more than 30,000 Kaiser <b>Permanente</b> employees threatened to strike on Monday due to a <b>labor</b> ...
+
+Title: Kaiser Permanente workers have tentative deal after historic strike
+Link: https://www.cbsnews.com/news/kaiser-permante-health-care-labor-agreement-workers/
+Snippet: The <b>dispute</b> involved worker complaints of chronic understaffing, a problem that the managed care giant pinned on an industrywide shortage of workers. Kaiser &quot;needs to retain and attract qualified ...
+
+Title: Kaiser strike: Why more than 75,000 workers walked off the job - USA TODAY
+Link: https://www.usatoday.com/story/news/health/2023/10/05/kaiser-permanente-strike-what-to-know/71068206007/
+Snippet: 0:46. Talks between Kaiser <b>Permanente</b> and more than 75,000 striking health care and support workers broke off without a settlement. The workers walked off the job in five states Wednesday morning ...
+
+Title: Su Notches Second Labor Win With Kaiser’s Health-Care Union Deal
+Link: https://news.bloomberglaw.com/daily-labor-report/su-notches-second-labor-win-with-kaisers-health-care-union-deal
+Snippet: Parker Purifoy. Acting <b>Labor</b> Secretary Julie Su is being lauded for helping bring together a tentative <b>labor</b> agreement for Kaiser <b>Permanente</b> workers, the latest example of her assisting in <b>labor</b> <b>disputes</b> that threatened to sideline critical economic sectors. Late last week, leaders of the Coalition of Kaiser <b>Permanente</b> Unions announced they had ...
+
+Title: The largest health care strike in history is over — for now
+Link: https://edition.cnn.com/2023/10/07/business/strike-over-kaiser-permanente-workers/index.html
+Snippet: <b>CNN</b> —. More than 75,000 unionized Kaiser <b>Permanente</b> employees are returning to work after a historic three-day strike. But an even bigger, longer work stoppage could be just around the corner ...
+
+Title: Kaiser Permanente labor deal shows why short, disruptive strikes are ...
+Link: https://www.cnn.com/2023/10/15/business/strikes-kaiser-permanente-deal-short/index.html
+Snippet: The largest health care strike in US history produced a tentative <b>labor</b> agreement for a coalition of unions at Kaiser <b>Permanente</b> — but the deal was reached almost a week after the strike ended.
+
+Title: 75,000 Kaiser Permanente workers walk off the job. It’s the ... - CNN
+Link: https://www.cnn.com/2023/10/04/business/thousands-of-kaiser-permanente-workers-go-on-strike/index.html
+Snippet: On Wednesday, more than 75,000 unionized employees of Kaiser <b>Permanente</b>, one of the nation’s largest not-for-profit health providers, walked off the job, marking the largest health care worker ...
+
+Title: Kaiser Permanente Workers Near End of Strike Without a Deal
+Link: https://www.nytimes.com/2023/10/06/health/kaiser-permanente-strike.html
+Snippet: Oct. 6, 2023. Kaiser <b>Permanente</b> health care workers were finishing a three-day strike on Friday, and were expected to return to work early Saturday morning without a new contract. No new ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Kaiser Permanente current news':
+Title: News | Kaiser Permanente
+Link: https://about.kaiserpermanente.org/news
+Snippet: <b>Kaiser</b> <b>Permanente</b> names new enterprise strategy, business development leadership …. April 11, 2024.
+
+Title: Kaiser Permanente workers win big wage and staffing concessions ... - NPR
+Link: https://www.npr.org/sections/health-shots/2023/10/13/1205788228/kaiser-permanente-strike-contract-deal-reached
+Snippet: The new contract establishes a minimum wage health care workers at <b>Kaiser</b> <b>Permanente</b>, which is both an insurer and a system of hospitals and clinics.
+
+Title: Union workers reach a tentative deal with Kaiser Permanente after the ...
+Link: https://www.cnn.com/2023/10/13/business/kaiser-permanente-strike-deal-reached/index.html
+Snippet: <b>Kaiser</b> <b>Permanente</b> reached a tentative deal with the unions representing 75,000 employees, following the largest-ever health care strike in US history.
+
+Title: 75,000 Kaiser Permanente workers walk off the job. It’s the largest ...
+Link: https://www.cnn.com/2023/10/04/business/thousands-of-kaiser-permanente-workers-go-on-strike/index.html
+Snippet: On Wednesday, more than 75,000 unionized employees of <b>Kaiser</b> <b>Permanente</b>, one of the nation’s largest not-for-profit health providers, walked off the job, marking the largest health care worker ...
+
+Title: Kaiser strike: More than 75,000 health care workers walk off the job - NPR
+Link: https://www.npr.org/2023/10/04/1203225614/kaiser-permanente-historic-strike-health-care-workers-nationwide
+Snippet: In the largest health care strike in U.S. history, over 75,000 workers at <b>Kaiser</b> <b>Permanente</b> hospitals and medical facilities across the U.S. walked off the job on Wednesday morning.
+
+Title: Kaiser Permanente Reaches Tentative Deal With Health Care Workers
+Link: https://www.nytimes.com/2023/10/13/health/kaiser-permanente-labor-settlement.html
+Snippet: <b>Kaiser</b> <b>Permanente</b> reached a tentative deal with more than 75,000 of its health care workers Friday morning, a week after a three-day walkout that disrupted appointments and services at many ...
+
+Title: 75,000 Kaiser Permanente workers are on strike - CNN
+Link: https://www.cnn.com/business/live-news/kaiser-strike-100423/index.html
+Snippet: A <b>Kaiser</b> <b>Permanente</b> health care center is pictured in Anaheim, California, on October 3 as more than 75,000 <b>Kaiser</b> <b>Permanente</b> healthcare workers could go on strike from Oct. 4 to Oct. 7 across the ...
+
+Title: Kaiser Permanente Health Care Workers Begin Strike - The New York Times
+Link: https://www.nytimes.com/2023/10/04/health/kaiser-permanente-strike-health-care.html
+Snippet: More than 75,000 <b>Kaiser</b> <b>Permanente</b> health care workers began a three-day strike Wednesday, a job action that could delay medical appointments, lab results and prescriptions for thousands of ...
+
+Title: Kaiser Permanente reaches a tentative deal with health care worker ...
+Link: https://apnews.com/article/kaiser-permanente-health-care-workers-strike-411aa1f084c19725f29ff87766e99704
+Snippet: Unions representing 85,000 health care workers have reached a tentative agreement with industry giant <b>Kaiser</b> <b>Permanente</b> following a strike over wages and staffing levels.
+
+Title: What to Know About the Kaiser Permanente Strike
+Link: https://www.nytimes.com/2023/10/05/us/kaiser-permanente-strike.html
+Snippet: Roughly half of Californians with private insurance receive medical care through the <b>Kaiser</b> <b>Permanente</b> health care system.
+
+Remi: Results for 'Kaiser Permanente current news':
+Title: News | Kaiser Permanente
+Link: https://about.kaiserpermanente.org/news
+Snippet: <b>Kaiser</b> <b>Permanente</b> names new enterprise strategy, business development leadership …. April 11, 2024.
+
+Title: Kaiser Permanente workers win big wage and staffing concessions ... - NPR
+Link: https://www.npr.org/sections/health-shots/2023/10/13/1205788228/kaiser-permanente-strike-contract-deal-reached
+Snippet: The new contract establishes a minimum wage health care workers at <b>Kaiser</b> <b>Permanente</b>, which is both an insurer and a system of hospitals and clinics.
+
+Title: Union workers reach a tentative deal with Kaiser Permanente after the ...
+Link: https://www.cnn.com/2023/10/13/business/kaiser-permanente-strike-deal-reached/index.html
+Snippet: <b>Kaiser</b> <b>Permanente</b> reached a tentative deal with the unions representing 75,000 employees, following the largest-ever health care strike in US history.
+
+Title: 75,000 Kaiser Permanente workers walk off the job. It’s the largest ...
+Link: https://www.cnn.com/2023/10/04/business/thousands-of-kaiser-permanente-workers-go-on-strike/index.html
+Snippet: On Wednesday, more than 75,000 unionized employees of <b>Kaiser</b> <b>Permanente</b>, one of the nation’s largest not-for-profit health providers, walked off the job, marking the largest health care worker ...
+
+Title: Kaiser strike: More than 75,000 health care workers walk off the job - NPR
+Link: https://www.npr.org/2023/10/04/1203225614/kaiser-permanente-historic-strike-health-care-workers-nationwide
+Snippet: In the largest health care strike in U.S. history, over 75,000 workers at <b>Kaiser</b> <b>Permanente</b> hospitals and medical facilities across the U.S. walked off the job on Wednesday morning.
+
+Title: Kaiser Permanente Reaches Tentative Deal With Health Care Workers
+Link: https://www.nytimes.com/2023/10/13/health/kaiser-permanente-labor-settlement.html
+Snippet: <b>Kaiser</b> <b>Permanente</b> reached a tentative deal with more than 75,000 of its health care workers Friday morning, a week after a three-day walkout that disrupted appointments and services at many ...
+
+Title: 75,000 Kaiser Permanente workers are on strike - CNN
+Link: https://www.cnn.com/business/live-news/kaiser-strike-100423/index.html
+Snippet: A <b>Kaiser</b> <b>Permanente</b> health care center is pictured in Anaheim, California, on October 3 as more than 75,000 <b>Kaiser</b> <b>Permanente</b> healthcare workers could go on strike from Oct. 4 to Oct. 7 across the ...
+
+Title: Kaiser Permanente Health Care Workers Begin Strike - The New York Times
+Link: https://www.nytimes.com/2023/10/04/health/kaiser-permanente-strike-health-care.html
+Snippet: More than 75,000 <b>Kaiser</b> <b>Permanente</b> health care workers began a three-day strike Wednesday, a job action that could delay medical appointments, lab results and prescriptions for thousands of ...
+
+Title: Kaiser Permanente reaches a tentative deal with health care worker ...
+Link: https://apnews.com/article/kaiser-permanente-health-care-workers-strike-411aa1f084c19725f29ff87766e99704
+Snippet: Unions representing 85,000 health care workers have reached a tentative agreement with industry giant <b>Kaiser</b> <b>Permanente</b> following a strike over wages and staffing levels.
+
+Title: What to Know About the Kaiser Permanente Strike
+Link: https://www.nytimes.com/2023/10/05/us/kaiser-permanente-strike.html
+Snippet: Roughly half of Californians with private insurance receive medical care through the <b>Kaiser</b> <b>Permanente</b> health care system.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Kaiser Permanente recent scandals':
+Title: Kaiser to pay $200 million CA behavioral health settlement - CalMatters
+Link: https://calmatters.org/health/2023/10/kaiser-permanente-california-behavioral-health-settlement/
+Snippet: Lea este artículo en español.. Health care giant Kaiser <b>Permanente</b> agreed to a $200 million settlement with the state of California to resolve investigations into its behavioral health system that showed patients experienced delays in care.. The deal announced today includes a $50 million fine and requires Kaiser <b>Permanente</b> to fix major problems in its behavioral health services, such as ...
+
+Title: Kaiser facing union accusations that patients are losing mental health ...
+Link: https://www.latimes.com/california/story/2024-04-09/kaiser-mental-health
+Snippet: April 9, 2024 Updated 12:36 PM PT. Months after Kaiser <b>Permanente</b> reached a sweeping agreement with state regulators to improve its mental health services, the healthcare giant is facing union ...
+
+Title: Kaiser reaches $200-million settlement over mental health care - Los ...
+Link: https://www.latimes.com/california/story/2023-10-13/kaiser-permanente-200-million-settlement-mental-health-care
+Snippet: Oct. 13, 2023 10:55 AM PT. Kaiser <b>Permanente</b> agreed to a $200-million settlement and major changes to its mental health services after investigations revealed the healthcare giant canceled tens of ...
+
+Title: Kaiser Permanente agrees to $200M behavioral care settlement
+Link: https://www.fiercehealthcare.com/regulatory/kaiser-permanente-agrees-200m-settlement-after-investigation-reveals-several-behavioral
+Snippet: Kaiser <b>Permanente</b> is the largest healthcare service plan in the state with over 9 million California enrollees and over $91 billion in total year revenue during 2022. ... The <b>latest</b> non-routine ...
+
+Title: Column: The government lawsuit against Kaiser points to a massive fraud ...
+Link: https://finance.yahoo.com/news/column-government-lawsuit-against-kaiser-120028112.html
+Snippet: Wed, Aug 4, 2021, 8:00 AM 9 min read. Kaiser <b>Permanente</b> Medical Center on Sunset Blvd in Los Angeles: Government lawsuit accuses the nonprofit healthcare organization of massive Medicare fraud ...
+
+Title: Kaiser to pay $49 million to California for illegally dumping private ...
+Link: https://apnews.com/article/kaiser-permanente-blood-body-parts-dumpster-fine-fb0e97f7cafb738d34047717baa537b9
+Snippet: FILE - A Kaiser <b>Permanente</b> medical center is seen in San Jose, Calif., on Jan. 2, 2021. Kaiser <b>Permanente</b> has agreed to pay $49 million as part of a settlement with California prosecutors who say the health care giant illegally disposed of thousands of private medical records, hazardous materials and medical waste, including blood and body parts, in dumpsters headed to local landfills ...
+
+Title: Kaiser Permanente risk-adjustment whistleblower case unsealed ...
+Link: https://www.phillipsandcohen.com/whistleblower-case-against-kaiser-permanente-alleging-risk-adjustment-fraud-unsealed-joined-by-government/
+Snippet: August 03, 2021. SAN FRANCISCO, Aug. 2, 2021 – A whistleblower case against Kaiser <b>Permanente</b> and certain Kaiser consortium members alleging risk-adjustment fraud, which was filed by Phillips <b>&amp;</b> Cohen LLP, has been unsealed and will be pursued by the US Department of Justice and the whistleblower’s counsel.
+
+Title: Kaiser Permanente Reaches Tentative Deal With Health Care Workers
+Link: https://www.nytimes.com/2023/10/13/health/kaiser-permanente-labor-settlement.html
+Snippet: Haiyun Jiang for <b>The New York Times</b>. Kaiser <b>Permanente</b> reached a tentative deal with more than 75,000 of its health care workers Friday morning, a week after a three-day walkout that disrupted ...
+
+Title: US sues Kaiser Permanente over alleged Medicare fraud
+Link: https://apnews.com/article/business-health-medicare-566111a018e5e8f3d0224180050cbf0a
+Snippet: Published 8:07 PM PDT, July 30, 2021. SAN FRANCISCO (AP) — The federal government has sued Kaiser <b>Permanente</b>, alleging the health care giant committed Medicare fraud and pressured doctors to list incorrect diagnoses on medical records in order to receive higher reimbursements, officials said Friday. The U.S. Department of Justice lawsuit ...
+
+Title: U.S. Department of Justice sues Kaiser Permanente over alleged Medicare ...
+Link: https://www.mercurynews.com/2021/08/01/us-sues-kaiser-permanente-over-alleged-medicare-fraud/
+Snippet: UPDATED: August 1, 2021 at 6:29 a.m. SAN FRANCISCO — The federal government has sued Kaiser <b>Permanente</b>, alleging the health care giant committed Medicare fraud and pressured doctors to list ...
+
+Remi: Results for 'Kaiser Permanente recent scandals':
+Title: Kaiser to pay $200 million CA behavioral health settlement - CalMatters
+Link: https://calmatters.org/health/2023/10/kaiser-permanente-california-behavioral-health-settlement/
+Snippet: Lea este artículo en español.. Health care giant Kaiser <b>Permanente</b> agreed to a $200 million settlement with the state of California to resolve investigations into its behavioral health system that showed patients experienced delays in care.. The deal announced today includes a $50 million fine and requires Kaiser <b>Permanente</b> to fix major problems in its behavioral health services, such as ...
+
+Title: Kaiser facing union accusations that patients are losing mental health ...
+Link: https://www.latimes.com/california/story/2024-04-09/kaiser-mental-health
+Snippet: April 9, 2024 Updated 12:36 PM PT. Months after Kaiser <b>Permanente</b> reached a sweeping agreement with state regulators to improve its mental health services, the healthcare giant is facing union ...
+
+Title: Kaiser reaches $200-million settlement over mental health care - Los ...
+Link: https://www.latimes.com/california/story/2023-10-13/kaiser-permanente-200-million-settlement-mental-health-care
+Snippet: Oct. 13, 2023 10:55 AM PT. Kaiser <b>Permanente</b> agreed to a $200-million settlement and major changes to its mental health services after investigations revealed the healthcare giant canceled tens of ...
+
+Title: Kaiser Permanente agrees to $200M behavioral care settlement
+Link: https://www.fiercehealthcare.com/regulatory/kaiser-permanente-agrees-200m-settlement-after-investigation-reveals-several-behavioral
+Snippet: Kaiser <b>Permanente</b> is the largest healthcare service plan in the state with over 9 million California enrollees and over $91 billion in total year revenue during 2022. ... The <b>latest</b> non-routine ...
+
+Title: Column: The government lawsuit against Kaiser points to a massive fraud ...
+Link: https://finance.yahoo.com/news/column-government-lawsuit-against-kaiser-120028112.html
+Snippet: Wed, Aug 4, 2021, 8:00 AM 9 min read. Kaiser <b>Permanente</b> Medical Center on Sunset Blvd in Los Angeles: Government lawsuit accuses the nonprofit healthcare organization of massive Medicare fraud ...
+
+Title: Kaiser to pay $49 million to California for illegally dumping private ...
+Link: https://apnews.com/article/kaiser-permanente-blood-body-parts-dumpster-fine-fb0e97f7cafb738d34047717baa537b9
+Snippet: FILE - A Kaiser <b>Permanente</b> medical center is seen in San Jose, Calif., on Jan. 2, 2021. Kaiser <b>Permanente</b> has agreed to pay $49 million as part of a settlement with California prosecutors who say the health care giant illegally disposed of thousands of private medical records, hazardous materials and medical waste, including blood and body parts, in dumpsters headed to local landfills ...
+
+Title: Kaiser Permanente risk-adjustment whistleblower case unsealed ...
+Link: https://www.phillipsandcohen.com/whistleblower-case-against-kaiser-permanente-alleging-risk-adjustment-fraud-unsealed-joined-by-government/
+Snippet: August 03, 2021. SAN FRANCISCO, Aug. 2, 2021 – A whistleblower case against Kaiser <b>Permanente</b> and certain Kaiser consortium members alleging risk-adjustment fraud, which was filed by Phillips <b>&amp;</b> Cohen LLP, has been unsealed and will be pursued by the US Department of Justice and the whistleblower’s counsel.
+
+Title: Kaiser Permanente Reaches Tentative Deal With Health Care Workers
+Link: https://www.nytimes.com/2023/10/13/health/kaiser-permanente-labor-settlement.html
+Snippet: Haiyun Jiang for <b>The New York Times</b>. Kaiser <b>Permanente</b> reached a tentative deal with more than 75,000 of its health care workers Friday morning, a week after a three-day walkout that disrupted ...
+
+Title: US sues Kaiser Permanente over alleged Medicare fraud
+Link: https://apnews.com/article/business-health-medicare-566111a018e5e8f3d0224180050cbf0a
+Snippet: Published 8:07 PM PDT, July 30, 2021. SAN FRANCISCO (AP) — The federal government has sued Kaiser <b>Permanente</b>, alleging the health care giant committed Medicare fraud and pressured doctors to list incorrect diagnoses on medical records in order to receive higher reimbursements, officials said Friday. The U.S. Department of Justice lawsuit ...
+
+Title: U.S. Department of Justice sues Kaiser Permanente over alleged Medicare ...
+Link: https://www.mercurynews.com/2021/08/01/us-sues-kaiser-permanente-over-alleged-medicare-fraud/
+Snippet: UPDATED: August 1, 2021 at 6:29 a.m. SAN FRANCISCO — The federal government has sued Kaiser <b>Permanente</b>, alleging the health care giant committed Medicare fraud and pressured doctors to list ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Kaiser Permanente court cases':
+Title: Nurse Wins $41M Lawsuit Against Kaiser for Retaliation and Wrongful ...
+Link: https://nurse.org/articles/nurse-kaiser-lawsuit-41-million/
+Snippet: Kaiser <b>Permanente</b> Statements. Maria Gatchalian, a former neonatal intensive care unit nurse, was awarded $41.49 million in damages by a jury for her lawsuit against Kaiser <b>Permanente</b> claiming wrongful termination. Maria was an employee of Kaiser for 30 years, since 1989. According to <b>court</b> documents, Gatchalian was fired in retaliation for ...
+
+Title: Jury Awards $41M in Discrimination, Wrongful Termination Case - SHRM
+Link: https://www.shrm.org/topics-tools/employment-law-compliance/jury-awards--41m-in-discrimination--wrongful-termination-case
+Snippet: A nurse recently won a $41 million jury verdict in her discrimination and wrongful termination lawsuit against Kaiser <b>Permanente</b>, a health care provider based in Oakland, Calif.
+
+Title: Kaiser pleads to scrap nurse’s $41.5 million retaliation verdict
+Link: https://www.courthousenews.com/kaiser-pleads-to-scrap-nurses-41-5-million-retaliation-verdict/
+Snippet: Health care workers Julie Lanoff, left, and Wendy Blank strike at Kaiser <b>Permanente</b> in San Francisco, Calif. on Aug. 15, 2022. (Natalie Hanson/ Courthouse News) LOS ANGELES (CN) — Kaiser <b>Permanente</b> on Thursday tried to persuade a California judge to throw out a $41.5 million jury verdict for a nurse who claims she was fired because she raised ...
+
+Title: Grabowski v. Kaiser Foundation Health Plan, Inc. - Justia Law
+Link: https://law.justia.com/cases/california/court-of-appeal/2021/d076968.html
+Snippet: KAISER FOUNDATION HEALTH PLAN, INC., et al., (Super. Ct. No. 37-201900013115-CU-PA-CTL) ORDER CERTIFYING OPINION FOR PUBLICATION Defendants and Respondents. THE <b>COURT</b>: The opinion in this <b>case</b> filed April 19, 2021, was not certified for publication.
+
+Title: Kaiser to pay $200 million CA behavioral health settlement - CalMatters
+Link: https://calmatters.org/health/2023/10/kaiser-permanente-california-behavioral-health-settlement/
+Snippet: Lea este artículo en español.. Health care giant Kaiser <b>Permanente</b> agreed to a $200 million settlement with the state of California to resolve investigations into its behavioral health system that showed patients experienced delays in care.. The deal announced today includes a $50 million fine and requires Kaiser <b>Permanente</b> to fix major problems in its behavioral health services, such as ...
+
+Title: Federal government joins overbilling lawsuits against Kaiser Permanente
+Link: https://www.reuters.com/legal/litigation/federal-government-joins-overbilling-lawsuits-against-kaiser-permanente-2021-07-30/
+Snippet: Kaiser <b>Permanente</b>, U.S. District <b>Court</b>, Northern District of California, No. 13-cv-03891, as well as other consolidated <b>cases</b>. For the government: Deputy Assistant Attorney General Sarah ...
+
+Title: Kaiser Permanente risk-adjustment whistleblower case unsealed ...
+Link: https://www.phillipsandcohen.com/whistleblower-case-against-kaiser-permanente-alleging-risk-adjustment-fraud-unsealed-joined-by-government/
+Snippet: SAN FRANCISCO, Aug. 2, 2021 – A whistleblower <b>case</b> against Kaiser <b>Permanente</b> and certain Kaiser consortium members alleging risk-adjustment fraud, which was filed by Phillips <b>&amp;</b> Cohen LLP, has been unsealed and will be pursued by the US Department of Justice and the whistleblower’s counsel. The “qui tam” (whistleblower) complaint was ...
+
+Title: Kuntz v. Kaiser Foundation Hospital :: 2021 :: California Courts of ...
+Link: https://law.justia.com/cases/california/court-of-appeal/2021/c087967.html
+Snippet: The <b>court</b> concluded that Kaiser’s evidence, including the Davis declarations and the membership <b>records</b> printout, were sufficient to demonstrate the existence of a valid arbitration agreement. The trial <b>court</b> agreed with Kaiser that CalPERS enrollments were exempt from the requirements of section 1363.1.
+
+Title: Kaiser Permanente Hit With $3 Million Medical Malpractice Judgment
+Link: https://www.californiamedlaw.com/blog/kaiser-permanente-medical-malpractice-judgment-2022/
+Snippet: A recent medical malpractice lawsuit against a Marin County Kaiser <b>Permanente</b> hospital ended in March when the hospital was ordered to pay $3 million in damages. The lawsuit was filed by the surviving family of tennis champion Ken Flach, who died in 2018 at age 54. Flach developed both pneumonia and an antibiotic-resistant staph infection that ...
+
+Title: Government Intervenes in False Claims Act Lawsuits Against Kaiser ...
+Link: https://www.justice.gov/opa/pr/government-intervenes-false-claims-act-lawsuits-against-kaiser-permanente-affiliates
+Snippet: The False Claims Act also permits the government to intervene in such lawsuits, as it has done, in part, in these <b>cases</b>. The <b>cases</b> are consolidated in the Northern District of California and captioned United States ex rel. Osinek v. Kaiser <b>Permanente</b>, 3:13-cv-03891 (N.D. Cal.); United States ex rel. Taylor v.
+
+Remi: Results for 'Kaiser Permanente court cases':
+Title: Nurse Wins $41M Lawsuit Against Kaiser for Retaliation and Wrongful ...
+Link: https://nurse.org/articles/nurse-kaiser-lawsuit-41-million/
+Snippet: Kaiser <b>Permanente</b> Statements. Maria Gatchalian, a former neonatal intensive care unit nurse, was awarded $41.49 million in damages by a jury for her lawsuit against Kaiser <b>Permanente</b> claiming wrongful termination. Maria was an employee of Kaiser for 30 years, since 1989. According to <b>court</b> documents, Gatchalian was fired in retaliation for ...
+
+Title: Jury Awards $41M in Discrimination, Wrongful Termination Case - SHRM
+Link: https://www.shrm.org/topics-tools/employment-law-compliance/jury-awards--41m-in-discrimination--wrongful-termination-case
+Snippet: A nurse recently won a $41 million jury verdict in her discrimination and wrongful termination lawsuit against Kaiser <b>Permanente</b>, a health care provider based in Oakland, Calif.
+
+Title: Kaiser pleads to scrap nurse’s $41.5 million retaliation verdict
+Link: https://www.courthousenews.com/kaiser-pleads-to-scrap-nurses-41-5-million-retaliation-verdict/
+Snippet: Health care workers Julie Lanoff, left, and Wendy Blank strike at Kaiser <b>Permanente</b> in San Francisco, Calif. on Aug. 15, 2022. (Natalie Hanson/ Courthouse News) LOS ANGELES (CN) — Kaiser <b>Permanente</b> on Thursday tried to persuade a California judge to throw out a $41.5 million jury verdict for a nurse who claims she was fired because she raised ...
+
+Title: Grabowski v. Kaiser Foundation Health Plan, Inc. - Justia Law
+Link: https://law.justia.com/cases/california/court-of-appeal/2021/d076968.html
+Snippet: KAISER FOUNDATION HEALTH PLAN, INC., et al., (Super. Ct. No. 37-201900013115-CU-PA-CTL) ORDER CERTIFYING OPINION FOR PUBLICATION Defendants and Respondents. THE <b>COURT</b>: The opinion in this <b>case</b> filed April 19, 2021, was not certified for publication.
+
+Title: Kaiser to pay $200 million CA behavioral health settlement - CalMatters
+Link: https://calmatters.org/health/2023/10/kaiser-permanente-california-behavioral-health-settlement/
+Snippet: Lea este artículo en español.. Health care giant Kaiser <b>Permanente</b> agreed to a $200 million settlement with the state of California to resolve investigations into its behavioral health system that showed patients experienced delays in care.. The deal announced today includes a $50 million fine and requires Kaiser <b>Permanente</b> to fix major problems in its behavioral health services, such as ...
+
+Title: Federal government joins overbilling lawsuits against Kaiser Permanente
+Link: https://www.reuters.com/legal/litigation/federal-government-joins-overbilling-lawsuits-against-kaiser-permanente-2021-07-30/
+Snippet: Kaiser <b>Permanente</b>, U.S. District <b>Court</b>, Northern District of California, No. 13-cv-03891, as well as other consolidated <b>cases</b>. For the government: Deputy Assistant Attorney General Sarah ...
+
+Title: Kaiser Permanente risk-adjustment whistleblower case unsealed ...
+Link: https://www.phillipsandcohen.com/whistleblower-case-against-kaiser-permanente-alleging-risk-adjustment-fraud-unsealed-joined-by-government/
+Snippet: SAN FRANCISCO, Aug. 2, 2021 – A whistleblower <b>case</b> against Kaiser <b>Permanente</b> and certain Kaiser consortium members alleging risk-adjustment fraud, which was filed by Phillips <b>&amp;</b> Cohen LLP, has been unsealed and will be pursued by the US Department of Justice and the whistleblower’s counsel. The “qui tam” (whistleblower) complaint was ...
+
+Title: Kuntz v. Kaiser Foundation Hospital :: 2021 :: California Courts of ...
+Link: https://law.justia.com/cases/california/court-of-appeal/2021/c087967.html
+Snippet: The <b>court</b> concluded that Kaiser’s evidence, including the Davis declarations and the membership <b>records</b> printout, were sufficient to demonstrate the existence of a valid arbitration agreement. The trial <b>court</b> agreed with Kaiser that CalPERS enrollments were exempt from the requirements of section 1363.1.
+
+Title: Kaiser Permanente Hit With $3 Million Medical Malpractice Judgment
+Link: https://www.californiamedlaw.com/blog/kaiser-permanente-medical-malpractice-judgment-2022/
+Snippet: A recent medical malpractice lawsuit against a Marin County Kaiser <b>Permanente</b> hospital ended in March when the hospital was ordered to pay $3 million in damages. The lawsuit was filed by the surviving family of tennis champion Ken Flach, who died in 2018 at age 54. Flach developed both pneumonia and an antibiotic-resistant staph infection that ...
+
+Title: Government Intervenes in False Claims Act Lawsuits Against Kaiser ...
+Link: https://www.justice.gov/opa/pr/government-intervenes-false-claims-act-lawsuits-against-kaiser-permanente-affiliates
+Snippet: The False Claims Act also permits the government to intervene in such lawsuits, as it has done, in part, in these <b>cases</b>. The <b>cases</b> are consolidated in the Northern District of California and captioned United States ex rel. Osinek v. Kaiser <b>Permanente</b>, 3:13-cv-03891 (N.D. Cal.); United States ex rel. Taylor v.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Kaiser Permanente employee reviews on Glassdoor':
+Title: Kaiser Permanente Reviews: What Is It Like to Work At ... - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Kaiser-Permanente-Reviews-E19466.htm
+Snippet: Kaiser <b>Permanente</b> has an <b>employee</b> rating of 3.8 out of 5 stars, based on 13,653 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The Kaiser <b>Permanente</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Healthcare industry (3.4 stars).
+
+Title: Kaiser Permanente Reviews: What Is It Like to Work At ... - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Kaiser-Permanente-Reviews-E9112454.htm
+Snippet: Kaiser <b>Permanente</b> has an overall rating of 3.5 out of 5, based on over 68 <b>reviews</b> left anonymously by <b>employees</b>. 69% of <b>employees</b> would recommend working at Kaiser <b>Permanente</b> to a friend and 66% have a positive outlook for the business. This rating has decreased by 12% over the last 12 months.
+
+Title: Working at Kaiser Permanente - Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-Kaiser-Permanente-EI_IE19466.11,28.htm
+Snippet: 10000+ <b>Employees</b>. 25 Locations. Type: Nonprofit Organization. Founded in 1945. Revenue: $10+ billion (USD) Health Care Services &amp; Hospitals. At the heart of health care, you’ll find Kaiser <b>Permanente</b>. Founded in 1945, our unique business model has helped us become the nation’s leading not-for-profit, integrated health plan. Working together ...
+
+Title: Kaiser Permanente Reviews - Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Kaiser-Permanente-Reviews-E19466.htm
+Snippet: Kaiser <b>Permanente</b> has an <b>employee</b> rating of 3.9 out of 5 stars, based on 13,606 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The Kaiser <b>Permanente</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Healthcare industry (3.4 stars). Read more
+
+Title: Working at Kaiser Permanente: 13,661 Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Kaiser-Permanente/reviews
+Snippet: 13,661 <b>reviews</b> from Kaiser <b>Permanente</b> <b>employees</b> about Kaiser <b>Permanente</b> culture, salaries, benefits, work-life balance, management, job security, and more. ... Kaiser <b>Permanente</b> <b>Employee</b> <b>Reviews</b> <b>Review</b> this company. Job Title. All. Location. United States 13,661 <b>reviews</b>. Ratings by category. 3.9 Work-Life Balance.
+
+Title: Kaiser Permanente Reviews: What Is It Like to Work At Kaiser Permanente ...
+Link: https://www.glassdoor.co.uk/Reviews/Kaiser-Permanente-Reviews-E19466.htm
+Snippet: Kaiser <b>Permanente</b> has an overall rating of 3.8 out of 5, based on over 14,839 <b>reviews</b> left anonymously by <b>employees</b>. 71% of <b>employees</b> would recommend working at Kaiser <b>Permanente</b> to a friend and 62% have a positive outlook for the business. This rating has decreased by -1% over the last 12 months.
+
+Title: Kaiser Permanente reviews - glassdoor.co.nz
+Link: https://www.glassdoor.co.nz/Reviews/Kaiser-Permanente-Reviews-E19466.htm
+Snippet: 13,431 Kaiser <b>Permanente</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: Kaiser Permanente Reviews in Bellevue (United States) | Glassdoor
+Link: https://www.glassdoor.co.uk/Reviews/Kaiser-Permanente-Bellevue-Reviews-EI_IE19466.0,17_IL.18,26_IC1150442.htm
+Snippet: The hospital provides good health benefits and retirement matching. Cons. The group leads cause the hospital tons of money by bullying, insulting, and belittling junior <b>employees</b>. The laboratory&#39;s turnover rate is exceptionally high because the horrible group leads gossip about everyone they encounter. Continue reading.
+
+Title: Working at Kaiser Permanente: 13,831 Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Kaiser-Permanente/reviews?fcountry=ALL
+Snippet: 13,831 <b>reviews</b> from Kaiser <b>Permanente</b> <b>employees</b> about Kaiser <b>Permanente</b> culture, salaries, benefits, work-life balance, management, job security, and more. ... Kaiser <b>Permanente</b> <b>Employee</b> <b>Reviews</b> <b>Review</b> this company. Job Title. All. Location. All. Ratings by category. 3.9 Work-Life Balance. 4.3 Pay &amp; Benefits. 3.8 Job Security &amp; Advancement.
+
+Title: Kaiser Permanente Reviews - Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Kaiser-Permanente-Reviews-E9112454.htm
+Snippet: 20 Kaiser <b>Permanente</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Remi: Results for 'Kaiser Permanente employee reviews on Glassdoor':
+Title: Kaiser Permanente Reviews: What Is It Like to Work At ... - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Kaiser-Permanente-Reviews-E19466.htm
+Snippet: Kaiser <b>Permanente</b> has an <b>employee</b> rating of 3.8 out of 5 stars, based on 13,653 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The Kaiser <b>Permanente</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Healthcare industry (3.4 stars).
+
+Title: Kaiser Permanente Reviews: What Is It Like to Work At ... - Glassdoor
+Link: https://www.glassdoor.com/Reviews/Kaiser-Permanente-Reviews-E9112454.htm
+Snippet: Kaiser <b>Permanente</b> has an overall rating of 3.5 out of 5, based on over 68 <b>reviews</b> left anonymously by <b>employees</b>. 69% of <b>employees</b> would recommend working at Kaiser <b>Permanente</b> to a friend and 66% have a positive outlook for the business. This rating has decreased by 12% over the last 12 months.
+
+Title: Working at Kaiser Permanente - Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-Kaiser-Permanente-EI_IE19466.11,28.htm
+Snippet: 10000+ <b>Employees</b>. 25 Locations. Type: Nonprofit Organization. Founded in 1945. Revenue: $10+ billion (USD) Health Care Services &amp; Hospitals. At the heart of health care, you’ll find Kaiser <b>Permanente</b>. Founded in 1945, our unique business model has helped us become the nation’s leading not-for-profit, integrated health plan. Working together ...
+
+Title: Kaiser Permanente Reviews - Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Kaiser-Permanente-Reviews-E19466.htm
+Snippet: Kaiser <b>Permanente</b> has an <b>employee</b> rating of 3.9 out of 5 stars, based on 13,606 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The Kaiser <b>Permanente</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Healthcare industry (3.4 stars). Read more
+
+Title: Working at Kaiser Permanente: 13,661 Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Kaiser-Permanente/reviews
+Snippet: 13,661 <b>reviews</b> from Kaiser <b>Permanente</b> <b>employees</b> about Kaiser <b>Permanente</b> culture, salaries, benefits, work-life balance, management, job security, and more. ... Kaiser <b>Permanente</b> <b>Employee</b> <b>Reviews</b> <b>Review</b> this company. Job Title. All. Location. United States 13,661 <b>reviews</b>. Ratings by category. 3.9 Work-Life Balance.
+
+Title: Kaiser Permanente Reviews: What Is It Like to Work At Kaiser Permanente ...
+Link: https://www.glassdoor.co.uk/Reviews/Kaiser-Permanente-Reviews-E19466.htm
+Snippet: Kaiser <b>Permanente</b> has an overall rating of 3.8 out of 5, based on over 14,839 <b>reviews</b> left anonymously by <b>employees</b>. 71% of <b>employees</b> would recommend working at Kaiser <b>Permanente</b> to a friend and 62% have a positive outlook for the business. This rating has decreased by -1% over the last 12 months.
+
+Title: Kaiser Permanente reviews - glassdoor.co.nz
+Link: https://www.glassdoor.co.nz/Reviews/Kaiser-Permanente-Reviews-E19466.htm
+Snippet: 13,431 Kaiser <b>Permanente</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: Kaiser Permanente Reviews in Bellevue (United States) | Glassdoor
+Link: https://www.glassdoor.co.uk/Reviews/Kaiser-Permanente-Bellevue-Reviews-EI_IE19466.0,17_IL.18,26_IC1150442.htm
+Snippet: The hospital provides good health benefits and retirement matching. Cons. The group leads cause the hospital tons of money by bullying, insulting, and belittling junior <b>employees</b>. The laboratory&#39;s turnover rate is exceptionally high because the horrible group leads gossip about everyone they encounter. Continue reading.
+
+Title: Working at Kaiser Permanente: 13,831 Reviews | Indeed.com
+Link: https://www.indeed.com/cmp/Kaiser-Permanente/reviews?fcountry=ALL
+Snippet: 13,831 <b>reviews</b> from Kaiser <b>Permanente</b> <b>employees</b> about Kaiser <b>Permanente</b> culture, salaries, benefits, work-life balance, management, job security, and more. ... Kaiser <b>Permanente</b> <b>Employee</b> <b>Reviews</b> <b>Review</b> this company. Job Title. All. Location. All. Ratings by category. 3.9 Work-Life Balance. 4.3 Pay &amp; Benefits. 3.8 Job Security &amp; Advancement.
+
+Title: Kaiser Permanente Reviews - Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Kaiser-Permanente-Reviews-E9112454.htm
+Snippet: 20 Kaiser <b>Permanente</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Kaiser Permanente official twitter account':
+Title: Sign in - Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/consumer-sign-on
+Snippet: Kaiser <b>Permanente</b> health plans around the country: Kaiser Foundation Health Plan, Inc., in Northern and Southern California and Hawaii • Kaiser Foundation Health Plan of Colorado • Kaiser Foundation Health Plan of Georgia, Inc., Nine Piedmont Center, 3495 Piedmont Road NE, Atlanta, GA 30305, 404-364-7000 • Kaiser Foundation Health Plan of ...
+
+Title: Sign In - Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/as/authorization.oauth2?login_hint=&client_id=mobileKPMobileAppOAuthClient&redirect_uri=org.kp.m://auth&response_type=code&scope=openid%20&state=klHX86KfLe0X7loQOSsW&prompt=login&code_challenge_method=S256&code_challenge=ZsDrlElO_hAvDNa60FqWMZ1Lz4anY8bZiibFlI35wZw
+Snippet: Please enter User ID and Password to enable Biometrics User ID Password
+
+Title: Kaiser Permanente on Twitter
+Link: https://twitter.com/kpmemberservice/status/950513690901655553
+Snippet: “You can email your doctor’s office with routine questions securely and conveniently via the website or phone app.”
+
+Title: Custom Care &amp; Coverage Just For You | Kaiser Permanente
+Link: https://www.kaiserpermanente.org/
+Snippet: Our cause. At Kaiser <b>Permanente</b>, everything works together for one very important cause. You. Our doctors, hospitals, and health plans are all connected — collaborating seamlessly across specialties so you can stay at your best. You get convenient access to care that fits your life. Talk to a health care professional from anywhere — by ...
+
+Title: My Care | My Doctor Online - Kaiser Permanente
+Link: https://www.mydoctoronline.kaiserpermanente.org/ncal/my-care/
+Snippet: My Care makes it easier to manage your family&#39;s health. View upcoming appointments and details. Stay connected with your doctors, including updates about your care. Track life-saving screenings and immunizations. View personalized information about health conditions, pregnancy, and surgeries relevant to you.
+
+Title: @KaiserHealth | X
+Link: https://twitter.com/KaiserHealth
+Snippet: The latest posts from @KaiserHealth
+
+Title: New Member | Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/new-members
+Snippet: You can get care: Online: Meet face-to-face with a doctor by video, 1 email your Kaiser <b>Permanente</b> doctor’s office with nonurgent questions, or set up an e-visit to get personalized care advice within a few hours. By phone: Schedule a phone appointment 1 with a doctor or nurse or call our 24/7 advice line to get on-demand support anytime. In person: Schedule an appointment with your doctor.
+
+Title: Help signing in | Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/consumer-sign-on/help-signing-in
+Snippet: If you’re having problems remembering your user ID, we can help remind you. Forgot user ID. &lt; Return to sign in. Get help remembering your password and user ID.
+
+Title: Create Account | Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/register
+Snippet: Choose how you’d like to create an <b>account</b>. Learn more about receiving care. Learn more about being a caregiver. Start using our secure website to manage your health anytime, anywhere. Registering is easy and you can use the KP app to access your care on the go.
+
+Title: Kaiser Permanente - Facebook
+Link: https://www.facebook.com/kpthrive/
+Snippet: Kaiser <b>Permanente</b>. 463,631 likes · 4,068 talking about this · 21,991 were here. One of America’s leading health care providers &amp; nonprofit health plans. Posts ≉ medical advice.
+
+Remi: Results for 'Kaiser Permanente official twitter account':
+Title: Sign in - Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/consumer-sign-on
+Snippet: Kaiser <b>Permanente</b> health plans around the country: Kaiser Foundation Health Plan, Inc., in Northern and Southern California and Hawaii • Kaiser Foundation Health Plan of Colorado • Kaiser Foundation Health Plan of Georgia, Inc., Nine Piedmont Center, 3495 Piedmont Road NE, Atlanta, GA 30305, 404-364-7000 • Kaiser Foundation Health Plan of ...
+
+Title: Sign In - Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/as/authorization.oauth2?login_hint=&client_id=mobileKPMobileAppOAuthClient&redirect_uri=org.kp.m://auth&response_type=code&scope=openid%20&state=klHX86KfLe0X7loQOSsW&prompt=login&code_challenge_method=S256&code_challenge=ZsDrlElO_hAvDNa60FqWMZ1Lz4anY8bZiibFlI35wZw
+Snippet: Please enter User ID and Password to enable Biometrics User ID Password
+
+Title: Kaiser Permanente on Twitter
+Link: https://twitter.com/kpmemberservice/status/950513690901655553
+Snippet: “You can email your doctor’s office with routine questions securely and conveniently via the website or phone app.”
+
+Title: Custom Care &amp; Coverage Just For You | Kaiser Permanente
+Link: https://www.kaiserpermanente.org/
+Snippet: Our cause. At Kaiser <b>Permanente</b>, everything works together for one very important cause. You. Our doctors, hospitals, and health plans are all connected — collaborating seamlessly across specialties so you can stay at your best. You get convenient access to care that fits your life. Talk to a health care professional from anywhere — by ...
+
+Title: My Care | My Doctor Online - Kaiser Permanente
+Link: https://www.mydoctoronline.kaiserpermanente.org/ncal/my-care/
+Snippet: My Care makes it easier to manage your family&#39;s health. View upcoming appointments and details. Stay connected with your doctors, including updates about your care. Track life-saving screenings and immunizations. View personalized information about health conditions, pregnancy, and surgeries relevant to you.
+
+Title: @KaiserHealth | X
+Link: https://twitter.com/KaiserHealth
+Snippet: The latest posts from @KaiserHealth
+
+Title: New Member | Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/new-members
+Snippet: You can get care: Online: Meet face-to-face with a doctor by video, 1 email your Kaiser <b>Permanente</b> doctor’s office with nonurgent questions, or set up an e-visit to get personalized care advice within a few hours. By phone: Schedule a phone appointment 1 with a doctor or nurse or call our 24/7 advice line to get on-demand support anytime. In person: Schedule an appointment with your doctor.
+
+Title: Help signing in | Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/consumer-sign-on/help-signing-in
+Snippet: If you’re having problems remembering your user ID, we can help remind you. Forgot user ID. &lt; Return to sign in. Get help remembering your password and user ID.
+
+Title: Create Account | Kaiser Permanente
+Link: https://healthy.kaiserpermanente.org/register
+Snippet: Choose how you’d like to create an <b>account</b>. Learn more about receiving care. Learn more about being a caregiver. Start using our secure website to manage your health anytime, anywhere. Registering is easy and you can use the KP app to access your care on the go.
+
+Title: Kaiser Permanente - Facebook
+Link: https://www.facebook.com/kpthrive/
+Snippet: Kaiser <b>Permanente</b>. 463,631 likes · 4,068 talking about this · 21,991 were here. One of America’s leading health care providers &amp; nonprofit health plans. Posts ≉ medical advice.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Kaiser Permanente industry report':
+Title: Annual Reports | Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports
+Snippet: Our annual <b>reports</b>, ESG <b>report</b>, and Community Health <b>report</b> explain our impact and progress in providing high-quality, affordable health care services to our members and the communities we serve.
+
+PDF Link: https://about.kaiserpermanente.org/content/dam/kp/mykp/documents/reports/2020-annual-report2.pdf
+PDF Link: https://about.kaiserpermanente.org/content/dam/kp/mykp/documents/reports/2021_annual_report_accessible.pdf
+PDF Link: https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/reports/annual-reports/2019/kp-annual-report-en-2019.pdf
+PDF Link: https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/reports/annual-reports/2018/kp-annual-report-en-2018.pdf
+PDF Link: https://permanente.org/wp-content/uploads/2022/08/2020-Annual-Report_final-1.pdf
+Title: Kaiser Permanente - Wikipedia
+Link: https://en.wikipedia.org/wiki/Kaiser_Permanente
+Snippet: Kaiser <b>Permanente</b> (/ ˈkaɪzər pɜːrməˈnɛnteɪ /; KP) is an American integrated managed care consortium, based in Oakland, California, United States, founded in 1945 by industrialist Henry J. Kaiser and physician Sidney Garfield. Kaiser <b>Permanente</b> is made up of three distinct but interdependent groups of entities: the Kaiser Foundation ...
+
+Title: Kaiser Permanente reports $2.1B profit in Q2 2023 - Fierce Healthcare
+Link: https://www.fiercehealthcare.com/providers/kaiser-permanente-reports-21b-profit-29-operating-margin-q2-2023
+Snippet: Kaiser <b>Permanente</b> <b>reports</b> $2.1B profit, 2.9% operating margin in Q2 2023. By Dave Muoio Aug 7, 2023 11:07am. Kaiser <b>Permanente</b> Earnings nonprofit hospitals. Kaiser <b>Permanente</b> built on 2023’s ...
+
+PDF Link: https://permanente.org/wp-content/uploads/2022/09/2021-Annual-Report-final-small-compressed.pdf
+Title: 2021 Annual Report | Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports/2021-annual-report
+Snippet: Our 2021 Annual <b>Report</b> highlights the ways we are improving the health of our members and the communities we serve.
+
+Remi: Results for 'Kaiser Permanente industry report':
+Title: Annual Reports | Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports
+Snippet: Our annual <b>reports</b>, ESG <b>report</b>, and Community Health <b>report</b> explain our impact and progress in providing high-quality, affordable health care services to our members and the communities we serve.
+
+PDF Link: https://about.kaiserpermanente.org/content/dam/kp/mykp/documents/reports/2020-annual-report2.pdf
+PDF Link: https://about.kaiserpermanente.org/content/dam/kp/mykp/documents/reports/2021_annual_report_accessible.pdf
+PDF Link: https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/reports/annual-reports/2019/kp-annual-report-en-2019.pdf
+PDF Link: https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/reports/annual-reports/2018/kp-annual-report-en-2018.pdf
+PDF Link: https://permanente.org/wp-content/uploads/2022/08/2020-Annual-Report_final-1.pdf
+Title: Kaiser Permanente - Wikipedia
+Link: https://en.wikipedia.org/wiki/Kaiser_Permanente
+Snippet: Kaiser <b>Permanente</b> (/ ˈkaɪzər pɜːrməˈnɛnteɪ /; KP) is an American integrated managed care consortium, based in Oakland, California, United States, founded in 1945 by industrialist Henry J. Kaiser and physician Sidney Garfield. Kaiser <b>Permanente</b> is made up of three distinct but interdependent groups of entities: the Kaiser Foundation ...
+
+Title: Kaiser Permanente reports $2.1B profit in Q2 2023 - Fierce Healthcare
+Link: https://www.fiercehealthcare.com/providers/kaiser-permanente-reports-21b-profit-29-operating-margin-q2-2023
+Snippet: Kaiser <b>Permanente</b> <b>reports</b> $2.1B profit, 2.9% operating margin in Q2 2023. By Dave Muoio Aug 7, 2023 11:07am. Kaiser <b>Permanente</b> Earnings nonprofit hospitals. Kaiser <b>Permanente</b> built on 2023’s ...
+
+PDF Link: https://permanente.org/wp-content/uploads/2022/09/2021-Annual-Report-final-small-compressed.pdf
+Title: 2021 Annual Report | Kaiser Permanente
+Link: https://about.kaiserpermanente.org/who-we-are/annual-reports/2021-annual-report
+Snippet: Our 2021 Annual <b>Report</b> highlights the ways we are improving the health of our members and the communities we serve.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Kaiser Permanente main competitors':
+Title: Largest Health Insurance Companies 2024 – Forbes Advisor
+Link: https://www.forbes.com/advisor/health-insurance/largest-health-insurance-companies/
+Snippet: Kaiser <b>Permanente</b> is the largest health insurance company in the U.S., followed by two Blue Cross Blue Shield companies (Elevance Health and HCSC), according to S&amp;P Global Market Intelligence.
+
+Title: Kaiser Permanente Competitors | Comparably
+Link: https://www.comparably.com/companies/kaiser-permanente/competitors
+Snippet: Kaiser <b>Permanente competitors</b> include Mayo Clinic, DIGNITY HEALTH, Change Healthcare and Health Net Federal Services. Kaiser <b>Permanente</b> ranks 1st in CEO Score on Comparably vs its <b>competitors</b>. See below how Kaiser <b>Permanente</b> compares to its <b>competitors</b> with CEO Rankings, Product &amp; Services, NPS, Pricing, Customer Services, Overall Culture Score ...
+
+Title: Kaiser vs. Cigna vs. UHC vs. Blue Cross Blue Shield - Healthline
+Link: https://www.healthline.com/health/consumer-healthcare-guide/kaiser-vs-blue-cross-blue-shield
+Snippet: Keep reading to learn how Kaiser <b>Permanente</b>, the provider with the second-largest market share within the health insurance industry, stacks up to some of its <b>competitors</b>.
+
+Title: Kaiser Permanente Competitors and Alternatives - Owler
+Link: https://www.owler.com/company/kaiserpermanente/competitors
+Snippet: Kaiser <b>Permanente</b>&#39;s top <b>competitors</b> include Sutter Health, Mayo Clinic and Blue Shield. See the full list of Kaiser <b>Permanente</b> alternatives and competitive updates on Owler, the world’s largest community-based business insights platform.
+
+Title: Kaiser Permanente - Wikipedia
+Link: https://en.wikipedia.org/wiki/Kaiser_Permanente
+Snippet: Kaiser <b>Permanente</b> (/ ˈkaɪzər pɜːrməˈnɛnteɪ /; KP) is an American integrated managed care consortium, based in Oakland, California, United States, founded in 1945 by industrialist Henry J. Kaiser and physician Sidney Garfield. Kaiser <b>Permanente</b> is made up of three distinct but interdependent groups of entities: the Kaiser Foundation Health Plan, Inc. (KFHP) and its regional operating ...
+
+Title: Kaiser Permanente competitors and alternatives - Tracxn
+Link: https://tracxn.com/d/companies/kaiser-permanente/__zxH0tYrueW1lSpNnJVMCSEhlRmgxidAZhZTyasCsAdM/competitors
+Snippet: Kaiser <b>Permanente</b> has 244 active <b>competitors</b>. <b>Competitors</b> include UnitedHealth Group, Humana.
+
+Title: Kaiser Permanente’s Competitors, Revenue, Number of Employees, Funding ...
+Link: https://www.owler.com/company/kaiserpermanente
+Snippet: Kaiser <b>Permanente</b>’s Profile, Revenue and Employees. Kaiser <b>Permanente</b> is a Georgia-based non-profit organization that provides integrated medical care and health coverage for individuals. Kaiser <b>Permanente</b>’s primary <b>competitors</b> include Sutter Health, Mayo Clinic, Blue Shield and 10 more.
+
+Title: Kaiser Permanente Health Insurance Review 2024 - Forbes
+Link: https://www.forbes.com/advisor/health-insurance/kaiser-permanente-health-insurance-review/
+Snippet: Kaiser <b>Permanente</b>, also known as Kaiser Foundation Health Plan, offers Affordable Care Act marketplace plans in eight states. Here&#39;s how the health insurance company measures up to major <b>competitors</b>.
+
+Title: Kaiser Permanente Competitors and Similar Companies - Zippia
+Link: https://www.zippia.com/kaiser-permanente-careers-57051/competitors/
+Snippet: Kaiser <b>Permanente main competitors</b> are Allegheny Health Network, Hawaii Pacific Health, and Sutter Health. Competitor Summary. See how Kaiser <b>Permanente</b> compares to its <b>main</b> <b>competitors</b>: UPMC has the most employees (92,000). Employees at Allegheny Health Network earn more than most of the <b>competitors</b>, with an average yearly salary of $82,912.
+
+Title: Kaiser Permanente competitors and alternatives - Tracxn
+Link: https://tracxn.com/d/companies/kaiser-permanente/__IyfzR7CusH9qBMqikt28_KWPn_FjvNrlW8K450QHaxs/competitors
+Snippet: Kaiser <b>Permanente</b> &#39;s <b>competitors</b> have raised a total of $1.02B funding across 69 funding rounds. See the distribution of funded <b>competitors</b> of Kaiser <b>Permanente</b> below.
+
+Remi: Results for 'Kaiser Permanente main competitors':
+Title: Largest Health Insurance Companies 2024 – Forbes Advisor
+Link: https://www.forbes.com/advisor/health-insurance/largest-health-insurance-companies/
+Snippet: Kaiser <b>Permanente</b> is the largest health insurance company in the U.S., followed by two Blue Cross Blue Shield companies (Elevance Health and HCSC), according to S&amp;P Global Market Intelligence.
+
+Title: Kaiser Permanente Competitors | Comparably
+Link: https://www.comparably.com/companies/kaiser-permanente/competitors
+Snippet: Kaiser <b>Permanente competitors</b> include Mayo Clinic, DIGNITY HEALTH, Change Healthcare and Health Net Federal Services. Kaiser <b>Permanente</b> ranks 1st in CEO Score on Comparably vs its <b>competitors</b>. See below how Kaiser <b>Permanente</b> compares to its <b>competitors</b> with CEO Rankings, Product &amp; Services, NPS, Pricing, Customer Services, Overall Culture Score ...
+
+Title: Kaiser vs. Cigna vs. UHC vs. Blue Cross Blue Shield - Healthline
+Link: https://www.healthline.com/health/consumer-healthcare-guide/kaiser-vs-blue-cross-blue-shield
+Snippet: Keep reading to learn how Kaiser <b>Permanente</b>, the provider with the second-largest market share within the health insurance industry, stacks up to some of its <b>competitors</b>.
+
+Title: Kaiser Permanente Competitors and Alternatives - Owler
+Link: https://www.owler.com/company/kaiserpermanente/competitors
+Snippet: Kaiser <b>Permanente</b>&#39;s top <b>competitors</b> include Sutter Health, Mayo Clinic and Blue Shield. See the full list of Kaiser <b>Permanente</b> alternatives and competitive updates on Owler, the world’s largest community-based business insights platform.
+
+Title: Kaiser Permanente - Wikipedia
+Link: https://en.wikipedia.org/wiki/Kaiser_Permanente
+Snippet: Kaiser <b>Permanente</b> (/ ˈkaɪzər pɜːrməˈnɛnteɪ /; KP) is an American integrated managed care consortium, based in Oakland, California, United States, founded in 1945 by industrialist Henry J. Kaiser and physician Sidney Garfield. Kaiser <b>Permanente</b> is made up of three distinct but interdependent groups of entities: the Kaiser Foundation Health Plan, Inc. (KFHP) and its regional operating ...
+
+Title: Kaiser Permanente competitors and alternatives - Tracxn
+Link: https://tracxn.com/d/companies/kaiser-permanente/__zxH0tYrueW1lSpNnJVMCSEhlRmgxidAZhZTyasCsAdM/competitors
+Snippet: Kaiser <b>Permanente</b> has 244 active <b>competitors</b>. <b>Competitors</b> include UnitedHealth Group, Humana.
+
+Title: Kaiser Permanente’s Competitors, Revenue, Number of Employees, Funding ...
+Link: https://www.owler.com/company/kaiserpermanente
+Snippet: Kaiser <b>Permanente</b>’s Profile, Revenue and Employees. Kaiser <b>Permanente</b> is a Georgia-based non-profit organization that provides integrated medical care and health coverage for individuals. Kaiser <b>Permanente</b>’s primary <b>competitors</b> include Sutter Health, Mayo Clinic, Blue Shield and 10 more.
+
+Title: Kaiser Permanente Health Insurance Review 2024 - Forbes
+Link: https://www.forbes.com/advisor/health-insurance/kaiser-permanente-health-insurance-review/
+Snippet: Kaiser <b>Permanente</b>, also known as Kaiser Foundation Health Plan, offers Affordable Care Act marketplace plans in eight states. Here&#39;s how the health insurance company measures up to major <b>competitors</b>.
+
+Title: Kaiser Permanente Competitors and Similar Companies - Zippia
+Link: https://www.zippia.com/kaiser-permanente-careers-57051/competitors/
+Snippet: Kaiser <b>Permanente main competitors</b> are Allegheny Health Network, Hawaii Pacific Health, and Sutter Health. Competitor Summary. See how Kaiser <b>Permanente</b> compares to its <b>main</b> <b>competitors</b>: UPMC has the most employees (92,000). Employees at Allegheny Health Network earn more than most of the <b>competitors</b>, with an average yearly salary of $82,912.
+
+Title: Kaiser Permanente competitors and alternatives - Tracxn
+Link: https://tracxn.com/d/companies/kaiser-permanente/__IyfzR7CusH9qBMqikt28_KWPn_FjvNrlW8K450QHaxs/competitors
+Snippet: Kaiser <b>Permanente</b> &#39;s <b>competitors</b> have raised a total of $1.02B funding across 69 funding rounds. See the distribution of funded <b>competitors</b> of Kaiser <b>Permanente</b> below.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)

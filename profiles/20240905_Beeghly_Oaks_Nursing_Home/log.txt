@@ -1,0 +1,672 @@
+Susan: Sure, to gather information pertaining to Beeghly Oaks Nursing Home, we should follow a detailed strategy covering different aspects of the organization. 
+
+1. **Financial Information:**
+   Start with an internet search to find any publicly available financial information. Websites such as Glassdoor, Bloomberg, or Indeed might provide general insight into their revenue, profitability, and financial stability. 
+
+2. **Key Decision Makers:** 
+   Investigate the nursing home's official website to identify the Chief Executive Officer, Chief Financial Officer, and other key leadership roles. Use LinkedIn and the web to research their background, professional network, and any potential points of leverage, such as history of labor relations, notable achievements, or controversies.
+
+3. **Labor Relations:** 
+   Look for any news articles, labor dispute records, or reviews from workers or former employees about their working conditions. Websites like Indeed, Glassdoor or union websites could provide essential insights on this.
+
+4. **Recent Scandals:**
+   A comprehensive web search can help locate any recent scandals or negative news coverage. Look at local news outlets, blogs, and social media posts relating to the nursing home, focusing on incidents that could potentially undermine their reputation or credibility.
+
+5. **Laws and Regulations:**
+   Understanding laws and regulations in the care home sector can help locate potential points of compliance leverage. Are there any regulatory changes that could impact their operations? Have they been penalized in the past for lack of compliance?
+
+6. **Public Perception:**
+   Check their standing in the community through online reviews and discussions on platforms like Google Maps, Yelp, and Facebook. A negative public image, if it exists, can be a significant point of leverage.
+
+7. **Partnerships and Affiliations:**
+   Identify any corporations or health institutions affiliated with Beeghly Oaks. Potential issues with these partners could indirectly impact Beeghly too.
+
+Remember, all data collected through this process must be approached ethically, and used responsibly.
+
+Manny: I'd like to know if Susan has any specific recommendations about:
+
+1. Potential sources for detailed financial data, especially in cases where data may not be publicly available.
+2. Strategies or resources for identifying past or current labor disputes or complaints. 
+3. Methods of searching for recent scandals that could have flown under the radar of main-media houses.
+4. Any recommended tools or methods for tracking public perception of Beeghly Oaks over time.
+5. If there are any databases or resources she'd recommend to uncover information about their partnerships and affiliations.
+   
+Do let her know that these questions are geared toward maximizing the effectiveness and thoroughness of our research approach.
+Manny: Sure, here's the list of search queries formatted as a Python list:
+
+```python
+search_queries_for_remi = [
+    'Beeghly Oaks Nursing Home financial report',
+    'Beeghly Oaks Nursing Home CEO',
+    'Beeghly Oaks Nursing Home CFO',
+    'Beeghly Oaks Nursing Home key decision makers',
+    'Beeghly Oaks Nursing Home labor relations',
+    'Beeghly Oaks Nursing Home employee reviews',
+    'Beeghly Oaks Nursing Home recent scandals',
+    'Beeghly Oaks Nursing Home news',
+    'Beeghly Oaks Nursing Home regulatory violations',
+    'Beeghly Oaks Nursing Home public perception',
+    'Beeghly Oaks Nursing Home Google reviews',
+    'Beeghly Oaks Nursing Home Yelp reviews',
+    'Beeghly Oaks Nursing Home Facebook discussions',
+    'Beeghly Oaks Nursing Home partnerships', 
+    'Beeghly Oaks Nursing Home affiliations'
+]
+```
+Remi can begin her research using these queries in any search engine or website to gather the necessary information about Beeghly Oaks Nursing Home.
+
+Remi: Results for query 'Beeghly Oaks Nursing Home financial report':
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Overview. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing in Youngstown, OH has a short-term rehabilitation rating of Average and a long-term <b>care</b> rating of Average. It is a medium facility with ...
+
+Title: No title available
+Link: https://projects.propublica.org/nursing-homes/homes/h-366195
+Snippet: Reported total nurse staffing hours per resident per day. State Average: 3.6. The percentage of <b>nursing</b> staff who stopped working at the <b>home</b> over a 12-month period. State Average: 51.6%. Qualifying beds in the certified provider or supplier facility. Average number of residents based on daily census.
+
+Title: No title available
+Link: https://healthcarecomps.com/nursing-homes/oh/366195/
+Snippet: BEEGHLY <b>OAKS</b> CENTER FOR REHABILITATION <b>&amp;</b> HEALING is a Medicare and Medicaid certified <b>nursing</b> <b>home</b> in YOUNGSTOWN, OH with 68 residents and 115 beds. ... <b>Nursing</b> <b>Home</b> <b>Report</b>. In 2016, BEEGHLY <b>OAKS</b> CENTER FOR REHABILITATION <b>&amp;</b> HEALING charged a total of $1,565,982 for 80 Medicare Beneficiaries. The average age of residents at this skilled <b>nursing</b> ...
+
+Title: No title available
+Link: https://nursinghomerating.org/OH/beeghly-oaks-center-for-rehabilitation-healing/366195/
+Snippet: Beeghly <b>Oaks</b> Center for Rehabilitation and Healing is a for-profit <b>nursing</b> <b>home</b>. It has a total of 115 beds available, 92.6 are occupied. The occupancy rate is 81 percent. This facility accepts Medicare and Medicaid. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing is not located within a hospital.
+
+Title: No title available
+Link: https://www.nursinghomedatabase.com/ownership/44512/beeghly-oaks-skilled-nursing-and-rehab-ctr
+Snippet: A detailed <b>report</b> of the companies and individuals that are registered as direct and indirect owners, managers and directors of Beeghly <b>Oaks</b> Center For Rehabilitation and Healing (id#: 366195). Legal Business Name: BEEGHLY <b>NURSING</b> LLC
+
+Title: No title available
+Link: https://nursinghomereport.org/beeghly-oaks-center-for-rehabilitation-healing-366195/
+Snippet: Beeghly <b>Oaks</b> Center for Rehabilitation <b>&amp;</b> Healing is a for profit corportation owned <b>nursing</b> <b>home</b>. This Youngstown, Ohio <b>nursing</b> <b>home</b> is not located within a hospital. This facility was first approved to provide Medicare/Medicaid services 24 years ago, on 5-8-00. The occupancy rate is 80%, with 115 total beds and 92 residents
+
+Title: No title available
+Link: https://www.nursinghomedatabase.com/ratings/44512/beeghly-oaks-center-for-rehabilitation-healing
+Snippet: A <b>report</b> showing the CMS Five Star Ratings, Inspection Scores, Quality Measures and Trends for Beeghly <b>Oaks</b> Center For Rehabilitation and Healing. The Centers for Medicare and Medicaid Services (CMS) has developed a detailed methodology for rating <b>nursing</b> <b>homes</b>.
+
+Title: No title available
+Link: https://www.aplaceformom.com/community/beeghly-oaks-center-for-rehabilitation-and-healing-84629
+Snippet: <b>A Place</b> for <b>Mom</b> has scored Beeghly <b>Oaks</b> Center for Rehabilitation and Healing with 1 out of 10 using our proprietary review score based on 2 reviews in the last 2 years. Over all time, Beeghly <b>Oaks</b> Center for Rehabilitation and Healing has 90 reviews with an average &quot;overall experience&quot; of 3.9 out of 5. How we score communities
+
+Title: No title available
+Link: https://www.mycaringplan.com/senior-living/beeghly-oaks-center-for-rehabilitation-healing/
+Snippet: Beeghly <b>Oaks</b> Center For Rehabilitation &amp; Healing. 6505 Market Street, Youngstown, OH 44512. <b>Nursing</b> <b>Home</b> Rehabilitation. View Images. Pricing About Amenities Reviews (800) 780-8101. Ask Question. Schedule Tour.
+
+Title: No title available
+Link: https://www.nursinghomes.com/oh/youngstown/beeghly-oaks-center-for-rehabilitation-and-healing/
+Snippet: Compare Other <b>Nursing</b> <b>Homes</b> to Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing. Nearby <b>Nursing</b> <b>Homes</b> shown affected by subscription. Passavant Community. 105 Burgess Drive Zelienople, PA 16063. ... Apr 24, 2024View full inspection <b>report</b>. Staffing. Below average. Quality measures. Average. Short-stay quality measures. Below average. Long-stay ...
+
+Remi: Results for query 'Beeghly Oaks Nursing Home CEO':
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Overview. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing in Youngstown, OH has a short-term rehabilitation rating of Average and a long-term <b>care</b> rating of Average. It is a medium facility with ...
+
+Title: No title available
+Link: https://npiprofile.com/npi/1720483928
+Snippet: About BEEGHLY <b>OAKS</b> CENTER FOR REHABILITATION AND HEALING. Beeghly <b>Oaks</b> Center For Rehabilitation And Healing is a provider established in Boardman, Ohio operating as a Skilled <b>Nursing</b> Facility.The healthcare provider is registered in the NPI registry with number 1720483928 assigned on October 2014. The practitioner&#39;s primary taxonomy code is 314000000X. ...
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/a-day-at-beeghly/
+Snippet: Dean Grapentine Asst. Rehab Director. Dean Grapentine has worked as a PTA for 25 years in the following areas: acute <b>care</b>, sub-acute <b>care</b>, <b>home</b> health, extended <b>care</b>, outpatient <b>care</b>. This extended and varied experience enables him to relate to patients at all stages of the rehabilitation journey. Deane heads the Arthritis Classes at Beeghly.
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/about-us/
+Snippet: Our Greatest Asset. Our dedicated highly trained staff, many of whom have been at Beeghly for over a decade, are our greatest asset. Our beautiful grounds with landscaped pavilion and gazebo, spacious luxury suites and delicious food, provide the perfect backdrop for enhancing our state of the art rehabilitation and long term <b>care</b> services.
+
+Title: No title available
+Link: https://npiprofile.com/npi/1871508689
+Snippet: Beeghly <b>Oaks</b> is a provider established in Youngstown, Ohio operating as a Skilled <b>Nursing</b> Facility. The healthcare provider is registered in the NPI registry with number 1871508689 assigned on July 2006. The practitioner&#39;s primary taxonomy code is 314000000X with license number 4118 (OH). The provider is registered as an organization and their ...
+
+Title: No title available
+Link: https://projects.propublica.org/nursing-homes/homes/h-366195
+Snippet: Reported total nurse staffing hours per resident per day. State Average: 3.6. The percentage of <b>nursing</b> staff who stopped working at the <b>home</b> over a 12-month period. State Average: 51.6%. Qualifying beds in the certified provider or supplier facility. Average number of residents based on daily census.
+
+Title: No title available
+Link: https://elderguide.com/senior-living/beeghly-oaks-center-for-rehabilitation-healing-44512/
+Snippet: 6505 Market Street, Youngstown OH 44512. • (330) 884-2300 •. 72% estimated occupancy 1. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing turns out to be one of many <b>nursing</b> <b>home</b> options you can choose from in Youngstown, Ohio. We gave this facility an F, which is definitely concerning in our grading scheme. This place didn&#39;t have much going ...
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/
+Snippet: Our Approach. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing in Boardman, OH, provides a soothing, tranquil and comfortable environment for our guests that promotes speedier recovery time. Professional highly trained staff combine to provide compassionate holistic healing for guests in 2 sub-acute <b>care</b> and 2 long term <b>care</b> units.
+
+Title: No title available
+Link: https://www.nursinghomes.com/oh/youngstown/beeghly-oaks-center-for-rehabilitation-and-healing/
+Snippet: Compare Other <b>Nursing</b> <b>Homes</b> to Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing. Nearby <b>Nursing</b> <b>Homes</b> shown affected by subscription. Passavant Community. 105 Burgess Drive Zelienople, PA 16063. 32.2 miles. North Hills Skilled <b>Nursing</b> and Rehabilitation Center. 1105 Perry Highway Pittsburgh, PA 15237. 47.1 miles.
+
+Title: No title available
+Link: https://www.aplaceformom.com/community/beeghly-oaks-center-for-rehabilitation-and-healing-84629
+Snippet: <b>A Place</b> for <b>Mom</b> has scored Beeghly <b>Oaks</b> Center for Rehabilitation and Healing with 1 out of 10 using our proprietary review score based on 2 reviews in the last 2 years. Over all time, Beeghly <b>Oaks</b> Center for Rehabilitation and Healing has 90 reviews with an average &quot;overall experience&quot; of 3.9 out of 5. How we score communities
+
+Remi: Results for query 'Beeghly Oaks Nursing Home CFO':
+Title: No title available
+Link: https://npiprofile.com/npi/1295921211
+Snippet: Beeghly <b>Oaks Nursing</b> And Rehabilitation Center provider in 6505 Market Street Bldg D Boardman, Oh 44512. ... the authorized official must be a general partner, chairman of the board, <b>CEO</b>, <b>CFO</b> or a direct owner holding at least a 5 percent stake in the medical organization. ... 1295921138 - GOLDEN AGE ADULT <b>HOME</b> - Assisted Living Facility ...
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/a-day-at-beeghly/
+Snippet: Dean Grapentine Asst. Rehab Director. Dean Grapentine has worked as a PTA for 25 years in the following areas: acute care, sub-acute care, <b>home</b> health, extended care, outpatient care. This extended and varied experience enables him to relate to patients at all stages of the rehabilitation journey. Deane heads the Arthritis Classes at Beeghly.
+
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Overview. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing in Youngstown, OH has a short-term rehabilitation rating of Average and a long-term care rating of Average. It is a medium facility with ...
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/
+Snippet: Our Approach. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing in Boardman, OH, provides a soothing, tranquil and comfortable environment for our guests that promotes speedier recovery time. Professional highly trained staff combine to provide compassionate holistic healing for guests in 2 sub-acute care and 2 long term care units.
+
+Title: No title available
+Link: https://projects.propublica.org/nursing-homes/homes/h-366195
+Snippet: Reported total nurse staffing hours per resident per day. State Average: 3.6. The percentage of <b>nursing</b> staff who stopped working at the <b>home</b> over a 12-month period. State Average: 51.6%. Qualifying beds in the certified provider or supplier facility. Average number of residents based on daily census.
+
+Title: No title available
+Link: https://healthcarecomps.com/nursing-homes/oh/366195/
+Snippet: BEEGHLY <b>OAKS</b> CENTER FOR REHABILITATION <b>&amp;</b> HEALING in YOUNGSTOWN, OH is a For profit - Corporation, Medicare Certified, <b>nursing</b> <b>home</b> operating with 68 residents and 115 certified beds. Its legal business name (LBN) is BEEGHLY <b>NURSING</b> LLC. This facility has been certified to participate in Medicare and Medicaid programs since May 08, 2000 and has ...
+
+Title: No title available
+Link: https://www.aplaceformom.com/community/beeghly-oaks-center-for-rehabilitation-and-healing-84629
+Snippet: <b>A Place</b> for <b>Mom</b> has scored Beeghly <b>Oaks</b> Center for Rehabilitation and Healing with 1 out of 10 using our proprietary review score based on 2 reviews in the last 2 years. Over all time, Beeghly <b>Oaks</b> Center for Rehabilitation and Healing has 90 reviews with an average &quot;overall experience&quot; of 3.9 out of 5. How we score communities
+
+Title: No title available
+Link: https://www.nursinghomedatabase.com/ratings/44512/beeghly-oaks-center-for-rehabilitation-healing
+Snippet: Ratings, Scores, Quality Measures, and Trends for Beeghly <b>Oaks</b> Center For Rehabilitation and Healing . As of: Aug 01, 2024 ... (CMS) has developed a detailed methodology for rating <b>nursing</b> <b>homes</b>. <b>Homes</b> are scored based on annual health inspections, repeat visits, and resident surveys. Points are weighted based on the scope and severity of ...
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/about-us/
+Snippet: Our Greatest Asset. Our dedicated highly trained staff, many of whom have been at Beeghly for over a decade, are our greatest asset. Our beautiful grounds with landscaped pavilion and gazebo, spacious luxury suites and delicious food, provide the perfect backdrop for enhancing our state of the art rehabilitation and long term care services.
+
+Title: No title available
+Link: https://npino.com/nursing-home/1295921211-beeghly-oaks-nursing-and-rehabilitation-center/
+Snippet: The current location address for Beeghly <b>Oaks Nursing</b> And Rehabilitation Center is 6505 Market Street, Bldg D, Boardman, Ohio and the contact number is 330-884-2300 and fax number is 330-726-0182. The mailing address for Beeghly <b>Oaks Nursing</b> And Rehabilitation Center is 3248 W. Henderson Road, , Columbus, Ohio - 43220 (mailing address contact ...
+
+Remi: Results for query 'Beeghly Oaks Nursing Home key decision makers':
+Title: No title available
+Link: https://beeghlyoaksrehab.com/
+Snippet: Our Approach. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing in Boardman, OH, provides a soothing, tranquil and comfortable environment for our guests that promotes speedier recovery time. Professional highly trained staff combine to provide compassionate holistic healing for guests in 2 sub-acute care and 2 long term care units.
+
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Overview. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing in Youngstown, OH has a short-term rehabilitation rating of Average and a long-term care rating of Average. It is a medium facility with ...
+
+Title: No title available
+Link: https://healthcarecomps.com/nursing-homes/oh/366195/
+Snippet: <b>Nursing</b> <b>Home</b> Report. In 2016, BEEGHLY <b>OAKS</b> CENTER FOR REHABILITATION <b>&amp;</b> HEALING charged a total of $1,565,982 for 80 Medicare Beneficiaries. The average age of residents at this skilled <b>nursing</b> facility is about 77. ... Always talk to a doctor or trained professional and/or others whom you trust whenever <b>making</b> <b>decisions</b> regarding your health or ...
+
+Title: No title available
+Link: https://elderguide.com/senior-living/beeghly-oaks-center-for-rehabilitation-healing-44512/
+Snippet: 6505 Market Street, Youngstown OH 44512. • (330) 884-2300 •. 72% estimated occupancy 1. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing turns out to be one of many <b>nursing</b> <b>home</b> options you can choose from in Youngstown, Ohio. We gave this facility an F, which is definitely concerning in our grading scheme. This place didn&#39;t have much going ...
+
+Title: No title available
+Link: https://www.nursinghomedatabase.com/ratings/44512/beeghly-oaks-center-for-rehabilitation-healing
+Snippet: Cycle 1 Score (as of December 16, 2022) 472: Cycle 2 Score (as of January 30, 2020) 152: Cycle 3 Score (as of December 13, 2018) 160: Weighted All Cycles Score
+
+Title: No title available
+Link: https://projects.propublica.org/nursing-homes/homes/h-366195
+Snippet: Reported total nurse staffing hours per resident per day. State Average: 3.6. The percentage of <b>nursing</b> staff who stopped working at the <b>home</b> over a 12-month period. State Average: 51.6%. Qualifying beds in the certified provider or supplier facility. Average number of residents based on daily census.
+
+Title: No title available
+Link: https://www.aplaceformom.com/community/beeghly-oaks-center-for-rehabilitation-and-healing-84629
+Snippet: <b>A Place</b> for <b>Mom</b> has scored Beeghly <b>Oaks</b> Center for Rehabilitation and Healing with 1 out of 10 using our proprietary review score based on 2 reviews in the last 2 years. Over all time, Beeghly <b>Oaks</b> Center for Rehabilitation and Healing has 90 reviews with an average &quot;overall experience&quot; of 3.9 out of 5. How we score communities
+
+Title: No title available
+Link: https://www.nursinghomesite.com/BEEGHLY_OAKS_CENTER_FOR_REHABILITATION_AND_HEALING_YOUNGSTOWN_OH
+Snippet: Due to COVID-19 and just new rules in general, many <b>nursing</b> <b>homes</b> have new procedures for visiting. We advise calling Beeghly <b>Oaks</b> Center For Rehabilitation And Healing ( at (330) 884-2300 ) to see what their protocols are for visiting and placement appointments if you are not already familiar with them. Monday.
+
+Title: No title available
+Link: https://www.mycaringplan.com/senior-living/beeghly-oaks-center-for-rehabilitation-healing/
+Snippet: Beeghly <b>Oaks</b> Center For Rehabilitation &amp; Healing. 6505 Market Street, Youngstown, OH 44512. <b>Nursing</b> <b>Home</b> Rehabilitation. View Images. Pricing About Amenities Reviews (800) 780-8101. Ask Question. Schedule Tour.
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/about-us/
+Snippet: Our Greatest Asset. Our dedicated highly trained staff, many of whom have been at Beeghly for over a decade, are our greatest asset. Our beautiful grounds with landscaped pavilion and gazebo, spacious luxury suites and delicious food, provide the perfect backdrop for enhancing our state of the art rehabilitation and long term care services.
+
+Remi: Results for query 'Beeghly Oaks Nursing Home labor relations':
+Title: No title available
+Link: https://www.nlrb.gov/case/08-CA-037556
+Snippet: Pre-Wagner Act <b>labor</b> <b>relations</b>; 1933 The NLB and &quot;The Old NLRB&quot; 1935 Enforcement of the Wagner Act; 1935 passage of the Wagner Act; 1937 Act Held Constitutional; 1947 Taft-Hartley Passage and NLRB Structural Changes; 1947 Taft-Hartley Substantive Provisions; 1959 Landrum-Griffin Act; 1974 Health <b>Care</b> Amendments; Impact of the NLRB on ...
+
+Title: No title available
+Link: https://www.nlrb.gov/case/08-CA-306659
+Snippet: The NLRB public website is scheduled to undergo routine maintenance from Friday, July 19, 2024, at 11:00 PM ET until Monday, July 22, 2024, at 6:00 AM ET.
+
+Title: No title available
+Link: https://www.nlrb.gov/case/08-CA-150796
+Snippet: Charged Party / Respondent Employer BEEGHLY <b>OAKS</b> OPERATING LLC d/b/a BEEGHLY <b>OAKS</b> CENTER FOR REHABILITATION AND HEALING: 6505 Market St Boardman, OH 44512-3457 (330)884-2300 : Charging Party Union SERVICE EMPLOYEES INTERNATIONAL UNION DISTRICT 1199: 310 Churchill Hubbard Rd Ste A Youngstown, OH 44505-1371 (330)759-3751
+
+Title: No title available
+Link: https://projects.propublica.org/nursing-homes/homes/h-366195
+Snippet: Reported total nurse staffing hours per resident per day. State Average: 3.6. The percentage of <b>nursing</b> staff who stopped working at the <b>home</b> over a 12-month period. State Average: 51.6%. Qualifying beds in the certified provider or supplier facility. Average number of residents based on daily census.
+
+Title: No title available
+Link: https://npiprofile.com/npi/1871508689
+Snippet: Beeghly <b>Oaks</b> is a provider established in Youngstown, Ohio operating as a Skilled <b>Nursing</b> Facility. The healthcare provider is registered in the NPI registry with number 1871508689 assigned on July 2006. The practitioner&#39;s primary taxonomy code is 314000000X with license number 4118 (OH). The provider is registered as an organization and their ...
+
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Overview. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing in Youngstown, OH has a short-term rehabilitation rating of Average and a long-term <b>care</b> rating of Average. It is a medium facility with ...
+
+Title: No title available
+Link: https://www.nursinghomedatabase.com/ratings/44512/beeghly-oaks-center-for-rehabilitation-healing
+Snippet: Ratings, Scores, Quality Measures, and Trends for Beeghly <b>Oaks</b> Center For Rehabilitation and Healing . As of: Aug 01, 2024 ... (CMS) has developed a detailed methodology for rating <b>nursing</b> <b>homes</b>. <b>Homes</b> are scored based on annual health inspections, repeat visits, and resident surveys. Points are weighted based on the scope and severity of ...
+
+Title: No title available
+Link: https://npino.com/nursing-home/1720483928-beeghly-oaks-center-for-rehabilitation-and-healing/
+Snippet: Beeghly <b>Oaks</b> Center For Rehabilitation And Healing (BEEGHLY <b>OAKS</b> OPERATING, LLC) is a <b>nursing</b> <b>home</b> in Boardman, Ohio.The NPI Number for Beeghly <b>Oaks</b> Center For Rehabilitation And Healing is 1720483928.A <b>nursing</b> <b>home</b>, also known as skilled <b>nursing</b> facility (SNF), is a facility or distinct part of an institution whose primary function is to provide medical, continuous <b>nursing</b>, and other health ...
+
+Title: No title available
+Link: https://www.aplaceformom.com/community/beeghly-oaks-center-for-rehabilitation-and-healing-84629
+Snippet: <b>A Place</b> for <b>Mom</b> has scored Beeghly <b>Oaks</b> Center for Rehabilitation and Healing with 1 out of 10 using our proprietary review score based on 2 reviews in the last 2 years. Over all time, Beeghly <b>Oaks</b> Center for Rehabilitation and Healing has 90 reviews with an average &quot;overall experience&quot; of 3.9 out of 5. How we score communities
+
+Title: No title available
+Link: https://elderguide.com/senior-living/beeghly-oaks-center-for-rehabilitation-healing-44512/
+Snippet: 6505 Market Street, Youngstown OH 44512. • (330) 884-2300 •. 72% estimated occupancy 1. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing turns out to be one of many <b>nursing</b> <b>home</b> options you can choose from in Youngstown, Ohio. We gave this facility an F, which is definitely concerning in our grading scheme. This place didn&#39;t have much going ...
+
+Remi: Results for query 'Beeghly Oaks Nursing Home employee reviews':
+Title: No title available
+Link: https://www.indeed.com/cmp/Beeghly-Oaks/reviews?fcountry=ALL
+Snippet: <b>Reviews</b> from Beeghly <b>Oaks</b> <b>employees</b> about Beeghly <b>Oaks</b> culture, salaries, benefits, work-life balance, management, job security, and more. <b>Home</b>. Company <b>reviews</b>. Find salaries. Sign in. Sign in. Employers / Post Job. 1 new update. Start of main content. Beeghly <b>Oaks</b>. 2.6 out of 5 stars. 2.6. 11 <b>reviews</b>. Follow. Write a <b>review</b>. Snapshot; Why ...
+
+Title: No title available
+Link: https://www.indeed.com/cmp/Beeghly-Oaks-Skilled-Nursing-and-Rehab/reviews
+Snippet: <b>Reviews</b> from Beeghly <b>Oaks</b> Skilled <b>Nursing</b> and Rehab <b>employees</b> about Beeghly <b>Oaks</b> Skilled <b>Nursing</b> and Rehab culture, salaries, benefits, work-life balance, management, job security, and more.
+
+Title: No title available
+Link: https://www.glassdoor.com/Reviews/Beeghly-Oaks-Center-for-Rehabilitation-and-Healing-Reviews-E1478368.htm
+Snippet: 8 Beeghly <b>Oaks</b> Center for Rehabilitation and Healing <b>reviews</b>. ... The aides have to many residents at once to <b>care</b> for. Show More. Helpful. Share. 1.0. Sep 10, 2019. It is like working in hell ... for Rehabilitation and Healing <b>reviews</b> submitted anonymously by Beeghly <b>Oaks</b> Center for Rehabilitation and Healing <b>employees</b>. Read <b>employee</b> <b>reviews</b> ...
+
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Overview. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing in Youngstown, OH has a short-term rehabilitation rating of Average and a long-term <b>care</b> rating of Average. It is a medium facility with ...
+
+Title: No title available
+Link: https://reviews.birdeye.com/beeghly-oaks-center-for-rehabilitation-healing-157268575693740
+Snippet: Read 98 customer <b>reviews</b> of Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing, one of the best Rehabilitation Center businesses at 6505 Market St, Boardman, OH 44512 United States. Find <b>reviews</b>, ratings, directions, business hours, and book appointments online.
+
+Title: No title available
+Link: https://www.glassdoor.co.uk/Reviews/Beeghly-Oaks-Center-for-Rehabilitation-and-Healing-Reviews-E1478368.htm
+Snippet: 8 Beeghly <b>Oaks</b> Center for Rehabilitation and Healing <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: No title available
+Link: https://www.aplaceformom.com/community/beeghly-oaks-center-for-rehabilitation-and-healing-84629
+Snippet: <b>A Place</b> for <b>Mom</b> has scored Beeghly <b>Oaks</b> Center for Rehabilitation and Healing with 1 out of 10 using our proprietary <b>review</b> score based on 2 <b>reviews</b> in the last 2 years. Over all time, Beeghly <b>Oaks</b> Center for Rehabilitation and Healing has 90 <b>reviews</b> with an average &quot;overall experience&quot; of 3.9 out of 5. How we score communities
+
+Title: No title available
+Link: https://www.nursinghomes.com/oh/youngstown/beeghly-oaks-center-for-rehabilitation-and-healing/
+Snippet: Compare Other <b>Nursing</b> <b>Homes</b> to Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing. Nearby <b>Nursing</b> <b>Homes</b> shown affected by subscription. Passavant Community. 105 Burgess Drive Zelienople, PA 16063. 32.2 miles. ... Thank you for your <b>review</b> of Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing.
+
+Title: No title available
+Link: https://www.indeed.com/cmp/Beeghly-Oaks/reviews?fjobcat=mednurse
+Snippet: <b>Reviews</b> from <b>Nursing</b> <b>employees</b> about working at Beeghly <b>Oaks</b>. Learn about Beeghly <b>Oaks</b> culture, salaries, benefits, work-life balance, management, job security, and more.
+
+Title: No title available
+Link: https://www.mycaringplan.com/senior-living/beeghly-oaks-center-for-rehabilitation-healing/
+Snippet: Beeghly <b>Oaks</b> Center For Rehabilitation &amp; Healing. 6505 Market Street, Youngstown, OH 44512. <b>Nursing</b> <b>Home</b> Rehabilitation. View Images. Pricing About Amenities <b>Reviews</b> (800) 780-8101. Ask Question. Schedule Tour.
+
+Remi: Results for query 'Beeghly Oaks Nursing Home recent scandals':
+Title: No title available
+Link: https://www.aplaceformom.com/community/beeghly-oaks-center-for-rehabilitation-and-healing-84629
+Snippet: <b>A Place</b> for <b>Mom</b> has scored Beeghly <b>Oaks</b> Center for Rehabilitation and Healing with 1 out of 10 using our proprietary review score based on 2 reviews in the last 2 years. Over all time, Beeghly <b>Oaks</b> Center for Rehabilitation and Healing has 90 reviews with an average &quot;overall experience&quot; of 3.9 out of 5. How we score communities
+
+Title: No title available
+Link: https://www.mahoningmatters.com/news/local/article262599692.html
+Snippet: Beeghly <b>Oaks</b> Center For Rehabilitation &amp; Healing6505 Market St., YoungstownFor-profit corporation: Beeghley <b>Nursing</b> LLC. This facility has an overall &quot;much below average&quot; rating of one star on Medicare.gov. It has been fined $6,175 and cited for 47 deficiencies since July 2016.
+
+Title: No title available
+Link: https://nursinghomerating.org/OH/beeghly-oaks-center-for-rehabilitation-healing/366195/
+Snippet: Beeghly <b>Oaks</b> Center for Rehabilitation and Healing is a for-profit <b>nursing</b> <b>home</b> with an occupancy rate of 81%. Research <b>nursing</b> <b>home</b> deficiencies, complaints and abuse. ... The most <b>recent</b> health inspection of this facility was on 12-16-2022, 594 days ago. This facility has automatic sprinkler systems in all required areas. ...
+
+Title: No title available
+Link: https://www.nbcnews.com/health/health-news/former-owner-national-nursing-home-chain-arrested-federal-agents-new-y-rcna12945
+Snippet: Schwartz’s son Louis Schwartz, a former vice president of Skyline, also continues to own <b>nursing</b> <b>homes</b>, such as the facility in Andover, N.J., once known as Andover Subacute II, which has been ...
+
+Title: No title available
+Link: https://elderguide.com/senior-living/beeghly-oaks-center-for-rehabilitation-healing-44512/
+Snippet: 6505 Market Street, Youngstown OH 44512. • (330) 884-2300 •. 72% estimated occupancy 1. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing turns out to be one of many <b>nursing</b> <b>home</b> options you can choose from in Youngstown, Ohio. We gave this facility an F, which is definitely concerning in our grading scheme. This place didn&#39;t have much going ...
+
+Title: No title available
+Link: https://projects.propublica.org/nursing-homes/homes/h-366195
+Snippet: Reported total nurse staffing hours per resident per day. State Average: 3.6. The percentage of <b>nursing</b> staff who stopped working at the <b>home</b> over a 12-month period. State Average: 51.6%. Qualifying beds in the certified provider or supplier facility. Average number of residents based on daily census.
+
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Overview. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing in Youngstown, OH has a short-term rehabilitation rating of Average and a long-term <b>care</b> rating of Average. It is a medium facility with ...
+
+Title: No title available
+Link: https://healthcarecomps.com/nursing-homes/oh/366195/
+Snippet: BEEGHLY <b>OAKS</b> CENTER FOR REHABILITATION <b>&amp;</b> HEALING in YOUNGSTOWN, OH is a For profit - Corporation, Medicare Certified, <b>nursing</b> <b>home</b> operating with 68 residents and 115 certified beds. Its legal business name (LBN) is BEEGHLY <b>NURSING</b> LLC. This facility has been certified to participate in Medicare and Medicaid programs since May 08, 2000 and has ...
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/
+Snippet: Our Approach. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing in Boardman, OH, provides a soothing, tranquil and comfortable environment for our guests that promotes speedier recovery time. Professional highly trained staff combine to provide compassionate holistic healing for guests in 2 sub-acute <b>care</b> and 2 long term <b>care</b> units.
+
+Title: No title available
+Link: https://www.nursinghomes.com/oh/youngstown/beeghly-oaks-center-for-rehabilitation-and-healing/
+Snippet: Compare Other <b>Nursing</b> <b>Homes</b> to Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing. Nearby <b>Nursing</b> <b>Homes</b> shown affected by subscription. Passavant Community. 105 Burgess Drive Zelienople, PA 16063. 32.2 miles. North Hills Skilled <b>Nursing</b> and Rehabilitation Center. 1105 Perry Highway Pittsburgh, PA 15237. 47.1 miles.
+
+Remi: Results for query 'Beeghly Oaks Nursing Home news':
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Overview. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing in Youngstown, OH has a short-term rehabilitation rating of Average and a long-term care rating of Average. It is a medium facility with ...
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/
+Snippet: Our Approach. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing in Boardman, OH, provides a soothing, tranquil and comfortable environment for our guests that promotes speedier recovery time. Professional highly trained staff combine to provide compassionate holistic healing for guests in 2 sub-acute care and 2 long term care units.
+
+Title: No title available
+Link: https://www.mahoningmatters.com/news/local/article262599692.html
+Snippet: Beeghly <b>Oaks</b> Center For Rehabilitation &amp; Healing6505 Market St., YoungstownFor-profit corporation: Beeghley <b>Nursing</b> LLC. This facility has an overall &quot;much below average&quot; rating of one star on Medicare.gov. It has been fined $6,175 and cited for 47 deficiencies since July 2016.
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/a-day-at-beeghly/
+Snippet: Dean Grapentine Asst. Rehab Director. Dean Grapentine has worked as a PTA for 25 years in the following areas: acute care, sub-acute care, <b>home</b> health, extended care, outpatient care. This extended and varied experience enables him to relate to patients at all stages of the rehabilitation journey. Deane heads the Arthritis Classes at Beeghly.
+
+Title: No title available
+Link: https://www.facebook.com/people/Beeghly-Oaks-Center-for-Rehabilitation-Healing/100057658890662/
+Snippet: Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing, Boardman, Ohio. 506 likes · 1 talking about this · 327 were here. <b>Nursing</b> <b>Home</b>.
+
+Title: No title available
+Link: https://www.facebook.com/p/Beeghly-Oaks-Center-for-Rehabilitation-Healing-100057658890662/
+Snippet: Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing, Boardman, Ohio. 509 likes · 493 were here. <b>Nursing</b> <b>Home</b>
+
+Title: No title available
+Link: https://projects.propublica.org/nursing-homes/homes/h-366195
+Snippet: Reported total nurse staffing hours per resident per day. State Average: 3.6. The percentage of <b>nursing</b> staff who stopped working at the <b>home</b> over a 12-month period. State Average: 51.6%. Qualifying beds in the certified provider or supplier facility. Average number of residents based on daily census.
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/about-us/
+Snippet: Our Greatest Asset. Our dedicated highly trained staff, many of whom have been at Beeghly for over a decade, are our greatest asset. Our beautiful grounds with landscaped pavilion and gazebo, spacious luxury suites and delicious food, provide the perfect backdrop for enhancing our state of the art rehabilitation and long term care services.
+
+Title: No title available
+Link: https://www.aplaceformom.com/community/beeghly-oaks-center-for-rehabilitation-and-healing-84629
+Snippet: <b>A Place</b> for <b>Mom</b> has scored Beeghly <b>Oaks</b> Center for Rehabilitation and Healing with 1 out of 10 using our proprietary review score based on 2 reviews in the last 2 years. Over all time, Beeghly <b>Oaks</b> Center for Rehabilitation and Healing has 90 reviews with an average &quot;overall experience&quot; of 3.9 out of 5. How we score communities
+
+Title: No title available
+Link: https://vindyarchives.com/news/2019/jun/28/beeghly-oaks-celebrates-national-nursing/
+Snippet: By JESSICA HARKER jharker@vindy.com Boardman’s Beeghly <b>Oaks</b> Center for Rehabilitation &amp; 20 ° Yesterday <b>News</b> Tributes Local Sports VINDY.COM. 20° Thu. Mar. 02, 2023. Thursday, March 02, 2023. Beeghly <b>Oaks</b> celebrates National <b>Nursing</b> <b>Home</b> Week « Boardman Neighbors. June 28, 2019 at 12:00a.m. Tweet.
+
+Remi: Results for query 'Beeghly Oaks Nursing Home regulatory violations':
+Title: No title available
+Link: https://projects.propublica.org/nursing-homes/homes/h-366195
+Snippet: Reported total nurse staffing hours per resident per day. State Average: 3.6. The percentage of <b>nursing</b> staff who stopped working at the <b>home</b> over a 12-month period. State Average: 51.6%. Qualifying beds in the certified provider or supplier facility. Average number of residents based on daily census.
+
+Title: No title available
+Link: https://www.mahoningmatters.com/news/local/article262599692.html
+Snippet: Beeghly <b>Oaks</b> Center For Rehabilitation &amp; Healing6505 Market St., YoungstownFor-profit corporation: Beeghley <b>Nursing</b> LLC. This facility has an overall &quot;much below average&quot; rating of one star on Medicare.gov. It has been fined $6,175 and cited for 47 deficiencies since July 2016.
+
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing is a <b>nursing</b> <b>home</b> in Youngstown, OH. See rating information based on medical outcomes, staffing, health &amp; safety inspections and more.
+
+Title: No title available
+Link: https://www.nlrb.gov/case/08-CA-150796
+Snippet: Charged Party / Respondent Employer BEEGHLY <b>OAKS</b> OPERATING LLC d/b/a BEEGHLY <b>OAKS</b> CENTER FOR REHABILITATION AND HEALING: 6505 Market St Boardman, OH 44512-3457 (330)884-2300 : Charging Party Union SERVICE EMPLOYEES INTERNATIONAL UNION DISTRICT 1199: 310 Churchill Hubbard Rd Ste A Youngstown, OH 44505-1371 (330)759-3751
+
+Title: No title available
+Link: https://www.nursinghomedatabase.com/ratings/44512/beeghly-oaks-center-for-rehabilitation-healing
+Snippet: Ratings, Scores, Quality Measures, and Trends for Beeghly <b>Oaks</b> Center For Rehabilitation and Healing . As of: Aug 01, 2024 ... (CMS) has developed a detailed methodology for rating <b>nursing</b> <b>homes</b>. <b>Homes</b> are scored based on annual health inspections, repeat visits, and resident surveys. Points are weighted based on the scope and severity of ...
+
+Title: No title available
+Link: https://siniardlaw.com/violations-of-regulations-by-nursing-homes/
+Snippet: Malnutrition and Dehydration. It is disheartening that a common issue in <b>nursing</b> <b>homes</b> is something as basic as getting enough food and water. However, the truth is that this is a common issue. Federal <b>regulation</b> 42 CFR 483.25 (g) sets standards on <b>nursing</b> <b>homes</b> to ensure a resident receives adequate nutrition and hydration.
+
+Title: No title available
+Link: https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/complaints-nursing-home-and-healthcare-facilities
+Snippet: If you do not have access to the internet or email, please contact the Complaint Unit at 1-800-342-0553 or 1-800-669-3534 (<b>Home</b> Health Hotline) for assistance. However, because complaints are typically complex and involve many important details that are more effectively provided in writing, the submission of a complaint over the phone is not ...
+
+Title: No title available
+Link: https://nursinghomerating.org/OH/beeghly-oaks-center-for-rehabilitation-healing/366195/
+Snippet: Beeghly <b>Oaks</b> Center for Rehabilitation and Healing is not located within a hospital. The most recent health inspection of this facility was on 12-16-2022, 594 days ago. This facility has automatic sprinkler systems in all required areas. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing has both resident and family councils.
+
+Title: No title available
+Link: https://nursinghome411.org/wp-content/uploads/2019/09/LTCCC-Alert-Poorly-Performing-Nursing-Homes-In-OH-September-2019.pdf
+Snippet: The following list provides information on <b>nursing</b> <b>homes</b> in Ohio that have a one-star rating, which is the lowest overall rating that a <b>nursing</b> <b>home</b> can receive. A one-star rating indicates that the <b>nursing</b> <b>home</b> shows evidence of significantly poor levels of <b>care</b>. The data were downloaded in August 2019 from <b>Nursing</b> <b>Home</b> Compare’s data set,
+
+Title: No title available
+Link: https://npiprofile.com/npi/1720483928
+Snippet: About BEEGHLY <b>OAKS</b> CENTER FOR REHABILITATION AND HEALING. Beeghly <b>Oaks</b> Center For Rehabilitation And Healing is a provider established in Boardman, Ohio operating as a Skilled <b>Nursing</b> Facility.The healthcare provider is registered in the NPI registry with number 1720483928 assigned on October 2014. The practitioner&#39;s primary taxonomy code is 314000000X. ...
+
+Remi: Results for query 'Beeghly Oaks Nursing Home public perception':
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Overview. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing in Youngstown, OH has a short-term rehabilitation rating of Average and a long-term <b>care</b> rating of Average. It is a medium facility with ...
+
+Title: No title available
+Link: https://nursinghomerating.org/OH/beeghly-oaks-center-for-rehabilitation-healing/366195/
+Snippet: Beeghly <b>Oaks</b> Center for Rehabilitation and Healing is a for-profit <b>nursing</b> <b>home</b>. It has a total of 115 beds available, 92.6 are occupied. The occupancy rate is 81 percent. This facility accepts Medicare and Medicaid. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing is not located within a hospital.
+
+Title: No title available
+Link: https://www.nursinghomedatabase.com/ratings/44512/beeghly-oaks-center-for-rehabilitation-healing
+Snippet: Ratings, Scores, Quality Measures, and Trends for Beeghly <b>Oaks</b> Center For Rehabilitation and Healing . As of: Aug 01, 2024 ... (CMS) has developed a detailed methodology for rating <b>nursing</b> <b>homes</b>. <b>Homes</b> are scored based on annual health inspections, repeat visits, and resident surveys. Points are weighted based on the scope and severity of ...
+
+Title: No title available
+Link: https://npiprofile.com/npi/1871508689
+Snippet: Beeghly <b>Oaks</b> is a provider established in Youngstown, Ohio operating as a Skilled <b>Nursing</b> Facility. The healthcare provider is registered in the NPI registry with number 1871508689 assigned on July 2006. The practitioner&#39;s primary taxonomy code is 314000000X with license number 4118 (OH). The provider is registered as an organization and their ...
+
+Title: No title available
+Link: https://npiprofile.com/npi/1720483928
+Snippet: About BEEGHLY <b>OAKS</b> CENTER FOR REHABILITATION AND HEALING. Beeghly <b>Oaks</b> Center For Rehabilitation And Healing is a provider established in Boardman, Ohio operating as a Skilled <b>Nursing</b> Facility.The healthcare provider is registered in the NPI registry with number 1720483928 assigned on October 2014. The practitioner&#39;s primary taxonomy code is 314000000X. ...
+
+Title: No title available
+Link: https://www.aplaceformom.com/community/beeghly-oaks-center-for-rehabilitation-and-healing-84629
+Snippet: <b>A Place</b> for <b>Mom</b> has scored Beeghly <b>Oaks</b> Center for Rehabilitation and Healing with 1 out of 10 using our proprietary review score based on 2 reviews in the last 2 years. Over all time, Beeghly <b>Oaks</b> Center for Rehabilitation and Healing has 90 reviews with an average &quot;overall experience&quot; of 3.9 out of 5. How we score communities
+
+Title: No title available
+Link: https://projects.propublica.org/nursing-homes/homes/h-366195
+Snippet: Reported total nurse staffing hours per resident per day. State Average: 3.6. The percentage of <b>nursing</b> staff who stopped working at the <b>home</b> over a 12-month period. State Average: 51.6%. Qualifying beds in the certified provider or supplier facility. Average number of residents based on daily census.
+
+Title: No title available
+Link: https://elderguide.com/senior-living/beeghly-oaks-center-for-rehabilitation-healing-44512/
+Snippet: 6505 Market Street, Youngstown OH 44512. • (330) 884-2300 •. 72% estimated occupancy 1. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing turns out to be one of many <b>nursing</b> <b>home</b> options you can choose from in Youngstown, Ohio. We gave this facility an F, which is definitely concerning in our grading scheme. This place didn&#39;t have much going ...
+
+Title: No title available
+Link: https://www.nursinghomesite.com/BEEGHLY_OAKS_CENTER_FOR_REHABILITATION_AND_HEALING_YOUNGSTOWN_OH
+Snippet: Quality of <b>care</b>, CMS Ratings, Services, Staffing, and Top-rated Facilities can be viewed below. Click for Directions including Mobile Prices and Length of Stay. According to our latest records from CMS, the average daily amount billed by Beeghly <b>Oaks</b> Center For Rehabilitation And Healing to Medicare is $370.67 per day (compared to a Ohio average of $731) and Medicare reimbursed them an average ...
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/
+Snippet: Our Approach. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing in Boardman, OH, provides a soothing, tranquil and comfortable environment for our guests that promotes speedier recovery time. Professional highly trained staff combine to provide compassionate holistic healing for guests in 2 sub-acute <b>care</b> and 2 long term <b>care</b> units.
+
+Remi: Results for query 'Beeghly Oaks Nursing Home Google reviews':
+Title: No title available
+Link: https://reviews.birdeye.com/beeghly-oaks-center-for-rehabilitation-healing-157268575693740
+Snippet: Read 98 customer <b>reviews</b> of Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing, one of the best Rehabilitation Center businesses at 6505 Market St, Boardman, OH 44512 United States. Find <b>reviews</b>, ratings, directions, business hours, and book appointments online.
+
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing is a <b>nursing</b> <b>home</b> in Youngstown, OH. See rating information based on medical outcomes, staffing, health &amp; safety inspections and more.
+
+Title: No title available
+Link: https://www.aplaceformom.com/community/beeghly-oaks-center-for-rehabilitation-and-healing-84629
+Snippet: <b>A Place</b> for <b>Mom</b> has scored Beeghly <b>Oaks</b> Center for Rehabilitation and Healing with 1 out of 10 using our proprietary <b>review</b> score based on 2 <b>reviews</b> in the last 2 years. Over all time, Beeghly <b>Oaks</b> Center for Rehabilitation and Healing has 90 <b>reviews</b> with an average &quot;overall experience&quot; of 3.9 out of 5. How we score communities
+
+Title: No title available
+Link: https://reviews.birdeye.com/beeghly-oaks-center-for-rehabilitation-healing-157268575693740?filter=Newest
+Snippet: Read 43 customer <b>reviews</b> of Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing, one of the best Rehabilitation Center businesses at 6505 Market St, Boardman, OH 44512 United States. Find <b>reviews</b>, ratings, directions, business hours, and book appointments online.
+
+Title: No title available
+Link: https://www.caring.com/senior-living/ohio/boardman/beeghly-oaks-44512
+Snippet: <b>Reviews</b> plus photos and pricing for Beeghly <b>Oaks</b> in Boardman, Ohio. Find and compare nearby senior living communities at <b>Caring.com</b> ... <b>Nursing</b> <b>Homes</b>. View Community. Poland Village Assisted Living. Poland, Ohio 44514. Get Pricing. 4.4 ... <b>Reviews</b> of Beeghly <b>Oaks</b> in Boardman, Ohio. Write a <b>review</b>. 5.0 (1 <b>review</b>) Facility. 5.0. Staff. 5.0. Food ...
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/
+Snippet: Our Approach. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing in Boardman, OH, provides a soothing, tranquil and comfortable environment for our guests that promotes speedier recovery time. Professional highly trained staff combine to provide compassionate holistic healing for guests in 2 sub-acute care and 2 long term care units.
+
+Title: No title available
+Link: https://elderguide.com/senior-living/beeghly-oaks-center-for-rehabilitation-healing-44512/
+Snippet: 6505 Market Street, Youngstown OH 44512. • (330) 884-2300 •. 72% estimated occupancy 1. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing turns out to be one of many <b>nursing</b> <b>home</b> options you can choose from in Youngstown, Ohio. We gave this facility an F, which is definitely concerning in our grading scheme. This place didn&#39;t have much going ...
+
+Title: No title available
+Link: https://www.nursinghomesite.com/BEEGHLY_OAKS_CENTER_FOR_REHABILITATION_AND_HEALING_YOUNGSTOWN_OH
+Snippet: Quality of care, CMS Ratings, Services, Staffing, and Top-rated Facilities can be viewed below. Click for Directions including Mobile Prices and Length of Stay. According to our latest records from CMS, the average daily amount billed by Beeghly <b>Oaks</b> Center For Rehabilitation And Healing to Medicare is $370.67 per day (compared to a Ohio average of $731) and Medicare reimbursed them an average ...
+
+Title: No title available
+Link: https://www.seniorly.com/skilled-nursing-facility/ohio/youngstown/beeghly-oaks-center-for-rehabilitation-healing
+Snippet: Shepherd Of The Valley-Boardman. 7148 West Boulevard, Youngstown, OH 44512 <b>Nursing</b> <b>Home</b>. Welcome to Shepherd Of The Valley-Boardman, a large <b>nursing</b> <b>home</b> in Youngstown, OH. Shepherd Of The Valley-Boardman is located at 7148 West Boulevard, and offers 24/7 skilled medical care for older adults. If you’re assessing whether a <b>nursing</b> <b>home</b> or ...
+
+Title: No title available
+Link: https://www.nursinghomes.com/oh/youngstown/beeghly-oaks-center-for-rehabilitation-and-healing/
+Snippet: Compare Other <b>Nursing</b> <b>Homes</b> to Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing. Nearby <b>Nursing</b> <b>Homes</b> shown affected by subscription. Passavant Community. 105 Burgess Drive Zelienople, PA 16063. 32.2 miles. ... Thank you for your <b>review</b> of Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing.
+
+Remi: Results for query 'Beeghly Oaks Nursing Home Yelp reviews':
+Title: No title available
+Link: https://www.yelp.com/biz/beeghly-oaks-skilled-nursing-and-rehab-center-youngstown
+Snippet: BEEGHLY <b>OAKS</b> SKILLED <b>NURSING &amp;</b> REHAB CENTER in Youngstown, <b>reviews</b> by real people. <b>Yelp</b> is a fun and easy way to find, recommend and talk about what’s great and not so great in Youngstown and beyond. ... Rehabilitation Center, Retirement <b>Homes</b>. Briarfield Manor. 6. Assisted Living Facilities, Skilled <b>Nursing</b>, Memory <b>Care</b>. Pulmonary ...
+
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Overview. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing in Youngstown, OH has a short-term rehabilitation rating of Average and a long-term <b>care</b> rating of Average. It is a medium facility with ...
+
+Title: No title available
+Link: https://www.yelp.com/search?cflt=rehabilitation_center&find_loc=Poland%2C+OH+44514
+Snippet: Best Rehabilitation Center in Poland, OH 44514 - The Center for Rehabilitation at Hampton Woods, Beeghly <b>Oaks</b> Skilled <b>Nursing</b> &amp; Rehab Center, Woodlands at Hampton Woods, All Points Physical Medicine, Woodlands, Pulmonary Rehabilitation Associates, Travco Behavioral Health - Boardman, Southwoods Pain and Spine Center, D&#39;Amato Chiropractic Clinic, BrightView
+
+Title: No title available
+Link: https://www.yelp.com/search?cflt=rehabilitation_center&find_loc=Trumbull+County%2C+OH
+Snippet: Best Rehabilitation Center in Trumbull County, OH - Cortland Healthcare Center, Peak Performance Physical Therapy, Shepherd of the Valley-Howland, Breckenridge Fairmont Health and Rehabilitation Center, Beeghly <b>Oaks</b> Skilled <b>Nursing</b> &amp; Rehab Center, The Center for Rehabilitation at Hampton Woods, ManorCare Health Services-Belden Village, Parkman Recovery Center, Shepherd Of The Valley, Vista ...
+
+Title: No title available
+Link: https://www.aplaceformom.com/community/beeghly-oaks-center-for-rehabilitation-and-healing-84629
+Snippet: <b>A Place</b> for <b>Mom</b> has scored Beeghly <b>Oaks</b> Center for Rehabilitation and Healing with 1 out of 10 using our proprietary <b>review</b> score based on 2 <b>reviews</b> in the last 2 years. Over all time, Beeghly <b>Oaks</b> Center for Rehabilitation and Healing has 90 <b>reviews</b> with an average &quot;overall experience&quot; of 3.9 out of 5. How we score communities
+
+Title: No title available
+Link: https://elderguide.com/senior-living/beeghly-oaks-center-for-rehabilitation-healing-44512/
+Snippet: 6505 Market Street, Youngstown OH 44512. • (330) 884-2300 •. 72% estimated occupancy 1. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing turns out to be one of many <b>nursing</b> <b>home</b> options you can choose from in Youngstown, <b>Ohio</b>. We gave this facility an F, which is definitely concerning in our grading scheme. This place didn&#39;t have much going ...
+
+Title: No title available
+Link: https://www.seniorly.com/skilled-nursing-facility/ohio/youngstown/beeghly-oaks-center-for-rehabilitation-healing
+Snippet: Shepherd Of The Valley-Boardman. 7148 West Boulevard, Youngstown, OH 44512 <b>Nursing</b> <b>Home</b>. Welcome to Shepherd Of The Valley-Boardman, a large <b>nursing</b> <b>home</b> in Youngstown, OH. Shepherd Of The Valley-Boardman is located at 7148 West Boulevard, and offers 24/7 skilled medical <b>care</b> for older adults. If you’re assessing whether a <b>nursing</b> <b>home</b> or ...
+
+Title: No title available
+Link: https://www.mycaringplan.com/senior-living/beeghly-oaks-center-for-rehabilitation-healing/
+Snippet: Beeghly <b>Oaks</b> Center For Rehabilitation &amp; Healing. 6505 Market Street, Youngstown, OH 44512. <b>Nursing</b> <b>Home</b> Rehabilitation. View Images. Pricing About Amenities <b>Reviews</b> (800) 780-8101. Ask Question. Schedule Tour.
+
+Title: No title available
+Link: https://www.nursinghomes.com/oh/youngstown/beeghly-oaks-center-for-rehabilitation-and-healing/
+Snippet: Compare Other <b>Nursing</b> <b>Homes</b> to Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing. Nearby <b>Nursing</b> <b>Homes</b> shown affected by subscription. Passavant Community. 105 Burgess Drive Zelienople, PA 16063. 32.2 miles. ... Thank you for your <b>review</b> of Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing.
+
+Title: No title available
+Link: https://www.nursinghomesite.com/BEEGHLY_OAKS_CENTER_FOR_REHABILITATION_AND_HEALING_YOUNGSTOWN_OH
+Snippet: Quality of <b>care</b>, CMS Ratings, Services, Staffing, and Top-rated Facilities can be viewed below. Click for Directions including Mobile Prices and Length of Stay. According to our latest records from CMS, the average daily amount billed by Beeghly <b>Oaks</b> Center For Rehabilitation And Healing to Medicare is $370.67 per day (compared to a <b>Ohio</b> average of $731) and Medicare reimbursed them an average ...
+
+Remi: Results for query 'Beeghly Oaks Nursing Home Facebook discussions':
+Title: No title available
+Link: https://www.facebook.com/people/Beeghly-Oaks-Center-for-Rehabilitation-Healing/100057658890662/
+Snippet: Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing, Boardman, Ohio. 506 likes · 1 talking about this · 327 were here. <b>Nursing</b> <b>Home</b>.
+
+Title: No title available
+Link: https://www.facebook.com/p/Beeghly-Oaks-Center-for-Rehabilitation-Healing-100057658890662/
+Snippet: Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing, Boardman, Ohio. 509 likes · 493 were here. <b>Nursing</b> <b>Home</b>
+
+Title: No title available
+Link: https://www.facebook.com/Beeghly-Oaks-Nursing-and-Rehabilitation-Center-730820836944692/
+Snippet: Beeghly <b>Oaks</b> <b>Nursing</b> and Rehabilitation Center - <b>Facebook</b>
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/
+Snippet: Our Approach. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing in Boardman, OH, provides a soothing, tranquil and comfortable environment for our guests that promotes speedier recovery time. Professional highly trained staff combine to provide compassionate holistic healing for guests in 2 sub-acute care and 2 long term care units.
+
+Title: No title available
+Link: https://nursinghomerating.org/OH/beeghly-oaks-center-for-rehabilitation-healing/366195/
+Snippet: Beeghly <b>Oaks</b> Center for Rehabilitation and Healing is a for-profit <b>nursing</b> <b>home</b>. It has a total of 115 beds available, 92.6 are occupied. The occupancy rate is 81 percent. This facility accepts Medicare and Medicaid. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing is not located within a hospital.
+
+Title: No title available
+Link: https://www.aplaceformom.com/community/beeghly-oaks-center-for-rehabilitation-and-healing-84629
+Snippet: <b>A Place</b> for <b>Mom</b> has scored Beeghly <b>Oaks</b> Center for Rehabilitation and Healing with 1 out of 10 using our proprietary review score based on 2 reviews in the last 2 years. Over all time, Beeghly <b>Oaks</b> Center for Rehabilitation and Healing has 90 reviews with an average &quot;overall experience&quot; of 3.9 out of 5. How we score communities
+
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Overview. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing in Youngstown, OH has a short-term rehabilitation rating of Average and a long-term care rating of Average. It is a medium facility with ...
+
+Title: No title available
+Link: https://elderguide.com/senior-living/beeghly-oaks-center-for-rehabilitation-healing-44512/
+Snippet: 6505 Market Street, Youngstown OH 44512. • (330) 884-2300 •. 72% estimated occupancy 1. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing turns out to be one of many <b>nursing</b> <b>home</b> options you can choose from in Youngstown, Ohio. We gave this facility an F, which is definitely concerning in our grading scheme. This place didn&#39;t have much going ...
+
+Title: No title available
+Link: https://www.seniorly.com/skilled-nursing-facility/ohio/youngstown/beeghly-oaks-center-for-rehabilitation-healing
+Snippet: Shepherd Of The Valley-Boardman. 7148 West Boulevard, Youngstown, OH 44512 <b>Nursing</b> <b>Home</b>. Welcome to Shepherd Of The Valley-Boardman, a large <b>nursing</b> <b>home</b> in Youngstown, OH. Shepherd Of The Valley-Boardman is located at 7148 West Boulevard, and offers 24/7 skilled medical care for older adults. If you’re assessing whether a <b>nursing</b> <b>home</b> or ...
+
+Title: No title available
+Link: https://www.assistedlivingcenter.com/facilities/oh/youngstown/beeghly-oaks-44512/
+Snippet: Beeghly <b>Oaks</b> is a community providing <b>nursing</b> care, respite care in Youngstown, OH. Call (800) 755-1458 to schedule a tour with us today. ... We provide a friendly <b>home</b> with a variety of options for suites so every resident can express themselves and make it <b>home</b>. Beeghly <b>Oaks</b> Living &amp; Care Available <b>Nursing</b> Care. Beeghly <b>Oaks</b> <b>Nursing</b> Care in ...
+
+Remi: Results for query 'Beeghly Oaks Nursing Home partnerships':
+Title: No title available
+Link: https://beeghlyoaksrehab.com/
+Snippet: Our Approach. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing in Boardman, OH, provides a soothing, tranquil and comfortable environment for our guests that promotes speedier recovery time. Professional highly trained staff combine to provide compassionate holistic healing for guests in 2 sub-acute <b>care</b> and 2 long term <b>care</b> units.
+
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Overview. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing in Youngstown, OH has a short-term rehabilitation rating of Average and a long-term <b>care</b> rating of Average. It is a medium facility with ...
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/about-us/
+Snippet: Our Greatest Asset. Our dedicated highly trained staff, many of whom have been at Beeghly for over a decade, are our greatest asset. Our beautiful grounds with landscaped pavilion and gazebo, spacious luxury suites and delicious food, provide the perfect backdrop for enhancing our state of the art rehabilitation and long term <b>care</b> services.
+
+Title: No title available
+Link: https://www.seniorly.com/skilled-nursing-facility/ohio/youngstown/beeghly-oaks-center-for-rehabilitation-healing
+Snippet: Shepherd Of The Valley-Boardman. 7148 West Boulevard, Youngstown, OH 44512 <b>Nursing</b> <b>Home</b>. Welcome to Shepherd Of The Valley-Boardman, a large <b>nursing</b> <b>home</b> in Youngstown, OH. Shepherd Of The Valley-Boardman is located at 7148 West Boulevard, and offers 24/7 skilled medical <b>care</b> for older adults. If you’re assessing whether a <b>nursing</b> <b>home</b> or ...
+
+Title: No title available
+Link: https://elderguide.com/senior-living/beeghly-oaks-center-for-rehabilitation-healing-44512/
+Snippet: 6505 Market Street, Youngstown OH 44512. • (330) 884-2300 •. 72% estimated occupancy 1. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing turns out to be one of many <b>nursing</b> <b>home</b> options you can choose from in Youngstown, Ohio. We gave this facility an F, which is definitely concerning in our grading scheme. This place didn&#39;t have much going ...
+
+Title: No title available
+Link: https://healthcarecomps.com/nursing-homes/oh/366195/
+Snippet: BEEGHLY <b>OAKS</b> CENTER FOR REHABILITATION <b>&amp;</b> HEALING in YOUNGSTOWN, OH is a For profit - Corporation, Medicare Certified, <b>nursing</b> <b>home</b> operating with 68 residents and 115 certified beds. Its legal business name (LBN) is BEEGHLY <b>NURSING</b> LLC. This facility has been certified to participate in Medicare and Medicaid programs since May 08, 2000 and has ...
+
+Title: No title available
+Link: https://carelistings.com/skilled-nursing-facilities/youngstown-oh/beeghly-oaks-center-for-rehabilitation-healing/5ace88bc93efd2372f98a6b5
+Snippet: Quarterly Performance for <b>Nursing</b> and Physical Therapy Direct <b>Care</b> Minutes for Beeghly <b>Oaks</b> Center For Rehabilitation &amp; Healing, 2013-2023. Beeghly <b>Oaks</b> Center For Rehabilitation &amp; Healing is a 115 bed Medicare and Medicaid Certified skilled <b>nursing</b> facility in Youngstown, OH (44512). They can be contacted at (330) 884-2300.
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/services/
+Snippet: For mazimum success, patients benefit from: Physical, Occupational and Speech Therapy delivered seven days a week. Large Gym Well Stocked with Cutting-Edge Equipment. Highly Trained Rehabilitation Personnel. Accelerated <b>Care</b> Plus. Comprehensive Discharge Planning and Post-Discharge Follow-up. Outpatient Therapy with FREE transportation available.
+
+Title: No title available
+Link: https://www.facebook.com/people/Beeghly-Oaks-Center-for-Rehabilitation-Healing/100057658890662/
+Snippet: Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing, Boardman, Ohio. 506 likes · 1 talking about this · 327 were here. <b>Nursing</b> <b>Home</b>.
+
+Title: No title available
+Link: https://www.pairwithcare.com/oh/youngstown/beeghly-oaks-center-for-rehabilitation-and-healing
+Snippet: Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing, nestled in Youngstown, Ohio, offers top-tier rehabilitation services in a warm and caring setting. With a focus on healing and comfort, our facility provides personalized <b>care</b> to each resident, ensuring a supportive environment for recovery and wellness.
+
+Remi: Results for query 'Beeghly Oaks Nursing Home affiliations':
+Title: No title available
+Link: https://health.usnews.com/best-nursing-homes/area/oh/beeghly-oaks-center-for-rehabilitation-healing-366195
+Snippet: Overview. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing in Youngstown, OH has a short-term rehabilitation rating of Average and a long-term <b>care</b> rating of Average. It is a medium facility with ...
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/
+Snippet: Our Approach. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing in Boardman, OH, provides a soothing, tranquil and comfortable environment for our guests that promotes speedier recovery time. Professional highly trained staff combine to provide compassionate holistic healing for guests in 2 sub-acute <b>care</b> and 2 long term <b>care</b> units.
+
+Title: No title available
+Link: https://npiprofile.com/npi/1720483928
+Snippet: About BEEGHLY <b>OAKS</b> CENTER FOR REHABILITATION AND HEALING. Beeghly <b>Oaks</b> Center For Rehabilitation And Healing is a provider established in Boardman, Ohio operating as a Skilled <b>Nursing</b> Facility.The healthcare provider is registered in the NPI registry with number 1720483928 assigned on October 2014. The practitioner&#39;s primary taxonomy code is 314000000X. ...
+
+Title: No title available
+Link: https://www.seniorly.com/skilled-nursing-facility/ohio/youngstown/beeghly-oaks-center-for-rehabilitation-healing
+Snippet: Shepherd Of The Valley-Boardman. 7148 West Boulevard, Youngstown, OH 44512 <b>Nursing</b> <b>Home</b>. Welcome to Shepherd Of The Valley-Boardman, a large <b>nursing</b> <b>home</b> in Youngstown, OH. Shepherd Of The Valley-Boardman is located at 7148 West Boulevard, and offers 24/7 skilled medical <b>care</b> for older adults. If you’re assessing whether a <b>nursing</b> <b>home</b> or ...
+
+Title: No title available
+Link: https://nursinghomerating.org/OH/beeghly-oaks-center-for-rehabilitation-healing/366195/
+Snippet: Ratings for Beeghly <b>Oaks</b> Center for Rehabilitation and Healing in Youngstown, Ohio at 6505 Market Street. Beeghly <b>Oaks</b> Center for Rehabilitation and Healing is a for-profit <b>nursing</b> <b>home</b> with an occupancy rate of 81%. Research <b>nursing</b> <b>home</b> deficiencies, complaints and abuse.
+
+Title: No title available
+Link: https://elderguide.com/senior-living/beeghly-oaks-center-for-rehabilitation-healing-44512/
+Snippet: 6505 Market Street, Youngstown OH 44512. • (330) 884-2300 •. 72% estimated occupancy 1. Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing turns out to be one of many <b>nursing</b> <b>home</b> options you can choose from in Youngstown, Ohio. We gave this facility an F, which is definitely concerning in our grading scheme. This place didn&#39;t have much going ...
+
+Title: No title available
+Link: https://www.nursinghomesite.com/BEEGHLY_OAKS_CENTER_FOR_REHABILITATION_AND_HEALING_YOUNGSTOWN_OH
+Snippet: Quality of <b>care</b>, CMS Ratings, Services, Staffing, and Top-rated Facilities can be viewed below. Click for Directions including Mobile Prices and Length of Stay. According to our latest records from CMS, the average daily amount billed by Beeghly <b>Oaks</b> Center For Rehabilitation And Healing to Medicare is $370.67 per day (compared to a Ohio average of $731) and Medicare reimbursed them an average ...
+
+Title: No title available
+Link: https://beeghlyoaksrehab.com/about-us/
+Snippet: Our Greatest Asset. Our dedicated highly trained staff, many of whom have been at Beeghly for over a decade, are our greatest asset. Our beautiful grounds with landscaped pavilion and gazebo, spacious luxury suites and delicious food, provide the perfect backdrop for enhancing our state of the art rehabilitation and long term <b>care</b> services.
+
+Title: No title available
+Link: https://carelistings.com/skilled-nursing-facilities/youngstown-oh/beeghly-oaks-center-for-rehabilitation-healing/5ace88bc93efd2372f98a6b5
+Snippet: Quarterly Performance for <b>Nursing</b> and Physical Therapy Direct <b>Care</b> Minutes for Beeghly <b>Oaks</b> Center For Rehabilitation &amp; Healing, 2013-2023. Beeghly <b>Oaks</b> Center For Rehabilitation &amp; Healing is a 115 bed Medicare and Medicaid Certified skilled <b>nursing</b> facility in Youngstown, OH (44512). They can be contacted at (330) 884-2300.
+
+Title: No title available
+Link: https://www.nursinghomes.com/oh/youngstown/beeghly-oaks-center-for-rehabilitation-and-healing/
+Snippet: Compare Other <b>Nursing</b> <b>Homes</b> to Beeghly <b>Oaks</b> Center for Rehabilitation &amp; Healing. Nearby <b>Nursing</b> <b>Homes</b> shown affected by subscription. Passavant Community. 105 Burgess Drive Zelienople, PA 16063. 32.2 miles. North Hills Skilled <b>Nursing</b> and Rehabilitation Center. 1105 Perry Highway Pittsburgh, PA 15237. 47.1 miles.
+

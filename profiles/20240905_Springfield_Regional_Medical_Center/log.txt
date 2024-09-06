@@ -1,0 +1,60 @@
+Susan: Here are the steps we should follow to gather information:
+
+1. **Company Overview:** Start with understanding the basic overview of Springfield Regional Medical Center including their history, vision, mission, and core business areas. This could be obtained from their official website, local newspaper archives or industry specific online databases.
+
+2. **Financial Information**: Look into their financial health which includes analyzing their revenue, net income, operational costs, capital investments and more. Such information can be found in public records, press releases, annual reports if they're publicly held, and business news articles. 
+
+3. **Key Decision Makers**: Identify their board of directors, CEO, CFO, and other key executives. LinkedIn is a powerful tool to find detailed profiles of these people, along with interview snippets, articles, etc. Understand their backgrounds, track records, professional affiliations, and potential conflicts of interest.
+
+4. **Labor Relations**: Research their stance on labor unions and current labor relations. Look into the presence of any labor unions, the nature of their contracts, any previous or ongoing labor disputes, strikes, wage disputes, etc. News sources, court records, and industry journals could have this information.
+
+5. **Recent Scandals or Controversies**: Look for any recent scandals, lawsuits, or controversies that have affected the company. These can be found on newspaper databases, industry forums, and sometimes on the company's Wikipedia page.
+
+6. **Points of Leverage**: Points of leverage could be identified from the above information. Weak financials, forthcoming contractual renewals with labor unions, key decision makers with controversial histories, recent scandals or legal battles, etc. can all be potential leverage points.
+
+7. **Other Relevant Information**: This could include any upcoming legislation or policy changes that could affect the company, shifts in their industry or market, significant new competitors, or other external factors that could present leverage opportunities.
+
+Remember, all this data collection should be conducted ethically, using only publically available sources, respecting privacy laws and norms.
+Manny: Here are a few follow-up questions we may consider asking Susan:
+
+1. **Time Allocation**: Considering our team's capacity, how much time do you propose we allocate to each of these research areas to ensure a comprehensive yet timely analysis?
+
+2. **Data Validation**: What are your suggestions for validating the data or cross-checking the accuracy of the information found in order to ensure the reliability of our research?
+
+3. **Confidential Information**: While it is clear that we're only to use publicly available information, can you suggest some measures or checks to avoid inadvertently accessing or using confidential information?
+
+4. **Industry Benchmarking**: How do we factor in the industry benchmarks and competitor data into our research to make our analysis more contextual?
+
+5. **Scope of Research**: For global or multi-state companies, how do we ensure our research depth is not compromised while maintaining a practical scope of work?
+
+6. **Software tools**: Are there any specific software tools that we can use to systematize and streamline this research process, considering we may need to do this for multiple firms? 
+
+7. **Review and Reporting**: What should be our strategy for reviewing the information gathered and synthesizing it into an actionable format that can be easily understood and utilized by the labor union team?
+Manny: Sure, here are some specific search queries, formatted in a python list object:
+
+```python
+search_queries_for_remi = [
+    "Springfield Regional Medical Center Overview",
+    "Springfield Regional Medical Center History",
+    "Springfield Regional Medical Center Core Business",
+    "Springfield Regional Medical Center Financial Statements",
+    "Springfield Regional Medical Center Annual Reports",
+    "Springfield Regional Medical Center Revenue",
+    "Springfield Regional Medical Center Operational Costs",
+    "Springfield Regional Medical Center Capital Investments",
+    "Springfield Regional Medical Center CEO",
+    "Springfield Regional Medical Center Board of Directors",
+    "Springfield Regional Medical Center Executive Profiles",
+    "Springfield Regional Medical Center Labor Unions",
+    "Springfield Regional Medical Center Labor Contracts",
+    "Springfield Regional Medical Center Labor Disputes",
+    "Springfield Regional Medical Center Strikes",
+    "Springfield Regional Medical Center Recent Scandals",
+    "Springfield Regional Medical Center Lawsuits",
+    "Springfield Regional Medical Center Legal Issues",
+    "Springfield Regional Medical Center Industry Changes",
+    "Springfield Regional Medical Center Legislative Changes",
+    "Springfield Regional Medical Center Market Shifts",
+    "Springfield Regional Medical Center Competitors",
+]
+```

@@ -1,0 +1,1760 @@
+Susan: To gather comprehensive information on Popeye's, the research strategy should include the following steps:
+
+1. **Company Overview**: You can start by investigating Popeye's publicly available information such as the company history, size, location, etc. Company websites, Wikipedia, and online business databases like Bloomberg or Yahoo Finance can provide this information.
+
+2. **Financial Information**: To gather financial data, check publicly available financial statements, annual reports, press releases, or any investor relations notifications on Popeye's parent company, Restaurant Brands International's website. We can also analyze company stock performance through financial news sites such as Forbes, Business Insider or Financial Times.
+
+3. **Key Decision Makers**: LinkedIn profiles, news interviews, and company team pages might reveal information about key decision makers, including the CEO, CFO, and board members. Looking at their backgrounds, we can identify if they have any common interests, or personal information that could potentially be used as leverage points. 
+
+4. **Labor Relations & Scandals**: Investigate news articles, press releases and social media sites for any labor issues or scandals. Try to understand previous and ongoing labor issues, the firm's response to them, and public reaction. Search for any lawsuits or accusations related to employee treatment, working conditions, or wage disputes by using news search engines like Google News or more specialized sources like Employment Law Daily.
+
+5. **Industry Trends**: By examining the business news and market analytics platforms, we can understand the fast food industry trends and Popeye's position in them. This information can present additional leverage points.
+
+6. **Employee Reviews**: Websites like Glassdoor or Indeed offer reviews from employees about the company culture, management style, and working conditions, which could offer leverage points.
+
+7. **Social Media Monitoring**: Keep track of Popeye's social media activities, as it can provide additional insight into its brand image, products, customer feedbacks/complaints, marketing strategies and more.
+
+8. **Regulatory Environment**: Check for any new or existing laws, regulations, or government policy changes that might impact Popeye's. Government websites and specialized legal databases could help in this regard.
+
+Compare and cross-verify the obtained data from multiple sources to ensure accuracy and updated information.
+Manny: Sure, here are a list of search queries Remi should perform, formatted as a python list of strings:
+
+```python
+search_queries_for_remi = [
+    "Popeye's company history",
+    "Popeye's parent company financial statements",
+    "Restaurant Brands International annual report",
+    "Popeye's company overview",
+    "Popeye's decision makers",
+    "Popeye's executive team",
+    "Popeye's board members LinkedIn profiles",
+    "Popeye's labor relations news",
+    "Popeye's labor disputes",
+    "Popeye's lawsuits",
+    "Popeye's employee treatment and work conditions",
+    "Fast food industry trends",
+    "Popeye's position in fast food industry",
+    "Popeye's employee reviews on Glassdoor",
+    "Popeye's customer feedback",
+    "Popeye's social media activity",
+    "Popeye's marketing strategies",
+    "Regulations affecting Popeye's",
+    "Government policies impacting fast food industry",
+    "Popeye's stock performance",
+    "Restaurant Brands International Investor Relations announcements"
+]
+```
+Remi should use these search queries in various search engines, news databases, legal databases, financial databases, social media, and professional networking sites to perform her research.
+Remi: Results for 'Popeye's company history':
+Title: Popeyes - Wikipedia
+Link: https://en.wikipedia.org/wiki/Popeyes
+Snippet: <b>Popeyes</b> Louisiana Kitchen, Inc., [6] also known as <b>Popeyes</b> and formerly named <b>Popeyes</b> Chicken &amp; Biscuits [7] and <b>Popeyes</b> Famous Fried Chicken &amp; Biscuits, [8] is an American multinational chain of fried chicken restaurants formed in 1972 in New Orleans, Louisiana and headquartered in Miami. It is currently a subsidiary of Toronto-based Restaurant Brands International.
+
+Title: The History of Popeyes Louisiana Kitchen
+Link: https://news.popeyes.com/blog-posts/the-history-of-popeyes-louisiana-kitchen
+Snippet: The first <b>Popeyes</b> franchise restaurant opened in Louisiana in 1976 and started gaining a following for hometown inspired flavors. As business started to grow, <b>Popeyes</b> got fans singing about our chicken and introduced the famous “Love that Chicken” slogan and jingle in 1980, an iconic tune that is still spreading chicken-joy to this day.
+
+Title: Popeyes
+Link: https://www.popeyes.com/about-us/our-story
+Snippet: Mouth-watering crunch and juicy fried chicken bursting with Louisiana flavor. Explore our menu, offers, and earn rewards on delivery or digital orders. Download the app and order your favorites today!
+
+Title: How Popeyes Turned Spicy Chicken Into a $1.8 Billion Payday
+Link: https://www.eater.com/2017/2/24/14683964/popeyes-fried-chicken-al-copeland-history
+Snippet: <b>Popeyes</b> was founded in New Orleans in 1972 by Alvin (Al) C. Copeland Sr., a serial entrepreneur who got his start in the doughnut business. As food historian Andrew F. Smith writes in Fast Food ...
+
+Title: Popeyes’ Journey from Cult-Favorite to the Mainstream
+Link: https://www.qsrmagazine.com/exclusives/popeyes-journey-from-cult-favorite-to-the-mainstream/
+Snippet: It’s been more than four years since <b>Popeyes</b>’ chicken sandwich landed like a meteor. The <b>company</b> fulfilled as many orders in 14 days as it projected over the following month and a half, leading to <b>Popeyes</b> famously running out of supply. Some stores reported serving 1,000 chicken sandwiches per day, and one tweet (the now-infamous challenge ...
+
+Title: History of Popeyes - Where Y&#39;at New Orleans
+Link: https://www.whereyat.com/history-of-popeyes
+Snippet: <b>Popeyes</b> was conceived by the late eccentric and genius businessman Al Copeland. Al worked at several now-iconic local food brands as a young man. He left school at the age of 16 and worked at Schwegmann&#39;s Grocery in Gentilly and at Tastee Donut, which Al&#39;s brother Gil partially owned. At the age of 18, Al sold his car to purchase a Tastee Donut ...
+
+Title: The Untold Truth Of Popeyes - Mashed
+Link: https://www.mashed.com/122519/untold-truth-popeyes/
+Snippet: After his death, the recipes stayed as a part of his estate, and <b>Popeyes</b> needed to fork over $3.1 million a year for royalties. It wasn&#39;t until 2014 that they paid Copeland&#39;s estate-owned <b>company</b>, Diversified Foods and Seasonings LLC, a whopping $43 million for full rights to the chicken recipes so many people love.
+
+Title: The Popeyes Story: How It Grew From A Small Kitchen In ... - TheRichest
+Link: https://www.therichest.com/rich-powerful/the-popeyes-story-how-it-grew-from-a-small-kitchen-in-louisiana-to-a-global-chain/
+Snippet: In 2008, <b>Popeyes</b> rebranded as <b>Popeyes</b> Louisiana Kitchen, changing its name. The decade of the 2010s was thrilling for the Pope family&#39;s empire. On June 17, 2014, the <b>company</b> paid $43 million to purchase custody of its recipes from Diversified Foods &amp; Seasonings. Restaurant Brands International purchased <b>Popeyes</b> on February 21, 2017, for $1.8 ...
+
+Title: History of Popeyes - Timeline - Historydraft
+Link: https://historydraft.com/story/popeyes/timeline/835
+Snippet: Sunday Jun 11, 1972 to Present. Florida - Louisiana, United States. <b>Popeyes</b> Louisiana Kitchen, Inc., also known as <b>Popeyes</b> and formerly named <b>Popeyes</b> Chicken &amp; Biscuits and <b>Popeyes</b> Famous Fried Chicken &amp; Biscuits. is an American multinational chain of fried chicken fast-food restaurants that was founded in 1972 in New Orleans, Louisiana and ...
+
+Title: Popeyes Louisiana Kitchen - Simple English Wikipedia, the free encyclopedia
+Link: https://simple.wikipedia.org/wiki/Popeyes_Louisiana_Kitchen
+Snippet: <b>Popeyes</b> Louisiana Chicken, known simply as <b>Popeyes</b>, is a fried chicken fast food franchise. The franchise, which used to be called <b>Popeyes</b> Chicken &amp; Biscuits, consists of over 2,600 restaurants in over 40 states, the District of Columbia, Puerto Rico and over 30 other countries worldwide. <b>Popeyes</b> was started in 1972, and in 1992 became owned by ...
+
+Remi: Results for 'Popeye's company history':
+Title: Popeyes - Wikipedia
+Link: https://en.wikipedia.org/wiki/Popeyes
+Snippet: <b>Popeyes</b> Louisiana Kitchen, Inc., [6] also known as <b>Popeyes</b> and formerly named <b>Popeyes</b> Chicken &amp; Biscuits [7] and <b>Popeyes</b> Famous Fried Chicken &amp; Biscuits, [8] is an American multinational chain of fried chicken restaurants formed in 1972 in New Orleans, Louisiana and headquartered in Miami. It is currently a subsidiary of Toronto-based Restaurant Brands International.
+
+Title: The History of Popeyes Louisiana Kitchen
+Link: https://news.popeyes.com/blog-posts/the-history-of-popeyes-louisiana-kitchen
+Snippet: The first <b>Popeyes</b> franchise restaurant opened in Louisiana in 1976 and started gaining a following for hometown inspired flavors. As business started to grow, <b>Popeyes</b> got fans singing about our chicken and introduced the famous “Love that Chicken” slogan and jingle in 1980, an iconic tune that is still spreading chicken-joy to this day.
+
+Title: Popeyes
+Link: https://www.popeyes.com/about-us/our-story
+Snippet: Mouth-watering crunch and juicy fried chicken bursting with Louisiana flavor. Explore our menu, offers, and earn rewards on delivery or digital orders. Download the app and order your favorites today!
+
+Title: How Popeyes Turned Spicy Chicken Into a $1.8 Billion Payday
+Link: https://www.eater.com/2017/2/24/14683964/popeyes-fried-chicken-al-copeland-history
+Snippet: <b>Popeyes</b> was founded in New Orleans in 1972 by Alvin (Al) C. Copeland Sr., a serial entrepreneur who got his start in the doughnut business. As food historian Andrew F. Smith writes in Fast Food ...
+
+Title: Popeyes’ Journey from Cult-Favorite to the Mainstream
+Link: https://www.qsrmagazine.com/exclusives/popeyes-journey-from-cult-favorite-to-the-mainstream/
+Snippet: It’s been more than four years since <b>Popeyes</b>’ chicken sandwich landed like a meteor. The <b>company</b> fulfilled as many orders in 14 days as it projected over the following month and a half, leading to <b>Popeyes</b> famously running out of supply. Some stores reported serving 1,000 chicken sandwiches per day, and one tweet (the now-infamous challenge ...
+
+Title: History of Popeyes - Where Y&#39;at New Orleans
+Link: https://www.whereyat.com/history-of-popeyes
+Snippet: <b>Popeyes</b> was conceived by the late eccentric and genius businessman Al Copeland. Al worked at several now-iconic local food brands as a young man. He left school at the age of 16 and worked at Schwegmann&#39;s Grocery in Gentilly and at Tastee Donut, which Al&#39;s brother Gil partially owned. At the age of 18, Al sold his car to purchase a Tastee Donut ...
+
+Title: The Untold Truth Of Popeyes - Mashed
+Link: https://www.mashed.com/122519/untold-truth-popeyes/
+Snippet: After his death, the recipes stayed as a part of his estate, and <b>Popeyes</b> needed to fork over $3.1 million a year for royalties. It wasn&#39;t until 2014 that they paid Copeland&#39;s estate-owned <b>company</b>, Diversified Foods and Seasonings LLC, a whopping $43 million for full rights to the chicken recipes so many people love.
+
+Title: The Popeyes Story: How It Grew From A Small Kitchen In ... - TheRichest
+Link: https://www.therichest.com/rich-powerful/the-popeyes-story-how-it-grew-from-a-small-kitchen-in-louisiana-to-a-global-chain/
+Snippet: In 2008, <b>Popeyes</b> rebranded as <b>Popeyes</b> Louisiana Kitchen, changing its name. The decade of the 2010s was thrilling for the Pope family&#39;s empire. On June 17, 2014, the <b>company</b> paid $43 million to purchase custody of its recipes from Diversified Foods &amp; Seasonings. Restaurant Brands International purchased <b>Popeyes</b> on February 21, 2017, for $1.8 ...
+
+Title: History of Popeyes - Timeline - Historydraft
+Link: https://historydraft.com/story/popeyes/timeline/835
+Snippet: Sunday Jun 11, 1972 to Present. Florida - Louisiana, United States. <b>Popeyes</b> Louisiana Kitchen, Inc., also known as <b>Popeyes</b> and formerly named <b>Popeyes</b> Chicken &amp; Biscuits and <b>Popeyes</b> Famous Fried Chicken &amp; Biscuits. is an American multinational chain of fried chicken fast-food restaurants that was founded in 1972 in New Orleans, Louisiana and ...
+
+Title: Popeyes Louisiana Kitchen - Simple English Wikipedia, the free encyclopedia
+Link: https://simple.wikipedia.org/wiki/Popeyes_Louisiana_Kitchen
+Snippet: <b>Popeyes</b> Louisiana Chicken, known simply as <b>Popeyes</b>, is a fried chicken fast food franchise. The franchise, which used to be called <b>Popeyes</b> Chicken &amp; Biscuits, consists of over 2,600 restaurants in over 40 states, the District of Columbia, Puerto Rico and over 30 other countries worldwide. <b>Popeyes</b> was started in 1972, and in 1992 became owned by ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's parent company financial statements':
+Title: Popeyes
+Link: https://www.popeyes.com/investors/annual-reports.php
+Snippet: Mouth-watering crunch and juicy fried chicken bursting with Louisiana flavor. Explore our menu, offers, and earn rewards on delivery or digital orders. Download the app and order your favorites today!
+
+Title: Restaurant Brands International Inc. Reports Full Year and Fourth ...
+Link: https://www.rbi.com/English/news/news-details/2022/Restaurant-Brands-International-Inc.-Reports-Full-Year-and-Fourth-Quarter-2021-Results/default.aspx
+Snippet: Global fourth quarter system-wide sales grow 14% year-over-year Fourth quarter comparable sales improve sequentially across all brands, including at Tim Hortons Canada and Burger King U.S. Global digital sales grew over 65% year-over-year to $10 billion in 2021, representing nearly 30% of system-wide sales Restaurant growth returns to over 1,200 units with Tim Hortons and <b>Popeyes</b> gaining ...
+
+Title: Restaurant Brands International Inc. Reports Full Year and Fourth ...
+Link: https://www.rbi.com/English/news/news-details/2023/Restaurant-Brands-International-Inc.-Reports-Full-Year-and-Fourth-Quarter-2022-Results/default.aspx
+Snippet: Global fourth quarter system-wide sales grow nearly 12% and over 13% for 2022 Consolidated comparable sales up nearly 8% in Q4, led by 11% growth at Tim Hortons Canada and Burger King International Digital sales grow over 30% year-over-year to over $13.5 billion in 2022, representing over a third of system-wide sales Restaurant growth accelerates to 1,266 net new units with <b>Popeyes</b> delivering ...
+
+Title: Annual Reports - Restaurant Brands International
+Link: https://www.rbi.com/English/investors/annual-reports/default.aspx
+Snippet: Home About Us Brands Investors Careers News Contact Sustainability QSR (NYSE) $ 69.07 | -0.04 As of August 29, 2024 4:00 PM ET
+
+PDF Link: https://s26.q4cdn.com/317237604/files/doc_financials/2021/ar/QSR_2020.12.31_10K.pdf
+Title: Restaurant Brands International - Wikipedia
+Link: https://en.wikipedia.org/wiki/Restaurant_Brands_International
+Snippet: Restaurant Brands International Inc. (RBI) is a Canadian-American multinational fast food holding <b>company</b>. It was formed in 2014 by the $12.5 billion merger between American fast food restaurant chain Burger King and Canadian coffee shop and restaurant chain Tim Hortons, and expanded by the 2017 purchase of American fast-food chain <b>Popeyes</b>. The <b>company</b> is the fifth-largest operator of fast ...
+
+Title: Restaurant Brands earnings preview: Popeyes, Burger King parent to ...
+Link: https://finance.yahoo.com/news/restaurant-brands-parent-of-popeyes-burger-king-delivers-strong-q4-earnings-names-new-ceo-124427835.html
+Snippet: Restaurant Brands International (QSR) reported Q4 2022 earnings on Tuesday, February 14 before the market open that mostly were in line with expectations.
+
+Title: Restaurant Brands International Inc. (QSR) - Stock Analysis
+Link: https://stockanalysis.com/stocks/qsr/
+Snippet: Burger King, <b>Popeyes</b> <b>Parent</b> RBI Beats Earnings Estimates, Despite &#39;Consumer Pressures&#39; Burger King and <b>Popeyes</b> <b>parent</b> Restaurant Brands International (QSR) posted second-quarter earnings that topped analysts&#39; expectations, despite slowing comparable sales growth.
+
+Title: Popeyes Stock Price, Funding, Valuation, Revenue &amp; Financial Statements
+Link: https://www.cbinsights.com/company/popeyes-louisiana-kitchen/financials
+Snippet: See <b>Popeyes</b> funding rounds, investors, investments, exits and more. Evaluate their financials based on <b>Popeyes</b>&#39;s post-money valuation and revenue.
+
+Title: Burger King, Popeyes Parent RBI Beats Earnings Estimates, Despite ...
+Link: https://finance.yahoo.com/news/burger-king-popeyes-parent-rbi-144059332.html
+Snippet: Burger King and <b>Popeyes</b> <b>parent</b> Restaurant Brands International ( QSR) posted second-quarter earnings that topped analysts&#39; expectations, despite slowing comparable sales growth.
+
+Remi: Results for 'Popeye's parent company financial statements':
+Title: Popeyes
+Link: https://www.popeyes.com/investors/annual-reports.php
+Snippet: Mouth-watering crunch and juicy fried chicken bursting with Louisiana flavor. Explore our menu, offers, and earn rewards on delivery or digital orders. Download the app and order your favorites today!
+
+Title: Restaurant Brands International Inc. Reports Full Year and Fourth ...
+Link: https://www.rbi.com/English/news/news-details/2022/Restaurant-Brands-International-Inc.-Reports-Full-Year-and-Fourth-Quarter-2021-Results/default.aspx
+Snippet: Global fourth quarter system-wide sales grow 14% year-over-year Fourth quarter comparable sales improve sequentially across all brands, including at Tim Hortons Canada and Burger King U.S. Global digital sales grew over 65% year-over-year to $10 billion in 2021, representing nearly 30% of system-wide sales Restaurant growth returns to over 1,200 units with Tim Hortons and <b>Popeyes</b> gaining ...
+
+Title: Restaurant Brands International Inc. Reports Full Year and Fourth ...
+Link: https://www.rbi.com/English/news/news-details/2023/Restaurant-Brands-International-Inc.-Reports-Full-Year-and-Fourth-Quarter-2022-Results/default.aspx
+Snippet: Global fourth quarter system-wide sales grow nearly 12% and over 13% for 2022 Consolidated comparable sales up nearly 8% in Q4, led by 11% growth at Tim Hortons Canada and Burger King International Digital sales grow over 30% year-over-year to over $13.5 billion in 2022, representing over a third of system-wide sales Restaurant growth accelerates to 1,266 net new units with <b>Popeyes</b> delivering ...
+
+Title: Annual Reports - Restaurant Brands International
+Link: https://www.rbi.com/English/investors/annual-reports/default.aspx
+Snippet: Home About Us Brands Investors Careers News Contact Sustainability QSR (NYSE) $ 69.07 | -0.04 As of August 29, 2024 4:00 PM ET
+
+PDF Link: https://s26.q4cdn.com/317237604/files/doc_financials/2021/ar/QSR_2020.12.31_10K.pdf
+Title: Restaurant Brands International - Wikipedia
+Link: https://en.wikipedia.org/wiki/Restaurant_Brands_International
+Snippet: Restaurant Brands International Inc. (RBI) is a Canadian-American multinational fast food holding <b>company</b>. It was formed in 2014 by the $12.5 billion merger between American fast food restaurant chain Burger King and Canadian coffee shop and restaurant chain Tim Hortons, and expanded by the 2017 purchase of American fast-food chain <b>Popeyes</b>. The <b>company</b> is the fifth-largest operator of fast ...
+
+Title: Restaurant Brands earnings preview: Popeyes, Burger King parent to ...
+Link: https://finance.yahoo.com/news/restaurant-brands-parent-of-popeyes-burger-king-delivers-strong-q4-earnings-names-new-ceo-124427835.html
+Snippet: Restaurant Brands International (QSR) reported Q4 2022 earnings on Tuesday, February 14 before the market open that mostly were in line with expectations.
+
+Title: Restaurant Brands International Inc. (QSR) - Stock Analysis
+Link: https://stockanalysis.com/stocks/qsr/
+Snippet: Burger King, <b>Popeyes</b> <b>Parent</b> RBI Beats Earnings Estimates, Despite &#39;Consumer Pressures&#39; Burger King and <b>Popeyes</b> <b>parent</b> Restaurant Brands International (QSR) posted second-quarter earnings that topped analysts&#39; expectations, despite slowing comparable sales growth.
+
+Title: Popeyes Stock Price, Funding, Valuation, Revenue &amp; Financial Statements
+Link: https://www.cbinsights.com/company/popeyes-louisiana-kitchen/financials
+Snippet: See <b>Popeyes</b> funding rounds, investors, investments, exits and more. Evaluate their financials based on <b>Popeyes</b>&#39;s post-money valuation and revenue.
+
+Title: Burger King, Popeyes Parent RBI Beats Earnings Estimates, Despite ...
+Link: https://finance.yahoo.com/news/burger-king-popeyes-parent-rbi-144059332.html
+Snippet: Burger King and <b>Popeyes</b> <b>parent</b> Restaurant Brands International ( QSR) posted second-quarter earnings that topped analysts&#39; expectations, despite slowing comparable sales growth.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Restaurant Brands International annual report':
+Title: Annual Reports - Restaurant Brands International
+Link: https://www.rbi.com/English/investors/annual-reports/default.aspx
+Snippet: <b>Annual Reports</b> RESTAURANT <b>BRANDS</b> <b>INTERNATIONAL</b> Notify me of new financial documents posted to this site. Click the link to the right to download: Adobe Acrobat. Home; About Us; <b>Brands</b>; Investors; Careers; News; Contact; Sustainability ...
+
+Title: SEC Filings - Restaurant Brands International
+Link: https://www.rbi.com/English/investors/sec-filings/default.aspx
+Snippet: Filing Date. File Downloads. Amended Statement of Beneficial Ownership. SC 13D/A. Restaurant <b>Brands</b> <b>International</b>. 8/30/2024. HTML PDF XLS. Statement of Changes in Beneficial Ownership. Abstract: 3g restaurant <b>brands</b> holdings general partner ltd.
+
+Title: Restaurant Brands International - AnnualReports.com
+Link: https://www.annualreports.com/Company/restaurant-brands-international
+Snippet: Restaurant <b>Brands International</b> Inc. (&quot;RBI&quot;) is one of the world&#39;s largest quick service restaurant companies with more than $27 billion in system-wide sales and over 23,000 restaurants in more than 100 countries and U.S. territories. ... MOST RECENT 2023 <b>Annual</b> <b>Report</b> and Form 10K. View PDF View Form 10K (HTML) Restaurant <b>Brands International</b> ...
+
+Title: Restaurant Brands International Inc. Reports Full Year and Fourth ...
+Link: https://www.rbi.com/English/news/news-details/2023/Restaurant-Brands-International-Inc.-Reports-Full-Year-and-Fourth-Quarter-2022-Results/default.aspx
+Snippet: Global fourth quarter system-wide sales grow nearly 12% and over 13% for 2022 Consolidated comparable sales up nearly 8% in Q4, led by 11% growth at Tim Hortons Canada and Burger King <b>International</b> Digital sales grow over 30% year-over-year to over $13.5 billion in 2022, representing over a third of system-wide sales Restaurant growth accelerates to 1,266 net new units with Popeyes delivering ...
+
+PDF Link: https://s26.q4cdn.com/317237604/files/doc_financials/2021/ar/f2db511c-26b6-4896-acf6-80b9aa971d55.pdf
+PDF Link: https://annualreport.stocklight.com/nyse/qsr/23652979.pdf
+Title: Restaurant Brands International Inc. (QSR) 10K Annual Reports &amp; 10Q SEC ...
+Link: https://last10k.com/sec-filings/qsr
+Snippet: Toronto, Ontario – February 13, 2024 – Restaurant <b>Brands International</b> Inc. (“RBI”) (TSX/NYSE: QSR, TSX: QSP) today reported financial results for the full year and fourth quarter ended December 31, 2023. Josh Kobza, Chief Executive Officer of RBI commented, &quot;We are delivering better experiences for our guests, better profitability for ...
+
+PDF Link: https://stocklight.com/stocks/us/nyse-qsr/restaurant-brands-international/annual-reports/nyse-qsr-2024-10K-24664297.pdf
+PDF Link: https://s26.q4cdn.com/317237604/files/doc_financials/2021/ar/QSR_2020.12.31_10K.pdf
+Title: qsr-20221231 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1618756/000161875623000013/qsr-20221231.htm
+Snippet: We are the sole general partner of Restaurant <b>Brands</b> <b>International</b> Limited Partnership (“Partnership”), which is the indirect parent of The TDL Group Corp. (“Tim Hortons”), Burger King Company LLC (“Burger King”), Popeyes Louisiana Kitchen, Inc. (“Popeyes”) and FRG, LLC (“Firehouse Subs”). ... This <b>Annual</b> <b>Report</b> on Form 10-K ...
+
+Remi: Results for 'Restaurant Brands International annual report':
+Title: Annual Reports - Restaurant Brands International
+Link: https://www.rbi.com/English/investors/annual-reports/default.aspx
+Snippet: <b>Annual Reports</b> RESTAURANT <b>BRANDS</b> <b>INTERNATIONAL</b> Notify me of new financial documents posted to this site. Click the link to the right to download: Adobe Acrobat. Home; About Us; <b>Brands</b>; Investors; Careers; News; Contact; Sustainability ...
+
+Title: SEC Filings - Restaurant Brands International
+Link: https://www.rbi.com/English/investors/sec-filings/default.aspx
+Snippet: Filing Date. File Downloads. Amended Statement of Beneficial Ownership. SC 13D/A. Restaurant <b>Brands</b> <b>International</b>. 8/30/2024. HTML PDF XLS. Statement of Changes in Beneficial Ownership. Abstract: 3g restaurant <b>brands</b> holdings general partner ltd.
+
+Title: Restaurant Brands International - AnnualReports.com
+Link: https://www.annualreports.com/Company/restaurant-brands-international
+Snippet: Restaurant <b>Brands International</b> Inc. (&quot;RBI&quot;) is one of the world&#39;s largest quick service restaurant companies with more than $27 billion in system-wide sales and over 23,000 restaurants in more than 100 countries and U.S. territories. ... MOST RECENT 2023 <b>Annual</b> <b>Report</b> and Form 10K. View PDF View Form 10K (HTML) Restaurant <b>Brands International</b> ...
+
+Title: Restaurant Brands International Inc. Reports Full Year and Fourth ...
+Link: https://www.rbi.com/English/news/news-details/2023/Restaurant-Brands-International-Inc.-Reports-Full-Year-and-Fourth-Quarter-2022-Results/default.aspx
+Snippet: Global fourth quarter system-wide sales grow nearly 12% and over 13% for 2022 Consolidated comparable sales up nearly 8% in Q4, led by 11% growth at Tim Hortons Canada and Burger King <b>International</b> Digital sales grow over 30% year-over-year to over $13.5 billion in 2022, representing over a third of system-wide sales Restaurant growth accelerates to 1,266 net new units with Popeyes delivering ...
+
+PDF Link: https://s26.q4cdn.com/317237604/files/doc_financials/2021/ar/f2db511c-26b6-4896-acf6-80b9aa971d55.pdf
+PDF Link: https://annualreport.stocklight.com/nyse/qsr/23652979.pdf
+Title: Restaurant Brands International Inc. (QSR) 10K Annual Reports &amp; 10Q SEC ...
+Link: https://last10k.com/sec-filings/qsr
+Snippet: Toronto, Ontario – February 13, 2024 – Restaurant <b>Brands International</b> Inc. (“RBI”) (TSX/NYSE: QSR, TSX: QSP) today reported financial results for the full year and fourth quarter ended December 31, 2023. Josh Kobza, Chief Executive Officer of RBI commented, &quot;We are delivering better experiences for our guests, better profitability for ...
+
+PDF Link: https://stocklight.com/stocks/us/nyse-qsr/restaurant-brands-international/annual-reports/nyse-qsr-2024-10K-24664297.pdf
+PDF Link: https://s26.q4cdn.com/317237604/files/doc_financials/2021/ar/QSR_2020.12.31_10K.pdf
+Title: qsr-20221231 - SEC.gov
+Link: https://www.sec.gov/Archives/edgar/data/1618756/000161875623000013/qsr-20221231.htm
+Snippet: We are the sole general partner of Restaurant <b>Brands</b> <b>International</b> Limited Partnership (“Partnership”), which is the indirect parent of The TDL Group Corp. (“Tim Hortons”), Burger King Company LLC (“Burger King”), Popeyes Louisiana Kitchen, Inc. (“Popeyes”) and FRG, LLC (“Firehouse Subs”). ... This <b>Annual</b> <b>Report</b> on Form 10-K ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's company overview':
+Title: Popeyes - Wikipedia
+Link: https://en.wikipedia.org/wiki/Popeyes
+Snippet: <b>Popeyes</b> Louisiana Kitchen, Inc., [6] also known as <b>Popeyes</b> and formerly named <b>Popeyes</b> Chicken &amp; Biscuits [7] and <b>Popeyes</b> Famous Fried Chicken &amp; Biscuits, [8] is an American multinational chain of fried chicken restaurants formed in 1972 in New Orleans, Louisiana and headquartered in Miami. It is currently a subsidiary of Toronto-based Restaurant Brands International.
+
+Title: The History of Popeyes Louisiana Kitchen
+Link: https://news.popeyes.com/blog-posts/the-history-of-popeyes-louisiana-kitchen
+Snippet: The first <b>Popeyes</b> franchise restaurant opened in Louisiana in 1976 and started gaining a following for hometown inspired flavors. As <b>business</b> started to grow, <b>Popeyes</b> got fans singing about our chicken and introduced the famous “Love that Chicken” slogan and jingle in 1980, an iconic tune that is still spreading chicken-joy to this day.
+
+Title: Popeyes Louisiana Kitchen | Company Overview &amp; News - Forbes
+Link: https://www.forbes.com/companies/popeyes-louisiana-kitchen/
+Snippet: Atlanta, Georgia. From the Editor. <b>Popeyes</b> Louisiana Kitchen, Inc. develops, operates and franchises quick-service restaurants under the trade names <b>Popeyes</b> Chicken and Biscuits and <b>Popeyes</b> ...
+
+Title: Popeyes
+Link: https://www.popeyes.com/company/
+Snippet: Mouth-watering crunch and juicy fried chicken bursting with Louisiana flavor. Explore our menu, offers, and earn rewards on delivery or digital orders. Download the app and order your favorites today!
+
+Title: Popeyes Louisiana Kitchen Inc - Company Profile and News
+Link: https://www.bloomberg.com/profile/company/PLKI:US
+Snippet: <b>Company</b> <b>profile</b> page for <b>Popeyes</b> Louisiana Kitchen Inc including stock price, <b>company</b> news, executives, board members, and contact information
+
+Title: 50 Years Strong and Still Growing: Popeyes Announces Plans for Major ...
+Link: https://news.popeyes.com/blog-posts/popeyes-plans-major-expansion-technology-and-restaurant-design-updates
+Snippet: <b>Popeyes</b> is celebrating it&#39;s golden birthday with the unveiling of new restaurant designs, flagship locations, and expansion goals for 2022. <b>Popeyes</b> ended 2021 with a lot to celebrate: having opened 208 new restaurants last year for a total of 3,000+ restaurants across in US &amp; Canada and over 3,700 locations globally. 2022 marks <b>Popeyes</b> 50 th birthday year, and we have big plans to bring ...
+
+Title: How Popeyes Turned Spicy Chicken Into a $1.8 Billion Payday
+Link: https://www.eater.com/2017/2/24/14683964/popeyes-fried-chicken-al-copeland-history
+Snippet: <b>Popeyes</b> was founded in New Orleans in 1972 by Alvin (Al) C. Copeland Sr., a serial entrepreneur who got his start in the doughnut <b>business</b>. As food historian Andrew F. Smith writes in Fast Food ...
+
+Title: How Popeyes Sparked the Chicken Sandwich Wars
+Link: https://news.popeyes.com/blog-posts/how-popeyes-sparked-the-chicken-sandwich-wars-started
+Snippet: <b>Popeyes</b> kicked off the biggest battle in fast food history by launching a high-quality chicken sandwich that guests loved, and the industry took notice. It all started back on Aug. 12, 2019, when <b>Popeyes</b> launched the new Chicken Sandwich. Created after years of refining recipes and scouring the country for the perfect ingredients, the Chicken ...
+
+Title: The Modern <b>Popeyes</b>® Renaissance:
+Link: https://news.popeyes.com/blog-posts/the-modern-popeyes-r-renaissance
+Snippet: An inside look at how the Louisiana brand is becoming the next big global quick service restaurant. MIAMI--(<b>BUSINESS</b> WIRE)--Founded in 1972 in New Orleans, Louisiana, the <b>Popeyes</b> ® brand has been one of America’s best kept secrets for the last 48 years.Long before breaking the internet with their Chicken Sandwich launch, the brand’s flavorful Cajun recipes and spices have been loved by a ...
+
+Title: Popeyes Louisiana Kitchen - LinkedIn
+Link: https://www.linkedin.com/company/popeyes-louisiana-kitchen
+Snippet: <b>Popeyes</b> Louisiana Kitchen | 84,327 followers on LinkedIn. Love That Chicken from <b>Popeyes</b> | Founded in New Orleans in 1972, <b>POPEYES</b>® has more than 45 years of history and culinary tradition.
+
+Remi: Results for 'Popeye's company overview':
+Title: Popeyes - Wikipedia
+Link: https://en.wikipedia.org/wiki/Popeyes
+Snippet: <b>Popeyes</b> Louisiana Kitchen, Inc., [6] also known as <b>Popeyes</b> and formerly named <b>Popeyes</b> Chicken &amp; Biscuits [7] and <b>Popeyes</b> Famous Fried Chicken &amp; Biscuits, [8] is an American multinational chain of fried chicken restaurants formed in 1972 in New Orleans, Louisiana and headquartered in Miami. It is currently a subsidiary of Toronto-based Restaurant Brands International.
+
+Title: The History of Popeyes Louisiana Kitchen
+Link: https://news.popeyes.com/blog-posts/the-history-of-popeyes-louisiana-kitchen
+Snippet: The first <b>Popeyes</b> franchise restaurant opened in Louisiana in 1976 and started gaining a following for hometown inspired flavors. As <b>business</b> started to grow, <b>Popeyes</b> got fans singing about our chicken and introduced the famous “Love that Chicken” slogan and jingle in 1980, an iconic tune that is still spreading chicken-joy to this day.
+
+Title: Popeyes Louisiana Kitchen | Company Overview &amp; News - Forbes
+Link: https://www.forbes.com/companies/popeyes-louisiana-kitchen/
+Snippet: Atlanta, Georgia. From the Editor. <b>Popeyes</b> Louisiana Kitchen, Inc. develops, operates and franchises quick-service restaurants under the trade names <b>Popeyes</b> Chicken and Biscuits and <b>Popeyes</b> ...
+
+Title: Popeyes
+Link: https://www.popeyes.com/company/
+Snippet: Mouth-watering crunch and juicy fried chicken bursting with Louisiana flavor. Explore our menu, offers, and earn rewards on delivery or digital orders. Download the app and order your favorites today!
+
+Title: Popeyes Louisiana Kitchen Inc - Company Profile and News
+Link: https://www.bloomberg.com/profile/company/PLKI:US
+Snippet: <b>Company</b> <b>profile</b> page for <b>Popeyes</b> Louisiana Kitchen Inc including stock price, <b>company</b> news, executives, board members, and contact information
+
+Title: 50 Years Strong and Still Growing: Popeyes Announces Plans for Major ...
+Link: https://news.popeyes.com/blog-posts/popeyes-plans-major-expansion-technology-and-restaurant-design-updates
+Snippet: <b>Popeyes</b> is celebrating it&#39;s golden birthday with the unveiling of new restaurant designs, flagship locations, and expansion goals for 2022. <b>Popeyes</b> ended 2021 with a lot to celebrate: having opened 208 new restaurants last year for a total of 3,000+ restaurants across in US &amp; Canada and over 3,700 locations globally. 2022 marks <b>Popeyes</b> 50 th birthday year, and we have big plans to bring ...
+
+Title: How Popeyes Turned Spicy Chicken Into a $1.8 Billion Payday
+Link: https://www.eater.com/2017/2/24/14683964/popeyes-fried-chicken-al-copeland-history
+Snippet: <b>Popeyes</b> was founded in New Orleans in 1972 by Alvin (Al) C. Copeland Sr., a serial entrepreneur who got his start in the doughnut <b>business</b>. As food historian Andrew F. Smith writes in Fast Food ...
+
+Title: How Popeyes Sparked the Chicken Sandwich Wars
+Link: https://news.popeyes.com/blog-posts/how-popeyes-sparked-the-chicken-sandwich-wars-started
+Snippet: <b>Popeyes</b> kicked off the biggest battle in fast food history by launching a high-quality chicken sandwich that guests loved, and the industry took notice. It all started back on Aug. 12, 2019, when <b>Popeyes</b> launched the new Chicken Sandwich. Created after years of refining recipes and scouring the country for the perfect ingredients, the Chicken ...
+
+Title: The Modern <b>Popeyes</b>® Renaissance:
+Link: https://news.popeyes.com/blog-posts/the-modern-popeyes-r-renaissance
+Snippet: An inside look at how the Louisiana brand is becoming the next big global quick service restaurant. MIAMI--(<b>BUSINESS</b> WIRE)--Founded in 1972 in New Orleans, Louisiana, the <b>Popeyes</b> ® brand has been one of America’s best kept secrets for the last 48 years.Long before breaking the internet with their Chicken Sandwich launch, the brand’s flavorful Cajun recipes and spices have been loved by a ...
+
+Title: Popeyes Louisiana Kitchen - LinkedIn
+Link: https://www.linkedin.com/company/popeyes-louisiana-kitchen
+Snippet: <b>Popeyes</b> Louisiana Kitchen | 84,327 followers on LinkedIn. Love That Chicken from <b>Popeyes</b> | Founded in New Orleans in 1972, <b>POPEYES</b>® has more than 45 years of history and culinary tradition.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's decision makers':
+Title: Popeyes Marketing Strategy 2024: A Case Study – Latterly.org
+Link: https://www.latterly.org/popeyes-marketing-strategy/
+Snippet: <b>Popeyes</b>, a leading player in the fast food industry, has firmly established itself through its innovative marketing strategies and strong brand positioning. In this case study, we will explore the key elements of <b>Popeyes</b>’ marketing strategy, from its advertising tactics and branding approach to its digital marketing plan, showcasing how the brand has leveraged these strategies to drive ...
+
+Title: Exploring Popeyes&#39; Successful Marketing Strategy - Brand Credential
+Link: https://www.brandcredential.com/post/exploring-popeyes-successful-marketing-strategy
+Snippet: This positive perception translates into strong brand loyalty, with customers eagerly awaiting new offerings and actively advocating for the brand within their social circles. In conclusion, <b>Popeyes</b>&#39; successful marketing strategy has propelled the brand to great heights within the fast-food industry.
+
+Title: Popeyes Mission and Vision Statement Analysis
+Link: https://mission-statement.com/popeyes/
+Snippet: <b>Popeyes</b> Core Values <b>Popeyes</b> core values are focused on passion, integrity, diversity, excellence, and teamwork. These guide the company’s actions and <b>decision</b>-<b>making</b>:
+
+Title: An Inside Look at Popeyes Headquarters: Unraveling the Heart of a Fast ...
+Link: https://www.marketingscoop.com/consumer/popeyes-headquarters/
+Snippet: The company‘s values of authenticity, service, and quality are deeply ingrained in its DNA, guiding <b>decision</b>-<b>making</b> at all levels of the organization. <b>Popeyes</b> headquarters places a strong emphasis on employee development and well-being, offering comprehensive training programs, competitive benefits, and opportunities for career growth.
+
+Title: Popeyes® Shares Marketing Diversity Results and Action Plan
+Link: https://news.popeyes.com/blog-posts/popeyes-shares-marketing-diversity-results-and-action-plan
+Snippet: The full results of the 2021 <b>Popeyes</b>® Marketing Diversity Scorecard, which include current representation percentages, identified areas of opportunity and more, can be found here. Major findings and action items include: · Increasing diversity of marketing teams: Our internal <b>Popeyes</b>® marketing team and the teams that work for the marketing ...
+
+Title: Popeyes clucks at competition with new marketing plan
+Link: https://www.qsrweb.com/news/popeyes-clucks-at-competition-with-new-marketing-plan/
+Snippet: This campaign to show that <b>Popeyes</b> beat KFC marks the most aggressive marketing strategy in the company’s history. &quot;We have a strong data-driven <b>decision</b> <b>making</b> process at <b>Popeyes</b> and that focus has allowed us to grow market share at a time when other brands are losing theirs,&quot; said Cheryl Bachelder, CEO for <b>Popeyes</b>.
+
+Title: Popeyes’ Journey from Cult-Favorite to the Mainstream - QSR Magazine
+Link: https://www.qsrmagazine.com/exclusives/popeyes-journey-from-cult-favorite-to-the-mainstream/
+Snippet: <b>Popeyes</b> before the chicken sandwich earned roughly $1.4 million per restaurant annually on the top line. That rose to $1.8 million (it was $1.823 million in 2022 ). The trial <b>Popeyes</b> created from the campaign cascaded as guests came in, got the product, and looked around. “It elevated us and really catapulted us from this more niche, regional brand to being a mainstream brand,” Siddiqui says.
+
+Title: 50 Years Strong and Still Growing: Popeyes Announces Plans for Major ...
+Link: https://news.popeyes.com/blog-posts/popeyes-plans-major-expansion-technology-and-restaurant-design-updates
+Snippet: 50 Years Strong and Still Growing: <b>Popeyes</b> Announces Plans for Major Expansion and Technology Growth <b>Popeyes</b> is celebrating it&#39;s golden birthday with the unveiling of new restaurant designs, flagship locations, and expansion goals for 2022.
+
+Title: Popeye&#39;s taps BrandIndex to gauge consumer perception - QSR Web
+Link: https://www.qsrweb.com/news/popeyes-taps-brandindex-to-gauge-consumer-perception/
+Snippet: <b>Popeye&#39;s</b> Louisiana Kitchen has signed an agreement with BrandIndex, the daily consumer perception service of international market research firm YouGov. The partnership will entail daily brand intelligence reports to assist <b>Popeye&#39;s</b> in <b>decision</b> <b>making</b>.
+
+Title: Don&#39;t Play Chicken With Your Suppliers: Four Important Supply Chain ...
+Link: https://www.apqc.org/blog/dont-play-chicken-your-suppliers-four-important-supply-chain-lessons-popeyes-chicken-5
+Snippet: Don&#39;t Play Chicken With Your <b>Suppliers:</b> Four Important Supply Chain Lessons From the <b>Popeyes</b>&#39; Chicken Sandwich Craze of 2019 It all started—as so many things do these days—with a tweet. In August of 2019, <b>Popeyes</b>’ Louisiana Kitchen was generating a lot of social media buzz in response to its new fried chicken sandwich. The chicken chain’s biggest competitor, Chick-fil-A, was itching ...
+
+Remi: Results for 'Popeye's decision makers':
+Title: Popeyes Marketing Strategy 2024: A Case Study – Latterly.org
+Link: https://www.latterly.org/popeyes-marketing-strategy/
+Snippet: <b>Popeyes</b>, a leading player in the fast food industry, has firmly established itself through its innovative marketing strategies and strong brand positioning. In this case study, we will explore the key elements of <b>Popeyes</b>’ marketing strategy, from its advertising tactics and branding approach to its digital marketing plan, showcasing how the brand has leveraged these strategies to drive ...
+
+Title: Exploring Popeyes&#39; Successful Marketing Strategy - Brand Credential
+Link: https://www.brandcredential.com/post/exploring-popeyes-successful-marketing-strategy
+Snippet: This positive perception translates into strong brand loyalty, with customers eagerly awaiting new offerings and actively advocating for the brand within their social circles. In conclusion, <b>Popeyes</b>&#39; successful marketing strategy has propelled the brand to great heights within the fast-food industry.
+
+Title: Popeyes Mission and Vision Statement Analysis
+Link: https://mission-statement.com/popeyes/
+Snippet: <b>Popeyes</b> Core Values <b>Popeyes</b> core values are focused on passion, integrity, diversity, excellence, and teamwork. These guide the company’s actions and <b>decision</b>-<b>making</b>:
+
+Title: An Inside Look at Popeyes Headquarters: Unraveling the Heart of a Fast ...
+Link: https://www.marketingscoop.com/consumer/popeyes-headquarters/
+Snippet: The company‘s values of authenticity, service, and quality are deeply ingrained in its DNA, guiding <b>decision</b>-<b>making</b> at all levels of the organization. <b>Popeyes</b> headquarters places a strong emphasis on employee development and well-being, offering comprehensive training programs, competitive benefits, and opportunities for career growth.
+
+Title: Popeyes® Shares Marketing Diversity Results and Action Plan
+Link: https://news.popeyes.com/blog-posts/popeyes-shares-marketing-diversity-results-and-action-plan
+Snippet: The full results of the 2021 <b>Popeyes</b>® Marketing Diversity Scorecard, which include current representation percentages, identified areas of opportunity and more, can be found here. Major findings and action items include: · Increasing diversity of marketing teams: Our internal <b>Popeyes</b>® marketing team and the teams that work for the marketing ...
+
+Title: Popeyes clucks at competition with new marketing plan
+Link: https://www.qsrweb.com/news/popeyes-clucks-at-competition-with-new-marketing-plan/
+Snippet: This campaign to show that <b>Popeyes</b> beat KFC marks the most aggressive marketing strategy in the company’s history. &quot;We have a strong data-driven <b>decision</b> <b>making</b> process at <b>Popeyes</b> and that focus has allowed us to grow market share at a time when other brands are losing theirs,&quot; said Cheryl Bachelder, CEO for <b>Popeyes</b>.
+
+Title: Popeyes’ Journey from Cult-Favorite to the Mainstream - QSR Magazine
+Link: https://www.qsrmagazine.com/exclusives/popeyes-journey-from-cult-favorite-to-the-mainstream/
+Snippet: <b>Popeyes</b> before the chicken sandwich earned roughly $1.4 million per restaurant annually on the top line. That rose to $1.8 million (it was $1.823 million in 2022 ). The trial <b>Popeyes</b> created from the campaign cascaded as guests came in, got the product, and looked around. “It elevated us and really catapulted us from this more niche, regional brand to being a mainstream brand,” Siddiqui says.
+
+Title: 50 Years Strong and Still Growing: Popeyes Announces Plans for Major ...
+Link: https://news.popeyes.com/blog-posts/popeyes-plans-major-expansion-technology-and-restaurant-design-updates
+Snippet: 50 Years Strong and Still Growing: <b>Popeyes</b> Announces Plans for Major Expansion and Technology Growth <b>Popeyes</b> is celebrating it&#39;s golden birthday with the unveiling of new restaurant designs, flagship locations, and expansion goals for 2022.
+
+Title: Popeye&#39;s taps BrandIndex to gauge consumer perception - QSR Web
+Link: https://www.qsrweb.com/news/popeyes-taps-brandindex-to-gauge-consumer-perception/
+Snippet: <b>Popeye&#39;s</b> Louisiana Kitchen has signed an agreement with BrandIndex, the daily consumer perception service of international market research firm YouGov. The partnership will entail daily brand intelligence reports to assist <b>Popeye&#39;s</b> in <b>decision</b> <b>making</b>.
+
+Title: Don&#39;t Play Chicken With Your Suppliers: Four Important Supply Chain ...
+Link: https://www.apqc.org/blog/dont-play-chicken-your-suppliers-four-important-supply-chain-lessons-popeyes-chicken-5
+Snippet: Don&#39;t Play Chicken With Your <b>Suppliers:</b> Four Important Supply Chain Lessons From the <b>Popeyes</b>&#39; Chicken Sandwich Craze of 2019 It all started—as so many things do these days—with a tweet. In August of 2019, <b>Popeyes</b>’ Louisiana Kitchen was generating a lot of social media buzz in response to its new fried chicken sandwich. The chicken chain’s biggest competitor, Chick-fil-A, was itching ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's executive team':
+Title: Popeyes: Online Offers and Ordering
+Link: https://www.popeyes.com/company/leadership-team.php
+Snippet: Mouth-watering crunch and juicy fried chicken bursting with Louisiana flavor. Explore our menu, offers, and earn rewards on delivery or digital orders. Download the app and order your favorites today!
+
+Title: Popeyes Company Profile | Management and Employees List - Datanyze
+Link: https://www.datanyze.com/companies/popeyes/30867568
+Snippet: Find contact information for <b>Popeyes</b>. Learn about their Restaurants, Hospitality market share, competitors, and <b>Popeyes</b>&#39;s email format. Company Overview. <b>Team</b> Members. Technologies. ... <b>Popeyes Executive Team</b> &amp; Key Decision Makers. Name &amp; Title Social Contact Info; Ehab Mohammed. Chief Operations Officer. Email. Phone. Reveal for Free. Ameer ...
+
+Title: Restaurant Brands International Announces Leadership Changes ... - Popeyes
+Link: https://news.popeyes.com/blog-posts/restaurant-brands-international-announces-leadership-changes-to-support-long-term-growth
+Snippet: Mr. Klein joined the <b>Popeyes</b> leadership <b>team</b> two years ago as Chief Marketing Officer and brings 25 years experience in marketing and consumer insights. Mr. Klein previously was CMO for Little Caesars Pizza and spent 15 years at PepsiCo in senior marketing positions, including Senior Vice President and CMO for PepsiCo Foodservice. Mr.
+
+Title: Sami Siddiqui named Popeyes president - Restaurant Business
+Link: https://www.restaurantbusinessonline.com/leadership/sami-siddiqui-named-popeyes-president
+Snippet: By Jonathan Maze on Sep. 08, 2020. Restaurant Brands International on Tuesday named Sami Siddiqui the brand president of <b>Popeyes</b> Louisiana Kitchen. Siddiqui, who had overseen the Toronto-based Restaurant Brands’ Asia-Pacific region, takes over for Felipe Athayde, who is leaving <b>Popeyes</b> after 18 months overseeing the chicken chain. Athayde on ...
+
+Title: An Inside Look at Popeyes Headquarters: Unraveling the Heart of a Fast ...
+Link: https://www.marketingscoop.com/consumer/popeyes-headquarters/
+Snippet: The leadership <b>team</b> at <b>Popeyes</b> headquarters works in close collaboration with the <b>executive</b> committee at RBI, which includes visionary leaders such as Duncan Fulton, Chief <b>Corporate</b> Officer, and Jill Granat, General Counsel. ... The company‘s strong leadership <b>team</b>, collaborative <b>corporate</b> culture, and commitment to making a positive impact ...
+
+Title: RBI names CFO, shakes up leadership | Restaurant Dive
+Link: https://www.restaurantdive.com/news/RBI-names-Sami-Siddiqui-CFO-Jeff-Klein-Popeyes-US-president-Thiago-Santelmo-president-international/710280/
+Snippet: He most recently served as president of <b>Popeyes</b> U.S. and Canada, a role he had been in for four years. In this role, <b>Popeyes</b> achieved a record level of sales, unit growth and profitability, per the press release. <b>Popeyes</b> U.S. ended Q4 with same-store sales increases of 5.8% and net restaurant growth of 4.5%, per the company’s earnings call.
+
+Title: Sami Siddiqui Appointed President of Popeyes Americas
+Link: https://www.rbi.com/English/news/news-details/2020/Sami-Siddiqui-Appointed-President-of-Popeyes-Americas/default.aspx
+Snippet: Jose Cil, Chief <b>Executive</b> Officer of RBI commented, Im very proud to announce that Sami will be leading <b>Popeyes</b> through our exciting next phase of growth across the Americas. <b>Popeyes</b> is a brand with a well-known heritage and more recently has demonstrated unprecedented growth through exceptional menu innovation in our iconic Chicken Sandwich.
+
+Title: Popeyes Louisiana Kitchen - PitchBook
+Link: https://pitchbook.com/profiles/company/12200-41
+Snippet: Our data operations <b>team</b> has logged over 3.5 million hours researching, organizing, and integrating the information you need most. Information on valuation, funding, acquisitions, investors, and <b>executives</b> for <b>Popeyes</b> Louisiana Kitchen. Use the PitchBook Platform to explore the full profile.
+
+Title: Popeyes Shuffles Executive Ranks - Skift Table
+Link: https://table.skift.com/2019/03/14/popeyes-shuffles-executive-ranks/
+Snippet: March 14, 2019. Restaurant Brands International (RBI) announced today that Alexandre Santoro, the president of <b>Popeyes</b> Louisiana Kitchen since March 2017, would be stepping down from his position. Felipe Athayde, a longtime RBI <b>executive</b> who has previously worked with the company’s two other brands, Burger King and Tim Hortons, will be ...
+
+Title: The CEO of Popeyes on Treating Franchisees as the Most Important Customers
+Link: https://hbr.org/2016/10/the-ceo-of-popeyes-on-treating-franchisees-as-the-most-important-customers
+Snippet: CB. Cheryl A. Bachelder is chief <b>executive</b> officer of <b>Popeyes</b> Louisiana Kitchen, Inc. During her career, Cheryl Bachelder had been a senior <b>executive</b> at two other food franchising companies ...
+
+Remi: Results for 'Popeye's executive team':
+Title: Popeyes: Online Offers and Ordering
+Link: https://www.popeyes.com/company/leadership-team.php
+Snippet: Mouth-watering crunch and juicy fried chicken bursting with Louisiana flavor. Explore our menu, offers, and earn rewards on delivery or digital orders. Download the app and order your favorites today!
+
+Title: Popeyes Company Profile | Management and Employees List - Datanyze
+Link: https://www.datanyze.com/companies/popeyes/30867568
+Snippet: Find contact information for <b>Popeyes</b>. Learn about their Restaurants, Hospitality market share, competitors, and <b>Popeyes</b>&#39;s email format. Company Overview. <b>Team</b> Members. Technologies. ... <b>Popeyes Executive Team</b> &amp; Key Decision Makers. Name &amp; Title Social Contact Info; Ehab Mohammed. Chief Operations Officer. Email. Phone. Reveal for Free. Ameer ...
+
+Title: Restaurant Brands International Announces Leadership Changes ... - Popeyes
+Link: https://news.popeyes.com/blog-posts/restaurant-brands-international-announces-leadership-changes-to-support-long-term-growth
+Snippet: Mr. Klein joined the <b>Popeyes</b> leadership <b>team</b> two years ago as Chief Marketing Officer and brings 25 years experience in marketing and consumer insights. Mr. Klein previously was CMO for Little Caesars Pizza and spent 15 years at PepsiCo in senior marketing positions, including Senior Vice President and CMO for PepsiCo Foodservice. Mr.
+
+Title: Sami Siddiqui named Popeyes president - Restaurant Business
+Link: https://www.restaurantbusinessonline.com/leadership/sami-siddiqui-named-popeyes-president
+Snippet: By Jonathan Maze on Sep. 08, 2020. Restaurant Brands International on Tuesday named Sami Siddiqui the brand president of <b>Popeyes</b> Louisiana Kitchen. Siddiqui, who had overseen the Toronto-based Restaurant Brands’ Asia-Pacific region, takes over for Felipe Athayde, who is leaving <b>Popeyes</b> after 18 months overseeing the chicken chain. Athayde on ...
+
+Title: An Inside Look at Popeyes Headquarters: Unraveling the Heart of a Fast ...
+Link: https://www.marketingscoop.com/consumer/popeyes-headquarters/
+Snippet: The leadership <b>team</b> at <b>Popeyes</b> headquarters works in close collaboration with the <b>executive</b> committee at RBI, which includes visionary leaders such as Duncan Fulton, Chief <b>Corporate</b> Officer, and Jill Granat, General Counsel. ... The company‘s strong leadership <b>team</b>, collaborative <b>corporate</b> culture, and commitment to making a positive impact ...
+
+Title: RBI names CFO, shakes up leadership | Restaurant Dive
+Link: https://www.restaurantdive.com/news/RBI-names-Sami-Siddiqui-CFO-Jeff-Klein-Popeyes-US-president-Thiago-Santelmo-president-international/710280/
+Snippet: He most recently served as president of <b>Popeyes</b> U.S. and Canada, a role he had been in for four years. In this role, <b>Popeyes</b> achieved a record level of sales, unit growth and profitability, per the press release. <b>Popeyes</b> U.S. ended Q4 with same-store sales increases of 5.8% and net restaurant growth of 4.5%, per the company’s earnings call.
+
+Title: Sami Siddiqui Appointed President of Popeyes Americas
+Link: https://www.rbi.com/English/news/news-details/2020/Sami-Siddiqui-Appointed-President-of-Popeyes-Americas/default.aspx
+Snippet: Jose Cil, Chief <b>Executive</b> Officer of RBI commented, Im very proud to announce that Sami will be leading <b>Popeyes</b> through our exciting next phase of growth across the Americas. <b>Popeyes</b> is a brand with a well-known heritage and more recently has demonstrated unprecedented growth through exceptional menu innovation in our iconic Chicken Sandwich.
+
+Title: Popeyes Louisiana Kitchen - PitchBook
+Link: https://pitchbook.com/profiles/company/12200-41
+Snippet: Our data operations <b>team</b> has logged over 3.5 million hours researching, organizing, and integrating the information you need most. Information on valuation, funding, acquisitions, investors, and <b>executives</b> for <b>Popeyes</b> Louisiana Kitchen. Use the PitchBook Platform to explore the full profile.
+
+Title: Popeyes Shuffles Executive Ranks - Skift Table
+Link: https://table.skift.com/2019/03/14/popeyes-shuffles-executive-ranks/
+Snippet: March 14, 2019. Restaurant Brands International (RBI) announced today that Alexandre Santoro, the president of <b>Popeyes</b> Louisiana Kitchen since March 2017, would be stepping down from his position. Felipe Athayde, a longtime RBI <b>executive</b> who has previously worked with the company’s two other brands, Burger King and Tim Hortons, will be ...
+
+Title: The CEO of Popeyes on Treating Franchisees as the Most Important Customers
+Link: https://hbr.org/2016/10/the-ceo-of-popeyes-on-treating-franchisees-as-the-most-important-customers
+Snippet: CB. Cheryl A. Bachelder is chief <b>executive</b> officer of <b>Popeyes</b> Louisiana Kitchen, Inc. During her career, Cheryl Bachelder had been a senior <b>executive</b> at two other food franchising companies ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's board members LinkedIn profiles':
+Title: Steve Danon - Vice President, Head of U.S. Government ... - LinkedIn
+Link: https://www.linkedin.com/in/stevedanon
+Snippet: View Steve Danon’s <b>profile</b> on <b>LinkedIn</b>, a professional community of 1 billion <b>members</b>. ... and the <b>board</b> <b>members</b>, to see these small businesses thrive. ... At <b>Popeyes</b>®, everyone - our team ...
+
+Title: Popeyes: Online Offers and Ordering
+Link: https://www.popeyes.com/company/leadership-team.php
+Snippet: Mouth-watering crunch and juicy fried chicken bursting with Louisiana flavor. Explore our menu, offers, and earn rewards on delivery or digital orders. Download the app and order your favorites today!
+
+Title: Popeyes Louisiana Kitchen - LinkedIn
+Link: https://www.linkedin.com/company/popeyes-louisiana-kitchen
+Snippet: <b>Popeyes</b> Louisiana Kitchen | 84,327 followers on <b>LinkedIn</b>. Love That Chicken from <b>Popeyes</b> | Founded in New Orleans in 1972, <b>POPEYES</b>® has more than 45 years of history and culinary tradition.
+
+Title: Vanessa L. Whiting - President - A.E.S. Management Corp. - LinkedIn
+Link: https://www.linkedin.com/in/vanessa-l-whiting-5a29102b
+Snippet: President at A.E.S. Management Corp. dba <b>Popeyes</b> Louisiana Kitchen · Owner and operator of 15 <b>Popeyes</b> Louisiana restaurants in and around the Cleveland/Akron, area. · Experience: A.E.S ...
+
+Title: Adrian Estrada - Management Staff - Team Lyders - LinkedIn
+Link: https://www.linkedin.com/in/adrian-estrada-95661580
+Snippet: About. With over 16 years of experience in the food and beverage industry, I am the Director of Operations at <b>Popeyes</b> Louisiana Kitchen, where I manage the operations of eight restaurants across ...
+
+Title: Nancy Saltzman - Senior Vice President, General Counsel ... - LinkedIn
+Link: https://www.linkedin.com/in/nancysaltzman
+Snippet: Chief Legal Officer | <b>Board</b> <b>Member</b> | Strategic Growth Expert | Named a CRN Women of the Channel 2024 and 2022 | National Diversity Council 2021 Top 50 Most Powerful Women in ...
+
+Title: Popeyes Louisiana Kitchen Inc: Shareholders Board Members Managers and ...
+Link: https://www.marketscreener.com/quote/stock/POPEYES-LOUISIANA-KITCHEN-15566323/company/
+Snippet: <b>Popeyes</b> Louisiana Kitchen Inc: Company <b>profile</b>, business summary, shareholders, managers, financial ratings, industry, sector and market information | Nasdaq: | Nasdaq
+
+Title: Renee Hobbs - Popeyes Louisiana Kitchen, Inc. | LinkedIn
+Link: https://www.linkedin.com/in/renee-b-hobbs
+Snippet: Welcome back. QUALIFICATION HIGHLIGHTS&lt;br&gt;&lt;br&gt;• Over 18 years of experience in marketing, project…. · Experience: <b>Popeyes</b> Louisiana Kitchen, Inc. · Location: Atlanta Metropolitan Area · 500 ...
+
+Title: Vice President - Haberkorn Management, Inc. - LinkedIn
+Link: https://www.linkedin.com/in/joseph-haberkorn-77601b127
+Snippet: About. Joseph Haberkorn, Vice President of Haberkorn Management, Inc., supervises and provides financial guidance to a family-owned management company operating franchised businesses, including ...
+
+Title: Bruno Cardinali’s Post - LinkedIn
+Link: https://www.linkedin.com/posts/bruno-cardinali-139387_heres-how-popeyes-cmo-stays-inspired-in-activity-6768284908285681664-ZoW8
+Snippet: Marketing &amp; Sales Director, LAC at <b>Popeyes</b> Louisiana Kitchen, Inc. (RBI) &amp; Co-Founder/<b>Board</b> <b>Member</b> of Semper Laser 3y Report this comment
+
+Remi: Results for 'Popeye's board members LinkedIn profiles':
+Title: Steve Danon - Vice President, Head of U.S. Government ... - LinkedIn
+Link: https://www.linkedin.com/in/stevedanon
+Snippet: View Steve Danon’s <b>profile</b> on <b>LinkedIn</b>, a professional community of 1 billion <b>members</b>. ... and the <b>board</b> <b>members</b>, to see these small businesses thrive. ... At <b>Popeyes</b>®, everyone - our team ...
+
+Title: Popeyes: Online Offers and Ordering
+Link: https://www.popeyes.com/company/leadership-team.php
+Snippet: Mouth-watering crunch and juicy fried chicken bursting with Louisiana flavor. Explore our menu, offers, and earn rewards on delivery or digital orders. Download the app and order your favorites today!
+
+Title: Popeyes Louisiana Kitchen - LinkedIn
+Link: https://www.linkedin.com/company/popeyes-louisiana-kitchen
+Snippet: <b>Popeyes</b> Louisiana Kitchen | 84,327 followers on <b>LinkedIn</b>. Love That Chicken from <b>Popeyes</b> | Founded in New Orleans in 1972, <b>POPEYES</b>® has more than 45 years of history and culinary tradition.
+
+Title: Vanessa L. Whiting - President - A.E.S. Management Corp. - LinkedIn
+Link: https://www.linkedin.com/in/vanessa-l-whiting-5a29102b
+Snippet: President at A.E.S. Management Corp. dba <b>Popeyes</b> Louisiana Kitchen · Owner and operator of 15 <b>Popeyes</b> Louisiana restaurants in and around the Cleveland/Akron, area. · Experience: A.E.S ...
+
+Title: Adrian Estrada - Management Staff - Team Lyders - LinkedIn
+Link: https://www.linkedin.com/in/adrian-estrada-95661580
+Snippet: About. With over 16 years of experience in the food and beverage industry, I am the Director of Operations at <b>Popeyes</b> Louisiana Kitchen, where I manage the operations of eight restaurants across ...
+
+Title: Nancy Saltzman - Senior Vice President, General Counsel ... - LinkedIn
+Link: https://www.linkedin.com/in/nancysaltzman
+Snippet: Chief Legal Officer | <b>Board</b> <b>Member</b> | Strategic Growth Expert | Named a CRN Women of the Channel 2024 and 2022 | National Diversity Council 2021 Top 50 Most Powerful Women in ...
+
+Title: Popeyes Louisiana Kitchen Inc: Shareholders Board Members Managers and ...
+Link: https://www.marketscreener.com/quote/stock/POPEYES-LOUISIANA-KITCHEN-15566323/company/
+Snippet: <b>Popeyes</b> Louisiana Kitchen Inc: Company <b>profile</b>, business summary, shareholders, managers, financial ratings, industry, sector and market information | Nasdaq: | Nasdaq
+
+Title: Renee Hobbs - Popeyes Louisiana Kitchen, Inc. | LinkedIn
+Link: https://www.linkedin.com/in/renee-b-hobbs
+Snippet: Welcome back. QUALIFICATION HIGHLIGHTS&lt;br&gt;&lt;br&gt;• Over 18 years of experience in marketing, project…. · Experience: <b>Popeyes</b> Louisiana Kitchen, Inc. · Location: Atlanta Metropolitan Area · 500 ...
+
+Title: Vice President - Haberkorn Management, Inc. - LinkedIn
+Link: https://www.linkedin.com/in/joseph-haberkorn-77601b127
+Snippet: About. Joseph Haberkorn, Vice President of Haberkorn Management, Inc., supervises and provides financial guidance to a family-owned management company operating franchised businesses, including ...
+
+Title: Bruno Cardinali’s Post - LinkedIn
+Link: https://www.linkedin.com/posts/bruno-cardinali-139387_heres-how-popeyes-cmo-stays-inspired-in-activity-6768284908285681664-ZoW8
+Snippet: Marketing &amp; Sales Director, LAC at <b>Popeyes</b> Louisiana Kitchen, Inc. (RBI) &amp; Co-Founder/<b>Board</b> <b>Member</b> of Semper Laser 3y Report this comment
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's labor relations news':
+Title: Popeyes franchisee pays $212K after US Department of Labor ...
+Link: https://www.dol.gov/newsroom/releases/whd/whd20240207-1
+Snippet: Employer: 14th St. Chicken Corp., operating as <b>Popeyes</b> Chicken &amp; Biscuits 7007 International Blvd. Oakland, CA 94621 . Investigation findings: An investigation by the U. S. Department of <b>Labor</b>’s Wage and Hour Division found a <b>Popeyes</b> fast-food chain franchisee hired children as young as 13-years-old and minors who worked later and longer than permitted by child <b>labor</b> laws at the employer’s ...
+
+Title: Popeye’s Franchise Breaks Settlement Agreement, Labor Board Says
+Link: https://news.bloomberglaw.com/daily-labor-report/popeyes-franchise-breaks-settlement-agreement-labor-board-says
+Snippet: The National <b>Labor</b> <b>Relations</b> Board has ruled that a franchise of <b>Popeyes</b> Louisiana Kitchen violated federal <b>labor</b> law and the terms of a settlement with the union representing the restaurant’s workers. In its decision Tuesday, the board’s Democratic majority found that Florida Pop LLC and Sun Holdings Inc.—which operate <b>Popeyes</b> locations ...
+
+Title: Bay Area Teen Whistleblower Got 3 Popeyes Locations Fined for ... - KQED
+Link: https://www.kqed.org/news/11975129/teen-whistleblower-calls-out-child-labor-at-popeyes-in-oakland-newark-and-tracy
+Snippet: A <b>Popeyes</b> fast-food franchisee has paid $212,000 for child <b>labor</b> and wage violations at its restaurants in East Oakland, Newark and Tracy, federal regulators announced this week. Minors under 14 years old are not allowed to work at food service establishments. But the company, 14th Street Chicken, hired children as young as 13 and had minors ...
+
+Title: Oakland Popeyes accused of illegal child labor practices, harassment ...
+Link: https://www.latimes.com/california/story/2023-05-19/oakland-popeyes-closed-after-allegations-of-child-labor-harassment
+Snippet: Employees at a <b>Popeyes</b> in Oakland went on strike after multiple teen workers alleged they worked long, late hours in violation of <b>labor</b> laws. Officials for the fast food chain closed the franchise ...
+
+Title: Labor shortage squeezes Popeyes&#39; late night business
+Link: https://www.restaurantdive.com/news/labor-shortage-squeezes-popeyes-late-night-business/608821/
+Snippet: <b>Popeyes</b>’ year-over-year Q3 2021 U.S. comparable sales fell by 4.5%, a drop driven primarily by traffic declines as ongoing <b>labor</b> challenges led to a reduction in service and operating hours. Late night hours were particularly challenged by the <b>labor</b> crunch, Restaurant Brands International CEO José Cil said on Monday during the company’s Q3 ...
+
+Title: Service Employees International Union (SEIU)
+Link: https://www.seiu.org/blog/2022/8/when-i-fought-back-against-popeyes-workers-in-hundreds-of-stores-won
+Snippet: During the pandemic, I was working at a <b>Popeyes</b> in Tampa, FL making $10 per hour. On May 19, 2021, I decided to use my voice and join the strike to demand better working conditions. ... It was a long process, but after more than a year of fighting, I received <b>news</b> that the National <b>Labor</b> <b>Relations</b> Board (NLRB) was able to resolve my case ...
+
+Title: Popeyes® Shares Marketing Diversity Results and Action Plan
+Link: https://news.popeyes.com/blog-posts/popeyes-shares-marketing-diversity-results-and-action-plan
+Snippet: The full results of the 2021 <b>Popeyes</b>® Marketing Diversity Scorecard, which include current representation percentages, identified areas of opportunity and more, can be found here. Major findings and action items include: · Increasing diversity of marketing teams: Our internal <b>Popeyes</b>® marketing team and the teams that work for the marketing ...
+
+Title: Popeye’s Franchise Breaks Settlement Agreement, Labor Board Says
+Link: https://www.laborunionnews.com/2023/10/05/popeyes-franchise-breaks-settlement-agreement-labor-board-says/
+Snippet: <b>Popeye’s</b> Franchise Breaks Settlement Agreement, <b>Labor</b> Board Says. ... <b>Labor</b> <b>Relations</b> Glossary Archives. UNIONS AS OF 2022. Union Membership in the private sector: 6.0% in 2022. ... 10.1%. Join the LaborUnionNews.com LinkedIn Group. LABORUNIONNEWS.COM’S <b>NEWS</b> DIGEST. NLRB Petitions &amp; Charges for Wednesday, November 15, 2023. November 15 ...
+
+Title: Popeyes Looks To International Markets To Gain Back Momentum - Forbes
+Link: https://www.forbes.com/sites/aliciakelso/2022/05/04/popeyes-looks-to-international-markets-to-gain-back-momentum/
+Snippet: In Q1, <b>Popeyes</b> was also hindered by continued <b>labor</b> challenges which reduced store hours, as well as the lapping of 2021’s stimulus benefits, RBI CEO José Cil said during Tuesday’s call. That ...
+
+Title: Popeyes Is Closing Some Restaurants Early on Staff Shortages
+Link: https://www.bloomberg.com/news/articles/2021-10-25/popeyes-is-closing-some-restaurants-early-due-to-staff-shortages
+Snippet: Almost 40% of <b>Popeyes</b> locations have been forced to curtail operations as a result of the <b>labor</b> shortage sweeping the industry, forcing the restaurant chain to close dining rooms and rely instead ...
+
+Remi: Results for 'Popeye's labor relations news':
+Title: Popeyes franchisee pays $212K after US Department of Labor ...
+Link: https://www.dol.gov/newsroom/releases/whd/whd20240207-1
+Snippet: Employer: 14th St. Chicken Corp., operating as <b>Popeyes</b> Chicken &amp; Biscuits 7007 International Blvd. Oakland, CA 94621 . Investigation findings: An investigation by the U. S. Department of <b>Labor</b>’s Wage and Hour Division found a <b>Popeyes</b> fast-food chain franchisee hired children as young as 13-years-old and minors who worked later and longer than permitted by child <b>labor</b> laws at the employer’s ...
+
+Title: Popeye’s Franchise Breaks Settlement Agreement, Labor Board Says
+Link: https://news.bloomberglaw.com/daily-labor-report/popeyes-franchise-breaks-settlement-agreement-labor-board-says
+Snippet: The National <b>Labor</b> <b>Relations</b> Board has ruled that a franchise of <b>Popeyes</b> Louisiana Kitchen violated federal <b>labor</b> law and the terms of a settlement with the union representing the restaurant’s workers. In its decision Tuesday, the board’s Democratic majority found that Florida Pop LLC and Sun Holdings Inc.—which operate <b>Popeyes</b> locations ...
+
+Title: Bay Area Teen Whistleblower Got 3 Popeyes Locations Fined for ... - KQED
+Link: https://www.kqed.org/news/11975129/teen-whistleblower-calls-out-child-labor-at-popeyes-in-oakland-newark-and-tracy
+Snippet: A <b>Popeyes</b> fast-food franchisee has paid $212,000 for child <b>labor</b> and wage violations at its restaurants in East Oakland, Newark and Tracy, federal regulators announced this week. Minors under 14 years old are not allowed to work at food service establishments. But the company, 14th Street Chicken, hired children as young as 13 and had minors ...
+
+Title: Oakland Popeyes accused of illegal child labor practices, harassment ...
+Link: https://www.latimes.com/california/story/2023-05-19/oakland-popeyes-closed-after-allegations-of-child-labor-harassment
+Snippet: Employees at a <b>Popeyes</b> in Oakland went on strike after multiple teen workers alleged they worked long, late hours in violation of <b>labor</b> laws. Officials for the fast food chain closed the franchise ...
+
+Title: Labor shortage squeezes Popeyes&#39; late night business
+Link: https://www.restaurantdive.com/news/labor-shortage-squeezes-popeyes-late-night-business/608821/
+Snippet: <b>Popeyes</b>’ year-over-year Q3 2021 U.S. comparable sales fell by 4.5%, a drop driven primarily by traffic declines as ongoing <b>labor</b> challenges led to a reduction in service and operating hours. Late night hours were particularly challenged by the <b>labor</b> crunch, Restaurant Brands International CEO José Cil said on Monday during the company’s Q3 ...
+
+Title: Service Employees International Union (SEIU)
+Link: https://www.seiu.org/blog/2022/8/when-i-fought-back-against-popeyes-workers-in-hundreds-of-stores-won
+Snippet: During the pandemic, I was working at a <b>Popeyes</b> in Tampa, FL making $10 per hour. On May 19, 2021, I decided to use my voice and join the strike to demand better working conditions. ... It was a long process, but after more than a year of fighting, I received <b>news</b> that the National <b>Labor</b> <b>Relations</b> Board (NLRB) was able to resolve my case ...
+
+Title: Popeyes® Shares Marketing Diversity Results and Action Plan
+Link: https://news.popeyes.com/blog-posts/popeyes-shares-marketing-diversity-results-and-action-plan
+Snippet: The full results of the 2021 <b>Popeyes</b>® Marketing Diversity Scorecard, which include current representation percentages, identified areas of opportunity and more, can be found here. Major findings and action items include: · Increasing diversity of marketing teams: Our internal <b>Popeyes</b>® marketing team and the teams that work for the marketing ...
+
+Title: Popeye’s Franchise Breaks Settlement Agreement, Labor Board Says
+Link: https://www.laborunionnews.com/2023/10/05/popeyes-franchise-breaks-settlement-agreement-labor-board-says/
+Snippet: <b>Popeye’s</b> Franchise Breaks Settlement Agreement, <b>Labor</b> Board Says. ... <b>Labor</b> <b>Relations</b> Glossary Archives. UNIONS AS OF 2022. Union Membership in the private sector: 6.0% in 2022. ... 10.1%. Join the LaborUnionNews.com LinkedIn Group. LABORUNIONNEWS.COM’S <b>NEWS</b> DIGEST. NLRB Petitions &amp; Charges for Wednesday, November 15, 2023. November 15 ...
+
+Title: Popeyes Looks To International Markets To Gain Back Momentum - Forbes
+Link: https://www.forbes.com/sites/aliciakelso/2022/05/04/popeyes-looks-to-international-markets-to-gain-back-momentum/
+Snippet: In Q1, <b>Popeyes</b> was also hindered by continued <b>labor</b> challenges which reduced store hours, as well as the lapping of 2021’s stimulus benefits, RBI CEO José Cil said during Tuesday’s call. That ...
+
+Title: Popeyes Is Closing Some Restaurants Early on Staff Shortages
+Link: https://www.bloomberg.com/news/articles/2021-10-25/popeyes-is-closing-some-restaurants-early-due-to-staff-shortages
+Snippet: Almost 40% of <b>Popeyes</b> locations have been forced to curtail operations as a result of the <b>labor</b> shortage sweeping the industry, forcing the restaurant chain to close dining rooms and rely instead ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's labor disputes':
+Title: Popeyes franchisee pays $212K after US Department of Labor ...
+Link: https://www.dol.gov/newsroom/releases/whd/whd20240207-1
+Snippet: Investigation findings: An investigation by the U. S. Department of <b>Labor</b>’s Wage and Hour Division found a <b>Popeyes</b> fast-food chain franchisee hired children as young as 13-years-old and minors who worked later and longer than permitted by child <b>labor</b> laws at the employer’s three Oakland, Tracy and Newark locations. Investigators also determined the employer shortchanged workers by ...
+
+Title: Popeye’s Franchise Breaks Settlement Agreement, Labor Board Says
+Link: https://news.bloomberglaw.com/daily-labor-report/popeyes-franchise-breaks-settlement-agreement-labor-board-says
+Snippet: The National <b>Labor</b> Relations Board has ruled that a franchise of <b>Popeyes</b> Louisiana Kitchen violated federal <b>labor</b> law and the terms of a settlement with the union representing the restaurant’s workers.
+
+Title: Oakland Popeyes accused of illegal child labor practices, harassment ...
+Link: https://www.latimes.com/california/story/2023-05-19/oakland-popeyes-closed-after-allegations-of-child-labor-harassment
+Snippet: Employees at a <b>Popeyes</b> in Oakland picketed this week after teen workers, including one who was 13, alleged that they were pressured to work long, late hours in violation of child <b>labor</b> laws.
+
+Title: Bay Area Teen Whistleblower Got 3 Popeyes Locations Fined for ... - KQED
+Link: https://www.kqed.org/news/11975129/teen-whistleblower-calls-out-child-labor-at-popeyes-in-oakland-newark-and-tracy
+Snippet: A <b>Popeyes</b> fast-food franchisee has paid $212,000 for child <b>labor</b> and wage violations at its restaurants in East Oakland, Newark and Tracy, federal regulators announced this week. Minors under 14 years old are not allowed to work at food service establishments. But the company, 14th Street Chicken, hired children as young as 13 and had minors ...
+
+Title: US Department of Labor fines Michigan Popeyes franchise $48K ...
+Link: https://www.dol.gov/newsroom/releases/whd/whd20240206-0
+Snippet: Investigation findings: An investigation by the U.S. Department of <b>Labor</b>’s Wage and Hour Division found teens working at a Troy <b>Popeyes</b> franchise in violation of hours allowed by the Fair <b>Labor</b> Standards Act’s child <b>labor</b> standards.
+
+Title: Oakland Popeye&#39;s operator to pay $200K after allegedly hiring workers ...
+Link: https://www.ktvu.com/news/oakland-popeyes-operator-to-pay-200k-after-allegedly-hiring-workers-as-young-as-13
+Snippet: The operator of <b>Popeye&#39;s</b> restaurants in Oakland, Newark and Tracy settled a federal complaint involving violating child <b>labor</b> laws, the US Department of <b>Labor</b> announced on Wednesday.
+
+Title: Jury awards $31M in lawsuit against a Popeyes franchisee
+Link: https://www.restaurantbusinessonline.com/financing/jury-awards-31m-lawsuit-against-popeyes-franchisee
+Snippet: A jury this week awarded a former employee of Dallas-based Sun Holdings nearly $31 million in damages to a former employee who said the <b>Popeyes</b> operator owed him a share of the restaurants’ profits. The jury initially awarded $15.6 million in compensatory damages to Jerry Stockton, who had sued Sun Holdings and its owner, Guillermo Perales.
+
+Title: Popeyes franchise owner in Troy accused of violating child labor laws ...
+Link: https://www.cbsnews.com/detroit/news/popeyes-in-troy-accused-of-violating-child-labor-laws-for-allegedly-allowing-teens-to-work-extended-hours/
+Snippet: A <b>Popeyes</b> franchise owner in Troy is fined $48,000 for allegedly allowing teens to work over the hours permitted by the Fair <b>Labor</b> Standards Act.
+
+Title: Popeye&amp;#39;s Chicken Franchisee to Pay $25,000 to Settle EEOC ...
+Link: https://www.eeoc.gov/newsroom/popeyes-chicken-franchisee-pay-25000-settle-eeoc-disability-discrimination-lawsuit
+Snippet: TYLER, Texas - Famous Chicken of Shreveport, L.L.C. a <b>Popeye&#39;s</b> Chicken franchisee, has agreed to pay $25,000 and provide other significant relief to settle a disability discrimination lawsuit brought by the U.S. Equal Employment Opportunity Commission (EEOC), the agency announced today. The EEOC charged the company with unlawfully denying employment to an HIV-positive applicant because of his ...
+
+Title: High schoolers allege long, late hours, child labor violations at ...
+Link: https://www.washingtonpost.com/business/2023/05/18/popeyes-child-labor-violation/
+Snippet: Two high school students say they felt pressured to skip classes or homework to work long hours that violated child <b>labor</b> laws at a <b>Popeyes</b> in Oakland, Calif., according to complaints they filed ...
+
+Remi: Results for 'Popeye's labor disputes':
+Title: Popeyes franchisee pays $212K after US Department of Labor ...
+Link: https://www.dol.gov/newsroom/releases/whd/whd20240207-1
+Snippet: Investigation findings: An investigation by the U. S. Department of <b>Labor</b>’s Wage and Hour Division found a <b>Popeyes</b> fast-food chain franchisee hired children as young as 13-years-old and minors who worked later and longer than permitted by child <b>labor</b> laws at the employer’s three Oakland, Tracy and Newark locations. Investigators also determined the employer shortchanged workers by ...
+
+Title: Popeye’s Franchise Breaks Settlement Agreement, Labor Board Says
+Link: https://news.bloomberglaw.com/daily-labor-report/popeyes-franchise-breaks-settlement-agreement-labor-board-says
+Snippet: The National <b>Labor</b> Relations Board has ruled that a franchise of <b>Popeyes</b> Louisiana Kitchen violated federal <b>labor</b> law and the terms of a settlement with the union representing the restaurant’s workers.
+
+Title: Oakland Popeyes accused of illegal child labor practices, harassment ...
+Link: https://www.latimes.com/california/story/2023-05-19/oakland-popeyes-closed-after-allegations-of-child-labor-harassment
+Snippet: Employees at a <b>Popeyes</b> in Oakland picketed this week after teen workers, including one who was 13, alleged that they were pressured to work long, late hours in violation of child <b>labor</b> laws.
+
+Title: Bay Area Teen Whistleblower Got 3 Popeyes Locations Fined for ... - KQED
+Link: https://www.kqed.org/news/11975129/teen-whistleblower-calls-out-child-labor-at-popeyes-in-oakland-newark-and-tracy
+Snippet: A <b>Popeyes</b> fast-food franchisee has paid $212,000 for child <b>labor</b> and wage violations at its restaurants in East Oakland, Newark and Tracy, federal regulators announced this week. Minors under 14 years old are not allowed to work at food service establishments. But the company, 14th Street Chicken, hired children as young as 13 and had minors ...
+
+Title: US Department of Labor fines Michigan Popeyes franchise $48K ...
+Link: https://www.dol.gov/newsroom/releases/whd/whd20240206-0
+Snippet: Investigation findings: An investigation by the U.S. Department of <b>Labor</b>’s Wage and Hour Division found teens working at a Troy <b>Popeyes</b> franchise in violation of hours allowed by the Fair <b>Labor</b> Standards Act’s child <b>labor</b> standards.
+
+Title: Oakland Popeye&#39;s operator to pay $200K after allegedly hiring workers ...
+Link: https://www.ktvu.com/news/oakland-popeyes-operator-to-pay-200k-after-allegedly-hiring-workers-as-young-as-13
+Snippet: The operator of <b>Popeye&#39;s</b> restaurants in Oakland, Newark and Tracy settled a federal complaint involving violating child <b>labor</b> laws, the US Department of <b>Labor</b> announced on Wednesday.
+
+Title: Jury awards $31M in lawsuit against a Popeyes franchisee
+Link: https://www.restaurantbusinessonline.com/financing/jury-awards-31m-lawsuit-against-popeyes-franchisee
+Snippet: A jury this week awarded a former employee of Dallas-based Sun Holdings nearly $31 million in damages to a former employee who said the <b>Popeyes</b> operator owed him a share of the restaurants’ profits. The jury initially awarded $15.6 million in compensatory damages to Jerry Stockton, who had sued Sun Holdings and its owner, Guillermo Perales.
+
+Title: Popeyes franchise owner in Troy accused of violating child labor laws ...
+Link: https://www.cbsnews.com/detroit/news/popeyes-in-troy-accused-of-violating-child-labor-laws-for-allegedly-allowing-teens-to-work-extended-hours/
+Snippet: A <b>Popeyes</b> franchise owner in Troy is fined $48,000 for allegedly allowing teens to work over the hours permitted by the Fair <b>Labor</b> Standards Act.
+
+Title: Popeye&amp;#39;s Chicken Franchisee to Pay $25,000 to Settle EEOC ...
+Link: https://www.eeoc.gov/newsroom/popeyes-chicken-franchisee-pay-25000-settle-eeoc-disability-discrimination-lawsuit
+Snippet: TYLER, Texas - Famous Chicken of Shreveport, L.L.C. a <b>Popeye&#39;s</b> Chicken franchisee, has agreed to pay $25,000 and provide other significant relief to settle a disability discrimination lawsuit brought by the U.S. Equal Employment Opportunity Commission (EEOC), the agency announced today. The EEOC charged the company with unlawfully denying employment to an HIV-positive applicant because of his ...
+
+Title: High schoolers allege long, late hours, child labor violations at ...
+Link: https://www.washingtonpost.com/business/2023/05/18/popeyes-child-labor-violation/
+Snippet: Two high school students say they felt pressured to skip classes or homework to work long hours that violated child <b>labor</b> laws at a <b>Popeyes</b> in Oakland, Calif., according to complaints they filed ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's lawsuits':
+Title: Jury awards $31M in lawsuit against a Popeyes franchisee
+Link: https://www.restaurantbusinessonline.com/financing/jury-awards-31m-lawsuit-against-popeyes-franchisee
+Snippet: A jury this week awarded a former employee of Dallas-based Sun Holdings nearly $31 million in damages to a former employee who said the <b>Popeyes</b> operator owed him a share of the restaurants’ profits. The jury initially awarded $15.6 million in compensatory damages to Jerry Stockton, who had sued Sun Holdings and its owner, Guillermo Perales.
+
+Title: Popeye’s Franchise Breaks Settlement Agreement, Labor Board Says
+Link: https://news.bloomberglaw.com/daily-labor-report/popeyes-franchise-breaks-settlement-agreement-labor-board-says
+Snippet: Franchise entered into agreement with union in 2022. NLRB says company failed to change unlawful handbook policies. The National Labor Relations Board has ruled that a franchise of <b>Popeyes</b> Louisiana Kitchen violated federal labor law and the terms of a settlement with the union representing the restaurant’s workers. In its decision Tuesday ...
+
+Title: Popeye&amp;#39;s Chicken Franchisee to Pay $25,000 to Settle EEOC ...
+Link: https://www.eeoc.gov/newsroom/popeyes-chicken-franchisee-pay-25000-settle-eeoc-disability-discrimination-lawsuit
+Snippet: Famous Chicken of Shreveport, L.L.C. a <b>Popeye&#39;s</b> Chicken franchisee, has agreed to pay $25,000 and provide other significant relief to settle a disability discrimination <b>lawsuit</b> brought by the U.S. Equal Employment Opportunity Commission (EEOC), the agency announced today. The EEOC charged the company with unlawfully denying employment to an HIV-positive applicant because of his disability at a ...
+
+Title: Dallas Jury Awards $31M in Lawsuit Against Popeyes Franchisee Sun ...
+Link: https://www.franchisetimes.com/franchise_news/dallas-jury-awards-31m-in-lawsuit-against-popeyes-franchisee-sun-holdings/article_9f088ea0-ccf8-11ee-8c88-e30db7a59ebf.html
+Snippet: Stockton then continued as director of operations and later vice president of operations for Perales’ 150 <b>Popeyes</b> units until he retired in 2018. In a <b>lawsuit</b> filed the following year, Stockton alleged he was the “key operator” for those restaurants and, through language in the franchise agreement and promises made by Perales, he was ...
+
+Title: Court forbids Popeyes franchisee, manager from intimidating workers ...
+Link: https://www.dol.gov/newsroom/releases/whd/whd20230502
+Snippet: HARRISBURG, PA – A federal court has issued a preliminary injunction in response to the U.S. Department of Labor’s request to enjoin and restrain the owner of a <b>Popeyes</b> franchise restaurant in Harrisburg and its district manager from threatening workers, harassing federal investigators, and otherwise obstructing an investigation by the department’s Wage and Hour Division.
+
+Title: Judge issues injunction against Popeyes owner in Harrisburg, Pa.
+Link: https://www.wgal.com/article/pennsylvania-harrisburg-popeyes-federal-court-injunction/43779360
+Snippet: Federal judge issues injunction against owner of <b>Popeyes</b> restaurant in Harrisburg. Updated: 8:26 AM EDT May 3, 2023. Infinite Scroll Enabled. HARRISBURG, Pa. —. A federal court has issued a ...
+
+Title: Jury Awards Fast Food Operator Over $30 Million in Lawsuit Against ...
+Link: https://publiclawlibrary.org/jury-awards-fast-food-operator-over-30-million-in-lawsuit-against-major-popeyes-franchisee/
+Snippet: Stockton managed up to 150 <b>Popeyes</b> restaurants over a 17-year career with the company. The <b>lawsuit</b>, filed in 2019, alleged that Perales asked Stockton to defer his 5% annual profit share in exchange for an interest in the larger company. However, when Stockton retired in 2018, Perales reportedly denied him the money owed.
+
+Title: Popeyes
+Link: https://www.popeyes.com/contact-us
+Snippet: Mouth-watering crunch and juicy fried chicken bursting with Louisiana flavor. Explore our menu, offers, and earn rewards on delivery or digital orders. Download the app and order your favorites today!
+
+Title: Popeyes Brings Suit Against Franchisee Over Food Safety Issues
+Link: https://lawstreetmedia.com/news/agriculture/popeyes-brings-suit-against-franchisee-over-food-safety-issues/
+Snippet: November 21, 2022. Restaurant chain <b>Popeyes</b> Louisiana Kitchen, Inc. filed a <b>complaint</b> against Florida Pop, LLC; Pop Restaurant Holdings, LLC; and Guillermo Perales for unauthorized use of <b>Popeyes</b> ...
+
+Title: 17-Unit Popeyes Franchisee Files for Bankruptcy
+Link: https://www.franchisetimes.com/franchise_news/17-unit-popeyes-franchisee-files-for-bankruptcy/article_5ea5c6b8-c75b-11ee-96ba-971041a7da5f.html
+Snippet: Georgia-based RRG Inc. filed for Chapter 11 protection in the U.S. Bankruptcy Court for Southern District of Georgia on January 31. The franchisee owns 17 <b>Popeyes</b> restaurants. RRG’s debts applies to vendors, rent, taxes and credit debt with a claim to Merchants Food Service up to $316,660 and rent payments up to $238,595 to one landlord.
+
+Remi: Results for 'Popeye's lawsuits':
+Title: Jury awards $31M in lawsuit against a Popeyes franchisee
+Link: https://www.restaurantbusinessonline.com/financing/jury-awards-31m-lawsuit-against-popeyes-franchisee
+Snippet: A jury this week awarded a former employee of Dallas-based Sun Holdings nearly $31 million in damages to a former employee who said the <b>Popeyes</b> operator owed him a share of the restaurants’ profits. The jury initially awarded $15.6 million in compensatory damages to Jerry Stockton, who had sued Sun Holdings and its owner, Guillermo Perales.
+
+Title: Popeye’s Franchise Breaks Settlement Agreement, Labor Board Says
+Link: https://news.bloomberglaw.com/daily-labor-report/popeyes-franchise-breaks-settlement-agreement-labor-board-says
+Snippet: Franchise entered into agreement with union in 2022. NLRB says company failed to change unlawful handbook policies. The National Labor Relations Board has ruled that a franchise of <b>Popeyes</b> Louisiana Kitchen violated federal labor law and the terms of a settlement with the union representing the restaurant’s workers. In its decision Tuesday ...
+
+Title: Popeye&amp;#39;s Chicken Franchisee to Pay $25,000 to Settle EEOC ...
+Link: https://www.eeoc.gov/newsroom/popeyes-chicken-franchisee-pay-25000-settle-eeoc-disability-discrimination-lawsuit
+Snippet: Famous Chicken of Shreveport, L.L.C. a <b>Popeye&#39;s</b> Chicken franchisee, has agreed to pay $25,000 and provide other significant relief to settle a disability discrimination <b>lawsuit</b> brought by the U.S. Equal Employment Opportunity Commission (EEOC), the agency announced today. The EEOC charged the company with unlawfully denying employment to an HIV-positive applicant because of his disability at a ...
+
+Title: Dallas Jury Awards $31M in Lawsuit Against Popeyes Franchisee Sun ...
+Link: https://www.franchisetimes.com/franchise_news/dallas-jury-awards-31m-in-lawsuit-against-popeyes-franchisee-sun-holdings/article_9f088ea0-ccf8-11ee-8c88-e30db7a59ebf.html
+Snippet: Stockton then continued as director of operations and later vice president of operations for Perales’ 150 <b>Popeyes</b> units until he retired in 2018. In a <b>lawsuit</b> filed the following year, Stockton alleged he was the “key operator” for those restaurants and, through language in the franchise agreement and promises made by Perales, he was ...
+
+Title: Court forbids Popeyes franchisee, manager from intimidating workers ...
+Link: https://www.dol.gov/newsroom/releases/whd/whd20230502
+Snippet: HARRISBURG, PA – A federal court has issued a preliminary injunction in response to the U.S. Department of Labor’s request to enjoin and restrain the owner of a <b>Popeyes</b> franchise restaurant in Harrisburg and its district manager from threatening workers, harassing federal investigators, and otherwise obstructing an investigation by the department’s Wage and Hour Division.
+
+Title: Judge issues injunction against Popeyes owner in Harrisburg, Pa.
+Link: https://www.wgal.com/article/pennsylvania-harrisburg-popeyes-federal-court-injunction/43779360
+Snippet: Federal judge issues injunction against owner of <b>Popeyes</b> restaurant in Harrisburg. Updated: 8:26 AM EDT May 3, 2023. Infinite Scroll Enabled. HARRISBURG, Pa. —. A federal court has issued a ...
+
+Title: Jury Awards Fast Food Operator Over $30 Million in Lawsuit Against ...
+Link: https://publiclawlibrary.org/jury-awards-fast-food-operator-over-30-million-in-lawsuit-against-major-popeyes-franchisee/
+Snippet: Stockton managed up to 150 <b>Popeyes</b> restaurants over a 17-year career with the company. The <b>lawsuit</b>, filed in 2019, alleged that Perales asked Stockton to defer his 5% annual profit share in exchange for an interest in the larger company. However, when Stockton retired in 2018, Perales reportedly denied him the money owed.
+
+Title: Popeyes
+Link: https://www.popeyes.com/contact-us
+Snippet: Mouth-watering crunch and juicy fried chicken bursting with Louisiana flavor. Explore our menu, offers, and earn rewards on delivery or digital orders. Download the app and order your favorites today!
+
+Title: Popeyes Brings Suit Against Franchisee Over Food Safety Issues
+Link: https://lawstreetmedia.com/news/agriculture/popeyes-brings-suit-against-franchisee-over-food-safety-issues/
+Snippet: November 21, 2022. Restaurant chain <b>Popeyes</b> Louisiana Kitchen, Inc. filed a <b>complaint</b> against Florida Pop, LLC; Pop Restaurant Holdings, LLC; and Guillermo Perales for unauthorized use of <b>Popeyes</b> ...
+
+Title: 17-Unit Popeyes Franchisee Files for Bankruptcy
+Link: https://www.franchisetimes.com/franchise_news/17-unit-popeyes-franchisee-files-for-bankruptcy/article_5ea5c6b8-c75b-11ee-96ba-971041a7da5f.html
+Snippet: Georgia-based RRG Inc. filed for Chapter 11 protection in the U.S. Bankruptcy Court for Southern District of Georgia on January 31. The franchisee owns 17 <b>Popeyes</b> restaurants. RRG’s debts applies to vendors, rent, taxes and credit debt with a claim to Merchants Food Service up to $316,660 and rent payments up to $238,595 to one landlord.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's employee treatment and work conditions':
+Title: Employees, share your experience working at popeyes. : r/Popeyes - Reddit
+Link: https://www.reddit.com/r/Popeyes/comments/un8wjw/employees_share_your_experience_working_at_popeyes/
+Snippet: <b>Employees</b>, share your experience working at <b>popeyes</b>. I worked at a <b>Popeyes</b> for a few months starting November 2021 to April 2022. The least I can say was it was absolute hell working there. From the terrible management, unbelievably rude customers, and overall the nasty <b>work</b> environment. I want to hear what other <b>Popeyes</b> <b>employees</b> have to say ...
+
+Title: Popeye&#39;s Restaurants Employee Reviews - Indeed
+Link: https://www.indeed.com/cmp/Popeye's-Restaurants/reviews
+Snippet: A lot of stress and poor management. Cook/Prep (Former <b>Employee</b>) - Colorado Springs, CO - August 22, 2024. Working there is very challenging due to lack of proper management. Also staff is usually lacking enough <b>employees</b> causing everyone to pick up extra slack. Definitely not the best job but it is a job nonetheless.
+
+Title: How Popeyes’ Chicken Sandwich Affects Its Workers
+Link: https://medium.com/@workerrights/how-popeyes-chicken-sandwich-affects-its-workers-776338d792b8
+Snippet: “The issue with <b>Popeyes</b> or any fast food is the <b>treatment</b> and the amount of pay that a worker gets,” a now-former <b>employee</b> told Business Insider, noting that “the added demand increased the ...
+
+Title: Popeyes Reviews: What Is It Like to Work At Popeyes?
+Link: https://www.glassdoor.com/Reviews/Popeyes-Reviews-E14706.htm
+Snippet: Is <b>Popeyes</b> a good company to <b>work</b> for? <b>Popeyes</b> has an overall rating of 3.3 out of 5, based on over 3,407 reviews left anonymously by <b>employees</b>. 48% of <b>employees</b> would recommend working at <b>Popeyes</b> to a friend and 41% have a positive outlook for the business. This rating has improved by 1% over the last 12 months.
+
+Title: Popeyes Workers on What It&#39;s Like to Work in Chicken Sandwich Chaos ...
+Link: https://www.businessinsider.com/popeyes-workers-describe-chicken-sandwich-demand-chaos-2019-8
+Snippet: This <b>employee</b> and other <b>Popeyes</b>&#39; workers have been granted anonymity to allow them to speak frankly about working <b>conditions</b> and the situation more generally at <b>Popeyes</b>. The Orange County <b>employee</b> ...
+
+Title: Please Don’t Meme Overworked <b>Popeyes</b> <b>Employees</b> - <b>VICE</b>
+Link: https://www.vice.com/en/article/please-dont-meme-overworked-popeyes-employees/
+Snippet: According to PayScale, the average <b>Popeyes</b> <b>employee</b> makes $9.19. And on an ethical level, taking photos of an <b>employee</b> without their consent then posting them online to make fun of how overworked ...
+
+Title: Popeyes: Employee Benefits and Perks - Glassdoor
+Link: https://www.glassdoor.com/Benefits/Popeyes-US-Benefits-EI_IE14706.0,7_IL.8,10_IN1.htm
+Snippet: Which benefits does <b>Popeyes</b> provide? Current and former <b>employees</b> report that <b>Popeyes</b> provides the following benefits. It may not be complete. Insurance, Health &amp; Wellness Financial &amp; Retirement Family &amp; Parenting Vacation &amp; Time Off Perks &amp; Discounts Professional Support.
+
+Title: <b>Popeyes</b> &quot;working <b>conditions</b>&quot; Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Popeyes-working-conditions-Reviews-EI_IE14706.0,7_KH8,26.htm
+Snippet: <b>Employee</b> Don&#39;t respect each other not even a little bit it&#39;s a nightmare they are like animals. I worked at this specific location for about 6 months and I was being bossed around by every body from <b>employees</b> to mangers; I couldn&#39;t even tell the difference between managers or <b>employees</b> everyone is in authority.
+
+Title: Popeyes® Shares Marketing Diversity Results and Action Plan
+Link: https://news.popeyes.com/blog-posts/popeyes-shares-marketing-diversity-results-and-action-plan
+Snippet: Diversity disclosure part of commitment to be transparent and be held accountable for outcomes. <b>Popeyes</b> ® new partnerships to develop diverse creative talent. MIAMI – May 13, 2021 -- <b>Popeyes</b> ® has published its first-ever end-to-end Marketing Diversity Scorecard, including racial and gender diversity of its guests, internal marketing team, external agency partners, production crews, hired ...
+
+Title: The CEO of Popeyes on Treating Franchisees as the Most Important Customers
+Link: https://hbr.org/2016/10/the-ceo-of-popeyes-on-treating-franchisees-as-the-most-important-customers
+Snippet: CB. Cheryl A. Bachelder is chief executive officer of <b>Popeyes</b> Louisiana Kitchen, Inc. During her career, Cheryl Bachelder had been a senior executive at two other food franchising companies ...
+
+Remi: Results for 'Popeye's employee treatment and work conditions':
+Title: Employees, share your experience working at popeyes. : r/Popeyes - Reddit
+Link: https://www.reddit.com/r/Popeyes/comments/un8wjw/employees_share_your_experience_working_at_popeyes/
+Snippet: <b>Employees</b>, share your experience working at <b>popeyes</b>. I worked at a <b>Popeyes</b> for a few months starting November 2021 to April 2022. The least I can say was it was absolute hell working there. From the terrible management, unbelievably rude customers, and overall the nasty <b>work</b> environment. I want to hear what other <b>Popeyes</b> <b>employees</b> have to say ...
+
+Title: Popeye&#39;s Restaurants Employee Reviews - Indeed
+Link: https://www.indeed.com/cmp/Popeye's-Restaurants/reviews
+Snippet: A lot of stress and poor management. Cook/Prep (Former <b>Employee</b>) - Colorado Springs, CO - August 22, 2024. Working there is very challenging due to lack of proper management. Also staff is usually lacking enough <b>employees</b> causing everyone to pick up extra slack. Definitely not the best job but it is a job nonetheless.
+
+Title: How Popeyes’ Chicken Sandwich Affects Its Workers
+Link: https://medium.com/@workerrights/how-popeyes-chicken-sandwich-affects-its-workers-776338d792b8
+Snippet: “The issue with <b>Popeyes</b> or any fast food is the <b>treatment</b> and the amount of pay that a worker gets,” a now-former <b>employee</b> told Business Insider, noting that “the added demand increased the ...
+
+Title: Popeyes Reviews: What Is It Like to Work At Popeyes?
+Link: https://www.glassdoor.com/Reviews/Popeyes-Reviews-E14706.htm
+Snippet: Is <b>Popeyes</b> a good company to <b>work</b> for? <b>Popeyes</b> has an overall rating of 3.3 out of 5, based on over 3,407 reviews left anonymously by <b>employees</b>. 48% of <b>employees</b> would recommend working at <b>Popeyes</b> to a friend and 41% have a positive outlook for the business. This rating has improved by 1% over the last 12 months.
+
+Title: Popeyes Workers on What It&#39;s Like to Work in Chicken Sandwich Chaos ...
+Link: https://www.businessinsider.com/popeyes-workers-describe-chicken-sandwich-demand-chaos-2019-8
+Snippet: This <b>employee</b> and other <b>Popeyes</b>&#39; workers have been granted anonymity to allow them to speak frankly about working <b>conditions</b> and the situation more generally at <b>Popeyes</b>. The Orange County <b>employee</b> ...
+
+Title: Please Don’t Meme Overworked <b>Popeyes</b> <b>Employees</b> - <b>VICE</b>
+Link: https://www.vice.com/en/article/please-dont-meme-overworked-popeyes-employees/
+Snippet: According to PayScale, the average <b>Popeyes</b> <b>employee</b> makes $9.19. And on an ethical level, taking photos of an <b>employee</b> without their consent then posting them online to make fun of how overworked ...
+
+Title: Popeyes: Employee Benefits and Perks - Glassdoor
+Link: https://www.glassdoor.com/Benefits/Popeyes-US-Benefits-EI_IE14706.0,7_IL.8,10_IN1.htm
+Snippet: Which benefits does <b>Popeyes</b> provide? Current and former <b>employees</b> report that <b>Popeyes</b> provides the following benefits. It may not be complete. Insurance, Health &amp; Wellness Financial &amp; Retirement Family &amp; Parenting Vacation &amp; Time Off Perks &amp; Discounts Professional Support.
+
+Title: <b>Popeyes</b> &quot;working <b>conditions</b>&quot; Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Popeyes-working-conditions-Reviews-EI_IE14706.0,7_KH8,26.htm
+Snippet: <b>Employee</b> Don&#39;t respect each other not even a little bit it&#39;s a nightmare they are like animals. I worked at this specific location for about 6 months and I was being bossed around by every body from <b>employees</b> to mangers; I couldn&#39;t even tell the difference between managers or <b>employees</b> everyone is in authority.
+
+Title: Popeyes® Shares Marketing Diversity Results and Action Plan
+Link: https://news.popeyes.com/blog-posts/popeyes-shares-marketing-diversity-results-and-action-plan
+Snippet: Diversity disclosure part of commitment to be transparent and be held accountable for outcomes. <b>Popeyes</b> ® new partnerships to develop diverse creative talent. MIAMI – May 13, 2021 -- <b>Popeyes</b> ® has published its first-ever end-to-end Marketing Diversity Scorecard, including racial and gender diversity of its guests, internal marketing team, external agency partners, production crews, hired ...
+
+Title: The CEO of Popeyes on Treating Franchisees as the Most Important Customers
+Link: https://hbr.org/2016/10/the-ceo-of-popeyes-on-treating-franchisees-as-the-most-important-customers
+Snippet: CB. Cheryl A. Bachelder is chief executive officer of <b>Popeyes</b> Louisiana Kitchen, Inc. During her career, Cheryl Bachelder had been a senior executive at two other food franchising companies ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Fast food industry trends':
+Title: Fast Food Market Size, Share, Industry Trends, Analysis, 2032
+Link: https://www.fortunebusinessinsights.com/fast-food-market-106482
+Snippet: The global fast food market is<b> projected to grow at a CAGR of 6.05% from 2021 to 2028, driven by changing consumer behavior, online food delivery, and convenience foods.</b> The<b> report covers product type, service type, regional forecast, and COVID-19 impact analysis of</b> the fast food industry.
+
+Title: The 2023 QSR 50: Fast Food’s Leading Annual Report - QSR Magazine
+Link: https://www.qsrmagazine.com/operations/fast-food/the-2023-qsr-50-fast-foods-leading-annual-report/
+Snippet: U.S. system sales grew 11 percent to $13.85 billion last year, driven by 8 percent same-store sales growth and 5 percent unit expansion. The fast-<b>food</b> giant bucked the trend on margins, holding company-operated margins steady from 2021 in the face of <b>industry</b>-wide cost pressure. Yum!
+
+Title: Fast Food Market Size, Share, Growth, Analysis 2024-2032
+Link: https://www.expertmarketresearch.com/reports/fast-food-market
+Snippet: The report analyses the fast food market size, share,<b> growth,</b> trends, and<b> regional analysis</b> for 2024-2032. It<b> covers the impact of online delivery apps, international and local fusion, plant-based alternatives, and sustainability practices on the market.</b>
+
+Title: Fast food restaurants in the U.S. - statistics &amp; facts | Statista
+Link: https://www.statista.com/topics/863/fast-food/
+Snippet: While QSR giants like McDonald’s dominate the fast <b>food</b> market, do they satisfy consumers? Read more in our topic page on quick service restaurants in the U.S.
+
+Title: Fast Food Market Size, Share Trends &amp; Growth Report, 2029
+Link: https://www.grandviewresearch.com/industry-analysis/fast-food-market
+Snippet: The global fast-<b>food</b> market size was valued at USD 595.93 billion in 2021 and is expected to grow at a CAGR of 5.0% from 2022 to 2029.
+
+Title: Fast Food Trends 2024: Speed, Convenience &amp; Evolving Tastes
+Link: https://www.globalsources.com/knowledge/fast-food-industry-trends/
+Snippet: In 2024, the fast <b>food</b> <b>industry</b> is ushering in new changes, and the core <b>trends</b> are focused on the evolution of speed, convenience, and taste. These changes not only reflect technological progress and changes in consumer demand, but also indicate the future development direction of the fast <b>food</b> <b>industry</b>.
+
+Title: Fast Food &amp; Quick Service Restaurant Market Report, 2027
+Link: https://www.grandviewresearch.com/industry-analysis/fast-food-quick-service-restaurants-market
+Snippet: The global fast <b>food</b> and quick service restaurant market size was valued at USD 257.19 billion in 2019 and is expected to grow at a CAGR of 5.1% from 2020 to 2027.
+
+Title: Fast Food Restaurants in the US - IBISWorld
+Link: https://www.ibisworld.com/united-states/market-research-reports/fast-food-restaurants-industry/
+Snippet: Expert <b>industry</b> market research on the Fast <b>Food</b> Restaurants in the US (2014-2029). Make better business decisions, faster with IBISWorld&#39;s <b>industry</b> market research reports, statistics, analysis, data, <b>trends</b> and forecasts.
+
+Title: 22 Fast-Food Trends to Watch in 2023 - QSR Magazine
+Link: https://www.qsrmagazine.com/slideshow/22-fast-food-trends-watch-2023/
+Snippet: The <b>food</b> <b>industry</b> continues to face major, concurrent crises, including production delays, <b>food</b> shortages, and extreme weather impacting crops. <b>Food</b> businesses will have to work hard to keep the lights on and deliver products (and promises) to customers.
+
+Title: The QSR 50: The Fast-Food Industry’s Leading Annual Report - QSR Magazine
+Link: https://www.qsrmagazine.com/reports/2021-qsr-50/
+Snippet: One word to describe 2020 for Bojangles: Modernization. Since last year’s QSR 50, the Southern brand rebranded itself (dropping the apostrophe), accelerated delivery partnerships with top aggregators, revamped drive-thrus, and, more recently, launched a new app with the convenience of order-ahead and curbside pickup.
+
+Remi: Results for 'Fast food industry trends':
+Title: Fast Food Market Size, Share, Industry Trends, Analysis, 2032
+Link: https://www.fortunebusinessinsights.com/fast-food-market-106482
+Snippet: The global fast food market is<b> projected to grow at a CAGR of 6.05% from 2021 to 2028, driven by changing consumer behavior, online food delivery, and convenience foods.</b> The<b> report covers product type, service type, regional forecast, and COVID-19 impact analysis of</b> the fast food industry.
+
+Title: The 2023 QSR 50: Fast Food’s Leading Annual Report - QSR Magazine
+Link: https://www.qsrmagazine.com/operations/fast-food/the-2023-qsr-50-fast-foods-leading-annual-report/
+Snippet: U.S. system sales grew 11 percent to $13.85 billion last year, driven by 8 percent same-store sales growth and 5 percent unit expansion. The fast-<b>food</b> giant bucked the trend on margins, holding company-operated margins steady from 2021 in the face of <b>industry</b>-wide cost pressure. Yum!
+
+Title: Fast Food Market Size, Share, Growth, Analysis 2024-2032
+Link: https://www.expertmarketresearch.com/reports/fast-food-market
+Snippet: The report analyses the fast food market size, share,<b> growth,</b> trends, and<b> regional analysis</b> for 2024-2032. It<b> covers the impact of online delivery apps, international and local fusion, plant-based alternatives, and sustainability practices on the market.</b>
+
+Title: Fast food restaurants in the U.S. - statistics &amp; facts | Statista
+Link: https://www.statista.com/topics/863/fast-food/
+Snippet: While QSR giants like McDonald’s dominate the fast <b>food</b> market, do they satisfy consumers? Read more in our topic page on quick service restaurants in the U.S.
+
+Title: Fast Food Market Size, Share Trends &amp; Growth Report, 2029
+Link: https://www.grandviewresearch.com/industry-analysis/fast-food-market
+Snippet: The global fast-<b>food</b> market size was valued at USD 595.93 billion in 2021 and is expected to grow at a CAGR of 5.0% from 2022 to 2029.
+
+Title: Fast Food Trends 2024: Speed, Convenience &amp; Evolving Tastes
+Link: https://www.globalsources.com/knowledge/fast-food-industry-trends/
+Snippet: In 2024, the fast <b>food</b> <b>industry</b> is ushering in new changes, and the core <b>trends</b> are focused on the evolution of speed, convenience, and taste. These changes not only reflect technological progress and changes in consumer demand, but also indicate the future development direction of the fast <b>food</b> <b>industry</b>.
+
+Title: Fast Food &amp; Quick Service Restaurant Market Report, 2027
+Link: https://www.grandviewresearch.com/industry-analysis/fast-food-quick-service-restaurants-market
+Snippet: The global fast <b>food</b> and quick service restaurant market size was valued at USD 257.19 billion in 2019 and is expected to grow at a CAGR of 5.1% from 2020 to 2027.
+
+Title: Fast Food Restaurants in the US - IBISWorld
+Link: https://www.ibisworld.com/united-states/market-research-reports/fast-food-restaurants-industry/
+Snippet: Expert <b>industry</b> market research on the Fast <b>Food</b> Restaurants in the US (2014-2029). Make better business decisions, faster with IBISWorld&#39;s <b>industry</b> market research reports, statistics, analysis, data, <b>trends</b> and forecasts.
+
+Title: 22 Fast-Food Trends to Watch in 2023 - QSR Magazine
+Link: https://www.qsrmagazine.com/slideshow/22-fast-food-trends-watch-2023/
+Snippet: The <b>food</b> <b>industry</b> continues to face major, concurrent crises, including production delays, <b>food</b> shortages, and extreme weather impacting crops. <b>Food</b> businesses will have to work hard to keep the lights on and deliver products (and promises) to customers.
+
+Title: The QSR 50: The Fast-Food Industry’s Leading Annual Report - QSR Magazine
+Link: https://www.qsrmagazine.com/reports/2021-qsr-50/
+Snippet: One word to describe 2020 for Bojangles: Modernization. Since last year’s QSR 50, the Southern brand rebranded itself (dropping the apostrophe), accelerated delivery partnerships with top aggregators, revamped drive-thrus, and, more recently, launched a new app with the convenience of order-ahead and curbside pickup.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's position in fast food industry':
+Title: Popeyes Marketing Strategy 2024: A Case Study – Latterly.org
+Link: https://www.latterly.org/popeyes-marketing-strategy/
+Snippet: <b>Popeyes</b> Marketing Strategy 2024: A Case Study. <b>Popeyes</b>, a leading player in the <b>fast</b> <b>food</b> <b>industry</b>, has firmly established itself through its innovative marketing strategies and strong brand positioning. In this case study, we will explore the key elements of <b>Popeyes</b>’ marketing strategy, from its advertising tactics and branding approach to ...
+
+Title: Popeyes’ Global Strategy: Clucking its Way to World Domination
+Link: https://www.accelingo.com/popeyes-global-strategy/
+Snippet: The company aims to solidify its <b>position</b> as a leading global <b>fast</b>-<b>food</b> player by bringing its unique brand of Louisiana-inspired cuisine to new markets worldwide. ... <b>Popeyes</b> is well-positioned to navigate future challenges and solidify its place as a global leader in the fried chicken <b>industry</b>. <b>Popeyes</b>’ global strategy is an ambitious ...
+
+Title: How Popeyes Sparked the Chicken Sandwich Wars
+Link: https://news.popeyes.com/blog-posts/how-popeyes-sparked-the-chicken-sandwich-wars-started
+Snippet: <b>Popeyes</b> kicked off the biggest battle <b>in fast</b> <b>food</b> history by launching a high-quality chicken sandwich that guests loved, and the <b>industry</b> took notice. It all started back on Aug. 12, 2019, when <b>Popeyes</b> launched the new Chicken Sandwich. Created after years of refining recipes and scouring the country for the perfect ingredients, the Chicken ...
+
+Title: Popeyes‘ Fiercest Rivals: An In-Depth Look at the Fast-Food Fried ...
+Link: https://www.marketingscoop.com/consumer/popeyes-competitors/
+Snippet: The <b>fast</b>-<b>food</b> fried chicken market is a dynamic and fiercely competitive space, with established players and new entrants constantly jockeying for <b>position</b>. <b>Popeyes</b> Louisiana Kitchen, Inc. faces significant challenges in maintaining its market share against formidable competitors like KFC, Chick-fil-A, and a host of regional chains.
+
+Title: How Popeyes’ Fried Chicken Sandwich Became The Fast Food ... - Forbes
+Link: https://www.forbes.com/sites/michelinemaynard/2019/12/22/how-popeyes-fried-chicken-sandwich-became-the-fast-food-phenomenon-of-2019/
+Snippet: The fried chicken sandwich was a marketing bonanza for <b>Popeyes</b>, earning it an estimated $65 million in marketing power. Traffic at <b>Popeyes</b> restaurants spiked into triple digits, and the sandwich ...
+
+Title: Why Popeyes Is Positioned to Be the Next Great Brand Marketer - Adweek
+Link: https://www.adweek.com/brand-marketing/why-popeyes-is-positioned-to-be-the-next-great-brand-marketer/
+Snippet: <b>Popeyes</b>, a nearly 50-year-old fried chicken chain generally known both for its good <b>food</b> and spotty service, has long lagged behind global leader KFC in terms of size and behind Chick-fil-A in ...
+
+Title: A Look at Market Share Trends - Osum
+Link: https://blog.osum.com/popeyes-market-share/
+Snippet: <b>Popeyes</b> has experienced remarkable growth in recent years, solidifying its <b>position</b> in the competitive <b>fast</b>-<b>food</b> <b>industry</b>. As of October 2023, <b>Popeyes</b> surpassed KFC to become the second-largest chicken chain in the United States, according to Hypebeast. This achievement highlights the brand’s ability to resonate with consumers and meet their ...
+
+Title: Popeyes Looks To International Markets To Gain Back Momentum - Forbes
+Link: https://www.forbes.com/sites/aliciakelso/2022/05/04/popeyes-looks-to-international-markets-to-gain-back-momentum/
+Snippet: <b>Popeyes</b> has every reason to be bullish, despite its recent negative results lapping anomalous quarters. The chain’s systemwide sales are now about north of $5.5 billion, versus $3.2 billion in 2016.
+
+Title: Three Lessons From the Fried Chicken Frenzy: Popeyes’ Brilliant ...
+Link: https://www.searchinfluence.com/blog/three-lessons-from-the-fried-chicken-frenzy-popeyes-brilliant-marketing-moment/
+Snippet: The drive-thru line on Sunday, Nov. 3 at a <b>Popeyes</b> Louisiana Kitchen in Metairie blocked traffic and almost caused an accident in the traffic lanes as I drove by. The highly anticipated fried chicken sandwich that had sold out just two weeks after its original release was back on the menu. Meanwhile, tumbleweeds blew through the local Chick-Fil ...
+
+Title: Popeyes&#39; Next Act: Become a Global Icon - QSR Magazine
+Link: https://www.qsrmagazine.com/operations/restaurant-operations/popeyes-next-act-become-global-icon/
+Snippet: <b>Popeyes</b> enjoyed a 10.2 percent same-store sales bump in 2019’s third quarter, even though the $3.99 Chicken Sandwich graced the menu for just two weeks of the quarter. It returned to menus on November 3—a Sunday, in another shot at Chick-fil-A—and Q4 sales rose a staggering 37.9 percent. In reporting RBI’s 2019 performance in February ...
+
+Remi: Results for 'Popeye's position in fast food industry':
+Title: Popeyes Marketing Strategy 2024: A Case Study – Latterly.org
+Link: https://www.latterly.org/popeyes-marketing-strategy/
+Snippet: <b>Popeyes</b> Marketing Strategy 2024: A Case Study. <b>Popeyes</b>, a leading player in the <b>fast</b> <b>food</b> <b>industry</b>, has firmly established itself through its innovative marketing strategies and strong brand positioning. In this case study, we will explore the key elements of <b>Popeyes</b>’ marketing strategy, from its advertising tactics and branding approach to ...
+
+Title: Popeyes’ Global Strategy: Clucking its Way to World Domination
+Link: https://www.accelingo.com/popeyes-global-strategy/
+Snippet: The company aims to solidify its <b>position</b> as a leading global <b>fast</b>-<b>food</b> player by bringing its unique brand of Louisiana-inspired cuisine to new markets worldwide. ... <b>Popeyes</b> is well-positioned to navigate future challenges and solidify its place as a global leader in the fried chicken <b>industry</b>. <b>Popeyes</b>’ global strategy is an ambitious ...
+
+Title: How Popeyes Sparked the Chicken Sandwich Wars
+Link: https://news.popeyes.com/blog-posts/how-popeyes-sparked-the-chicken-sandwich-wars-started
+Snippet: <b>Popeyes</b> kicked off the biggest battle <b>in fast</b> <b>food</b> history by launching a high-quality chicken sandwich that guests loved, and the <b>industry</b> took notice. It all started back on Aug. 12, 2019, when <b>Popeyes</b> launched the new Chicken Sandwich. Created after years of refining recipes and scouring the country for the perfect ingredients, the Chicken ...
+
+Title: Popeyes‘ Fiercest Rivals: An In-Depth Look at the Fast-Food Fried ...
+Link: https://www.marketingscoop.com/consumer/popeyes-competitors/
+Snippet: The <b>fast</b>-<b>food</b> fried chicken market is a dynamic and fiercely competitive space, with established players and new entrants constantly jockeying for <b>position</b>. <b>Popeyes</b> Louisiana Kitchen, Inc. faces significant challenges in maintaining its market share against formidable competitors like KFC, Chick-fil-A, and a host of regional chains.
+
+Title: How Popeyes’ Fried Chicken Sandwich Became The Fast Food ... - Forbes
+Link: https://www.forbes.com/sites/michelinemaynard/2019/12/22/how-popeyes-fried-chicken-sandwich-became-the-fast-food-phenomenon-of-2019/
+Snippet: The fried chicken sandwich was a marketing bonanza for <b>Popeyes</b>, earning it an estimated $65 million in marketing power. Traffic at <b>Popeyes</b> restaurants spiked into triple digits, and the sandwich ...
+
+Title: Why Popeyes Is Positioned to Be the Next Great Brand Marketer - Adweek
+Link: https://www.adweek.com/brand-marketing/why-popeyes-is-positioned-to-be-the-next-great-brand-marketer/
+Snippet: <b>Popeyes</b>, a nearly 50-year-old fried chicken chain generally known both for its good <b>food</b> and spotty service, has long lagged behind global leader KFC in terms of size and behind Chick-fil-A in ...
+
+Title: A Look at Market Share Trends - Osum
+Link: https://blog.osum.com/popeyes-market-share/
+Snippet: <b>Popeyes</b> has experienced remarkable growth in recent years, solidifying its <b>position</b> in the competitive <b>fast</b>-<b>food</b> <b>industry</b>. As of October 2023, <b>Popeyes</b> surpassed KFC to become the second-largest chicken chain in the United States, according to Hypebeast. This achievement highlights the brand’s ability to resonate with consumers and meet their ...
+
+Title: Popeyes Looks To International Markets To Gain Back Momentum - Forbes
+Link: https://www.forbes.com/sites/aliciakelso/2022/05/04/popeyes-looks-to-international-markets-to-gain-back-momentum/
+Snippet: <b>Popeyes</b> has every reason to be bullish, despite its recent negative results lapping anomalous quarters. The chain’s systemwide sales are now about north of $5.5 billion, versus $3.2 billion in 2016.
+
+Title: Three Lessons From the Fried Chicken Frenzy: Popeyes’ Brilliant ...
+Link: https://www.searchinfluence.com/blog/three-lessons-from-the-fried-chicken-frenzy-popeyes-brilliant-marketing-moment/
+Snippet: The drive-thru line on Sunday, Nov. 3 at a <b>Popeyes</b> Louisiana Kitchen in Metairie blocked traffic and almost caused an accident in the traffic lanes as I drove by. The highly anticipated fried chicken sandwich that had sold out just two weeks after its original release was back on the menu. Meanwhile, tumbleweeds blew through the local Chick-Fil ...
+
+Title: Popeyes&#39; Next Act: Become a Global Icon - QSR Magazine
+Link: https://www.qsrmagazine.com/operations/restaurant-operations/popeyes-next-act-become-global-icon/
+Snippet: <b>Popeyes</b> enjoyed a 10.2 percent same-store sales bump in 2019’s third quarter, even though the $3.99 Chicken Sandwich graced the menu for just two weeks of the quarter. It returned to menus on November 3—a Sunday, in another shot at Chick-fil-A—and Q4 sales rose a staggering 37.9 percent. In reporting RBI’s 2019 performance in February ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's employee reviews on Glassdoor':
+Title: Popeyes Reviews: What Is It Like to Work At Popeyes? | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Popeyes-Reviews-E14706.htm
+Snippet: <b>Popeyes</b> has an <b>employee</b> rating of 3.3 out of 5 stars, based on 3,093 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The <b>Popeyes</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Restaurants &amp; Food Service industry (3.7 stars). Read more
+
+Title: Popeyes &quot;employee&quot; Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Popeyes-employee-Reviews-EI_IE14706.0,7_KH8,16.htm
+Snippet: 45% of <b>Popeyes</b> <b>employees</b> would recommend working there to a friend based <b>on Glassdoor</b> <b>reviews</b>. <b>Employees</b> also rated <b>Popeyes</b> 2.9 out of 5 for work life balance, 3.0 for culture and values and 3.0 for career opportunities.
+
+Title: Working at Popeyes | Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-Popeyes-EI_IE14706.11,18.htm
+Snippet: 1001 to 5000 <b>Employees</b>. 1 Location. Type: Subsidiary or Business Segment. Revenue: $100 to $500 million (USD) Restaurants &amp; Cafes. Competitors: Unknown. Founded in New Orleans in 1972, <b>Popeyes</b>® has more than 40 years of history and culinary tradition. <b>Popeyes</b> distinguishes itself with a unique New Orleans style menu featuring spicy chicken ...
+
+Title: Popeyes Reviews: What Is It Like to Work At Popeyes? | Glassdoor
+Link: https://www.glassdoor.co.uk/Reviews/Popeyes-Reviews-E14706.htm
+Snippet: 44% of <b>Popeyes</b> <b>employees</b> would recommend working there to a friend based <b>on Glassdoor</b> <b>reviews</b>. <b>Employees</b> also rated <b>Popeyes</b> 2.8 out of 5 for work life balance, 2.9 for culture and values and 3.0 for career opportunities.
+
+Title: Popeyes Team Members Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Popeyes-Team-Members-Reviews-EI_IE14706.0,7_KO8,20.htm
+Snippet: 3.3. 55% would recommend to a friend. (353 total <b>reviews</b>) Jose Cil. 64% approve of CEO. Team Members <b>employees</b> have rated <b>Popeyes</b> with 3.3 out of 5 stars, based on 353 company <b>reviews</b> <b>on Glassdoor</b>. This indicates that most Team Members professionals have a good working experience there. <b>Popeyes</b> is rated in line with the average (within 1 ...
+
+Title: Popeyes Reviews | Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Popeyes-Reviews-E14706.htm
+Snippet: <b>Popeyes</b> has an <b>employee</b> rating of 3.3 out of 5 stars, based on 3,014 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The <b>Popeyes</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Restaurants and food service industry (3.7 stars). read more
+
+Title: Popeyes Reviews: What Is It Like to Work At Popeyes? | Glassdoor
+Link: https://www.glassdoor.co.nz/Reviews/Popeyes-Reviews-E14706.htm
+Snippet: 2,958 <b>Popeyes</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: Popeyes Reviews | Glassdoor
+Link: https://www.glassdoor.sg/Reviews/Popeyes-Reviews-E14706.htm
+Snippet: 45% of <b>Popeyes</b> <b>employees</b> would recommend working there to a friend based <b>on Glassdoor</b> <b>reviews</b>. <b>Employees</b> also rated <b>Popeyes</b> 2.8 out of 5 for work life balance, 3.0 for culture and values and 3.0 for career opportunities.
+
+Title: Popeyes Employee Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Popeyes-Employee-Reviews-EI_IE14706.0,7_KO8,16.htm
+Snippet: 5 <b>Popeyes</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: Popeyes Reviews: What Is It Like to Work At Popeyes? | Glassdoor
+Link: https://www.glassdoor.ca/Reviews/Popeyes-Reviews-E14706.htm
+Snippet: <b>Popeyes</b> has an <b>employee</b> rating of 3.3 out of 5 stars, based on 3,153 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The <b>Popeyes</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Restaurants and food service industry (3.7 stars). Read more
+
+Remi: Results for 'Popeye's employee reviews on Glassdoor':
+Title: Popeyes Reviews: What Is It Like to Work At Popeyes? | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Popeyes-Reviews-E14706.htm
+Snippet: <b>Popeyes</b> has an <b>employee</b> rating of 3.3 out of 5 stars, based on 3,093 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The <b>Popeyes</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Restaurants &amp; Food Service industry (3.7 stars). Read more
+
+Title: Popeyes &quot;employee&quot; Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Popeyes-employee-Reviews-EI_IE14706.0,7_KH8,16.htm
+Snippet: 45% of <b>Popeyes</b> <b>employees</b> would recommend working there to a friend based <b>on Glassdoor</b> <b>reviews</b>. <b>Employees</b> also rated <b>Popeyes</b> 2.9 out of 5 for work life balance, 3.0 for culture and values and 3.0 for career opportunities.
+
+Title: Working at Popeyes | Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-Popeyes-EI_IE14706.11,18.htm
+Snippet: 1001 to 5000 <b>Employees</b>. 1 Location. Type: Subsidiary or Business Segment. Revenue: $100 to $500 million (USD) Restaurants &amp; Cafes. Competitors: Unknown. Founded in New Orleans in 1972, <b>Popeyes</b>® has more than 40 years of history and culinary tradition. <b>Popeyes</b> distinguishes itself with a unique New Orleans style menu featuring spicy chicken ...
+
+Title: Popeyes Reviews: What Is It Like to Work At Popeyes? | Glassdoor
+Link: https://www.glassdoor.co.uk/Reviews/Popeyes-Reviews-E14706.htm
+Snippet: 44% of <b>Popeyes</b> <b>employees</b> would recommend working there to a friend based <b>on Glassdoor</b> <b>reviews</b>. <b>Employees</b> also rated <b>Popeyes</b> 2.8 out of 5 for work life balance, 2.9 for culture and values and 3.0 for career opportunities.
+
+Title: Popeyes Team Members Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Popeyes-Team-Members-Reviews-EI_IE14706.0,7_KO8,20.htm
+Snippet: 3.3. 55% would recommend to a friend. (353 total <b>reviews</b>) Jose Cil. 64% approve of CEO. Team Members <b>employees</b> have rated <b>Popeyes</b> with 3.3 out of 5 stars, based on 353 company <b>reviews</b> <b>on Glassdoor</b>. This indicates that most Team Members professionals have a good working experience there. <b>Popeyes</b> is rated in line with the average (within 1 ...
+
+Title: Popeyes Reviews | Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/Popeyes-Reviews-E14706.htm
+Snippet: <b>Popeyes</b> has an <b>employee</b> rating of 3.3 out of 5 stars, based on 3,014 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The <b>Popeyes</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Restaurants and food service industry (3.7 stars). read more
+
+Title: Popeyes Reviews: What Is It Like to Work At Popeyes? | Glassdoor
+Link: https://www.glassdoor.co.nz/Reviews/Popeyes-Reviews-E14706.htm
+Snippet: 2,958 <b>Popeyes</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: Popeyes Reviews | Glassdoor
+Link: https://www.glassdoor.sg/Reviews/Popeyes-Reviews-E14706.htm
+Snippet: 45% of <b>Popeyes</b> <b>employees</b> would recommend working there to a friend based <b>on Glassdoor</b> <b>reviews</b>. <b>Employees</b> also rated <b>Popeyes</b> 2.8 out of 5 for work life balance, 3.0 for culture and values and 3.0 for career opportunities.
+
+Title: Popeyes Employee Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/Popeyes-Employee-Reviews-EI_IE14706.0,7_KO8,16.htm
+Snippet: 5 <b>Popeyes</b> <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: Popeyes Reviews: What Is It Like to Work At Popeyes? | Glassdoor
+Link: https://www.glassdoor.ca/Reviews/Popeyes-Reviews-E14706.htm
+Snippet: <b>Popeyes</b> has an <b>employee</b> rating of 3.3 out of 5 stars, based on 3,153 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have a good working experience there. The <b>Popeyes</b> <b>employee</b> rating is in line with the average (within 1 standard deviation) for employers within the Restaurants and food service industry (3.7 stars). Read more
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's customer feedback':
+Title: Popeyes® Guest Satisfaction Survey
+Link: https://lka.tellpopeyes.com/
+Snippet: <b>popeyes</b> guest <b>satisfaction</b> survey <b>customer</b> <b>feedback</b>
+
+Title: Popeyes
+Link: https://www.popeyes.com/support
+Snippet: Mouth-watering crunch and juicy fried chicken bursting with Louisiana flavor. Explore our menu, offers, and earn rewards on delivery or digital orders. Download the app and order your favorites today!
+
+Title: PLK United States Survey
+Link: https://www.tellpopeyes.com/
+Snippet: Take the PLK United States Survey to provide <b>feedback</b> on your <b>Popeyes</b> dining experience.
+
+Title: TellPopeyes – Official Popeyes Survey on www.tellpopeyes.com
+Link: https://www.tellpopeyes.me/
+Snippet: TellPopeyes Survey is the <b>customer</b> <b>feedback</b> process conducted by www.tellpopeyes.com for the restaurants to know the dining experiences of the customers who come to dine-in and to help the consumers serve better every time. ... they are disrespectful to the <b>customer</b>, Yesterday @ 7:35 pm @ <b>popeyes</b> #5656, place my order and did get it until 8:20 ...
+
+Title: www.tellpopeyes.com Popeyes Survey - SurveyAssistants
+Link: https://surveyassistants.com/tell-popeyes-survey-completion-guide/
+Snippet: After you have made all the necessary preparations, follow the steps below to answer <b>Popeyes customer feedback</b> survey: Access the www.tellpopeyes.com, the <b>Popeyes</b> survey website. If you have your receipt ready, click the “Take Survey” button. Enter the details as requested on the survey page. Enter the <b>Popeye’s</b> restaurant number, select ...
+
+Title: Popeyes Louisiana Kitchen Reviews | Read Customer Service Reviews of ...
+Link: https://www.trustpilot.com/review/www.popeyes.com
+Snippet: 8-25-24 went to brand new <b>Popeyes</b> in West Chester PA. Young man employee at counter downright unfriendly. Ordered 5 piece meal which was opposed to have 1 wing, 1 thigh, one breast and two drumsticks. Received NO breast piece and instead 2 thighs. Didn’t appreciate that! Food not very good, Won’t be returning.
+
+Title: Contact Us | Popeyes Newsroom
+Link: https://news.popeyes.com/contact-us
+Snippet: Media Relations Contact. Please contact the <b>Popeyes</b> Media Relations team with a detailed inquiry and deadline at mediainquiries@<b>popeyes</b>.com. A member of the team will respond to your inquiry as soon as possible. We want to hear from y&#39;all. Below is some helpful info to get in touch with us.
+
+Title: TellPopeyes – Official Popeyes Survey at www.tellpopeyes.com
+Link: https://tellpopeyessurveys.com/
+Snippet: <b>Customer</b> <b>satisfaction</b> is one of the main factors that Google and other search engines use to place businesses near the top of their rankings. ... <b>Popeye’s</b> Louisiana Kitchen restaurants are owned by Interstate Bakeries Corporation headquartered in San Antonio and are currently ranked at number 7 in the Fortune 500 list of the largest ...
+
+Title: TellPopeyes Survey: Popeyes USA Guest Experience Survey
+Link: https://medium.com/@imgeorginataylor/tellpopeyes-survey-popeyes-usa-guest-experience-survey-48824e4c7a33
+Snippet: The TellPopeyes survey is designed to gather <b>customer</b> <b>feedback</b> on their dining experience. This <b>feedback</b> helps <b>Popeyes</b> understand what they’re doing well and where they can improve. By ...
+
+Title: How to Easily Obtain and Use Your Popeyes Survey Validation Code
+Link: https://www.simpli.com/lifestyle/easily-obtain-use-popeyes-survey-validation-code
+Snippet: To begin the <b>Popeyes</b> <b>customer</b> <b>satisfaction</b> survey, visit their official website or use their mobile app. Locate the survey link or code on your receipt and enter it into the designated field. Next, answer a series of questions honestly based on your recent dining experience at <b>Popeyes</b>. These questions may cover various aspects such as food ...
+
+Remi: Results for 'Popeye's customer feedback':
+Title: Popeyes® Guest Satisfaction Survey
+Link: https://lka.tellpopeyes.com/
+Snippet: <b>popeyes</b> guest <b>satisfaction</b> survey <b>customer</b> <b>feedback</b>
+
+Title: Popeyes
+Link: https://www.popeyes.com/support
+Snippet: Mouth-watering crunch and juicy fried chicken bursting with Louisiana flavor. Explore our menu, offers, and earn rewards on delivery or digital orders. Download the app and order your favorites today!
+
+Title: PLK United States Survey
+Link: https://www.tellpopeyes.com/
+Snippet: Take the PLK United States Survey to provide <b>feedback</b> on your <b>Popeyes</b> dining experience.
+
+Title: TellPopeyes – Official Popeyes Survey on www.tellpopeyes.com
+Link: https://www.tellpopeyes.me/
+Snippet: TellPopeyes Survey is the <b>customer</b> <b>feedback</b> process conducted by www.tellpopeyes.com for the restaurants to know the dining experiences of the customers who come to dine-in and to help the consumers serve better every time. ... they are disrespectful to the <b>customer</b>, Yesterday @ 7:35 pm @ <b>popeyes</b> #5656, place my order and did get it until 8:20 ...
+
+Title: www.tellpopeyes.com Popeyes Survey - SurveyAssistants
+Link: https://surveyassistants.com/tell-popeyes-survey-completion-guide/
+Snippet: After you have made all the necessary preparations, follow the steps below to answer <b>Popeyes customer feedback</b> survey: Access the www.tellpopeyes.com, the <b>Popeyes</b> survey website. If you have your receipt ready, click the “Take Survey” button. Enter the details as requested on the survey page. Enter the <b>Popeye’s</b> restaurant number, select ...
+
+Title: Popeyes Louisiana Kitchen Reviews | Read Customer Service Reviews of ...
+Link: https://www.trustpilot.com/review/www.popeyes.com
+Snippet: 8-25-24 went to brand new <b>Popeyes</b> in West Chester PA. Young man employee at counter downright unfriendly. Ordered 5 piece meal which was opposed to have 1 wing, 1 thigh, one breast and two drumsticks. Received NO breast piece and instead 2 thighs. Didn’t appreciate that! Food not very good, Won’t be returning.
+
+Title: Contact Us | Popeyes Newsroom
+Link: https://news.popeyes.com/contact-us
+Snippet: Media Relations Contact. Please contact the <b>Popeyes</b> Media Relations team with a detailed inquiry and deadline at mediainquiries@<b>popeyes</b>.com. A member of the team will respond to your inquiry as soon as possible. We want to hear from y&#39;all. Below is some helpful info to get in touch with us.
+
+Title: TellPopeyes – Official Popeyes Survey at www.tellpopeyes.com
+Link: https://tellpopeyessurveys.com/
+Snippet: <b>Customer</b> <b>satisfaction</b> is one of the main factors that Google and other search engines use to place businesses near the top of their rankings. ... <b>Popeye’s</b> Louisiana Kitchen restaurants are owned by Interstate Bakeries Corporation headquartered in San Antonio and are currently ranked at number 7 in the Fortune 500 list of the largest ...
+
+Title: TellPopeyes Survey: Popeyes USA Guest Experience Survey
+Link: https://medium.com/@imgeorginataylor/tellpopeyes-survey-popeyes-usa-guest-experience-survey-48824e4c7a33
+Snippet: The TellPopeyes survey is designed to gather <b>customer</b> <b>feedback</b> on their dining experience. This <b>feedback</b> helps <b>Popeyes</b> understand what they’re doing well and where they can improve. By ...
+
+Title: How to Easily Obtain and Use Your Popeyes Survey Validation Code
+Link: https://www.simpli.com/lifestyle/easily-obtain-use-popeyes-survey-validation-code
+Snippet: To begin the <b>Popeyes</b> <b>customer</b> <b>satisfaction</b> survey, visit their official website or use their mobile app. Locate the survey link or code on your receipt and enter it into the designated field. Next, answer a series of questions honestly based on your recent dining experience at <b>Popeyes</b>. These questions may cover various aspects such as food ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's social media activity':
+Title: Popeyes Marketing Strategy 2024: A Case Study – Latterly.org
+Link: https://www.latterly.org/popeyes-marketing-strategy/
+Snippet: <b>Popeyes</b>’ rise in popularity is evidenced by its remarkable sales performance. In 2022, <b>Popeyes</b>’ sales surged by nearly 18% to $5.9 billion, surpassing KFC’s sales that experienced a decline of 4% to $5.4 billion. This significant growth propelled <b>Popeyes</b> to the position of the second-largest chicken chain in the U.S.
+
+Title: Exploring Popeyes&#39; Successful Marketing Strategy - Brand Credential
+Link: https://www.brandcredential.com/post/exploring-popeyes-successful-marketing-strategy
+Snippet: <b>Popeyes</b> has become a force to be reckoned with in the fast-food industry, thanks to its highly effective marketing strategy.In this article, we will delve deep into the various elements that contribute to <b>Popeyes</b>&#39; success and examine how they have shaped the brand&#39;s image, utilized <b>social</b> <b>media</b>, implemented innovative advertising techniques, and leveraged product innovation to drive growth.
+
+Title: How Popeyes&#39; chicken sandwich won the internet in 2019 | Ad Age
+Link: https://adage.com/article/member-content/how-popeyes-chicken-sandwich-won-internet-one-post-time/2223756
+Snippet: <b>Popeyes</b> tweet piled on the Art Basel Banana meme: &quot;Toasted brioche bun, two pickles, fried chicken, mayo, duct tape on canvas. $120,003.99.&quot; Each month, Ad Age creates and shares an exclusive case ...
+
+Title: How Popeyes Sparked the Chicken Sandwich Wars
+Link: https://news.popeyes.com/blog-posts/how-popeyes-sparked-the-chicken-sandwich-wars-started
+Snippet: That all changed with a single <b>social</b>-<b>media</b> post. A week after the launch, it seemed the excitement around <b>Popeyes</b>’ new Chicken Sandwich was beginning to ruffle the feathers of the competition. On Aug. 19, 2019, a chicken competitor tweeted what most people viewed as a critique of <b>Popeyes</b>’ new sandwich.
+
+Title: Why Popeye’s Chicken Sandwich Was the Biggest ... - Content Cucumber
+Link: https://www.contentcucumber.com/2019/12/23/why-popeyes-chicken-sandwich-was-the-biggest-marketing-success-of-2019
+Snippet: AdAge awarded <b>Popeye’s</b> as the No.2 marketer of the year, and for good reason. With the release (and then rerelease) of its chicken sandwich, <b>Popeye’s</b> hit a marketing goldmine. In August when the sandwich was first released, you could not surf <b>social</b> <b>media</b> without seeing some mention of it. Apex Marketing Group estimated Wednesday that ...
+
+Title: Popeyes CMO reveals social media marketing tips - Nation&#39;s Restaurant News
+Link: https://www.nrn.com/marketing/how-make-your-product-go-viral-according-marketing-team-behind-popeyes-chicken-sandwich
+Snippet: For example, <b>Popeyes</b> has embraced its New Orleans heritage and shows that voice on different <b>social</b> <b>media</b> platforms. Work with influencers The days of the traditional celebrity sponsorship with ...
+
+Title: Popeyes chicken reflects on its social media success - WARC
+Link: https://www.warc.com/newsandopinion/news/popeyes-chicken-reflects-on-its-social-media-success/en-gb/42976
+Snippet: <b>Popeyes</b> chicken reflects on its <b>social media</b> success. 2 min read. News, 29/11/2019 Topics ... <b>Popeyes</b>’ snappy response was retweeted more than 86,000 times and, coupled with other marketing <b>activity</b> like word of mouth, ... tracking word-of-mouth conversation and <b>social</b> <b>media</b> at nearly 1,000 brands in the US and UK. Become a member or Sign in.
+
+Title: Popeye’s: A Social Media Success Story – Openr
+Link: https://openr.co/popeyes-a-social-media-success-story/
+Snippet: <b>Popeyes</b> Louisiana Kitchen is an American fast food restaurant chain founded in 1972 in New Orleans, Louisiana. <b>Popeyes</b> is a subsidiary of Restaurant Brands International. As of 2018, <b>Popeyes</b> has 2,600 locations worldwide. <b>Popeyes</b> Louisiana Kitchen uses a number of <b>social</b> <b>media</b> platforms to connect with its customers and promote its brand.
+
+Title: Popeyes&#39; Chicken Sandwich: Inside the Rise and Fall of an Icon ...
+Link: https://www.businessinsider.com/popeyes-chicken-sandwich-rise-and-fall-story-2019-8
+Snippet: Most early <b>social</b>-<b>media</b> support of <b>Popeyes</b>&#39; chicken sandwich appears to have been a grassroots movement, a rarity in the sea of influencers and sponsored content. —X (@XLNB) August 19, 2019
+
+Title: Interview with Popeyes Chicken Sandwich Social Campaign Team - The Root
+Link: https://www.theroot.com/they-good-meet-the-team-behind-the-epic-popeyes-chicke-1840029607
+Snippet: The <b>Popeyes</b> <b>social</b> <b>media</b> account certainly isn’t the first or last to incorporate black-influenced slang into their tweets. There has been a noticeably black-ass shift in tone for <b>social</b> <b>media</b> copy.
+
+Remi: Results for 'Popeye's social media activity':
+Title: Popeyes Marketing Strategy 2024: A Case Study – Latterly.org
+Link: https://www.latterly.org/popeyes-marketing-strategy/
+Snippet: <b>Popeyes</b>’ rise in popularity is evidenced by its remarkable sales performance. In 2022, <b>Popeyes</b>’ sales surged by nearly 18% to $5.9 billion, surpassing KFC’s sales that experienced a decline of 4% to $5.4 billion. This significant growth propelled <b>Popeyes</b> to the position of the second-largest chicken chain in the U.S.
+
+Title: Exploring Popeyes&#39; Successful Marketing Strategy - Brand Credential
+Link: https://www.brandcredential.com/post/exploring-popeyes-successful-marketing-strategy
+Snippet: <b>Popeyes</b> has become a force to be reckoned with in the fast-food industry, thanks to its highly effective marketing strategy.In this article, we will delve deep into the various elements that contribute to <b>Popeyes</b>&#39; success and examine how they have shaped the brand&#39;s image, utilized <b>social</b> <b>media</b>, implemented innovative advertising techniques, and leveraged product innovation to drive growth.
+
+Title: How Popeyes&#39; chicken sandwich won the internet in 2019 | Ad Age
+Link: https://adage.com/article/member-content/how-popeyes-chicken-sandwich-won-internet-one-post-time/2223756
+Snippet: <b>Popeyes</b> tweet piled on the Art Basel Banana meme: &quot;Toasted brioche bun, two pickles, fried chicken, mayo, duct tape on canvas. $120,003.99.&quot; Each month, Ad Age creates and shares an exclusive case ...
+
+Title: How Popeyes Sparked the Chicken Sandwich Wars
+Link: https://news.popeyes.com/blog-posts/how-popeyes-sparked-the-chicken-sandwich-wars-started
+Snippet: That all changed with a single <b>social</b>-<b>media</b> post. A week after the launch, it seemed the excitement around <b>Popeyes</b>’ new Chicken Sandwich was beginning to ruffle the feathers of the competition. On Aug. 19, 2019, a chicken competitor tweeted what most people viewed as a critique of <b>Popeyes</b>’ new sandwich.
+
+Title: Why Popeye’s Chicken Sandwich Was the Biggest ... - Content Cucumber
+Link: https://www.contentcucumber.com/2019/12/23/why-popeyes-chicken-sandwich-was-the-biggest-marketing-success-of-2019
+Snippet: AdAge awarded <b>Popeye’s</b> as the No.2 marketer of the year, and for good reason. With the release (and then rerelease) of its chicken sandwich, <b>Popeye’s</b> hit a marketing goldmine. In August when the sandwich was first released, you could not surf <b>social</b> <b>media</b> without seeing some mention of it. Apex Marketing Group estimated Wednesday that ...
+
+Title: Popeyes CMO reveals social media marketing tips - Nation&#39;s Restaurant News
+Link: https://www.nrn.com/marketing/how-make-your-product-go-viral-according-marketing-team-behind-popeyes-chicken-sandwich
+Snippet: For example, <b>Popeyes</b> has embraced its New Orleans heritage and shows that voice on different <b>social</b> <b>media</b> platforms. Work with influencers The days of the traditional celebrity sponsorship with ...
+
+Title: Popeyes chicken reflects on its social media success - WARC
+Link: https://www.warc.com/newsandopinion/news/popeyes-chicken-reflects-on-its-social-media-success/en-gb/42976
+Snippet: <b>Popeyes</b> chicken reflects on its <b>social media</b> success. 2 min read. News, 29/11/2019 Topics ... <b>Popeyes</b>’ snappy response was retweeted more than 86,000 times and, coupled with other marketing <b>activity</b> like word of mouth, ... tracking word-of-mouth conversation and <b>social</b> <b>media</b> at nearly 1,000 brands in the US and UK. Become a member or Sign in.
+
+Title: Popeye’s: A Social Media Success Story – Openr
+Link: https://openr.co/popeyes-a-social-media-success-story/
+Snippet: <b>Popeyes</b> Louisiana Kitchen is an American fast food restaurant chain founded in 1972 in New Orleans, Louisiana. <b>Popeyes</b> is a subsidiary of Restaurant Brands International. As of 2018, <b>Popeyes</b> has 2,600 locations worldwide. <b>Popeyes</b> Louisiana Kitchen uses a number of <b>social</b> <b>media</b> platforms to connect with its customers and promote its brand.
+
+Title: Popeyes&#39; Chicken Sandwich: Inside the Rise and Fall of an Icon ...
+Link: https://www.businessinsider.com/popeyes-chicken-sandwich-rise-and-fall-story-2019-8
+Snippet: Most early <b>social</b>-<b>media</b> support of <b>Popeyes</b>&#39; chicken sandwich appears to have been a grassroots movement, a rarity in the sea of influencers and sponsored content. —X (@XLNB) August 19, 2019
+
+Title: Interview with Popeyes Chicken Sandwich Social Campaign Team - The Root
+Link: https://www.theroot.com/they-good-meet-the-team-behind-the-epic-popeyes-chicke-1840029607
+Snippet: The <b>Popeyes</b> <b>social</b> <b>media</b> account certainly isn’t the first or last to incorporate black-influenced slang into their tweets. There has been a noticeably black-ass shift in tone for <b>social</b> <b>media</b> copy.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's marketing strategies':
+Title: Popeyes Marketing Strategy 2024: A Case Study – Latterly.org
+Link: https://www.latterly.org/popeyes-marketing-strategy/
+Snippet: <b>Popeyes</b>’ rise in popularity is evidenced by its remarkable sales performance. In 2022, <b>Popeyes</b>’ sales surged by nearly 18% to $5.9 billion, surpassing KFC’s sales that experienced a decline of 4% to $5.4 billion. This significant growth propelled <b>Popeyes</b> to the position of the second-largest chicken chain in the U.S.
+
+Title: Exploring Popeyes&#39; Successful Marketing Strategy - Brand Credential
+Link: https://www.brandcredential.com/post/exploring-popeyes-successful-marketing-strategy
+Snippet: <b>Popeyes</b> has become a force to be reckoned with in the fast-food industry, thanks to its highly effective <b>marketing</b> <b>strategy</b>.In this article, we will delve deep into the various elements that contribute to <b>Popeyes</b>&#39; success and examine how they have shaped the brand&#39;s image, utilized social media, implemented innovative advertising techniques, and leveraged product innovation to drive growth.
+
+Title: The Story Behind It: The Big Game Advertisement with Popeyes CMO, Jeff ...
+Link: https://news.popeyes.com/blog-posts/the-story-behind-it-the-big-game-advertisement-with-popeyes-cmo-jeff-klein
+Snippet: The spot tells the story of Howie, played by Ken Jeong. He cryogenically froze himself 52 years ago waiting for the best-ever wing to be created. Jeong is then unfrozen to discover <b>Popeyes</b> has permanently launched Wings in five delicious flavors – along with many other changes from 52 years ago, including drones, self-driving cars, electric ...
+
+Title: Popeyes CMO reveals social media marketing tips - Nation&#39;s Restaurant News
+Link: https://www.nrn.com/marketing/how-make-your-product-go-viral-according-marketing-team-behind-popeyes-chicken-sandwich
+Snippet: Effective <b>marketing</b> in the TikTok age starts with a great-tasting product, Bruno Cardinali, chief <b>marketing</b> officer with <b>Popeyes</b> said . Joanna Fantozzi | Dec 03, 2021.
+
+Title: Three Lessons From the Fried Chicken Frenzy: Popeyes’ Brilliant ...
+Link: https://www.searchinfluence.com/blog/three-lessons-from-the-fried-chicken-frenzy-popeyes-brilliant-marketing-moment/
+Snippet: With the launch of <b>Popeyes</b>’ first-ever chicken sandwich in August 2019 and the <b>Popeyes</b> <b>marketing</b> team’s quick reply to a tweet by their rival Chick-Fil-A, The Great Chicken Sandwich War began. In case you were wondering, Twitter is most definitely still relevant in today’s marketplace and can have a direct impact on consumer behavior when ...
+
+Title: Why Popeyes Is Positioned to Be the Next Great Brand Marketer - Adweek
+Link: https://www.adweek.com/brand-marketing/why-popeyes-is-positioned-to-be-the-next-great-brand-marketer/
+Snippet: Fernando Machado, global CMO of Burger King, quietly began overseeing worldwide <b>marketing</b> for <b>Popeyes</b> earlier this year. Both are owned by Restaurant Brands International, which is also the parent ...
+
+Title: The Popeyes Marketing Strategy that Took the Fast Food Industry by ...
+Link: https://keeganedwards.com/the-popeyes-marketing-strategy-that-took-the-fast-food-industry-by-storm/
+Snippet: <b>Popeyes</b>, the renowned fast food chain, has made a significant impact in the fast food industry with its innovative <b>marketing</b> <b>strategies</b>. By understanding its brand identity, implementing unique <b>marketing</b> campaigns, leveraging social media, and forming collaborations and partnerships, <b>Popeyes</b> has managed to stand out among its competitors and capture the attention of customers.
+
+Title: How Popeyes&#39; New Global CMO Plans to Make the Niche Brand Into ... - Adweek
+Link: https://www.adweek.com/creativity/how-popeyes-new-global-cmo-plans-to-make-the-niche-brand-into-a-mass-brand/
+Snippet: By Kathryn Lundstrom. March 26, 2020. Paloma Azulay was quietly appointed <b>Popeyes</b> global chief <b>marketing</b> officer in January, and stepped into the role last month. Prior to that, she was global CMO ...
+
+Title: Popeyes® Shares Marketing Diversity Results and Action Plan
+Link: https://news.popeyes.com/blog-posts/popeyes-shares-marketing-diversity-results-and-action-plan
+Snippet: Diversity disclosure part of commitment to be transparent and be held accountable for outcomes. <b>Popeyes</b> ® new partnerships to develop diverse creative talent. MIAMI – May 13, 2021 -- <b>Popeyes</b> ® has published its first-ever end-to-end <b>Marketing</b> Diversity Scorecard, including racial and gender diversity of its guests, internal <b>marketing</b> team, external agency partners, production crews, hired ...
+
+Title: Why Popeye’s Chicken Sandwich Was the Biggest Marketing Success of 2019
+Link: https://www.contentcucumber.com/2019/12/23/why-popeyes-chicken-sandwich-was-the-biggest-marketing-success-of-2019
+Snippet: Rashida. AdAge awarded <b>Popeye’s</b> as the No.2 marketer of the year, and for good reason. With the release (and then rerelease) of its chicken sandwich, <b>Popeye’s</b> hit a <b>marketing</b> goldmine. In August when the sandwich was first released, you could not surf social media without seeing some mention of it. Apex <b>Marketing</b> Group estimated Wednesday ...
+
+Remi: Results for 'Popeye's marketing strategies':
+Title: Popeyes Marketing Strategy 2024: A Case Study – Latterly.org
+Link: https://www.latterly.org/popeyes-marketing-strategy/
+Snippet: <b>Popeyes</b>’ rise in popularity is evidenced by its remarkable sales performance. In 2022, <b>Popeyes</b>’ sales surged by nearly 18% to $5.9 billion, surpassing KFC’s sales that experienced a decline of 4% to $5.4 billion. This significant growth propelled <b>Popeyes</b> to the position of the second-largest chicken chain in the U.S.
+
+Title: Exploring Popeyes&#39; Successful Marketing Strategy - Brand Credential
+Link: https://www.brandcredential.com/post/exploring-popeyes-successful-marketing-strategy
+Snippet: <b>Popeyes</b> has become a force to be reckoned with in the fast-food industry, thanks to its highly effective <b>marketing</b> <b>strategy</b>.In this article, we will delve deep into the various elements that contribute to <b>Popeyes</b>&#39; success and examine how they have shaped the brand&#39;s image, utilized social media, implemented innovative advertising techniques, and leveraged product innovation to drive growth.
+
+Title: The Story Behind It: The Big Game Advertisement with Popeyes CMO, Jeff ...
+Link: https://news.popeyes.com/blog-posts/the-story-behind-it-the-big-game-advertisement-with-popeyes-cmo-jeff-klein
+Snippet: The spot tells the story of Howie, played by Ken Jeong. He cryogenically froze himself 52 years ago waiting for the best-ever wing to be created. Jeong is then unfrozen to discover <b>Popeyes</b> has permanently launched Wings in five delicious flavors – along with many other changes from 52 years ago, including drones, self-driving cars, electric ...
+
+Title: Popeyes CMO reveals social media marketing tips - Nation&#39;s Restaurant News
+Link: https://www.nrn.com/marketing/how-make-your-product-go-viral-according-marketing-team-behind-popeyes-chicken-sandwich
+Snippet: Effective <b>marketing</b> in the TikTok age starts with a great-tasting product, Bruno Cardinali, chief <b>marketing</b> officer with <b>Popeyes</b> said . Joanna Fantozzi | Dec 03, 2021.
+
+Title: Three Lessons From the Fried Chicken Frenzy: Popeyes’ Brilliant ...
+Link: https://www.searchinfluence.com/blog/three-lessons-from-the-fried-chicken-frenzy-popeyes-brilliant-marketing-moment/
+Snippet: With the launch of <b>Popeyes</b>’ first-ever chicken sandwich in August 2019 and the <b>Popeyes</b> <b>marketing</b> team’s quick reply to a tweet by their rival Chick-Fil-A, The Great Chicken Sandwich War began. In case you were wondering, Twitter is most definitely still relevant in today’s marketplace and can have a direct impact on consumer behavior when ...
+
+Title: Why Popeyes Is Positioned to Be the Next Great Brand Marketer - Adweek
+Link: https://www.adweek.com/brand-marketing/why-popeyes-is-positioned-to-be-the-next-great-brand-marketer/
+Snippet: Fernando Machado, global CMO of Burger King, quietly began overseeing worldwide <b>marketing</b> for <b>Popeyes</b> earlier this year. Both are owned by Restaurant Brands International, which is also the parent ...
+
+Title: The Popeyes Marketing Strategy that Took the Fast Food Industry by ...
+Link: https://keeganedwards.com/the-popeyes-marketing-strategy-that-took-the-fast-food-industry-by-storm/
+Snippet: <b>Popeyes</b>, the renowned fast food chain, has made a significant impact in the fast food industry with its innovative <b>marketing</b> <b>strategies</b>. By understanding its brand identity, implementing unique <b>marketing</b> campaigns, leveraging social media, and forming collaborations and partnerships, <b>Popeyes</b> has managed to stand out among its competitors and capture the attention of customers.
+
+Title: How Popeyes&#39; New Global CMO Plans to Make the Niche Brand Into ... - Adweek
+Link: https://www.adweek.com/creativity/how-popeyes-new-global-cmo-plans-to-make-the-niche-brand-into-a-mass-brand/
+Snippet: By Kathryn Lundstrom. March 26, 2020. Paloma Azulay was quietly appointed <b>Popeyes</b> global chief <b>marketing</b> officer in January, and stepped into the role last month. Prior to that, she was global CMO ...
+
+Title: Popeyes® Shares Marketing Diversity Results and Action Plan
+Link: https://news.popeyes.com/blog-posts/popeyes-shares-marketing-diversity-results-and-action-plan
+Snippet: Diversity disclosure part of commitment to be transparent and be held accountable for outcomes. <b>Popeyes</b> ® new partnerships to develop diverse creative talent. MIAMI – May 13, 2021 -- <b>Popeyes</b> ® has published its first-ever end-to-end <b>Marketing</b> Diversity Scorecard, including racial and gender diversity of its guests, internal <b>marketing</b> team, external agency partners, production crews, hired ...
+
+Title: Why Popeye’s Chicken Sandwich Was the Biggest Marketing Success of 2019
+Link: https://www.contentcucumber.com/2019/12/23/why-popeyes-chicken-sandwich-was-the-biggest-marketing-success-of-2019
+Snippet: Rashida. AdAge awarded <b>Popeye’s</b> as the No.2 marketer of the year, and for good reason. With the release (and then rerelease) of its chicken sandwich, <b>Popeye’s</b> hit a <b>marketing</b> goldmine. In August when the sandwich was first released, you could not surf social media without seeing some mention of it. Apex <b>Marketing</b> Group estimated Wednesday ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Regulations affecting Popeye's':
+Title: Popeyes® Announces New Quality &amp; Sustainability Commitments
+Link: https://news.popeyes.com/blog-posts/popeyes-r-announces-new-quality-sustainability-commitments
+Snippet: <b>Popeyes</b>® is working on removing colors, flavors and preservatives from artificial sources from fried chicken menu items in the U.S. by the end of 2022, starting with its famous <b>Popeyes</b>® Chicken Sandwich. Antibiotics <b>Popeyes</b>® is eliminating antibiotics important to human medicine 1 from their chicken supply chain in the US and Canada by the ...
+
+Title: Popeyes Commits to New Quality &amp; Sustainability Initiatives
+Link: https://www.foodserviceandhospitality.com/popeyes-commits-to-new-quality-sustainability-initiatives/
+Snippet: 0. TORONTO — <b>Popeyes</b> has made new food quality commitments for the next five years as part of Restaurant Brands International’s Restaurant Brands for Good sustainability plan. These commitments are part of the brand’s goal to serve responsibly sourced, high quality and great-tasting food, while continuously working to reducing its ...
+
+Title: Popeyes ® Announces New Quality &amp; Sustainability Commitments
+Link: https://www.businesswire.com/news/home/20210302005395/en/%C2%A0Popeyes%C2%AE-Announces-New-Quality-Sustainability-Commitments
+Snippet: Today, <b>Popeyes</b>® is proud to announce new food quality commitments for the next 5 years as part of the Restaurant Brands for Good sustainability plan, giving guests even more reasons to Love that ...
+
+Title: 50 Years Strong and Still Growing: Popeyes Announces Plans for Major ...
+Link: https://news.popeyes.com/blog-posts/popeyes-plans-major-expansion-technology-and-restaurant-design-updates
+Snippet: <b>Popeyes</b> is celebrating it&#39;s golden birthday with the unveiling of new restaurant designs, flagship locations, and expansion goals for 2022. <b>Popeyes</b> ended 2021 with a lot to celebrate: having opened 208 new restaurants last year for a total of 3,000+ restaurants across in US &amp; Canada and over 3,700 locations globally. 2022 marks <b>Popeyes</b> 50 th birthday year, and we have big plans to bring ...
+
+Title: Popeyes Announces Plans To Remove Artificial Ingredients ... - Forbes
+Link: https://www.forbes.com/sites/aliciakelso/2021/03/02/popeyes-announces-plans-to-remove-artificial-ingredients-antibiotics/
+Snippet: As part of its announcement, <b>Popeyes</b> also plans to eliminate antibiotics important to human medicine from its chicken supply chain in the U.S. and Canada by the end of this year. The chain will ...
+
+Title: Popeyes® Shares Marketing Diversity Results and Action Plan
+Link: https://news.popeyes.com/blog-posts/popeyes-shares-marketing-diversity-results-and-action-plan
+Snippet: Diversity disclosure part of commitment to be transparent and be held accountable for outcomes. <b>Popeyes</b> ® new partnerships to develop diverse creative talent. MIAMI – May 13, 2021 -- <b>Popeyes</b> ® has published its first-ever end-to-end Marketing Diversity Scorecard, including racial and gender diversity of its guests, internal marketing team, external agency partners, production crews, hired ...
+
+Title: Exploring Popeyes&#39; Successful Marketing Strategy - Brand Credential
+Link: https://www.brandcredential.com/post/exploring-popeyes-successful-marketing-strategy
+Snippet: <b>Popeyes</b> has become a force to be reckoned with in the fast-food industry, thanks to its highly effective marketing strategy.In this article, we will delve deep into the various elements that contribute to <b>Popeyes</b>&#39; success and examine how they have shaped the brand&#39;s image, utilized social media, implemented innovative advertising techniques, and leveraged product innovation to drive growth.
+
+Title: Popeyes Looks To International Markets To Gain Back Momentum - Forbes
+Link: https://www.forbes.com/sites/aliciakelso/2022/05/04/popeyes-looks-to-international-markets-to-gain-back-momentum/
+Snippet: <b>Popeyes</b> has every reason to be bullish, despite its recent negative results lapping anomalous quarters. The chain’s systemwide sales are now about north of $5.5 billion, versus $3.2 billion in 2016.
+
+Title: Popeyes to be reinspected Monday after closing due to health violations ...
+Link: https://www.wtol.com/article/news/local/popeyes-to-be-reinspected-monday-after-closing-due-to-health-violations/512-73f060af-d6d6-4278-9698-fb4c807f7c98
+Snippet: Updated: 10:44 AM EDT August 25, 2019. TOLEDO, Ohio — <b>Popeyes</b> Chicken and Biscuits on Secor will be reinspected on Monday after closing due to health violations. Following a few customer ...
+
+Title: Popeyes franchisee pays $212K after US Department of Labor ...
+Link: https://www.dol.gov/newsroom/releases/whd/whd20240207-1
+Snippet: Employer: 14th St. Chicken Corp., operating as <b>Popeyes</b> Chicken &amp; Biscuits 7007 International Blvd. Oakland, CA 94621 . Investigation findings: An investigation by the U. S. Department of Labor’s Wage and Hour Division found a <b>Popeyes</b> fast-food chain franchisee hired children as young as 13-years-old and minors who worked later and longer than permitted by child labor <b>laws</b> at the employer’s ...
+
+Remi: Results for 'Regulations affecting Popeye's':
+Title: Popeyes® Announces New Quality &amp; Sustainability Commitments
+Link: https://news.popeyes.com/blog-posts/popeyes-r-announces-new-quality-sustainability-commitments
+Snippet: <b>Popeyes</b>® is working on removing colors, flavors and preservatives from artificial sources from fried chicken menu items in the U.S. by the end of 2022, starting with its famous <b>Popeyes</b>® Chicken Sandwich. Antibiotics <b>Popeyes</b>® is eliminating antibiotics important to human medicine 1 from their chicken supply chain in the US and Canada by the ...
+
+Title: Popeyes Commits to New Quality &amp; Sustainability Initiatives
+Link: https://www.foodserviceandhospitality.com/popeyes-commits-to-new-quality-sustainability-initiatives/
+Snippet: 0. TORONTO — <b>Popeyes</b> has made new food quality commitments for the next five years as part of Restaurant Brands International’s Restaurant Brands for Good sustainability plan. These commitments are part of the brand’s goal to serve responsibly sourced, high quality and great-tasting food, while continuously working to reducing its ...
+
+Title: Popeyes ® Announces New Quality &amp; Sustainability Commitments
+Link: https://www.businesswire.com/news/home/20210302005395/en/%C2%A0Popeyes%C2%AE-Announces-New-Quality-Sustainability-Commitments
+Snippet: Today, <b>Popeyes</b>® is proud to announce new food quality commitments for the next 5 years as part of the Restaurant Brands for Good sustainability plan, giving guests even more reasons to Love that ...
+
+Title: 50 Years Strong and Still Growing: Popeyes Announces Plans for Major ...
+Link: https://news.popeyes.com/blog-posts/popeyes-plans-major-expansion-technology-and-restaurant-design-updates
+Snippet: <b>Popeyes</b> is celebrating it&#39;s golden birthday with the unveiling of new restaurant designs, flagship locations, and expansion goals for 2022. <b>Popeyes</b> ended 2021 with a lot to celebrate: having opened 208 new restaurants last year for a total of 3,000+ restaurants across in US &amp; Canada and over 3,700 locations globally. 2022 marks <b>Popeyes</b> 50 th birthday year, and we have big plans to bring ...
+
+Title: Popeyes Announces Plans To Remove Artificial Ingredients ... - Forbes
+Link: https://www.forbes.com/sites/aliciakelso/2021/03/02/popeyes-announces-plans-to-remove-artificial-ingredients-antibiotics/
+Snippet: As part of its announcement, <b>Popeyes</b> also plans to eliminate antibiotics important to human medicine from its chicken supply chain in the U.S. and Canada by the end of this year. The chain will ...
+
+Title: Popeyes® Shares Marketing Diversity Results and Action Plan
+Link: https://news.popeyes.com/blog-posts/popeyes-shares-marketing-diversity-results-and-action-plan
+Snippet: Diversity disclosure part of commitment to be transparent and be held accountable for outcomes. <b>Popeyes</b> ® new partnerships to develop diverse creative talent. MIAMI – May 13, 2021 -- <b>Popeyes</b> ® has published its first-ever end-to-end Marketing Diversity Scorecard, including racial and gender diversity of its guests, internal marketing team, external agency partners, production crews, hired ...
+
+Title: Exploring Popeyes&#39; Successful Marketing Strategy - Brand Credential
+Link: https://www.brandcredential.com/post/exploring-popeyes-successful-marketing-strategy
+Snippet: <b>Popeyes</b> has become a force to be reckoned with in the fast-food industry, thanks to its highly effective marketing strategy.In this article, we will delve deep into the various elements that contribute to <b>Popeyes</b>&#39; success and examine how they have shaped the brand&#39;s image, utilized social media, implemented innovative advertising techniques, and leveraged product innovation to drive growth.
+
+Title: Popeyes Looks To International Markets To Gain Back Momentum - Forbes
+Link: https://www.forbes.com/sites/aliciakelso/2022/05/04/popeyes-looks-to-international-markets-to-gain-back-momentum/
+Snippet: <b>Popeyes</b> has every reason to be bullish, despite its recent negative results lapping anomalous quarters. The chain’s systemwide sales are now about north of $5.5 billion, versus $3.2 billion in 2016.
+
+Title: Popeyes to be reinspected Monday after closing due to health violations ...
+Link: https://www.wtol.com/article/news/local/popeyes-to-be-reinspected-monday-after-closing-due-to-health-violations/512-73f060af-d6d6-4278-9698-fb4c807f7c98
+Snippet: Updated: 10:44 AM EDT August 25, 2019. TOLEDO, Ohio — <b>Popeyes</b> Chicken and Biscuits on Secor will be reinspected on Monday after closing due to health violations. Following a few customer ...
+
+Title: Popeyes franchisee pays $212K after US Department of Labor ...
+Link: https://www.dol.gov/newsroom/releases/whd/whd20240207-1
+Snippet: Employer: 14th St. Chicken Corp., operating as <b>Popeyes</b> Chicken &amp; Biscuits 7007 International Blvd. Oakland, CA 94621 . Investigation findings: An investigation by the U. S. Department of Labor’s Wage and Hour Division found a <b>Popeyes</b> fast-food chain franchisee hired children as young as 13-years-old and minors who worked later and longer than permitted by child labor <b>laws</b> at the employer’s ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Government policies impacting fast food industry':
+Title: &#39;Supersizing Urban America&#39;: How U.S. Policies Encouraged Fast Food To ...
+Link: https://www.npr.org/sections/thesalt/2017/06/15/527044693/-supersizing-urban-america-how-u-s-policies-encouraged-fast-food-to-spread
+Snippet: A new book examines how federal government <b>policies</b> made it easier for minorities to open <b>fast</b>-<b>food</b> franchises than grocery stores. Today the landscape of urban America reflects this history. In ...
+
+Title: How the Government Promoted Fast Food in Cities - Bloomberg
+Link: https://www.bloomberg.com/news/articles/2017-03-31/how-the-government-promoted-fast-food-in-cities
+Snippet: That disparity speaks to a more structural challenge—one produced by <b>policies</b> that ushered <b>fast</b> <b>food</b> into the urban market. That’s the theory driving Supersizing Urban Americaby Chin Jou, a ...
+
+Title: Political and commercial forces shape what we eat - Nature
+Link: https://www.nature.com/articles/d42859-021-00063-6
+Snippet: Consumption of ultra-processed foods is increasing globally. By 2018, young people (2–19 years) in the US consumed most (67%) of their diet as ultra-processed foods. The UK is not far behind ...
+
+Title: Should more governments take aim at fast food? - Futurity
+Link: https://www.futurity.org/fast-food-need-government-regulation/
+Snippet: The findings show that <b>fast</b> <b>food</b> purchases were independent predictors of increases in the average body mass index (BMI) in the United States and 24 other wealthy nations from 1999 to 2008. [related]
+
+Title: How the State Created Fast Food - Current Affairs
+Link: https://www.currentaffairs.org/news/2022/01/how-the-state-created-fast-food
+Snippet: McDonald’s entered the Caribbean and Latin America via Puerto Rico in 1967 and Costa Rica in 1970, and Asia, via Hong Kong, in 1975. In 1971, KFC became the first foreign <b>fast</b> <b>food</b> chain in Africa, opening a restaurant in apartheid South Africa. KFC now operates in 24 countries across the continent, having added Rwanda to the list in 2020 ...
+
+Title: Role of government policy in nutrition—barriers to and ... - The BMJ
+Link: https://www.bmj.com/content/361/bmj.k2426
+Snippet: Dariush Mozaffarian and colleagues review strategies governments can use to improve nutrition and health For most of human history including much of the 20th century, insufficient <b>food</b> was the greatest nutritional challenge. To tackle this, government sought to stimulate the production and distribution of as much inexpensive <b>food</b> as possible, in particular starchy (high carbohydrate) staple ...
+
+Title: Regulating the Food Industry: An Aspirational Agenda
+Link: https://ajph.aphapublications.org/doi/10.2105/AJPH.2022.306844
+Snippet: The coronavirus pandemic reveals an urgent need: the marketing of ultra-processed “junk” <b>food</b> must be stopped. Until now, the <b>food</b> <b>industry</b> has gotten away with pushing consumption of high-calorie, highly processed products—as often and in as many places as possible, and in increasingly large amounts—all in the name of profit. 1 In this business-first <b>food</b> environment, obesity and its ...
+
+Title: How the politics of restaurant labor changed in 2023
+Link: https://www.restaurantdive.com/news/how-the-politics-of-restaurant-labor-changed-in-2023/703081/
+Snippet: Throughout 2023, restaurant workers scored major political victories, some of which could upend labor relations and significantly increase wages — and labor costs — in one of America’s largest industries. AB 1228, the California <b>fast</b> <b>food</b> minimum wage compromise that takes effect in 2024, was the most significant restaurant <b>policy</b> change ...
+
+Title: The book &#39;Junk Food Politics&#39; looks at soda and fast food company ...
+Link: https://www.npr.org/sections/goatsandsoda/2023/02/01/1151689243/junk-food-companies-say-theyre-trying-to-do-good-a-new-book-raises-doubts
+Snippet: In his new book, Junk <b>Food</b> Politics: How Beverage and <b>Fast</b> <b>Food</b> Industries Are Reshaping Emerging Economies, Gómez describes a two-way street, where <b>industry</b> and political leaders work together ...
+
+Title: How California could transform America&#39;s fast food industry — again ...
+Link: https://www.politico.com/news/2023/08/14/california-fast-food-union-ballot-measure-00110540
+Snippet: Sacramento’s escalating, multi-year fight over <b>fast</b> <b>food</b> labor has led corporations to spend more than $80 million since 2021 to block efforts to regulate pay and address health and safety concerns.
+
+Remi: Results for 'Government policies impacting fast food industry':
+Title: &#39;Supersizing Urban America&#39;: How U.S. Policies Encouraged Fast Food To ...
+Link: https://www.npr.org/sections/thesalt/2017/06/15/527044693/-supersizing-urban-america-how-u-s-policies-encouraged-fast-food-to-spread
+Snippet: A new book examines how federal government <b>policies</b> made it easier for minorities to open <b>fast</b>-<b>food</b> franchises than grocery stores. Today the landscape of urban America reflects this history. In ...
+
+Title: How the Government Promoted Fast Food in Cities - Bloomberg
+Link: https://www.bloomberg.com/news/articles/2017-03-31/how-the-government-promoted-fast-food-in-cities
+Snippet: That disparity speaks to a more structural challenge—one produced by <b>policies</b> that ushered <b>fast</b> <b>food</b> into the urban market. That’s the theory driving Supersizing Urban Americaby Chin Jou, a ...
+
+Title: Political and commercial forces shape what we eat - Nature
+Link: https://www.nature.com/articles/d42859-021-00063-6
+Snippet: Consumption of ultra-processed foods is increasing globally. By 2018, young people (2–19 years) in the US consumed most (67%) of their diet as ultra-processed foods. The UK is not far behind ...
+
+Title: Should more governments take aim at fast food? - Futurity
+Link: https://www.futurity.org/fast-food-need-government-regulation/
+Snippet: The findings show that <b>fast</b> <b>food</b> purchases were independent predictors of increases in the average body mass index (BMI) in the United States and 24 other wealthy nations from 1999 to 2008. [related]
+
+Title: How the State Created Fast Food - Current Affairs
+Link: https://www.currentaffairs.org/news/2022/01/how-the-state-created-fast-food
+Snippet: McDonald’s entered the Caribbean and Latin America via Puerto Rico in 1967 and Costa Rica in 1970, and Asia, via Hong Kong, in 1975. In 1971, KFC became the first foreign <b>fast</b> <b>food</b> chain in Africa, opening a restaurant in apartheid South Africa. KFC now operates in 24 countries across the continent, having added Rwanda to the list in 2020 ...
+
+Title: Role of government policy in nutrition—barriers to and ... - The BMJ
+Link: https://www.bmj.com/content/361/bmj.k2426
+Snippet: Dariush Mozaffarian and colleagues review strategies governments can use to improve nutrition and health For most of human history including much of the 20th century, insufficient <b>food</b> was the greatest nutritional challenge. To tackle this, government sought to stimulate the production and distribution of as much inexpensive <b>food</b> as possible, in particular starchy (high carbohydrate) staple ...
+
+Title: Regulating the Food Industry: An Aspirational Agenda
+Link: https://ajph.aphapublications.org/doi/10.2105/AJPH.2022.306844
+Snippet: The coronavirus pandemic reveals an urgent need: the marketing of ultra-processed “junk” <b>food</b> must be stopped. Until now, the <b>food</b> <b>industry</b> has gotten away with pushing consumption of high-calorie, highly processed products—as often and in as many places as possible, and in increasingly large amounts—all in the name of profit. 1 In this business-first <b>food</b> environment, obesity and its ...
+
+Title: How the politics of restaurant labor changed in 2023
+Link: https://www.restaurantdive.com/news/how-the-politics-of-restaurant-labor-changed-in-2023/703081/
+Snippet: Throughout 2023, restaurant workers scored major political victories, some of which could upend labor relations and significantly increase wages — and labor costs — in one of America’s largest industries. AB 1228, the California <b>fast</b> <b>food</b> minimum wage compromise that takes effect in 2024, was the most significant restaurant <b>policy</b> change ...
+
+Title: The book &#39;Junk Food Politics&#39; looks at soda and fast food company ...
+Link: https://www.npr.org/sections/goatsandsoda/2023/02/01/1151689243/junk-food-companies-say-theyre-trying-to-do-good-a-new-book-raises-doubts
+Snippet: In his new book, Junk <b>Food</b> Politics: How Beverage and <b>Fast</b> <b>Food</b> Industries Are Reshaping Emerging Economies, Gómez describes a two-way street, where <b>industry</b> and political leaders work together ...
+
+Title: How California could transform America&#39;s fast food industry — again ...
+Link: https://www.politico.com/news/2023/08/14/california-fast-food-union-ballot-measure-00110540
+Snippet: Sacramento’s escalating, multi-year fight over <b>fast</b> <b>food</b> labor has led corporations to spend more than $80 million since 2021 to block efforts to regulate pay and address health and safety concerns.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Popeye's stock performance':
+Title: Popeyes Louisiana Kitchen, Inc. (PLKI) Performance History - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PLKI/performance/
+Snippet: At close: June 28 at 6:07 PM EDT. Current and Historical <b>Performance</b> <b>Performance</b> for <b>Popeyes</b> Louisiana Kitchen,<b></b> Inc. on Yahoo Finance.
+
+Title: Popeyes Louisiana Kitchen, Inc. (PLKI) - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PLKI/
+Snippet: 15.36. +0.20%. Find the latest <b>Popeyes</b> Louisiana Kitchen,<b></b> Inc. (PLKI) <b>stock</b> quote, history, news and other vital information to help you with your <b>stock</b> trading and investing.
+
+Title: Popeyes Louisiana Kitchen, Inc. (PLKI) - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PLKI/history/
+Snippet: Discover historical prices for PLKI <b>stock</b> on Yahoo Finance. View daily, weekly or monthly format back to when <b>Popeyes</b> Louisiana Kitchen,<b></b> Inc. <b>stock</b> was issued.
+
+Title: PLKI - Popeyes Louisiana Stock Price - Barchart.com
+Link: https://www.barchart.com/stocks/quotes/PLKI
+Snippet: Price <b>Performance</b>. This section shows the Highs and Lows over the past 1, 3 and 12-Month periods. Click the &quot;See More&quot; link to see the full <b>Performance</b> Report page with expanded historical information. Fundamentals. For US and Canadian Stocks, the Overview page includes key statistics on the <b>stock</b>&#39;s fundamentals, with a link to see more.
+
+Title: PLKI - Popeyes Louisiana Stock Profile - Barchart.com
+Link: https://www.barchart.com/stocks/quotes/PLKI/profile
+Snippet: Description: <b>Popeyes</b> Louisiana Kitchen Inc. owns, operates and franchises a chain of quick-service restaurants. The company operates in two business segments: franchise operations and company-operated restaurants. It operates primarily in Texas, California, Louisiana, Florida, Illinois, Maryland, New York, Georgia, Virginia and Mississippi.
+
+Title: Popeyes Louisiana Kitchen Stock Price Today - Investing.com
+Link: https://www.investing.com/equities/afc-enterprises
+Snippet: View today&#39;s <b>Popeyes</b> Louisiana Kitchen Inc <b>stock</b> price and latest PLKI news and analysis. Create real-time notifications to follow any changes in the live <b>stock</b> price.
+
+Title: - PLKI - Stock Price Today - Zacks
+Link: https://www.zacks.com/stock/quote/PLKI
+Snippet: Get the latest %COMPANY_NAME% PLKI detailed <b>stock</b> quotes, <b>stock</b> data, Real-Time ECN, charts, stats and more. ... <b>Popeyes</b> Louisiana Kitchen, Inc. (PLKI) ... Visit <b>Performance</b> Disclosure for ...
+
+Title: PLKI - Popeyes Louisiana Stock Interactive Chart - Barchart.com
+Link: https://www.barchart.com/stocks/quotes/PLKI/interactive-chart
+Snippet: Interactive Chart. Interactive Charts provide the most advanced and flexible platform for analyzing historical data, with over 100 customizable studies, drawing tools, custom spreads and expressions, plus a wide range of visualization tools. While logged into the site, you will see continuous streaming updates to the chart.
+
+Title: Popeyes Louisiana (PLKI-Q) Stock Price and News
+Link: https://www.theglobeandmail.com/investing/markets/stocks/PLKI/
+Snippet: Real-time Price Updates for <b>Popeyes</b> Louisiana (PLKI-Q), along with buy or sell indicators, analysis, charts, historical <b>performance</b>, news and more
+
+Title: QSR Stock Price | Restaurant Brands International Inc. Stock Quote (U.S ...
+Link: https://www.marketwatch.com/investing/stock/qsr
+Snippet: Jack in the Box Inc. 1.67%. $973.32M. QSR | Complete Restaurant Brands International Inc. <b>stock</b> news by <b>MarketWatch</b>. View real-time <b>stock</b> prices and <b>stock</b> quotes for a full financial overview.
+
+Remi: Results for 'Popeye's stock performance':
+Title: Popeyes Louisiana Kitchen, Inc. (PLKI) Performance History - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PLKI/performance/
+Snippet: At close: June 28 at 6:07 PM EDT. Current and Historical <b>Performance</b> <b>Performance</b> for <b>Popeyes</b> Louisiana Kitchen,<b></b> Inc. on Yahoo Finance.
+
+Title: Popeyes Louisiana Kitchen, Inc. (PLKI) - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PLKI/
+Snippet: 15.36. +0.20%. Find the latest <b>Popeyes</b> Louisiana Kitchen,<b></b> Inc. (PLKI) <b>stock</b> quote, history, news and other vital information to help you with your <b>stock</b> trading and investing.
+
+Title: Popeyes Louisiana Kitchen, Inc. (PLKI) - Yahoo Finance
+Link: https://finance.yahoo.com/quote/PLKI/history/
+Snippet: Discover historical prices for PLKI <b>stock</b> on Yahoo Finance. View daily, weekly or monthly format back to when <b>Popeyes</b> Louisiana Kitchen,<b></b> Inc. <b>stock</b> was issued.
+
+Title: PLKI - Popeyes Louisiana Stock Price - Barchart.com
+Link: https://www.barchart.com/stocks/quotes/PLKI
+Snippet: Price <b>Performance</b>. This section shows the Highs and Lows over the past 1, 3 and 12-Month periods. Click the &quot;See More&quot; link to see the full <b>Performance</b> Report page with expanded historical information. Fundamentals. For US and Canadian Stocks, the Overview page includes key statistics on the <b>stock</b>&#39;s fundamentals, with a link to see more.
+
+Title: PLKI - Popeyes Louisiana Stock Profile - Barchart.com
+Link: https://www.barchart.com/stocks/quotes/PLKI/profile
+Snippet: Description: <b>Popeyes</b> Louisiana Kitchen Inc. owns, operates and franchises a chain of quick-service restaurants. The company operates in two business segments: franchise operations and company-operated restaurants. It operates primarily in Texas, California, Louisiana, Florida, Illinois, Maryland, New York, Georgia, Virginia and Mississippi.
+
+Title: Popeyes Louisiana Kitchen Stock Price Today - Investing.com
+Link: https://www.investing.com/equities/afc-enterprises
+Snippet: View today&#39;s <b>Popeyes</b> Louisiana Kitchen Inc <b>stock</b> price and latest PLKI news and analysis. Create real-time notifications to follow any changes in the live <b>stock</b> price.
+
+Title: - PLKI - Stock Price Today - Zacks
+Link: https://www.zacks.com/stock/quote/PLKI
+Snippet: Get the latest %COMPANY_NAME% PLKI detailed <b>stock</b> quotes, <b>stock</b> data, Real-Time ECN, charts, stats and more. ... <b>Popeyes</b> Louisiana Kitchen, Inc. (PLKI) ... Visit <b>Performance</b> Disclosure for ...
+
+Title: PLKI - Popeyes Louisiana Stock Interactive Chart - Barchart.com
+Link: https://www.barchart.com/stocks/quotes/PLKI/interactive-chart
+Snippet: Interactive Chart. Interactive Charts provide the most advanced and flexible platform for analyzing historical data, with over 100 customizable studies, drawing tools, custom spreads and expressions, plus a wide range of visualization tools. While logged into the site, you will see continuous streaming updates to the chart.
+
+Title: Popeyes Louisiana (PLKI-Q) Stock Price and News
+Link: https://www.theglobeandmail.com/investing/markets/stocks/PLKI/
+Snippet: Real-time Price Updates for <b>Popeyes</b> Louisiana (PLKI-Q), along with buy or sell indicators, analysis, charts, historical <b>performance</b>, news and more
+
+Title: QSR Stock Price | Restaurant Brands International Inc. Stock Quote (U.S ...
+Link: https://www.marketwatch.com/investing/stock/qsr
+Snippet: Jack in the Box Inc. 1.67%. $973.32M. QSR | Complete Restaurant Brands International Inc. <b>stock</b> news by <b>MarketWatch</b>. View real-time <b>stock</b> prices and <b>stock</b> quotes for a full financial overview.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Restaurant Brands International Investor Relations announcements':
+Title: Investor Home - Restaurant Brands International
+Link: https://www.rbi.com/English/investors/investor-home/default.aspx
+Snippet: TM &amp; © 2020 <b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. All product names and trademarks referred to in this website are the property of their respective owners.
+
+Title: Events &amp; Presentations - Restaurant Brands International
+Link: https://www.rbi.com/English/investors/events-and-presentations/default.aspx
+Snippet: TM &amp; © 2020 <b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. All product names and trademarks referred to in this website are the property of their respective owners.
+
+Title: Restaurant Brands International Inc. Reports Full Year and Fourth ...
+Link: https://www.prnewswire.com/news-releases/restaurant-brands-international-inc-reports-full-year-and-fourth-quarter-2023-results-302060215.html
+Snippet: <b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. Feb 13, 2024, 06:30 ET. Home market franchisee profitability increases 30% year-over-year, on average. Global system-wide sales grow nearly 10% for the fourth ...
+
+Title: Restaurant Brands International Inc. Reports Full Year and Fourth ...
+Link: https://finance.yahoo.com/news/restaurant-brands-international-inc-reports-113000809.html
+Snippet: <b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. Logo (CNW Group/<b>Restaurant</b> <b>Brands</b> <b>International</b> Inc.) 2023 Highlights: System-wide Sales Growth of 12.2%. Net <b>Restaurant</b> Growth of 3.9%. Income from Operations ...
+
+Title: Restaurant Brands International Inc. Reports Full Year and ... - Nasdaq
+Link: https://www.nasdaq.com/press-release/restaurant-brands-international-inc.-reports-full-year-and-fourth-quarter-2023
+Snippet: -<b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. today reported financial results for the full year and fourth quarter ended December 31, 2023. System-wide Sales Growth of 12.2% Net <b>Restaurant</b> Growth of 3.9% ...
+
+Title: Restaurant Brands International Inc. Reports Full Year and Fourth ...
+Link: https://markets.businessinsider.com/news/stocks/restaurant-brands-international-inc-reports-full-year-and-fourth-quarter-2021-results-1031194952
+Snippet: The earnings call will be broadcast live via our <b>investor</b> <b>relations</b> website at https://<b>investor</b>.rbi.com and a replay will be available for 30 days following the release. The dial-in number is (877 ...
+
+Title: Restaurant Brands International Inc. Announces New Segment Reporting ...
+Link: https://www.prnewswire.com/news-releases/restaurant-brands-international-inc-announces-new-segment-reporting-and-key-dates-for-2024-302015506.html
+Snippet: RBI Announces a February 15, 2024 <b>Investor</b> Event and Provides a Preliminary 2024 Earnings Calendar. TORONTO, Dec. 14, 2023 /PRNewswire/ - <b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. (&quot;RBI&quot;, &quot;the company ...
+
+Title: Restaurant Brands International Inc. to Report Full Year and Fourth ...
+Link: https://www.prnewswire.com/news-releases/restaurant-brands-international-inc-to-report-full-year-and-fourth-quarter-2021-results-on-february-15-2022-301467135.html
+Snippet: TORONTO, Jan. 25, 2022 /PRNewswire/ - <b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. (TSX: QSR) (NYSE: QSR) (TSX: QSP) will release its full year and fourth quarter 2021 financial results on Tuesday ...
+
+Title: Restaurant Brands International Inc. Reports Full Year and Fourth ...
+Link: https://www.rbi.com/English/news/news-details/2023/Restaurant-Brands-International-Inc.-Reports-Full-Year-and-Fourth-Quarter-2022-Results/default.aspx
+Snippet: Global fourth quarter system-wide sales grow nearly 12% and over 13% for 2022 Consolidated comparable sales up nearly 8% in Q4, led by 11% growth at Tim Hortons Canada and Burger King <b>International</b> Digital sales grow over 30% year-over-year to over $13.5 billion in 2022, representing over a third of system-wide sales <b>Restaurant</b> growth accelerates to 1,266 net new units with Popeyes delivering ...
+
+Title: Burger King owner Restaurant Brands International buying franchisees
+Link: https://www.usatoday.com/story/money/food/2024/01/18/burger-king-owner-restaurant-brands-international-franchises/72273731007/
+Snippet: <b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. announced Tuesday that it would purchase the issued and outstanding shares of Burger King franchisee Carrols <b>Restaurant</b> Group Inc. for $9.55 per share at a ...
+
+Remi: Results for 'Restaurant Brands International Investor Relations announcements':
+Title: Investor Home - Restaurant Brands International
+Link: https://www.rbi.com/English/investors/investor-home/default.aspx
+Snippet: TM &amp; © 2020 <b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. All product names and trademarks referred to in this website are the property of their respective owners.
+
+Title: Events &amp; Presentations - Restaurant Brands International
+Link: https://www.rbi.com/English/investors/events-and-presentations/default.aspx
+Snippet: TM &amp; © 2020 <b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. All product names and trademarks referred to in this website are the property of their respective owners.
+
+Title: Restaurant Brands International Inc. Reports Full Year and Fourth ...
+Link: https://www.prnewswire.com/news-releases/restaurant-brands-international-inc-reports-full-year-and-fourth-quarter-2023-results-302060215.html
+Snippet: <b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. Feb 13, 2024, 06:30 ET. Home market franchisee profitability increases 30% year-over-year, on average. Global system-wide sales grow nearly 10% for the fourth ...
+
+Title: Restaurant Brands International Inc. Reports Full Year and Fourth ...
+Link: https://finance.yahoo.com/news/restaurant-brands-international-inc-reports-113000809.html
+Snippet: <b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. Logo (CNW Group/<b>Restaurant</b> <b>Brands</b> <b>International</b> Inc.) 2023 Highlights: System-wide Sales Growth of 12.2%. Net <b>Restaurant</b> Growth of 3.9%. Income from Operations ...
+
+Title: Restaurant Brands International Inc. Reports Full Year and ... - Nasdaq
+Link: https://www.nasdaq.com/press-release/restaurant-brands-international-inc.-reports-full-year-and-fourth-quarter-2023
+Snippet: -<b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. today reported financial results for the full year and fourth quarter ended December 31, 2023. System-wide Sales Growth of 12.2% Net <b>Restaurant</b> Growth of 3.9% ...
+
+Title: Restaurant Brands International Inc. Reports Full Year and Fourth ...
+Link: https://markets.businessinsider.com/news/stocks/restaurant-brands-international-inc-reports-full-year-and-fourth-quarter-2021-results-1031194952
+Snippet: The earnings call will be broadcast live via our <b>investor</b> <b>relations</b> website at https://<b>investor</b>.rbi.com and a replay will be available for 30 days following the release. The dial-in number is (877 ...
+
+Title: Restaurant Brands International Inc. Announces New Segment Reporting ...
+Link: https://www.prnewswire.com/news-releases/restaurant-brands-international-inc-announces-new-segment-reporting-and-key-dates-for-2024-302015506.html
+Snippet: RBI Announces a February 15, 2024 <b>Investor</b> Event and Provides a Preliminary 2024 Earnings Calendar. TORONTO, Dec. 14, 2023 /PRNewswire/ - <b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. (&quot;RBI&quot;, &quot;the company ...
+
+Title: Restaurant Brands International Inc. to Report Full Year and Fourth ...
+Link: https://www.prnewswire.com/news-releases/restaurant-brands-international-inc-to-report-full-year-and-fourth-quarter-2021-results-on-february-15-2022-301467135.html
+Snippet: TORONTO, Jan. 25, 2022 /PRNewswire/ - <b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. (TSX: QSR) (NYSE: QSR) (TSX: QSP) will release its full year and fourth quarter 2021 financial results on Tuesday ...
+
+Title: Restaurant Brands International Inc. Reports Full Year and Fourth ...
+Link: https://www.rbi.com/English/news/news-details/2023/Restaurant-Brands-International-Inc.-Reports-Full-Year-and-Fourth-Quarter-2022-Results/default.aspx
+Snippet: Global fourth quarter system-wide sales grow nearly 12% and over 13% for 2022 Consolidated comparable sales up nearly 8% in Q4, led by 11% growth at Tim Hortons Canada and Burger King <b>International</b> Digital sales grow over 30% year-over-year to over $13.5 billion in 2022, representing over a third of system-wide sales <b>Restaurant</b> growth accelerates to 1,266 net new units with Popeyes delivering ...
+
+Title: Burger King owner Restaurant Brands International buying franchisees
+Link: https://www.usatoday.com/story/money/food/2024/01/18/burger-king-owner-restaurant-brands-international-franchises/72273731007/
+Snippet: <b>Restaurant</b> <b>Brands</b> <b>International</b> Inc. announced Tuesday that it would purchase the issued and outstanding shares of Burger King franchisee Carrols <b>Restaurant</b> Group Inc. for $9.55 per share at a ...
+
+Error handling Remi's results: invalid syntax (<string>, line 1)

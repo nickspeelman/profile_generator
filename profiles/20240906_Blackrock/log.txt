@@ -1,0 +1,26 @@
+Susan: To gather comprehensive information on Blackrock, we should employ a systematic, multi-faceted research strategy that culminates with information on financial position, key decision makers, labor relations, recent scandals, and other potential soft spots. Here's a proposed action plan:
+
+1. **Company Overview**: Begin with understanding the company's business model. Visit Blackrock's official website and read through their 'About Us', 'Our Mission' and 'Investor Relations' sections. Look for their latest annual report to understand their financial health, business segments, and geographic reach. Websites like Yahoo Finance can also provide financial insights.
+
+2. **Key Decision Makers**: Identify Blackrock's senior leadership and board of directors. Use LinkedIn and company's website for this. Find out information about each individual's professional background, current/previously held positions, their network connections, controversies (if any), and affiliations to other organizations.
+
+3. **Labor Relations**: Check news articles and reports on reputed business publications to understand the company's stand on labor issues. Look up online forums, platforms like Glassdoor for employee reviews and sentiments. If possible, connect with current and former employees through LinkedIn or other platforms to gather firsthand information.
+
+4. **Recent Scandals and Possible Points of Leverage**: Search on renowned international newspapers online archives and business news websites like Bloomberg, Reuters for any information about recent controversies or scandals involving Blackrock. Cross verify any such reports across multiple sources. 
+
+5. **Regulatory Scrutiny, Legal Matters, and Activist Activity**: Research any recent legal matters that could have potential impacts on the company. Also look for any significant regulatory scrutiny or fines. Evaluate the company's exposure to climate and social activism and its response to these pressures.
+
+6. **Industry Trends**: Understanding the industry trends will give a broader perspective of the challenges and opportunities that the company is facing. Refer to market research firms' websites like IBISWorld, Euromonitor.
+
+Remember to keep track of all sources as they will be needed for citation in the research brief. Throughout the process, aim to distinguish between facts, informed analysis, and opinion to provide the most accurate and useful report.
+Manny: Here's a python list object named 'search_queries_for_remi' with five search queries that Remi should perform:
+
+```python
+search_queries_for_remi = [
+    "Blackrock financial annual report 2021 site:blackrock.com",
+    "Blackrock senior leadership team site:linkedin.com",
+    "Blackrock labor relations site:glassdoor.com",
+    "Blackrock recent scandals news site:reuters.com",
+    "Blackrock legal issues investigations site:bloomberg.com"
+]
+```

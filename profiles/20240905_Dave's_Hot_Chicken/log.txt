@@ -1,0 +1,57 @@
+Susan: Researching Dave's Hot Chicken can be done in a systematic multi-step process. Here’s an outline strategy:
+
+1. Website Analysis: Begin by going through Dave's Hot Chicken's official website. This should provide an understanding of the company, their values, locations, and possibly management team. Check any news or blog section for updates on activities, expansions, or other special events.
+
+2. News Articles: Conduct a broad internet search of the brand name to find news articles and press releases. Websites like Wall Street Journal, Forbes, or Bloomberg may have financial news about the company. Look out for articles that discuss labor relations or recently occurred scandals.
+
+3. Social Media Platforms: Review the company's social media pages, such as Facebook, LinkedIn, Twitter, and Instagram. These can provide real-time updates and reactions to company news or changes. Look out for patterns in comments or ratings that could signal larger issues. 
+
+4. Key Decision Makers: For the leadership team, LinkedIn would be a good starting point. Look up their profiles to understand their backgrounds, behaviors, connections, and any possible points of leverage. Also, look for news articles or posts related to these individuals. 
+
+5. Financial Reports: If Dave's Hot Chicken is a publicly-traded company, you should be able to find their financial reports online. These reports will provide insights into the company's financial health and stability. You could analyze stock performance in sites like Yahoo Finance or Google Finance.
+
+6. Industry and Market Analysis: Get a broader picture of the fast-food industry and market trends. Look for performance of related companies and any industry-wide issues related to labor relations or regulations.
+
+7. Legal Issues: A search can also reveal any lawsuits or legal issues in which Dave's Hot Chicken may be involved. A good source is the Public Access to Court Electronic Records (PACER) database, which covers U.S. Federal Court documents.
+
+8. Employee Reviews: Websites like Glassdoor and Indeed may provide insights into employee satisfaction, salary norms, and any recurring issues from the employees’ perspective.
+
+9. Forums and Blogs: Check industry forums or culinary blogs for any discussion related to Dave's Hot Chicken. This can provide a different perspective and potential pieces of valuable information.
+
+10. Customer Reviews: Review sites such as Yelp and Tripadvisor can provide customer feedback which can indicate potential operational issues.
+
+The information collected with this strategy should provide a comprehensive brief on Dave's Hot Chicken, their financial situation, key decision makers, and overall business performance.
+Manny: Here are some questions we could follow up with to refine this research strategy:
+
+1. What sort of patterns should we specifically be looking out for when examining social media, employee reviews, and customer reviews? 
+2. Could you provide more detail on the type of information we should aim at acquiring about key decision makers to assess points of leverage?
+3. What specific indicators in the financial reports signal a strong or weak financial health of the company?
+4. Could any more specific databases or resources be useful for researching labor relations or recent scandals?
+5. In case the company is not publicly-traded, what would be the alternative sources to get the financial health snapshot?
+   
+These targeted questions should help us sharpen our approach towards collecting pertinent details about Dave's Hot Chicken.
+Manny: Sure, here is a Python list named 'search_queries_for_remi' that contains specific search queries for research on Dave's Hot Chicken:
+
+```python
+search_queries_for_remi = [
+    "site:daveshotchicken.com", 
+    "Dave's Hot Chicken financial reports", 
+    "Dave's Hot Chicken news",
+    "Dave's Hot Chicken leadership team LinkedIn profiles",
+    "Dave's Hot Chicken stock performance",
+    "Fast food industry market trends",
+    "Dave's Hot Chicken legal issues",
+    "Dave's Hot Chicken employee reviews on Glassdoor",
+    "Dave's Hot Chicken discussions on food industry forums",
+    "Dave's Hot Chicken reviews on Yelp",
+    "Dave's Hot Chicken reviews on Tripadvisor",
+    "Dave's Hot Chicken Facebook page",
+    "Dave's Hot Chicken Twitter page",
+    "Dave's Hot Chicken Instagram page",
+    "Dave's Hot Chicken LinkedIn page",
+    "Dave's Hot Chicken labor relations",
+    "Dave's Hot Chicken recent scandals"
+]
+```
+
+Remi can add or subtract from this list based on her focus areas and findings along the way.

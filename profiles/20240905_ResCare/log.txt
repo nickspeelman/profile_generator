@@ -1,0 +1,1086 @@
+Susan: Sure, I'd suggest a five-pronged approach to gather information on 'ResCare':
+
+1. **Company Overview**: Visit ResCare's website for an overview of the company. This includes understanding its products or services, the geographic area where it operates, its mission and values, etc. You may also want to make note of the parent organization, BrightSpring Health Services. Review their official communications, press releases, annual and quarterly reports if available.
+
+2. **Key Decision Makers and Stakeholders**: Look for ResCare’s ‘Leadership’ or ‘Team’ section in the site to identify the key players. Search for these individuals on professional networking sites like LinkedIn to understand their background, previous roles, achievements, and more. Also, identify the major shareholders of the company who could influence business decisions.
+
+3. **Financial Overview**: Using financial news platforms and databases like Bloomberg, Reuters, Yahoo Finance, you can get insight into ResCare’s financial health, including sales revenue, profit margins, acquisitions, and more.
+
+4. **Labor Relations**: Visit labor law resources, union forums, employee review sites like Glassdoor to gain insights into labor relations at ResCare. See if the company has had any major labor disputes, strikes, cases related to workplace safety, discrimination, or other similar issues recently. You can also review the National Labor Relations Board's database for any allegations against the company.
+
+5. **Recent Scandals or Controversies**: Execute a thorough search of ResCare's history on news websites, including local newspapers and national outlets. Look for any evidence of recent scandals, controversies, lawsuits, or regulatory problems. Check the company's ratings and reviews on consumer forums and business review sites, for any patterns of concerns that might be useful for negotiations. 
+
+Remember to triangulate the information gathered from multiple sources for credibility and make sure you're working with the most accurate and up-to-date data available.
+Manny: Here are a few follow-up questions we should ask:
+
+1. **Methodology for Information Validation**: How do we ensure the information gathered is accurate, relevant, and current? Can you suggest a process for validation and verification?
+
+2. **Tools and Resources**: Besides the resources mentioned, are there any other specialized tools, databases, or subscriptions that might help us in our research?
+
+3. **Key Financial Indicators**: What specific financial indicators should we pay special attention to in the case of a company like ResCare? 
+
+4. **Labor Law Regulations**: What specific labor laws and regulations should we be mindful of while reviewing potential labor disputes or issues? 
+
+5. **Scandal Impact**: If we find any scandals, how can we gauge or measure their impact on the company's reputation or financials? 
+
+6. **Information Compilation and Presentation**: Do we have a specific format or template for presenting the information in a concise yet comprehensive way? 
+
+Susan, can you help provide detailed answers to these questions?
+Manny: Sure, here is a list of search queries formatted as a Python list object:
+
+```python
+search_queries_for_remi = [
+  "ResCare official website",
+  "ResCare company overview",
+  "ResCare mission and values",
+  "BrightSpring Health Services company overview",
+  "ResCare leadership team",
+  "LinkedIn profiles of ResCare key decision makers",
+  "ResCare major shareholders",
+  "ResCare financial overview on Bloomberg",
+  "ResCare financial overview on Reuters",
+  "ResCare financials on Yahoo Finance",
+  "ResCare sales revenue",
+  "ResCare Profit margins",
+  "ResCare mergers and acquisitions",
+  "ResCare labor relations",
+  "ResCare employee reviews on Glassdoor",
+  "ResCare labor disputes",
+  "ResCare workplace safety",
+  "ResCare discrimination cases",
+  "ResCare allegations on National Labor Relations Board",
+  "ResCare in news",
+  "ResCare scandals",
+  "ResCare lawsuits",
+  "ResCare regulatory issues",
+  "ResCare ratings and reviews on consumer forums",
+  "ResCare reviews on business review sites"
+]
+```
+
+These search queries should provide a good base of information for starting the research. Remi should modify or add to these queries as needed based on her findings.
+Remi: Results for query 'ResCare official website':
+Title: Home | ResCare is now BrightSpring - Rescare
+Link: https://www.rescare.com/
+Snippet: ResCare® is now BrightSpring® Health Services. BrightSpring Health Services is a leading provider of comprehensive home and community-based health services that serves complex populations in need of specialized care. Our passion is Helping People Live Their Best Life.®.
+
+Title: ResCare Community Living
+Link: https://rescarecommunityliving.com/
+Snippet: Helping people with intellectual and developmental disabilities live their best lives. For more than 40 years, ResCare Community Living has provided trusted community living services that help individuals with intellectual and developmental disabilities enjoy greater quality of life in their own home or in home-like environments. We provide ...
+
+Title: ResCare Community Living Careers
+Link: https://rescarecommunityliving.com/careers/
+Snippet: If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact the BrightSpring Disabilities Support Team at 1-833-773-7240 or contact us for assistance. Equal Opportunity Employment Posters. ResCare Community Living Careers helps you transform lives ...
+
+Title: All Locations - ResCare Community Living
+Link: https://rescarecommunityliving.com/locations/
+Snippet: ResCare Community Living – Phoenix, Arizona. 21410 N 19th Avenue Suite 118. Phoenix, Arizona 85027 (623) 434-8579. Counties / Areas Served. Gila, Maricopa, Mohave ...
+
+Title: <b>ResCare</b> Community Living – Sacramento, California
+Link: https://rescarecommunityliving.com/location/rescare-community-living-sacramento-california/
+Snippet: <b>ResCare</b>, Inc. 4980 Watt Avenue. Suite B, C, D. North Highlands, California 95660. (916) 928-0220. View on Google Maps &gt;. <b>ResCare</b> Community Living of Sacramento, California offers the resources and the experience to provide quality, compassionate care.
+
+Title: About Us - BrightSpring Health Services
+Link: https://www.brightspringhealth.com/about-us/
+Snippet: BrightSpring Health Services is the leading provider of complementary home- and community-based health services for complex populations in need of specialized and/or chronic care. We focus on providing quality outcomes, through best-in-class service and technology capabilities. We provide services that high-need patients and clients require ...
+
+Title: ResCare - LinkedIn
+Link: https://www.linkedin.com/company/rescare
+Snippet: ResCare | 23,863 followers on LinkedIn. ResCare is now BrightSpring Health Services and ResCare Residential Services is now ResCare Community Living. For the latest news and updates, follow us by ...
+
+Title: <b>ResCare</b> HomeCare is becoming - <b>BrightSpring Health Services</b>
+Link: https://www.brightspringhealth.com/media-hub/rescare-homecare-is-becoming-all-ways-caring/
+Snippet: Media Hub / January 15, 2019. <b>ResCare</b> HomeCare, one of the industry’s largest providers of home care services, has announced that the organization will now do business as All Ways Caring HomeCare as a pilot in select markets. As planning continues, all home care locations in 25 markets will eventually become All Ways Caring HomeCare.
+
+Title: Helping people live their best life. - Rescare
+Link: https://www.rescare.com/wp-content/uploads/2017/06/About-ResCare.pdf
+Snippet: em maintain a healthy and safe life. Rest Assured features customiz. d care planning and 24/7 monitoring. Real-time interactions with people served help avoid adverse events, improve health. utcomes and lower health care costs.Our 45,000 Employees Serve Nearly 60,000 People Daily. n 42 States, Canada and Puerto Rico. For more.
+
+Title: Home Health Care Services - All Ways Caring HomeCare
+Link: https://www.allwayscaring.com/
+Snippet: A partner who has the heart of a caregiver, and the expertise of a healthcare leader. We can help. That’s what All Ways Caring is all about. Care always feels more comfortable at home. That is why our home care is always designed around an individual’s needs in their own living space. From short-term and transitional to life-long complex ...
+
+Remi: Results for query 'ResCare company overview':
+Title: ResCare | Company Overview &amp; News - Forbes
+Link: https://www.forbes.com/companies/rescare/
+Snippet: <b>PROFILE</b>. ResCare. Louisville, Kentucky. ResCare <b>Company</b> Stats. As of August 2021. Industry Healthcare &amp; Social Founded 1974 Headquarters Louisville, Kentucky Country/Territory United States
+
+Title: Helping people live their best life. - Rescare
+Link: https://www.rescare.com/wp-content/uploads/2017/06/About-ResCare.pdf
+Snippet: em maintain a healthy and safe life. Rest Assured features customiz. d care planning and 24/7 monitoring. Real-time interactions with people served help avoid adverse events, improve health. utcomes and lower health care costs.Our 45,000 Employees Serve Nearly 60,000 People Daily. n 42 States, Canada and Puerto Rico. For more.
+
+Title: RES-Care, Inc. Company Profile | Louisville, KY | Competitors ...
+Link: https://www.dnb.com/business-directory/company-profiles.res-care_inc.e59510c4c22b2fbc9301ddc66434c167.html
+Snippet: <b>Company</b> Description: BrightSpring Health Services (formerly known ResCare) is the leading provider of complementary home- and community-based health services for complex populations in need of specialized care. It offers comprehensive care services, specialized care and expanding clinical services in all 50 states to over 400,000 patients daily.
+
+Title: Home | ResCare is now BrightSpring - Rescare
+Link: https://www.rescare.com/
+Snippet: ResCare® is now BrightSpring® Health Services. BrightSpring Health Services is a leading provider of comprehensive home and community-based health services that serves complex populations in need of specialized care. Our passion is Helping People Live Their Best Life.®.
+
+Title: Res-Care Inc - Company Profile and News - Bloomberg Markets
+Link: https://www.bloomberg.com/profile/company/RSCR:US
+Snippet: <b>Company</b> <b>profile</b> page for Res-Care <b>Inc</b> including stock price, <b>company</b> news, executives, board members, and contact information
+
+Title: RES-CARE, INC. Company Profile - Dun &amp; Bradstreet
+Link: https://www.dnb.com/business-directory/company-profiles.res-care_inc.b0d62440f4cb38ba093c65c4aa320cff.html
+Snippet: Find <b>company</b> research, competitor information, contact details &amp; financial data for RES-CARE, <b>INC</b>. of Louisville, KY. Get the latest <b>business</b> insights from Dun &amp; Bradstreet. RES-CARE, <b>INC</b>. D&amp;B <b>Business</b> Directory HOME / <b>BUSINESS</b> ... <b>Overview</b> Doing <b>Business</b> As: RESCARE. <b>Company</b> Description: ...
+
+Title: ResCare Company Overview, Contact Details &amp; Competitors | LeadIQ
+Link: https://leadiq.com/c/rescare/5a1d89b82400002400630e78
+Snippet: Learn more about ResCare&#39;s <b>company</b> details, contact information, competitors, and more. Find accurate contact data easily with LeadIQ. Book a demo today. ... <b>Company</b> <b>Overview</b>. Headquarters 805 N Whittington Pkwy Louisville, Kentucky 40222 US. Phone number +1-502-394-2100. Website rescare.com. NAICS Code
+
+Title: Company Res-Care, Inc. - MarketScreener.com
+Link: https://www.marketscreener.com/quote/stock/RES-CARE-INC-10711/company/
+Snippet: Res-Care, <b>Inc</b>.: <b>Company</b> <b>profile</b>, <b>business</b> summary, shareholders, managers, financial ratings, industry, sector and market information | Nasdaq: | Nasdaq. ... Res-Care, <b>Inc</b>. is a United States-based human service <b>company</b> that provides residential, therapeutic, job training and educational support. The <b>Company</b>&#39;s five segments include Residential ...
+
+Title: Rescare - Overview, News &amp; Similar companies | ZoomInfo.com
+Link: https://www.zoominfo.com/c/rescare-inc/482551708
+Snippet: <b>Overview</b> ; Who is Rescare. We are committed to providing innovative and safe methods that can improve the health and well-being of our customers. ... Popular Searches Rescare <b>Inc</b> Rescareus SIC Code 50,504 NAICS Code 42,423 Show more. View Email Formats for Rescare. Rescare Tech Stack. A closer look at the technologies used by Rescare. PHP. By. PHP.
+
+Title: ResCare Culture | Comparably
+Link: https://www.comparably.com/companies/rescare
+Snippet: ResCare <b>Company Overview</b>. Res-Care provides residential, therapeutic, job training, and educational support services for people of all ages and skill levels. ResCare was founded in 1974 and its current CEO is Jon Rousseau. Since its inception 50 years ago, ResCare has grown to 10000 employees.
+
+Remi: Results for query 'ResCare mission and values':
+Title: Code of Conduct - Rescare
+Link: https://www.rescare.com/wp-content/uploads/2018/05/Code_of_Conduct_2018.pdf
+Snippet: us and all of our colleagues at ResCare in supporting the <b>values</b> and principles which are critical to achieving our <b>mission</b>. Dear Fellow ResCare Employee: ResCare is committed to providing the highest quality supports to all persons. It is our responsibility to ensure an ethical and compassionate approach to service delivery and management.
+
+Title: Helping people live their best life. - Rescare
+Link: https://www.rescare.com/wp-content/uploads/2017/06/About-ResCare.pdf
+Snippet: Helping people live their best life.ResCare, Inc., founded and headquartered in Louisville, Kentucky, is dedicated to impacting communities for the better with a <b>mission</b>. to help people live their best life. As the largest diversified health and human services provider in the U.S., ResCare is the largest private provider of services to people ...
+
+Title: Mission and values at ResCare Community Living | Indeed.com
+Link: https://www.indeed.com/cmp/Rescare-Community-Living/topics/company-mission-and-values
+Snippet: A company’s vision and <b>mission</b> statements define what the company does and what their future goals are. You can use a company’s vision and <b>mission</b> statements while looking for a job to determine whether the company is a good fit for you and your personal goals and <b>values</b>. In this article, you will learn what a vision and <b>mission</b> statement ...
+
+Title: ResCare Northeast Region Mission Statement assisting people to reach ...
+Link: https://www.floridaarf.org/assets/Files/ICF-IID%20Info%20Center/Find%20Programs/Northeast%20Region/ResCare%20-%20Northeast%20Region%202-18.pdf
+Snippet: ResCare – Northeast Region <b>Mission</b> Statement ResCare is Respect and Care—assisting people to reach their highest level of independence. We are dedicated and caring people who form a company providing excellent human services that enhance the lives of individuals. With efficiency and effectiveness, we strive to provide the highest
+
+Title: ResCare Community Living Mission, Benefits, and Work Culture - Indeed
+Link: https://www.indeed.com/cmp/Rescare-Community-Living/about
+Snippet: LinkedIn ResCare Community Living website. Come see what’s going on inside ResCare Community Living, including the company culture, employee work-life benefits, and business goals. Discover all the key insights that make people want to work here. Read about the office locations, company history, leadership teams, and employee perks.
+
+Title: ResCare Hits Refresh: Major Tech, Workforce Investments Support New ...
+Link: https://homehealthcarenews.com/2018/03/rescare-hits-refresh-major-tech-workforce-investments-support-new-strategy/
+Snippet: ResCare is already a diversified company, serving about 60,000 people daily across 42 states, with annual revenue of around $2 billion, largely through Medicaid. ... used to express the company’s norms and <b>values</b>. So far, ResCare’s new leaders have found a strong legacy to build on, while the company’s existing workforce has been ...
+
+Title: At <b>ResCare</b> we are <b>People Helping People</b>
+Link: https://rescarecommunityliving.com/why-rescare/people-helping-people/
+Snippet: At <b>ResCare</b>, we believe individuals of all abilities deserve to live their best life through support provided in their own communities. MENU CLOSE. ... Our <b>mission</b> is to provide the right care – at the right time – in the safest environment possible. We promote an organizational culture focused on safety, trust, respect and professionalism. ...
+
+Title: Mission, Vision, and Values – Office of Undergraduate Research
+Link: https://www.washington.edu/undergradresearch/undergraduate-research-program/mission-vision-and-values/
+Snippet: <b>Mission</b>. The Office of Undergraduate Research promotes undergraduate engagement in research and creative work at the University of Washington. We aim to make undergraduate research opportunities accessible to undergraduate students from any background or discipline.
+
+Title: Objectives &amp; Values - Rescare
+Link: https://www.rescare.org.uk/objectives-values/
+Snippet: Our <b>Values</b>. We advocate the meeting of needs and the promoting of choice. We seek choice in education, housing and care provision, not ‘one size fits all’ solutions. We support for the rights of parents and family carers to be consulted and listened to. We believe that professionals and families in partnership can achieve the best outcome ...
+
+Title: <b>ResCare</b> Suncoast Region <b>Mission</b> Statement assisting people to reach ...
+Link: https://www.floridaarf.org/assets/Files/ICF-IID%20Info%20Center/Find%20Programs/Suncoast%20Region/ResCare%20-%20Suncoast%20Region%202-18.pdf
+Snippet: <b>ResCare</b> is a human services company that offers services to people of all ages and abilities to help make their lives more independent. The company serves more than a million people each year with its nearly 50,000 employees at thousands of locations. <b>ResCare</b> has nearly 30 years of experience in the disability services field.
+
+Remi: Results for query 'BrightSpring Health Services company overview':
+Title: About Us - BrightSpring Health Services
+Link: https://www.brightspringhealth.com/about-us/
+Snippet: BrightSpring <b>Health Services</b> is the leading provider of complementary home- and community-based <b>health</b> <b>services</b> for complex populations in need of specialized and/or chronic care. We focus on providing quality outcomes, through best-in-class service and technology capabilities. We provide <b>services</b> that high-need patients and clients require ...
+
+Title: BrightSpring Health Services, Inc. (BTSG) Company Profile &amp; Overview ...
+Link: https://stockanalysis.com/stocks/btsg/company/
+Snippet: <b>Company</b> <b>profile</b> for BrightSpring <b>Health Services,</b> Inc.<b> (BTSG</b>) with a description, list of executives, contact details and other key facts.
+
+Title: BrightSpring Health Services - BrightSpring Health Services
+Link: https://www.brightspringhealth.com/
+Snippet: BrightSpring <b>Health</b> <b>Services</b> is a leading provider of comprehensive home and community-based <b>health</b> <b>services</b> to complex populations.
+
+Title: BrightSpring Health Services Inc BTSG Overview - U.S. News
+Link: https://money.usnews.com/investing/stocks/btsg-brightspring-health-services-inc
+Snippet: BrightSpring <b>Health</b> <b>Services</b>, Inc. engages in the provision of a platform of complementary <b>health</b> <b>services</b> delivering and pharmacy solutions for complex populations in home and community settings.
+
+Title: BrightSpring Health Services - Company Profile - GlobalData
+Link: https://www.globaldata.com/company-profile/brightspring-health-services/
+Snippet: BrightSpring <b>Health</b> <b>Services</b> (BrightSpring), formerly ResCare Inc, provides complementary home- and community-based <b>health</b> <b>services</b>. It provides these <b>services</b> to people with disabilities. The <b>company</b>&#39;s major <b>services</b> include daily personal care assistance, closed-door pharmacy related <b>services</b>, homemaking <b>services</b>, care management, neuro ...
+
+Title: BrightSpring Health Services Inc - Company Profile and News
+Link: https://www.bloomberg.com/profile/company/BTSG:US
+Snippet: <b>Company</b> <b>profile</b> page for BrightSpring <b>Health</b> <b>Services</b> Inc including stock price, <b>company</b> news, executives, board members, and contact information
+
+Title: Investor Relations | BrightSpring Health Services
+Link: https://ir.brightspringhealth.com/
+Snippet: The Investor Relations website contains information about BrightSpring <b>Health</b> <b>Services</b>&#39;s business for stockholders, potential investors, and financial analysts.
+
+Title: BrightSpring Health Services - Crunchbase Company Profile &amp; Funding
+Link: https://www.crunchbase.com/organization/brightspring-health-services
+Snippet: BrightSpring <b>Health</b> <b>Services</b> is the parent <b>company</b> of a family of brands and <b>services</b> that provides clinical, nonclinical and pharmacy and other ancillary care <b>services</b> for people of all ages, <b>health</b> and skill levels across home and community settings.
+
+Title: BrightSpring Health Services, Inc. (BTSG) - Yahoo Finance
+Link: https://finance.yahoo.com/quote/BTSG/profile/
+Snippet: See the <b>company</b> <b>profile</b> for BrightSpring <b>Health</b> <b>Services</b>, Inc. (BTSG) including business summary, industry/sector information, number of employees, business summary, corporate governance, key ...
+
+Title: BTSG | BrightSpring Health Services Inc. Stock Overview (U.S.: Nasdaq ...
+Link: https://www.barrons.com/market-data/stocks/btsg
+Snippet: Complete BrightSpring <b>Health</b> <b>Services</b> Inc. stock information by Barron&#39;s. View real-time BTSG stock price and news, along with industry-best analysis.
+
+Remi: Results for query 'ResCare leadership team':
+Title: Leadership - BrightSpring Health Services
+Link: https://www.brightspringhealth.com/about-us/leadership/
+Snippet: Jon Rousseau, President and Chief Executive Officer. Jon Rousseau has served as our President and Chief Executive Officer and as a member of our board of directors since September 2016. Prior to joining the Company, Mr. Rousseau was an executive vice president at Kindred Healthcare, Inc. with multiple <b>leadership</b> roles from June 2013 – July ...
+
+Title: Our People - BrightSpring Health Services
+Link: https://www.brightspringhealth.com/about-us/our-people/
+Snippet: BrightSpring is a <b>leader</b> in providing comprehensive services that allow people to live their best life. We have adopted cutting-edge technology and instituted processes that continue to provide solutions for the well-being of our clients and patients. ... ResCare Community Living has increased Direct Service Provider wages by 24.8% from January ...
+
+Title: Executive Director - BrightSpring Health Services - LinkedIn
+Link: https://www.linkedin.com/in/ryanmichaelphipps
+Snippet: Executive Director at ResCare · Drive Consistent Results by Developing Staff, Strengthening Culture, and Establishing Unique, Effective Processes&lt;br&gt;&lt;br&gt;Passionate, trustworthy servant <b>leader</b> ...
+
+Title: ResCare Executive Team - Comparably
+Link: https://www.comparably.com/companies/rescare/executive-team
+Snippet: ResCare employees rate their Executive <b>Team</b> in the Bottom 5% of similar size companies on Comparably with 10,000+ Employees. Employees who have been at the company 5 to 10 Years and the Marketing department are more confident in their Executive <b>Team</b>, while employees who have been at the company 2 to 5 Years and African American/Black employees ...
+
+Title: ResCare Management Team | Org Chart - RocketReach
+Link: https://rocketreach.co/rescare-management_b5c49e9cf42e0dc4
+Snippet: <b>Management</b>. Sales Department. Marketing Department. Finance Department. HR Department. IT Department. ResCare employs 7,427 employees. The ResCare <b>management</b> <b>team</b> includes Ralph Gronefeld (CEO), Cec Camp (Chief Executive Officer), and Wendy Robinson (Vice President Technology Services). Get Contact Info for All Departments.
+
+Title: Changemakers: Jon Rousseau, President and CEO, BrightSpring Health ...
+Link: https://homehealthcarenews.com/2020/06/changemakers-jon-rousseau-president-and-ceo-brightspring-health-services/
+Snippet: By Robert Holly | June 16, 2020. Since joining BrightSpring Health Services in the fourth quarter of 2016, CEO and President Jon Rousseau has helped lead a massive transformation of the Louisville, Kentucky-based home- and community-based health services provider. In August 2018, for example, Rousseau implemented a brand-revitalization ...
+
+Title: Bob Barnes - President, Residential Services at BrightSpring Health ...
+Link: https://theorg.com/org/brightspring-health-services/org-chart/bob-barnes
+Snippet: Contact. Bob Barnes is president of ResCare Community Living, a line of business in BrightSpring Health Services family of brands. He has over 20 years of experience in the health services field and has been with BrightSpring Health Services and ResCare Community Living since July 2018. In his current role, Barnes focuses on core operational ...
+
+Title: ResCare CEO &amp; Leadership Team Ratings - Comparably
+Link: https://www.comparably.com/companies/rescare/leadership
+Snippet: ResCare CEO &amp; <b>Leadership Team</b> Ratings. Jon Rousseau and the ResCare <b>leadership team</b> are scored a D- by 266 employees placing it in the Bottom 10% of companies sized 10,000+ Employees on Comparably. The <b>Leadership</b> score includes details about how employees evaluate their executive <b>team</b>, CEO and manager.
+
+Title: ResCare Culture - Comparably
+Link: https://www.comparably.com/companies/rescare
+Snippet: ResCare <b>Leadership</b>. The ResCare Executive <b>Team</b> is rated a “F” and led by CEO Jon Rousseau, Chief Revenue Officer Laurie Babin, and Director of Operations, General Manager Michael Vu. Jon Rousseau CEO / President. Jon Rousseau serves as the CEO / President of ResCare.
+
+Title: Daniel Fields - Executive Director - ResCare - LinkedIn
+Link: https://www.linkedin.com/in/daniel-fields-b00a65b4
+Snippet: Indianapolis, Indiana. • Coordinate transportation operations overseeing all aspects of the domestic supply chain. Schedule work activities while providing direction and <b>leadership</b> to drivers ...
+
+Remi: Results for query 'LinkedIn profiles of ResCare key decision makers':
+Title: Daniel Fields - Executive Director - ResCare | LinkedIn
+Link: https://www.linkedin.com/in/daniel-fields-b00a65b4
+Snippet: Indianapolis, Indiana. • Coordinate transportation operations overseeing all aspects of the domestic supply chain. Schedule work activities while providing direction and leadership to drivers ...
+
+Title: Kevin Boisseau - Executive Director - ResCare | LinkedIn
+Link: https://www.linkedin.com/in/kevin-boisseau-929008aa
+Snippet: · Experience: <b>ResCare</b> · Location: Missouri City · 94 connections on <b>LinkedIn</b>. View Kevin Boisseau’s <b>profile</b> on <b>LinkedIn</b>, a professional community of 1 billion members.
+
+Title: Executive Director - BrightSpring Health Services - LinkedIn
+Link: https://www.linkedin.com/in/tammy-cobb-a3b13225b
+Snippet: Executive Director at BrightSprings Health Services- <b>Rescare</b> · Dedicated executive director with over 20 years of experience in non-profit, profit, fundraising and marketing strategies. Proven ...
+
+Title: How To Find-Decision Makers In A Company: 9 Tools for 2024 - Evaboot
+Link: https://evaboot.com/blog/how-to-find-decision-makers-in-a-company
+Snippet: 1. Go to <b>LinkedIn</b> and sign into your account. 2. Put the business name into the search bar at the top and launch your search. 3. Go to the “People” tab within the search results to see the list of employees linked to the company. 4. Refine the filters-zone in on location, department, and status.
+
+Title: Vindali Vartak, BDS, MBA, MHA, FACHE - President - LinkedIn
+Link: https://www.linkedin.com/in/vindalivartak
+Snippet: Vindali Vartak, BDS, MBA, MHA, FACHE Driving Digital Health &amp; AI Strategy Improving Care Experience and Outcomes Value Based Care &amp; Population Health Catalyzing Innovation Building Equitable ...
+
+Title: Jaclyn Mucaria MPA, FACHE - Advisor and Executive Consultant - LinkedIn
+Link: https://www.linkedin.com/in/jaclynmucaria
+Snippet: View Jaclyn Mucaria MPA, FACHE’s <b>profile</b> on <b>LinkedIn</b>, a professional community of 1 billion members. Senior Healthcare Executive in Hospitals and Non-Profits, C-Suite Leader and Consultant ...
+
+Title: Kristal Mckenzie-Peterson - Director of Services - Rescare ... - LinkedIn
+Link: https://www.linkedin.com/in/kristal-mckenzie-peterson-a6152073
+Snippet: Director of Services · Experience: <b>Rescare</b>- Spring Path Mental Health Division · Education: Saint Cloud State University · Location: Minneapolis · 136 connections on <b>LinkedIn</b>. View Kristal ...
+
+Title: ResCare - LinkedIn
+Link: https://www.linkedin.com/company/rescare
+Snippet: <b>ResCare</b> | 23,863 followers on <b>LinkedIn</b>. <b>ResCare</b> is now BrightSpring Health Services and <b>ResCare</b> Residential Services is now <b>ResCare</b> Community Living. For the latest news and updates, follow us by ...
+
+Title: The Complete Guide to Identifying and Reaching Key Decision Makers
+Link: https://blog.mystrika.com/decision-maker/
+Snippet: The <b>key</b> qualities of an effective <b>decision</b> <b>maker</b> include: Extensive knowledge of the company, industry, competitors, and market trends. Able to thoroughly analyze data, forecasts, and projections. Strong strategic thinking skills to weigh pros and cons. Decisiveness to make tough calls and stand behind choices.
+
+Title: How to Find Decision Makers on LinkedIn - Octopus CRM
+Link: https://octopuscrm.io/blog/find-decision-makers-on-linkedin/
+Snippet: The best part is that you can refine your search by location, function, seniority, and title to pinpoint <b>key</b> <b>decision</b>-<b>makers</b>. A glance at their <b>LinkedIn</b> <b>profiles</b> can unveil mutual connections, to send refined connection requests or expertly crafted <b>LinkedIn</b> messages. Now, armed with tailored messaging, you’re ready to kickstart your outreach.
+
+Remi: Results for query 'ResCare major shareholders':
+Title: Res-Care, Inc.: Shareholders Board Members Managers and Company Profile ...
+Link: https://www.marketscreener.com/quote/stock/RES-CARE-INC-10711/company/
+Snippet: Business description: Res-Care, Inc. Res-Care, Inc. is a United States-based human service company that provides residential, therapeutic, job training and educational support. The Company&#39;s five segments include Residential Services, <b>ResCare</b> HomeCare, Education and Training Services, Workforce Services and Pharmacy Services. The Company&#39;s Residential Services include Disability Services ...
+
+Title: Res-Care, Inc.: Shareholders Board Members Managers and Company Profile ...
+Link: https://in.marketscreener.com/quote/stock/RES-CARE-INC-10711/company/
+Snippet: Res-Care, Inc.: Company profile, business summary, <b>shareholders</b>, managers, financial ratings, industry, sector and market information | Nasdaq: | Nasdaq
+
+Title: Res-Care Inc - Company Profile and News - Bloomberg Markets
+Link: https://www.bloomberg.com/profile/company/RSCR:US
+Snippet: Company profile page for Res-Care Inc including stock price, company news, executives, board members, and contact information
+
+Title: Major shareholders of Atoss Software place shares
+Link: https://www.marketscreener.com/quote/stock/ATOSS-SOFTWARE-SE-435665/news/Major-shareholders-of-Atoss-Software-place-shares-47813747/
+Snippet: <b>Major</b> <b>shareholders</b> of Atoss Software place shares September 05, 2024 at 12:38 pm EDT Share MUNICH (dpa-AFX) - The two largest <b>shareholders</b> of Atoss Software intend to sell shares in the company to institutional investors via a private placement. The plan is to sell shares with a volume of around 130 million euros, as Atoss announced in Munich ...
+
+Title: Major shareholders | Kalmarglobal
+Link: https://www.kalmarglobal.com/investors/shareholders/major-shareholders/
+Snippet: <b>Shareholders</b> should notify the bank in which they have a book-entry securities account of any change of address. Of Kalmar’s <b>major</b> <b>shareholders</b>, Wipunen varainhallinta oy is a company controlled by Ilkka Herlin, Mariatorp Oy a company controlled by Heikki Herlin and Pivosto Oy a company controlled by Ilona Herlin.
+
+Title: Res-care : New ResCare Chief Executive Officer to Open NASDAQ Trading ...
+Link: https://www.marketscreener.com/quote/stock/RES-CARE-INC-10711/news/Res-care-New-ResCare-Chief-Executive-Officer-to-Open-NASDAQ-Trading-August-2-222185/
+Snippet: By. <b>ResCare</b>, Inc. (NASDAQ:RSCR), the nation&#39;s leading provider of residential, training, educational and support services for people with disabilities and special needs, announced today that Ralph G. Gronefeld Jr., <b>ResCare</b> president and chief executive officer, will officially open trading on The NASDAQ Stock Market on August 2.
+
+Title: Res-Care (RSCR): Company Profile, Stock Price, News, Rankings - Fortune
+Link: https://fortune.com/company/res-care/
+Snippet: Res-Care RSCR RSCR This symbol is only available on TradingView Company Information Updated: Country: Headquarters: Industry: Health Care: Pharmacy and Other Services CEO: Ralph G. Gronefeld Jr ...
+
+Title: Major shareholder announcement | Invezz
+Link: https://invezz.com/news/2024/09/04/major-shareholder-announcement/
+Snippet: Company announcement No. 566, 2024 COPENHAGEN, Denmark, Sept. 2, 2024 /PRNewswire/ — In accordance with Section 30 of the Capital Markets Act, it is hereby announced that Invesco Ltd., UK, on 30 ...
+
+Title: Uranium mine shareholders try to delay Rio Tinto capital raise
+Link: https://www.afr.com/companies/mining/uranium-mine-shareholders-try-to-delay-rio-tinto-capital-raise-20240905-p5k85q
+Snippet: The Takeovers Panel confirmed two of the uranium miner’s <b>shareholders</b> are trying to delay an $880 million capital raise backed by <b>major</b> <b>shareholder</b>, Rio Tinto.
+
+Title: UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington ... - Rescare
+Link: https://www.rescare.com/wp-content/uploads/2014/03/ResCare-10-K-Report.pdf
+Snippet: The programs in <b>ResCare</b>’s Residential Services segment are based predominantly on individual support plans designed to encourage greater independence and the development or maintenance of daily living skills. These goals are achieved through tailored application of <b>ResCare</b>’s different services including social, functional and vocational
+
+Remi: Results for query 'ResCare financial overview on Bloomberg':
+Title: Res-Care Inc - Company Profile and News - Bloomberg Markets
+Link: https://www.bloomberg.com/profile/company/RSCR:US
+Snippet: Company profile page for Res-Care Inc including stock price, company news, executives, board members, and contact information
+
+Title: RES-Care, Inc. Company Profile | Louisville, KY | Competitors ...
+Link: https://www.dnb.com/business-directory/company-profiles.res-care_inc.e59510c4c22b2fbc9301ddc66434c167.html
+Snippet: Find company research, competitor information, contact details &amp; <b>financial</b> data for RES-Care, Inc. of Louisville, KY. Get the latest business insights from Dun &amp; Bradstreet.
+
+Title: RES-Care, Inc. Company Profile | Louisville, KY | Competitors ...
+Link: https://www.dnb.com/business-directory/company-profiles.res-care_inc.792ec43c83ecf88cc9bc573193a68d30.html
+Snippet: Company Description: BrightSpring Health Services (formerly known <b>ResCare</b>) as is the leading provider of complementary home- and community-based health services for complex populations in need of specialized and/or chronic care. BrightSpring offers comprehensive care services, specialized care and expanding clinical services in all 50 states to over 330,000 patients daily.
+
+Title: RES-Care, Inc. Company Profile | Flemington, NJ | Competitors ...
+Link: https://www.dnb.com/business-directory/company-profiles.res-care_inc.8aab8e915daed645d9d9034ab7cbd546.html
+Snippet: Find company research, competitor information, contact details &amp; <b>financial</b> data for RES-Care, Inc. of Flemington, NJ. Get the latest business insights from Dun &amp; Bradstreet. D&amp;B Business Directory HOME / BUSINESS DIRECTORY / HEALTH ... <b>Overview</b>. Doing Business As: <b>RESCARE</b> HOMECARE NEW JERSEY.
+
+Title: Res-Care, Inc. Stock () - Quote Nasdaq- MarketScreener
+Link: https://www.marketscreener.com/quote/stock/RES-CARE-INC-10711/
+Snippet: Res-Care, Inc. (ZB_10711.NASDAQ): Stock quote, stock chart, quotes, analysis, advice, financials and news for Stock Res-Care, Inc. | Nasdaq: | Nasdaq
+
+Title: Res-Care (RSCR): Company Profile, Stock Price, News, Rankings - Fortune
+Link: https://fortune.com/company/res-care/
+Snippet: Res-Care RSCR RSCR This symbol is only available on TradingView Company Information Updated: Country: Headquarters: Industry: Health Care: Pharmacy and Other Services CEO: Ralph G. Gronefeld Jr.
+
+Title: ResCare, Inc. - Strategy, SWOT and Corporate Finance Report
+Link: https://pdf.marketpublishers.com/marketline/rescare-inc-strategy-n-swot-report_marketline.pdf
+Snippet: List Of Figures LIST OF FIGURES Figure 1: <b>ResCare</b>, Inc.: Deal Activity by Deal Type - Volume (2014 - YTD2018) Figure 2: <b>ResCare</b>, Inc.: M&amp;A Volume and Value Trend (2014 - YTD2018)
+
+Title: ResCare earnings increase 35.1%, revenue rises - MarketWatch
+Link: https://www.marketwatch.com/story/rescare-earnings-increase-351-revenue-rises
+Snippet: SAN FRANCISCO (MarketWatch) -- <b>ResCare</b> Inc. after the closing bell on Wednesday reported third-quarter net earnings of $7.63 million, or 24 cents a share,...
+
+Title: ResCare | Company Overview &amp; News - Forbes
+Link: https://www.forbes.com/companies/rescare/
+Snippet: Apr 16, 2012. Borrowers head to pro rata market to take out institutional debt. Institutional repayments have taken off this year on increased appetite for paper among banks and cheap interest ...
+
+Title: Rescare Inc Advocacy Fund PAC - Company Profile and News - Bloomberg ...
+Link: https://www.bloomberg.com/profile/company/0578244D:US
+Snippet: Company profile page for <b>Rescare</b> Inc Advocacy Fund PAC including stock price, company news, executives, board members, and contact information
+
+Remi: Results for query 'ResCare financial overview on Reuters':
+Title: Onex explores $1 billion sale of its ResCare holding: sources
+Link: https://www.reuters.com/article/business/onex-explores-1-billion-sale-of-its-rescare-holding-sources-idUSKBN0G41K6/
+Snippet: ResCare posted annual revenues in 2013 of around $1.6 billion, according to a company filing. The company has more than 45,000 employees and operates in 43 states, as well as Washington D.C ...
+
+Title: RES-CARE, INC. | Reuters
+Link: https://www.reuters.com/company/res-care-inc/
+Snippet: <b>RES-CARE</b>, INC. Follow. 2 results. ... <b>Reuters</b> provides business, <b>financial</b>, national and international news to professionals via desktop terminals, the world&#39;s media organizations, industry events ...
+
+Title: PE firm to buy ResCare in sweetened $390 mln deal | Reuters
+Link: https://www.reuters.com/article/business/pe-firm-to-buy-rescare-in-sweetened-390-mln-deal-idUSTRE68628Q/
+Snippet: By Esha Dey. BANGALORE (<b>Reuters</b>) - ResCare Inc agreed to be bought by Canadian private-equity firm Onex Corp in a sweetened cash deal that values the U.S. home care provider at $390 million ...
+
+Title: Res-Care Revenue, Growth &amp; Competitor Profile - incfact.com
+Link: https://incfact.com/company/rescare-louisville-ky/
+Snippet: The Premium <b>Res-Care</b> Company Report contains critical information including: Revenue from previous years (2020 to present) Growth rate. Estimated financials and profit margin. Funding from Venture Capital and Private Equity firms. Latest trademark applications. Additional industries in which the company operates.
+
+Title: RES-Care, Inc. Company Profile | Louisville, KY | Competitors ...
+Link: https://www.dnb.com/business-directory/company-profiles.res-care_inc.e59510c4c22b2fbc9301ddc66434c167.html
+Snippet: Read More and ResCare Community Living (community living and daily assistance for disabled clients). In 2024, BrightSpring Health announced the pricing of an initial public offering of 53,333,334 shares of its common stock at $13.00 per share and a concurrent offering of 8,000,000 of its 6.75% tangible equity units (Units), with a stated amount ...
+
+Title: RES-CARE, INC. Company Profile - Dun &amp; Bradstreet
+Link: https://www.dnb.com/business-directory/company-profiles.res-care_inc.8e8b4729205d2f969e8e3ec49f7f0d2d.html
+Snippet: Nursing Care Facilities (Skilled Nursing Facilities)Nursing and Residential Care FacilitiesHealth Care and Social Assistance. Printer Friendly View. Address: 600 N Sam Houston Pkwy W Houston, TX, 77067-4336 United States See other locations. Phone:? Website: www.rescare.com.
+
+Title: RES-CARE, INC. Company Profile - Dun &amp; Bradstreet
+Link: https://www.dnb.com/business-directory/company-profiles.res-care_inc.1aebc45d96f24bc103c7fb321a88075f.html
+Snippet: Find company research, competitor information, contact details &amp; <b>financial</b> data for <b>RES-CARE</b>, INC. of Fort Lauderdale, FL. Get the latest business insights from Dun &amp; Bradstreet. <b>RES-CARE</b>, INC. D&amp;B Business Directory ... <b>Overview</b> Company Description: ...
+
+Title: Res-Care, Inc. (RSCR) Financial Statements - FinChat.io
+Link: https://finchat.io/company/NasdaqGM-RSCR-merged/
+Snippet: Browse Revenue, EPS, Shares Outstanding, and more for <b>Res-Care</b>, Inc. (RSCR).
+
+Title: Res-care : New ResCare Chief Executive Officer to Open NASDAQ Trading ...
+Link: https://www.marketscreener.com/quote/stock/RES-CARE-INC-10711/news/Res-care-New-ResCare-Chief-Executive-Officer-to-Open-NASDAQ-Trading-August-2-222185/
+Snippet: By. ResCare, Inc. (NASDAQ:RSCR), the nation&#39;s leading provider of residential, training, educational and support services for people with disabilities and special needs, announced today that Ralph G. Gronefeld Jr., ResCare president and chief executive officer, will officially open trading on The NASDAQ Stock Market on August 2.
+
+Title: ResCare | Company Overview &amp; News - Forbes
+Link: https://www.forbes.com/companies/rescare/
+Snippet: Apr 16, 2012. Borrowers head to pro rata market to take out institutional debt. Institutional repayments have taken off this year on increased appetite for paper among banks and cheap interest ...
+
+Remi: Results for query 'ResCare financials on Yahoo Finance':
+Title: BrightSpring Health Services, Inc. (BTSG) - Yahoo Finance
+Link: https://finance.yahoo.com/quote/BTSG/
+Snippet: 6.91. +1.02%. PRVA Privia Health Group, Inc. 18.87. -2.18%. Find the latest BrightSpring Health Services, Inc. (BTSG) stock quote, history, news and other vital information to help you with your ...
+
+Title: Stock market today: Dow slumps, Nasdaq whipsaws amid more soft labor ...
+Link: https://finance.yahoo.com/news/stock-market-today-dow-slumps-nasdaq-whipsaws-amid-more-soft-labor-market-data-154224066.html
+Snippet: <b>Yahoo</b> <b>Finance</b>&#39;s David Hollerith reports:. Second quarter profits climbed for the US banking industry from the previous quarter. But credit quality continued to worsen, according to the FDIC’s ...
+
+Title: BrightSpring Health Services, Inc. (BTSG) - Stock Analysis
+Link: https://stockanalysis.com/stocks/btsg/
+Snippet: BrightSpring Health Services,<b></b> Inc. to Announce Second Quarter 2024 <b>Financial</b> Results on August 2, 2024. LOUISVILLE, Ky., July 02, 2024 (GLOBE NEWSWIRE) -- BrightSpring Health Services,<b></b> Inc. (“BrightSpring” or the “Company”) (NASDAQ: BTSG) announced today that it plans to release its second quarter 2024 ... 2 months ago - GlobeNewsWire.
+
+Title: Res-Care, Inc. Stock () - Quote Nasdaq- MarketScreener
+Link: https://www.marketscreener.com/quote/stock/RES-CARE-INC-10711/
+Snippet: RES-CARE : Law Office of Brodsky &amp; Smith, LLC Announces Investigation of ResCare, Inc. 10-09-07: BU RES-CARE : The Law Office of Robbins Umeda LLP Announces an Investigation of the Acquisition of ResCare, Inc. by an Entity Sponsored by Onex Partners III, L.P. 10-09-07
+
+Title: ResCare - Yahoo
+Link: https://www.yahoo.com/news/rescare.html
+Snippet: ResCare (NMS:RSCR) , a care provider for elderly and disabled, said it received a $370 mil, or $12.60 a share, takeover proposal from Canadian private-equity firm Onex. ResCare, which has been ...
+
+Title: ResCare agrees to Onex buyout - Yahoo
+Link: https://www.yahoo.com/news/rescare-agrees-onex-buyout.html
+Snippet: The merger agreement allows ResCare to look for better offers until Oct. 16. Shares climbed 6% to 13.20. The provider of home care for the elderly and disabled agreed to be bought by Onex, a ...
+
+Title: NVIDIA Corporation (NVDA): This AI Stock Could Go Parabolic According ...
+Link: https://finance.yahoo.com/news/nvidia-corporation-nvda-ai-stock-075013347.html
+Snippet: We recently compiled a list of the 10 AI Stocks That Could Go Parabolic According to <b>Financial</b> Media. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands ...
+
+Title: Company Res-Care, Inc. - MarketScreener.com
+Link: https://www.marketscreener.com/quote/stock/RES-CARE-INC-10711/company/
+Snippet: Res-Care, Inc. is a United States-based human service company that provides residential, therapeutic, job training and educational support. The Company&#39;s five segments include Residential Services, ResCare HomeCare, Education and Training Services, Workforce Services and Pharmacy Services.
+
+Title: Torrential rains in northern Italy flood Milan and leave a man ... - Yahoo
+Link: https://www.yahoo.com/news/torrential-rains-heavy-storms-hit-163302642.html
+Snippet: A wave of violent rainstorms battered northern Italy on Thursday, flooding the <b>financial</b> hub of Milan and raising fears for the life of a man who was swept away on a tractor in the Piedmont region.
+
+Title: Onex explores $1 billion sale of its ResCare holding: sources
+Link: https://ca.finance.yahoo.com/news/onex-explores-1-billion-sale-rescare-holding-sources-160606589--sector.html
+Snippet: By Soyoung Kim and Olivia Oran NEW YORK (Reuters) - ResCare, which provides home care services to the elderly and disabled, is in the early stages of exploring a sale that could fetch more than $1 billion, according to people familiar with the matter. The Louisville, Kentucky-based company, which is owned by Canadian private equity firm Onex Corp , is working with investment banks Goldman ...
+
+Remi: Results for query 'ResCare sales revenue':
+Title: Res-Care Revenue, Growth &amp; Competitor Profile - incfact.com
+Link: https://incfact.com/company/rescare-louisville-ky/
+Snippet: The Premium Res-Care Company Report contains critical information including: <b>Revenue</b> from previous years (2020 to present) Growth rate. Estimated financials and profit margin. Funding from Venture Capital and Private Equity firms. Latest trademark applications. Additional industries in which the company operates.
+
+Title: RES-Care, Inc. Company Profile | Louisville, KY | Competitors ...
+Link: https://www.dnb.com/business-directory/company-profiles.res-care_inc.4d5c2a59d382723232f9d04720f95106.html
+Snippet: Company Description: BrightSpring Health Services (formerly known <b>ResCare</b>) is the leading provider of complementary home- and community-based health services for complex populations in need of specialized care. It offers comprehensive care services, specialized care and expanding clinical services in all 50 states to over 400,000 patients daily.
+
+Title: Company Res-Care, Inc. - MarketScreener.com
+Link: https://www.marketscreener.com/quote/stock/RES-CARE-INC-10711/company/
+Snippet: Res-Care, Inc. is a United States-based human service company that provides residential, therapeutic, job training and educational support. The Company&#39;s five segments include Residential Services, <b>ResCare</b> HomeCare, Education and Training Services, Workforce Services and Pharmacy Services.
+
+Title: Res-Care Inc - Company Profile and News - Bloomberg Markets
+Link: https://www.bloomberg.com/profile/company/RSCR:US
+Snippet: Company profile page for Res-Care Inc including stock price, company news, executives, board members, and contact information
+
+Title: Behind the ambitious growth strategy at BrightSpring Health Services ...
+Link: https://www.bizjournals.com/louisville/news/2023/05/12/brightspring-is-growing-fast.html
+Snippet: Three-year <b>revenue</b> growth (from Fast 50) 2019-21: 38% Number of brands: 50 different brands encompassing primary care, pharmacy and home health services. Number of locations: 900 locations and ...
+
+Title: Res-Care, Inc. -- Company History
+Link: https://www.company-histories.com/ResCare-Inc-Company-History.html
+Snippet: With a service capacity of 2,000 students and $60 million in <b>revenue</b>, the Kentucky operation was the nation&#39;s largest Job Corps center--and an important contract for Res-Care. &quot;This award is perhaps the most significant event in our 24 years in the federal Job Corps program,&quot; Res-Care President Ron Geary said in an April 2, 1998 press release.
+
+Title: ResCare Hits Refresh: Major Tech, Workforce Investments Support New ...
+Link: https://homehealthcarenews.com/2018/03/rescare-hits-refresh-major-tech-workforce-investments-support-new-strategy/
+Snippet: <b>ResCare</b> is already a diversified company, serving about 60,000 people daily across 42 states, with annual <b>revenue</b> of around $2 billion, largely through Medicaid. Its divisions include home care for seniors, residential services for children and people with disabilities, neuro-rehabilitation, workforce services, pharmacy, and behavioral health ...
+
+Title: UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington ... - Rescare
+Link: https://www.rescare.com/wp-content/uploads/2014/03/ResCare-10-K-Report.pdf
+Snippet: The programs in <b>ResCare</b>’s Residential Services segment are based predominantly on individual support plans designed to encourage greater independence and the development or maintenance of daily living skills. These goals are achieved through tailored application of <b>ResCare</b>’s different services including social, functional and vocational
+
+Title: ResCare 4th-quarter net up 36%, revenue up 8.9% - MarketWatch
+Link: https://www.marketwatch.com/story/rescare-4th-quarter-net-up-36-revenue-up-89/
+Snippet: TEL AVIV (MarketWatch) -- <b>ResCare</b> Inc., undefined the Louisville, Ky., provider of home care to the elderly and the disabled, reported fourth-quarter net...
+
+Title: Formerly Known As ResCare, Inc. - Health Tech Navigator
+Link: https://healthtechnavigator.org/brightspring-health-services-formerly-known-as-rescare-merges-with-pharmacy-company-pharmerica/
+Snippet: The combined company is projected to have combined annual <b>revenue</b> of about $4.5 billion, and to serve over 300,000 people daily in 47 states, Puerto Rico, and Canada. The deal had been announced on December 10, 2018. BrightSpring Health Services is the new name for <b>ResCare</b> Inc., which rebranded in August 2018.
+
+Remi: Results for query 'ResCare Profit margins':
+Title: Res-Care Revenue, Growth &amp; Competitor Profile - incfact.com
+Link: https://incfact.com/company/rescare-louisville-ky/
+Snippet: The Premium Res-Care Company Report contains critical information including: Revenue from previous years (2020 to present) Growth rate. Estimated financials and <b>profit margin</b>. Funding from Venture Capital and Private Equity firms. Latest trademark applications. Additional industries in which the company operates.
+
+Title: RESCARE FOURTH QUARTER AND FULL YEAR 2013 RESULTS
+Link: https://www.rescare.com/wp-content/uploads/2014/02/Unaudited-Financial-Highlights-4Q-YE-2013-Results.pdf
+Snippet: Full Year 2013 Financial Results. Revenues for full year 2013 increased 1% over 2012 to $1.62 billion. Net income was $49.8 million in 2013 compared with $41.0 million in 2012. Adjusted EBITDA for 2013 was $141.0 million versus $146.7 million in 2012. Reconciliation of non-GAAP financial measures follows on page 2 of this release.
+
+Title: CURRENT REPORT - rescare.com
+Link: https://www.rescare.com/wp-content/uploads/2013/02/ResCare-8-K-Report1.pdf
+Snippet: <b>RESCARE</b> THIRD QUARTER 2014 RESULTS Third Quarter 2014 Financial Results Revenues for the third quarter of 2014 were $437.8 million, which was a 6.8% increase over prior year period revenues of $409.9 million. The increase in revenue is primarily due to acquisitions in our Residential and HomeCare segments since the third quarter of
+
+Title: CURRENT REPORT - rescare.com
+Link: https://www.rescare.com/wp-content/uploads/2013/02/ResCare-8-K-Report.pdf
+Snippet: <b>RESCARE</b> FIRST QUARTER 2014 RESULTS First Quarter 2014 Financial Results Revenues for the first quarter of 2014 were $421.5 million, which was an 8.2% increase over prior year period revenues of $389.5 million.€€The increase in revenue is ... Gross <b>profit</b> € € 103,885€ € € 95,111€ ...
+
+Title: Res-Care Inc.: Financial ratios (RSCR | USA | Health Care Providers ...
+Link: https://www.infrontanalytics.com/fe-EN/32684NU/Res-Care-Inc-/financial-ratios
+Snippet: The N/A ratio is a more precise measure than the P/E ratio because it takes into account both the company pure operational earning measure (EBITDA vs. Net <b>Profit</b>) and a company overall value indicator that also includes financial debt, cash position and minority interests which are key indicators when valuing a firm market value.
+
+Title: Res-Care Inc - Company Profile and News - Bloomberg Markets
+Link: https://www.bloomberg.com/profile/company/RSCR:US
+Snippet: Company profile page for Res-Care Inc including stock price, company news, executives, board members, and contact information
+
+Title: Res-Care (RSCR): Company Profile, Stock Price, News, Rankings - Fortune
+Link: https://fortune.com/company/res-care/
+Snippet: © 2024 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and ...
+
+Title: RES-CARE, INC. Company Profile | Columbus, OH - Dun &amp; Bradstreet
+Link: https://www.dnb.com/business-directory/company-profiles.res-care_inc.ffa7b32e3357c610c47d2a225486b618.html
+Snippet: Find company research, competitor information, contact details &amp; financial data for RES-CARE, INC. of Columbus, OH. Get the latest business insights from <b>Dun &amp; Bradstreet</b>.
+
+Title: ResCare Hits Refresh: Major Tech, Workforce Investments Support New ...
+Link: https://homehealthcarenews.com/2018/03/rescare-hits-refresh-major-tech-workforce-investments-support-new-strategy/
+Snippet: Of course, Medicaid <b>margins</b> can be tight, so <b>ResCare</b> is trying to cut and control costs as it makes investments in tech and other areas. With the lease on its corporate headquarters expiring in the fall of 2018, the company decided to move to a new location in Louisville that is smaller but more modern (pictured above). As part of the HQ ...
+
+Title: Formerly Known As ResCare, Inc. - Health Tech Navigator
+Link: https://healthtechnavigator.org/brightspring-health-services-formerly-known-as-rescare-merges-with-pharmacy-company-pharmerica/
+Snippet: On March 5, 2019, BrightSpring Health Services – formerly known as <b>ResCare</b> Inc. – merged with PharMerica to form an organization that will provide home- and community-based health and pharmacy services for high-need and medically complex populations. The merge came following the purchase of BrightSpring by investment firm Kohlberg Kravis ...
+
+Remi: Results for query 'ResCare mergers and acquisitions':
+Title: BrightSpring and PharMerica officially merge to become a
+Link: https://www.brightspringhealth.com/media-hub/brightspring-pharmerica/
+Snippet: Global investment firm KKR and BrightSpring Health Services (“BrightSpring”), one of the largest home and community-based health services providers, announced that KKR has closed on its <b>acquisition</b> of BrightSpring.
+
+Title: BrightSpring, PharMerica Merge in $1.32 Billion Deal
+Link: https://homehealthcarenews.com/2019/03/brightspring-pharmerica-merge-in-1-32-billion-deal/
+Snippet: <b>ResCare</b> — under the private equity ownership of Onex Corporation — rebranded as BrightSpring Health Servies in August. Shortly after rebranding, rumors began circulating that Onex was looking to sell the company. ... Stoneridge Partners is a health care <b>mergers</b>-and-<b>acquisitions</b> advisory firm involved in the brokerage of home care, hospice ...
+
+Title: Formerly Known As ResCare, Inc. - Health Tech Navigator
+Link: https://healthtechnavigator.org/brightspring-health-services-formerly-known-as-rescare-merges-with-pharmacy-company-pharmerica/
+Snippet: BrightSpring Health — Formerly Known As <b>ResCare</b>, Inc. — Merges With Pharmacy Company PharMerica. ... OPEN MINDS last reported on this topic in “Health &amp; Human Service Rebranding In 2018—New Positioning &amp; <b>Mergers</b> Drive Change,” which published on December 14, 2018.
+
+Title: BrightSpring Files to Go Public, Eyes $1.5 Trillion Opportunity
+Link: https://homehealthcarenews.com/2021/10/brightspring-files-to-go-public-eyes-1-5-trillion-opportunity/
+Snippet: Formerly known as <b>ResCare</b>, BrightSpring is a highly diversified, independent provider of home- and community-based services, with a footprint in all 50 states. The company was acquired by global investment firm KKR and an affiliate of Walgreens Boots Alliance (Nasdaq: WBA) for $1.32 billion in 2019.
+
+Title: About Us - BrightSpring Health Services
+Link: https://www.brightspringhealth.com/about-us/
+Snippet: <b>Merger</b> &amp; <b>Acquisition</b> Many existing providers offer services to the same population of clientele as a BrightSpring line of business brand. We engage potential <b>acquisition</b> and <b>merger</b> candidates in both new, and existing markets whose clients/patients/patrons we can best serve and where financial criteria, geographic range, ease-of-integration and ...
+
+Title: BrightSpring Adds to Suite of Services After Acquiring Home Health ...
+Link: https://homehealthcarenews.com/2020/03/brightspring-adds-to-suite-of-services-after-acquiring-home-health-home-infusion-businesses/
+Snippet: Formerly known as <b>ResCare</b>, BrightSpring provides a wide range of services to tens of thousands of individuals daily in 49 states. The company has 11 total lines of services, which range from home health and hospice care to behavioral health, non-medical home care, pharmacy services and more.
+
+Title: <b>Res-care</b> : <b>ResCare</b> Acquires Indiana and Kentucky Community Services ...
+Link: https://www.marketscreener.com/quote/stock/RES-CARE-INC-10711/news/Res-care-ResCare-Acquires-Indiana-and-Kentucky-Community-Services-Provider-223713/
+Snippet: This multi-site tuck-in <b>acquisition</b> is expected to generate approximately $20 million of annual revenue. &quot;<b>ResCare</b> continues to expand its community services operations through both organic growth and selected tuck-in <b>acquisitions</b>,&quot; said Ralph G. Gronefeld, <b>ResCare</b> president and chief executive officer.
+
+Title: Kroger and Albertsons CEOs testify in antitrust case
+Link: https://www.supermarketnews.com/mergers-acquisitions/kroger-and-albertsons-ceos-testify-in-antitrust-case
+Snippet: Kroger CEO Rodney McMullen and Albertsons CEO Vivek Sankaran took the stand in the U.S. District Court in Portland, Ore., Wednesday to defend their $24.6 billion plan to merge the two grocery ...
+
+Title: Company Res-Care, Inc. - MarketScreener.com
+Link: https://www.marketscreener.com/quote/stock/RES-CARE-INC-10711/company/
+Snippet: <b>Res</b>-Care, Inc. is a United States-based human service company that provides residential, therapeutic, job training and educational support. The Company&#39;s five segments include Residential Services, <b>ResCare</b> HomeCare, Education and Training Services, Workforce Services and Pharmacy Services.
+
+Title: Semnur Pharmaceuticals, Inc., a Wholly Owned Subsidiary of Scilex ...
+Link: https://scilexholding.gcs-web.com/news-releases/news-release-details/semnur-pharmaceuticals-inc-wholly-owned-subsidiary-scilex-0
+Snippet: Semnur Pharmaceuticals, Inc. (“Semnur”), a wholly owned subsidiary of Scilex Holding Company (Nasdaq: SCLX, “Scilex”), and Denali Capital <b>Acquisition</b> Corp. (Nasdaq: DECA, the “SPAC”) announce the signing of an agreement and plan of <b>merger</b> for a proposed business combination (the “Business Combination Agreement”), which provides for a pre-transaction equity value of Semnur of $2 ...
+
+Remi: Results for query 'ResCare labor relations':
+Title: ResCare, Inc. - National Labor Relations Board
+Link: https://www.nlrb.gov/case/11-RD-000694
+Snippet: NLRB National <b>Labor</b> <b>Relations</b> Board. Menu. Regional Locations; FAQs; Contact Us; E-Filing Service Desk; MyNLRB; Phone blue General Inquiries 1-844-762-NLRB; ... ResCare, Inc. E-File Follow. Sign into MyNLRB to follow cases and receive updates. What is this? Case Number: 11-RD-000694
+
+Title: RESCARE, INC. - National Labor Relations Board
+Link: https://www.nlrb.gov/case/01-CA-123103
+Snippet: Pre-Wagner Act <b>labor</b> <b>relations</b>; 1933 The NLB and &quot;The Old NLRB&quot; 1935 Enforcement of the Wagner Act; 1935 passage of the Wagner Act; 1937 Act Held Constitutional; 1947 Taft-Hartley Passage and NLRB Structural Changes; 1947 Taft-Hartley Substantive Provisions; 1959 Landrum-Griffin Act; 1974 Health Care Amendments; Impact of the NLRB on ...
+
+Title: Collective Bargaining Agreement - seiu775.org
+Link: https://seiu775.org/wp-content/uploads/2023/01/Rescare-Residential-2022-2024-CBA-FINAL-Blackline.pdf
+Snippet: SEIU 775/RESCARE RESIDENTIAL CBA 2022-2024 Page 1 of 39 PREAMBLE The purpose of this Agreement is to achieve and maintain harmonious <b>relations</b> between <b>Res-Care</b> ... National <b>Labor</b> <b>Relations</b> Act. SEIU 775/RESCARE RESIDENTIAL CBA 2022-2024 Page 2 of 39 SECTION 1.2: ACCRETION The Parties agree that, should the Employer make new acquisitions of any ...
+
+Title: National Right to Work Foundation SEIU and ResCare Health Giant Face ...
+Link: https://www.nrtw.org/news/seiu-and-rescare-health-giant-face-second-round-of-federal-charges-for-illegally-forcing-unionization-on-workers-throughout-west/
+Snippet: **Buckhannon, WV (January 17, 2007)** – Esther Gearhart, a ResCare, Inc. assisted living employee filed federal <b>labor</b> board charges against the Service Employees International Union (SEIU) District 1199 and ResCare for their attempts to force unwanted unionization on health care employees all across West Virginia. Gearhart filed the charges at the National <b>Labor</b> <b>Relations</b> Board […]
+
+Title: Collective Bargaining Agreement - SEIU 775
+Link: http://seiu775.org/wp-content/uploads/2022/08/All-Ways-Caring-ResCare-Home-CBA-2021-2023-1.pdf
+Snippet: in the National <b>Labor</b> <b>Relations</b> Act. SECTION 1.2 ACCRETION The Parties agree that, should ResCare Washington, Inc. make new acquisitions of any companies that provide in-home care services in Washington State and that the terms and conditions set forth herein shall apply to home care worker employees of such acquisitions, and the home care
+
+Title: between - SEIU 775
+Link: https://seiu775.org/wp-content/uploads/2020/11/ResCare-2019-2021-CBA-Final-1.pdf
+Snippet: ResCare Washington, Inc., and the Union will work to build a relationship that, acknowledging limitations imposed by state and program funding, will strive to ... defined in the National <b>Labor</b> <b>Relations</b> Act. SECTION 1.2 ACCRETION The Parties agree that, should ResCare Washington, Inc. make new acquisitions of any ...
+
+Title: Not Anymore! NLRB Board Blocks Use of Unilateral Consent Orders
+Link: https://www.laborrelationsupdate.com/2024/09/articles/nlrb/not-anymore-nlrb-board-blocks-use-of-unilateral-consent-orders/
+Snippet: On August 22, 2024, the National <b>Labor</b> <b>Relations</b> Board (the ““Board”“) issued a decision in Metro Health, Inc. d/b/a Hospital Metropolitano Rio San Pedras, 373 NLRB No. 89 (2024), marking a significant departure from its previous stance on accepting unilateral consent orders.This decision effectively eliminates the use of consent orders as a means of resolving unfair <b>labor</b> practice ...
+
+Title: How Immigration Remade the U.S. Labor Force - WSJ
+Link: https://www.wsj.com/economy/how-immigration-remade-the-u-s-labor-force-716c18ee
+Snippet: Immigrants are swelling the population and changing the makeup of the U.S. <b>labor</b> force in ways that are likely to reverberate through the economy for decades.
+
+Title: UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington ... - Rescare
+Link: https://www.rescare.com/wp-content/uploads/2014/03/ResCare-10-K-Report.pdf
+Snippet: ResCare also offers, through drop-in or live-in services, personal care, meal preparation, housekeeping, transportation and ... Job Corp Centers: Operated by ResCare and administered by the United States Department of <b>Labor</b> (“DOL”), Job Corps is a residential, educational and training program for unemployed and undereducated youth ages 16 ...
+
+Title: ResCare on Unions - ResCare Unionizing
+Link: https://rescareunion.weebly.com/rescare-on-unions.html
+Snippet: The <b>labor</b> <b>relations</b> function at ResCare works to educate and train management and staff on the realities of union representation and, where our employees have chosen to have union representation, to assist management in bargaining in good faith on the terms and conditions of employment. If you have any question about ResCare policy or practice ...
+
+Remi: Results for query 'ResCare employee reviews on Glassdoor':
+Title: ResCare Community Living reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/ResCare-Community-Living-Reviews-E5625875.htm
+Snippet: ResCare Community Living has an <b>employee</b> rating of 2.6 out of 5 stars, based on 684 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have an average working experience there. The ResCare Community Living <b>employee</b> rating is 23% below average for employers within the Healthcare industry (3.4 stars). Read more.
+
+Title: Working at ResCare Community Living - Glassdoor
+Link: https://www.glassdoor.com/Overview/Working-at-ResCare-Community-Living-EI_IE5625875.11,35.htm
+Snippet: Louisville, KY. 10000+ <b>Employees</b>. Type: Subsidiary or Business Segment. Founded in 1974. Revenue: $1 to $5 billion (USD) Nursing Care Facilities. Competitors: Community Living Burlington, Opportunity Living, Gem State Developmental Center Create comparison. ResCare Community Living has four decades of experience in the disability services field ...
+
+Title: ResCare Community Living Employee Reviews - Indeed
+Link: https://www.indeed.com/cmp/Rescare-Community-Living/reviews
+Snippet: 3,884 <b>reviews</b> from ResCare Community Living <b>employees</b> about ResCare Community Living culture, salaries, benefits, work-life balance, management, job security, and more. ... ResCare Community Living <b>Employee</b> <b>Reviews</b> <b>Review</b> this company. Job Title. All. Location. United States 3,884 <b>reviews</b>. Ratings by category. 2.6 Work-Life Balance.
+
+Title: ResCare Community Living Reviews - Glassdoor
+Link: https://www.glassdoor.co.in/Reviews/ResCare-Community-Living-Reviews-E5625875.htm
+Snippet: 657 ResCare Community Living <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: ResCare WorkForce Reviews: What Is It Like to Work At ... - Glassdoor
+Link: https://www.glassdoor.com/Reviews/ResCare-WorkForce-Reviews-E469834.htm
+Snippet: ResCare WorkForce has an <b>employee</b> rating of 3.0 out of 5 stars, based on 322 company <b>reviews</b> <b>on Glassdoor</b> which indicates that most <b>employees</b> have an average working experience there. The ResCare WorkForce <b>employee</b> rating is 22% below average for employers within the Human Resources &amp; Staffing industry (3.8 stars). Read more.
+
+Title: ResCare WorkForce &quot;management&quot; Reviews | Glassdoor
+Link: https://www.glassdoor.ca/Reviews/ResCare-WorkForce-management-Reviews-EI_IE469834.0,17_KH18,28.htm
+Snippet: 323 ResCare WorkForce <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: ResCare WorkForce Employee Reviews about &quot;people&quot; - glassdoor.ca
+Link: https://www.glassdoor.ca/Reviews/ResCare-WorkForce-people-Reviews-EI_IE469834.0,17_KH18,24.htm
+Snippet: 73 ResCare WorkForce <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: ResCare WorkForce Employee Reviews about &quot;rescare&quot; - glassdoor.ca
+Link: https://www.glassdoor.ca/Reviews/ResCare-WorkForce-rescare-Reviews-EI_IE469834.0,17_KH18,25.htm
+Snippet: 37 ResCare WorkForce <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Title: ResCare WorkForce Reviews: What Is It Like to Work At ... - Glassdoor
+Link: https://www.glassdoor.co.uk/Reviews/ResCare-WorkForce-Reviews-E469834.htm
+Snippet: 48% of ResCare WorkForce <b>employees</b> would recommend working there to a friend based <b>on Glassdoor</b> <b>reviews</b>. <b>Employees</b> also rated ResCare WorkForce 3.2 out of 5 for work life balance, 3.0 for culture and values and 2.9 for career opportunities.
+
+Title: ResCare WorkForce Reviews - glassdoor.com.au
+Link: https://www.glassdoor.com.au/Reviews/ResCare-WorkForce-Reviews-E469834.htm
+Snippet: 323 ResCare WorkForce <b>reviews</b>. A free inside look at company <b>reviews</b> and salaries posted anonymously by <b>employees</b>.
+
+Remi: Results for query 'ResCare labor disputes':
+Title: Res-Care / Equus to Pay $125,000 in EEOC High-Risk Pregnancy and ...
+Link: https://www.eeoc.gov/newsroom/res-care-equus-pay-125000-eeoc-high-risk-pregnancy-and-disability-discrimination-case
+Snippet: SOCORRO, N.M. – <b>Res-Care</b> and Equus Workforce Solutions (jointly referred to as <b>Res-Care</b>/Equus), nationwide job assistance companies doing business in New Mexico, will pay $125,000 and furnish other relief to settle a disability and pregnancy discrimination lawsuit filed by the U.S. Equal <b>Employment</b> Opportunity Commission (EEOC), the federal agency announced today.
+
+Title: 13 Investigates uncovers pattern of abuse, neglect in group homes for ...
+Link: https://www.wthr.com/article/news/investigations/13-investigates/13-investigates-uncovers-pattern-abuse-neglect-group-homes-disabled/531-ff868fc2-f2f8-4c97-a561-ba951fa6cf06
+Snippet: Indianapolis, IN ». 13 Investigates uncovers pattern of abuse,<b></b> neglect in group homes for the disabled. The company that hired the man who beat Anthony Harris was supposed to go to trial as part of a lawsuit this summer. But a month before ResCare would have faced tough questions about its hiring practices, the company settled the case.
+
+Title: ResCare (Res-Care - BrightSpring) Whistleblowers | Reward Info
+Link: https://hockani.com/blog/79/calling-rescare-brightspring-whistleblowers/
+Snippet: <b>ResCare</b> Fraud Against Iowa Medicaid. In 2015, <b>ResCare</b> agreed to pay a $5.63 million settlement to resolve Iowa Medicaid and Medicare fraud allegations. The underlying False Claims Act lawsuit was filed by a whistleblower, who received between 15 and 25 percent of the total payout.
+
+Title: ResCare Workforce Services is now Equus Workforce Solutions
+Link: https://equusworks.com/rescare-workforce-services-is-now-equus-workforce-solutions/
+Snippet: ResCare Workforce Services locations will transition to the new Equus brand over the next few weeks. That means that you may see the ResCare name for a period of time as we transition to <b>Equus®</b> Workforce Solutions. We look forward to continuing our relationship with you. Please feel free to contact us should you have questions. Learn more ...
+
+Title: Rescare Corporation will pay $2.15 million to settle claims that it ...
+Link: https://www.falseclaimsact.com/case/rescare-corporation-will-pay-2-15-million-to-settle-claims-that-it-defrauded-the-united-states-and-the-state-of-texas/
+Snippet: The Attorney General of the State of Texas announced today that ResCare Corporation agreed to pay $2.15 million to settle a whistleblower lawsuit alleging that it defrauded the State of Texas and the United States in connection with a contract for the provision of mental health services to Medicaid recipients. United States of America ex rel ...
+
+Title: ResCare Workforce Services is now Equus Workforce Solutions
+Link: https://equusworks.com/news/rescare-workforce-services-is-now-equus-workforce-solutions/
+Snippet: ResCare Workforce Services, the nation’s largest and most comprehensive provider of workforce solutions, announced they will now do business as Equus Workforce Solutions®. The new branding represents the company’s work as a comprehensive provider of workforce development services in North America. The Equus logo and branding suggests ...
+
+Title: Labor disputes of 2023 led to some of the largest work stoppages in ...
+Link: https://www.pewresearch.org/short-reads/2024/01/04/2023-saw-some-of-the-biggest-hardest-fought-labor-disputes-in-recent-decades/
+Snippet: Workers in a SAG-AFTRA picket line at Sony Pictures Studios in Culver City, California, on Oct. 11, 2023. (Apu Gomes/Getty Images) The nearly four-month actors’ strike against major Hollywood production studios in 2023 was the second-largest <b>labor</b> <b>dispute</b> in the United States in at least three decades, according to a <b>Pew Research Center</b> analysis of federal data through Nov. 30.
+
+Title: Collective Bargaining Agreement - seiu775.org
+Link: https://seiu775.org/wp-content/uploads/2022/05/Rescare-Home-Care-CBA-2021-2023.pdf
+Snippet: in the National <b>Labor</b> Relations Act. SECTION 1.2 ACCRETION The Parties agree that, should ResCare Washington, Inc. make new acquisitions of any companies that provide in-home care services in Washington State and that the terms and conditions set forth herein shall apply to home care worker employees of such acquisitions, and the home care
+
+Title: NLRB Expands Make-Whole Remedy to Include ‘Direct or ... - Ogletree
+Link: https://ogletree.com/insights-resources/blog-posts/nlrb-expands-make-whole-remedy-to-include-direct-or-foreseeable-damages/
+Snippet: Fulfilling a top priority for National <b>Labor</b> Relations Board (NLRB) General Counsel Jennifer A. Abruzzo’s activist agenda, on December 13, 2022, the Board issued a decision that expands, arguably beyond statutory limits, the remedies recoverable by a successful charging party in unfair <b>labor</b> practice cases. The NLRB ruled that its make-whole remedy includes compensating employees “for all ...
+
+Title: Navigating Labor Disputes: Essential Strategies to Protect Your Rights ...
+Link: https://www.workplacefairness.org/navigating-labor-disputes-essential-strategies-toprotect-your-rights-at-work/
+Snippet: <b>Labor</b> <b>disputes</b> can arise when there are disagreements between employers and employees about work-related issues. Some common <b>disputes</b> may involve wages, benefits, working conditions, or disciplinary actions. It is important to understand your rights and the relevant <b>labor</b> laws in your area to navigate these <b>disputes</b> effectively. It is essential ...
+
+Remi: Results for query 'ResCare workplace safety':
+Title: ResCare&#39;s Quality &amp; Safety - ResCare Community Living
+Link: https://rescarecommunityliving.com/why-rescare/quality-and-safety/
+Snippet: Quality &amp; <b>Safety</b> You Can Trust. At ResCare, we are dedicated to providing the right care – at the right time – in the safest environment possible. Each person we support receives individualized care tailored to their unique needs and abilities. Our care management tools and programs keep the individuals we serve safe, while enhancing ...
+
+Title: Code of Conduct - Rescare
+Link: https://www.rescare.com/wp-content/uploads/2018/05/Code_of_Conduct_2018.pdf
+Snippet: us and all of our colleagues at ResCare in supporting the values and principles which are critical to achieving our mission. Dear Fellow ResCare Employee: ResCare is committed to providing the highest quality supports to all persons. It is our responsibility to ensure an ethical and compassionate approach to service delivery and management.
+
+Title: Our Commitment to Quality and Safety - rescare.com
+Link: https://www.rescare.com/wp-content/uploads/2017/05/ResCare-Commitment-to-Quality-and-Safety.pdf
+Snippet: Our Commitment to Quality and <b>Safety</b> ResCare’s top priority is always to ensure the <b>safety</b> and well-being of the individuals we serve, as well as our employees and caregivers. Every day, we take care of approximately 60,000 individuals in need of assistance. ... We <b>work</b> hard to protect the individuals we serve, and our employees are ...
+
+Title: ResCare Residential Bargaining: We won Hazard Pay, PPE, and safety
+Link: https://seiu775.org/covidrescareresidential/
+Snippet: September 21, 2021 Update: ResCare Residential APs will get a $2.45 per hour increase to our base wages for all hours worked from July 1 through December 31, 2021. You can read the latest MOU here. May 22, 2020. Through impact bargaining, ResCare caregivers have won: Hazard Pay: ResCare APs will receive an additional $3.15 an hour for every ...
+
+Title: Employee Information Guide - Cornerstone OnDemand
+Link: https://rescare.csod.com/clientimg/rescare/KB/Employee%20Information%20Guide_635584860120177850.pdf
+Snippet: Founded in 1974, ResCare has developed a strong reputation for providing quality and cost-effective services designed to meet the needs of each individual we support. Resource Center 9901 Linn Station Road Louisville, Kentucky 40223-3813 502-394-2100 www.rescare.com. The President&#39;s Welcome.
+
+Title: ResCare&#39;s Expert Care - ResCare Community Living
+Link: https://rescarecommunityliving.com/why-rescare/expert-care/
+Snippet: Expert Care. We only recruit the best caregivers – and each ResCare caregiver receives position-specific training. We have programs, investments, and infrastructure in place to continually improve our services. This training ensures that our caregivers are prepared for their roles, understand available support and monitor and coach others.
+
+Title: ResCare Workforce Services is now Equus Workforce Solutions
+Link: https://equusworks.com/rescare-workforce-services-is-now-equus-workforce-solutions/
+Snippet: ResCare Workforce Services locations will transition to the new Equus brand over the next few weeks. That means that you may see the ResCare name for a period of time as we transition to <b>Equus®</b> Workforce Solutions. We look forward to continuing our relationship with you. Please feel free to contact us should you have questions. Learn more ...
+
+Title: Direct Support Professionals - ResCare Community Living
+Link: https://rescarecommunityliving.com/direct-support-professionals/
+Snippet: Ensuring client <b>safety</b> and maintaining a safe environment; Encouraging self-help activities; Accompanying clients to scheduled appointments; Qualifications for a DSP job. Must be 18 years of age or older; Must have a valid driver’s license; Ability to <b>work</b> in a group home, home-like setting
+
+Title: How ResCare Helps 1 Million Americans Join the Workforce Every Year
+Link: https://www.cornerstoneondemand.com/resources/article/how-rescare-helps-1-million-americans-join-workforce-every-year/
+Snippet: Last year alone, ResCare helped more than one million job seekers with significant barriers to employment develop their skills and find relevant <b>work</b>. And that&#39;s just a small part of what they do. With three main lines of business—job and vocational training, services for people with disabilities and home care for seniors—ResCare has ...
+
+Title: Working at ResCare Community Living: 3,884 Reviews - Indeed
+Link: https://www.indeed.com/cmp/Rescare-Community-Living/reviews
+Snippet: 5.0. Staff who care about their employees and try to meet everyone&#39;s needs. They need more staff for the houses to balance <b>work</b>/home life. Area Supervisor (Current Employee) - Winfield, KS - August 22, 2024. As a DSP when I clock in the residents and all of their needs have all of my attention until I clock out.
+
+Remi: Results for query 'ResCare discrimination cases':
+Title: Res-Care / Equus to Pay $125,000 in EEOC High-Risk Pregnancy and ...
+Link: https://www.eeoc.gov/newsroom/res-care-equus-pay-125000-eeoc-high-risk-pregnancy-and-disability-discrimination-case
+Snippet: SOCORRO, N.M. – <b>Res-Care</b> and Equus Workforce Solutions (jointly referred to as <b>Res-Care</b>/Equus), nationwide job assistance companies doing business in New Mexico, will pay $125,000 and furnish other relief to settle a disability and pregnancy <b>discrimination</b> lawsuit filed by the U.S. Equal Employment Opportunity Commission (EEOC), the federal agency announced today.
+
+Title: Adirieje v. Rescare, Inc., No. 1:18-cv-01429-TWP-DLP - Casetext
+Link: https://casetext.com/case/adirieje-v-rescare-inc
+Snippet: This matter is before the Court on a Motion for Summary Judgment filed pursuant to Federal Rule of Civil Procedure 56 by Defendant <b>Res-Care</b>, Inc. (&quot;<b>ResCare</b>&quot;) (Filing No. 30). Plaintiff Ujunwa Adirieje (&quot;Adirieje&quot;) initiated this action asserting claims of disability <b>discrimination</b> under the Americans with Disabilities Act, 42 U.S.C. § 12101 ...
+
+Title: McCreary v Rescare Inc | 3:21-CV-00525 - UniCourt
+Link: https://unicourt.com/case/pc-db5-mccreary-v-rescare-inc-842007
+Snippet: On 03/06/2021 McCreary filed a Civil Right - Employment <b>Discrimination</b> lawsuit against <b>Rescare</b> Inc. This <b>case</b> was filed in U.S. District Courts, Ohio Northern District Court. The Judge overseeing this <b>case</b> is James R. Knepp II. The <b>case</b> status is Disposed - Other Disposed. <b>Case</b> Details Parties Documents Dockets.
+
+Title: HUMPHREY v. RES-CARE, INC. D/B/A RESCARE HOMECARE - UniCourt
+Link: https://unicourt.com/case/pc-db1-humphrey-v-res-care-inc-dba-rescare-homecare-442062
+Snippet: <b>Case</b> Summary. On 04/10/2017 HUMPHREY filed a Civil Right - Employment <b>Discrimination</b> lawsuit against <b>RES-CARE</b>, INC D/B/A <b>RESCARE</b> HOMECARE. This <b>case</b> was filed in U.S. District Courts, Indiana Southern District. The Judges overseeing this <b>case</b> are Mark J. Dinsmore and Jane Magnus-Stinson.
+
+Title: Ujunwa Adirieje v. Rescare, Inc. - UniCourt
+Link: https://unicourt.com/case/pc-ap1-ujunwa-adirieje-v-rescare-inc-39366
+Snippet: On 10/28/2019 Ujunwa Adirieje filed a Civil Right - Employment <b>Discrimination</b> court <b>case</b> against <b>Rescare</b>, Inc in U.S. Courts Of Appeals. Court records for this <b>case</b> are available from U.S. Court Of Appeals, Seventh Circuit.
+
+Title: Res-Care/Equus Paying $125,000 in EEOC High-Risk Pregnancy and ...
+Link: https://content.govdelivery.com/accounts/USEEOC/bulletins/3a2123a
+Snippet: newsroom@eeoc.gov. FAX (602) 640-5009 • TTY (800) 669-6820. ASL videophone 844-234-5122. June 11, 2024. FOR IMMEDIATE RELEASE. <b>Res-Care</b> / Equus to Pay $125,000 in EEOC High-Risk Pregnancy and Disability <b>Discrimination</b> <b>Case</b>. Settles Federal Charges Workforce Services Provider in Southern New Mexico Failed to Grant Medical Leave and Fired Employee.
+
+Title: RES-CARE, INC. VS. THOMPSON (JONATHAN), ET AL.
+Link: https://law.justia.com/cases/kentucky/court-of-appeals/2020/2019-ca-000466-mr.html
+Snippet: See Ledesma v. AT &amp; T Corporation, No. 2016-CA-000695-MR, 2018 WL 480764 (Ky. App. Jan. 19, 2018). In Ledesma, the Court affirmed the circuit court’s holding that the appellant’s employment <b>discrimination</b> <b>case</b> was barred by the doctrine of judicial estoppel because she had failed to disclose her involvement in Chapter 7 bankruptcy proceedings.
+
+Title: Bowman v. ResCare, Inc., Civil Action No. 3:16-CV-601-JAG - Casetext
+Link: https://casetext.com/case/bowman-v-rescare-inc
+Snippet: <b>ResCare</b> has moved for summary judgment on all counts of the amended complaint. The plaintiffs&#39; <b>discrimination</b> claims fail either because they do not make out a prima facie showing of actionable race <b>discrimination</b> or because they cannot show that the defendants&#39; legitimate, non-discriminatory reasons for the adverse employment actions are mere pretext.
+
+Title: Halstead v. Res-Care, Inc. - Casetext
+Link: https://casetext.com/case/halstead-v-res-care-inc
+Snippet: Pending before the Court is the Motion for Summary Judgment submitted by Defendant <b>ResCare</b>, Inc. ECF No. 27. Plaintiff alleges, in his complaint, claims against Defendant under two causes of action: age <b>discrimination</b>, in violation of the West Virginia Human Rights Act (&quot;WVHRA&quot;), and sex <b>discrimination</b>, also in violation of the WVHRA ...
+
+Title: 13 Investigates uncovers pattern of abuse, neglect in group homes for ...
+Link: https://www.wthr.com/article/news/investigations/13-investigates/13-investigates-uncovers-pattern-abuse-neglect-group-homes-disabled/531-ff868fc2-f2f8-4c97-a561-ba951fa6cf06
+Snippet: Indianapolis, IN ». 13 Investigates uncovers pattern of abuse,<b></b> neglect in group homes for the disabled. The company that hired the man who beat Anthony Harris was supposed to go to trial as part of a lawsuit this summer. But a month before <b>ResCare</b> would have faced tough questions about its hiring practices, the company settled the <b>case</b>.
+
+Remi: Results for query 'ResCare allegations on National Labor Relations Board':
+Title: ResCare, Inc. - National Labor Relations Board
+Link: https://www.nlrb.gov/case/11-RD-000694
+Snippet: Petitioner Legal Representative Taubman, Glenn <b>National</b> Right to Work Legal Defense Foundation, Inc. 8001 Braddock Road, Suite 600 Springfield, VA 22151 (703)321-8510
+
+Title: Employers Intensify Constitutional Attacks Against Labor Board
+Link: https://news.bloomberglaw.com/daily-labor-report/employers-intensify-constitutional-attacks-against-labor-board
+Snippet: <b>Allegations</b> appear in variety of case types. Employers are increasingly turning to the US Constitution for ammunition to disrupt the work of the <b>National</b> <b>Labor</b> <b>Relations</b> <b>Board</b>, as companies have notched early victories in their challenges to fundamental aspects of the agency. The NLRB faces constitutional arguments in myriad settings, including ...
+
+Title: NLRB protections for workers&#39; &#39;abusive&#39; conduct nixed by US court
+Link: https://www.reuters.com/legal/litigation/nlrb-protections-workers-abusive-conduct-nixed-by-us-court-2024-07-10/
+Snippet: The seal of the <b>National</b> <b>Labor</b> <b>Relations</b> <b>Board</b> (NLRB) is seen at their headquarters in Washington, D.C., U.S., May 14, 2021. REUTERS/Andrew Kelly Purchase Licensing Rights, opens new tab.
+
+Title: SCOTUS Decision Will Weaken Labor Board’s Attempts to Impose Financial ...
+Link: https://www.fisherphillips.com/en/news-insights/scotus-decision-will-weaken-labor-boards-attempts.html
+Snippet: Perhaps lost in the shuffle of a string of blockbuster Supreme Court decisions was a June 27 ruling that will undermine the <b>National</b> <b>Labor</b> <b>Relations</b> <b>Board</b>’s attempts to impose financial penalties on employers – though it didn’t go so far as to block the use of administrative law judges to resolve disputes as some employers had hoped.
+
+Title: Remedies for NLRA Violations Now Include Consequential Damages ... - KJK
+Link: https://kjk.com/2023/01/11/remedies-for-nlra-violations-now-include-consequential-damages-what-employers-should-know/
+Snippet: Following the Thryv, Inc. decision, employers may be liable for all “direct or foreseeable pecuniary harm” resulting from unfair <b>labor</b> practices. This includes an employee’s loss of earnings and benefits, as well as indirect costs such as out-of-pocket medical expenses, credit card debt, late mortgage or rent payments, and any other costs ...
+
+Title: Not Anymore! NLRB Board Blocks Use of Unilateral Consent Orders
+Link: https://www.laborrelationsupdate.com/2024/09/articles/nlrb/not-anymore-nlrb-board-blocks-use-of-unilateral-consent-orders/
+Snippet: On August 22, 2024, the <b>National</b> <b>Labor</b> <b>Relations</b> <b>Board</b> (the ““<b>Board</b>”“) issued a decision in Metro Health, Inc. d/b/a Hospital Metropolitano Rio San Pedras, 373 NLRB No. 89 (2024), marking a significant departure from its previous stance on accepting unilateral consent orders.This decision effectively eliminates the use of consent orders as a means of resolving unfair <b>labor</b> practice ...
+
+Title: NLRB will no longer accept consent orders - hr-brew.com
+Link: https://www.hr-brew.com/stories/2024/09/04/nlrb-no-longer-accept-consent-orders
+Snippet: The <b>National</b> <b>Labor</b> <b>Relations</b> <b>Board</b> (NLRB) recently said it will no longer accept “consent orders,” in which an unfair <b>labor</b> practice is settled based on terms offered by one single party, known as “the Respondent,” but rejected by the other parties involved in the dispute (“the Charging Party and the General Counsel”).
+
+Title: RESCARE WASHINGTON, INC. - National Labor Relations Board
+Link: https://www.nlrb.gov/case/19-RC-163065
+Snippet: <b>National</b> <b>Labor</b> <b>Relations</b> <b>Board</b>. Sign in with Login.gov. Most Popular Pages. Who We Are; <b>National</b> <b>Labor</b> <b>Relations</b> Act; ... <b>Allegations</b>. <b>Allegations</b> data is not available. Participants. Participant Address Phone; Employer Employer <b>RESCARE</b> WASHINGTON, INC. Tukwila, WA 98188-3911 (502)394-2390 : Petitioner Union SERVICE EMPLOYEES INTERNATIONAL ...
+
+Title: Additional Remedies Against Employers In Unfair Labor Practices
+Link: https://www.natlawreview.com/article/nlrb-opens-door-to-additional-remedies-repeated-labor-violations
+Snippet: On April 20, 2023, the <b>National</b> <b>Labor</b> <b>Relations</b> <b>Board</b> (NLRB) imposed a host of expanded remedies against an employer that allegedly committed a number of repeated <b>labor</b> law violations in the ...
+
+Title: NEW GEN ADMIN SERVICES, LLC DBA BIG PERM&#39;S, DEBBIE&#39;S DISPENSARY ATHENS
+Link: https://www.nlrb.gov/case/09-RM-349701
+Snippet: Unit Description: Included: All full-time and regular part-time Budtenders, Team Leads, and Receptionists employed by the Employer at its facility located at 544 Richland Avenue, Athens, Ohio 45701. Excluded: All store managers, assistant store managers, office clericals, confidential employees, managerial employees, and all other employees, professional employees, and guards and supervisors ...
+
+Remi: Results for query 'ResCare in news':
+Title: Indiana - ResCare Community Living
+Link: https://rescarecommunityliving.com/indiana/
+Snippet: ResCare Community Living in Indiana provides services for individuals with intellectual and developmental disabilities. Our Indiana locations have earned the CARF Gold Star for our waiver services and have been credited since 2008. Services we offer include: 24/7 on-call nursing. Regional quality nursing supports. Behavior specialists.
+
+Title: New recommendations address care, abuse and neglect in group homes
+Link: https://www.wthr.com/article/news/investigations/13-investigates/new-recommendations-address-care-abuse-and-neglect-group-homes/531-acd69dd8-5644-42e8-95f8-8052d7e0b31c
+Snippet: An advocate who challenged ResCare, the state&#39;s largest group home provider, over what she called hidden abuse involving Joshua. “They are 100 percent dependent on their caregivers. When their care is inadequate, there is harm,” said Henry, who reached out to 13 Investigates after seeing reports about abuse and neglect in other ResCare ...
+
+Title: AG&#39;s office reaches $576K Medicaid fraud settlement with ResCare
+Link: https://wvrecord.com/stories/649665998-ag-s-office-reaches-576k-medicaid-fraud-settlement-with-rescare
+Snippet: Sep 19, 2023. CHARLESTON — West Virginia Attorney General Patrick Morrisey&#39;s office has reached a settlement agreement with ResCare Inc. for $576,111.43 following an investigation initiated by ...
+
+Title: ResCare Community Living – Indianapolis, Indiana
+Link: https://rescarecommunityliving.com/location/rescare-community-living-indianapolis-indiana/
+Snippet: Community Alternatives Adept . 8041 Knue Road . Indianapolis, Indiana 46250 (317) 570-5903
+
+Title: ResCare Community Living
+Link: https://rescarecommunityliving.com/
+Snippet: Helping people with intellectual and developmental disabilities live their best lives. For more than 40 years, ResCare Community Living has provided trusted community living services that help individuals with intellectual and developmental disabilities enjoy greater quality of life in their own home or in home-like environments. We provide ...
+
+Title: Kentucky-Based ResCare Is Now - BrightSpring Health Services
+Link: https://www.brightspringhealth.com/media-hub/kentucky-based-rescare-is-now-brightspring-health-services/
+Snippet: LOUISVILLE, Ky. – ResCare, one of the nation’s largest home and community-based health services providers to complex populations, announced today it has a new name. BrightSpring Health Services is the new name for Kentucky-based ResCare, the parent company of a family of brands and services that provides both clinical and nonclinical habilitative care services for people of all ages and ...
+
+Title: Since KKR Bought BrightSpring, Some People With ... - BuzzFeed News
+Link: https://www.buzzfeednews.com/article/kendalltaggart/kkr-brightspring-disability-private-equity-abuse
+Snippet: The Private Equity Giant KKR Bought Hundreds Of Homes For People With Disabilities. Some Vulnerable Residents Suffered Abuse And Neglect. BrightSpring Health Services, which KKR bought in 2019, says it helps thousands of people with disabilities “live their best lives.”. But a BuzzFeed <b>News</b> investigation found conditions that were often ...
+
+Title: Home | ResCare is now BrightSpring - Rescare
+Link: https://www.rescare.com/
+Snippet: ResCare® is now BrightSpring® Health Services. BrightSpring Health Services is a leading provider of comprehensive home and community-based health services that serves complex populations in need of specialized care. Our passion is Helping People Live Their Best Life.®.
+
+Title: BrightSpring Files to Go Public, Eyes $1.5 Trillion Opportunity
+Link: https://homehealthcarenews.com/2021/10/brightspring-files-to-go-public-eyes-1-5-trillion-opportunity/
+Snippet: BrightSpring is unable to comment on the <b>news</b> at this time, a company spokesperson told Home Health Care <b>News</b> in an email. Formerly known as ResCare, BrightSpring is a highly diversified, independent provider of home- and community-based services, with a footprint in all 50 states.
+
+Title: Teen’s death comes amid complaints at ResCare’s WV facilities
+Link: https://www.wvgazettemail.com/business/teen-s-death-comes-amid-complaints-at-rescare-s-wv-facilities/article_59d084f0-35c2-52cd-8890-d7b0bfdd7b80.html
+Snippet: The death of a teenage ResCare client on March 15 followed dozens of complaints against the company’s West Virginia facilities. From 2012 to 2016, the state Office of Health Facility Licensure ...
+
+Remi: Results for query 'ResCare scandals':
+Title: BrightSpring (ResCare) Group Home Abuse Lawsuit Investigation
+Link: https://www.classlawgroup.com/brightspring-rescare-group-home-abuse-lawsuit
+Snippet: Talk to a lawyer, free. After BrightSpring’s group homes for people with intellectual and developmental disabilities were purchased by Wall Street giant KKR in March of 2019, BuzzFeed reports resident abuse and deaths shot up across the nation, staff wages were slashed below even Wal-Mart wages, and the new CEO doubled his salary to $1.6 million.
+
+Title: West Virginia AG announces settlement with ResCare
+Link: https://www.newsandsentinel.com/news/business/2023/09/west-virginia-ag-announces-settlement-with-rescare/
+Snippet: Business. CHARLESTON — The state of West Virginia has reached a settlement with <b>ResCare</b> Inc. following an investigation initiated by the Attorney General’s Office’s Medicaid Fraud Control ...
+
+Title: West Virginia AG announces settlement with ResCare
+Link: https://www.wvnews.com/news/wvnews/west-virginia-ag-announces-settlement-with-rescare/article_7d2004f4-570e-11ee-b090-7bdd6ff55dcd.html
+Snippet: The investigation determined that <b>ResCare</b> submitted claims for payment to the West Virginia Medicaid program that were either unsupported by medical documentation, disallowed, in excess of the amount supported by medical documentation, or the medical documentation maintained by <b>ResCare</b> failed to meet the state’s minimum documentation requirements.
+
+Title: AG&#39;s office reaches $576K Medicaid fraud settlement with ResCare
+Link: https://wvrecord.com/stories/649665998-ag-s-office-reaches-576k-medicaid-fraud-settlement-with-rescare
+Snippet: CHARLESTON — West Virginia Attorney General Patrick Morrisey&#39;s office has reached a settlement agreement with <b>ResCare</b> Inc. for $576,111.43 following an investigation initiated by the office&#39;s ...
+
+Title: Attorney general announces settlement with ResCare
+Link: https://www.register-herald.com/attorney-general-announces-settlement-with-rescare/article_28ba5b1e-5e1e-11ee-a996-e766e9e71261.html
+Snippet: Sep 28, 2023. West Virginia Attorney General Patrick Morrisey said his office has reached a settlement agreement with <b>ResCare</b> Inc. for $576,111.43 following an investigation initiated by the ...
+
+Title: Since KKR Bought BrightSpring, Some People With Disabilities Have Suffered
+Link: https://www.buzzfeednews.com/article/kendalltaggart/kkr-brightspring-disability-private-equity-abuse
+Snippet: The Private Equity Giant KKR Bought Hundreds Of Homes For People With Disabilities. Some Vulnerable Residents Suffered Abuse And Neglect. BrightSpring Health Services, which KKR bought in 2019, says it helps thousands of people with disabilities “live their best lives.”. But a BuzzFeed News investigation found conditions that were often ...
+
+Title: West Virginia to receive $576K in Medicaid fraud settlement with ResCare
+Link: https://www.tdmr.org/west-virginia-to-receive-576k-in-medicaid-fraud-settlement-with-rescare/
+Snippet: <b>ResCare</b> now must begin a new electronic records management system for its West Virginia locations as part of the settlement. The West Virginia Medicaid Fraud Control Unit, created as part of the Attorney General’s Office in 2019, receives 75% of its funding from the U.S. Department of Health and Human Services under a grant award of $2.2 ...
+
+Title: Former Res-Care employee says company made him a scapegoat
+Link: https://wvrecord.com/stories/640614283-former-res-care-employee-says-company-made-him-a-scapegoat
+Snippet: Apr 6, 2023. CHARLESTON – A former <b>Res-Care</b> employee says the company made him the scapegoat following a substandard inspection at one of its homes. Ahmed Khayr filed his complaint March 24 in ...
+
+Title: 13 Investigates uncovers pattern of abuse, neglect in group homes for ...
+Link: https://www.wthr.com/article/news/investigations/13-investigates/13-investigates-uncovers-pattern-abuse-neglect-group-homes-disabled/531-ff868fc2-f2f8-4c97-a561-ba951fa6cf06
+Snippet: Indianapolis, IN ». 13 Investigates uncovers pattern of abuse,<b></b> neglect in group homes for the disabled. The company that hired the man who beat Anthony Harris was supposed to go to trial as part of a lawsuit this summer. But a month before <b>ResCare</b> would have faced tough questions about its hiring practices, the company settled the case.
+
+Title: Rescare Corporation will pay $2.15 million to settle claims that it ...
+Link: https://www.falseclaimsact.com/case/rescare-corporation-will-pay-2-15-million-to-settle-claims-that-it-defrauded-the-united-states-and-the-state-of-texas/
+Snippet: The Attorney General of the State of Texas announced today that <b>ResCare</b> Corporation agreed to pay $2.15 million to settle a whistleblower lawsuit alleging that it defrauded the State of Texas and the United States in connection with a contract for the provision of mental health services to Medicaid recipients.
+
+Remi: Results for query 'ResCare lawsuits':
+Title: 13 Investigates uncovers pattern of abuse, neglect in group homes for ...
+Link: https://www.wthr.com/article/news/investigations/13-investigates/13-investigates-uncovers-pattern-abuse-neglect-group-homes-disabled/531-ff868fc2-f2f8-4c97-a561-ba951fa6cf06
+Snippet: Indianapolis, IN ». 13 Investigates uncovers pattern of abuse,<b></b> neglect in group homes for the disabled. The company that hired the man who beat Anthony Harris was supposed to go to trial as part of a <b>lawsuit</b> this summer. But a month before ResCare would have faced tough questions about its hiring practices, the company settled the case.
+
+Title: BrightSpring (ResCare) Group Home Abuse Lawsuit Investigation
+Link: https://www.classlawgroup.com/brightspring-rescare-group-home-abuse-lawsuit
+Snippet: Talk to a lawyer, free. After BrightSpring’s group homes for people with intellectual and developmental disabilities were purchased by Wall Street giant KKR in March of 2019, BuzzFeed reports resident abuse and deaths shot up across the nation, staff wages were slashed below even Wal-Mart wages, and the new CEO doubled his salary to $1.6 million.
+
+Title: Former Res-Care employee says company made him a scapegoat
+Link: https://wvrecord.com/stories/640614283-former-res-care-employee-says-company-made-him-a-scapegoat
+Snippet: Apr 6, 2023. CHARLESTON – A former <b>Res</b>-Care employee says the company made him the scapegoat following a substandard inspection at one of its homes. Ahmed Khayr filed his complaint March 24 in ...
+
+Title: New recommendations address care, abuse and neglect in group homes
+Link: https://www.wthr.com/article/news/investigations/13-investigates/new-recommendations-address-care-abuse-and-neglect-group-homes/531-acd69dd8-5644-42e8-95f8-8052d7e0b31c
+Snippet: An advocate who challenged ResCare, the state&#39;s largest group home provider, over what she called hidden abuse involving Joshua. “They are 100 percent dependent on their caregivers. When their care is inadequate, there is harm,” said Henry, who reached out to 13 Investigates after seeing reports about abuse and neglect in other ResCare ...
+
+Title: Lawyer Comment: Abuse &amp; Neglect at ResCare Facilities For Disabled
+Link: https://legalherald.com/indianapolis-indiana-widespread-reports-of-abuse-neglect-in-rescare-disabled-group-homes-throughout-the-u-s/
+Snippet: ResCare settled a <b>lawsuit</b> in San Luis Obispo, California in another case involving an employee beating a resident. A 20-year-old man with severe autism was physically attacked by a caregiver and the violence was captured on a hidden video camera, which showed the employee grabbing the resident, violently lifting him from his chair, and falling ...
+
+Title: PharMerica, BrightSpring Hit with Class Action Over March 2023 ...
+Link: https://www.classaction.org/news/pharmerica-brightspring-hit-with-class-action-over-march-2023-cyberattack-affecting-5.8m
+Snippet: The 28-page <b>lawsuit</b> says that on March 14, PharMerica and <b>Res</b>-Care discovered that an unauthorized third party had accessed PharMerica’s network systems between March 12 and 13. Later that month, ransomware gang Money Message apparently claimed responsibility for the cyberattack and began publishing what the group purported to be 4.7 ...
+
+Title: Class Action Filed Over March 2023 BrightSpring Health Services Data ...
+Link: https://www.classaction.org/news/class-action-filed-over-march-2023-brightspring-health-services-data-breach-affecting-roughly-535k-people
+Snippet: The <b>lawsuit</b> looks to cover all persons whose personally identifiable information was maintained on BrightSpring’s computer systems that were compromised in the March 2023 data breach, including those who received a notice letter from the company. Earlier this year, BrightSpring parent company <b>Res</b>-Care and PharMerica were hit with a proposed ...
+
+Title: They were hurt while living in group homes and later died. What ...
+Link: https://www.wfaa.com/article/news/local/investigates/disabledindangerminaiskanderandshannonhunt/287-381c8cbd-dd98-496a-b418-36b69814f0e6
+Snippet: The particular homes they were in are run by a company called EduCare Community Living, which is a corporate entity operated by ResCare, a Kentucky-based company that has similar homes across the ...
+
+Title: Rescare Corporation will pay $2.15 million to settle claims that it ...
+Link: https://www.falseclaimsact.com/case/rescare-corporation-will-pay-2-15-million-to-settle-claims-that-it-defrauded-the-united-states-and-the-state-of-texas/
+Snippet: The Complaint alleged that Ms. Hudnall’s responsibilities with ResCare included evaluating patients and developing an individualized plan of care. Ms. Hudnall was terminated in July 2000, allegedly in retaliation for attempting to correct fraudulent practices by ResCare and Citadel. In its <b>lawsuit</b>, the State of Texas and Ms. Hudnall alleged ...
+
+Title: Diaz v. ResCare Inc., 1:21-cv-00095-JLT-EPG - Casetext
+Link: https://casetext.com/case/diaz-v-rescare-inc-1
+Snippet: Opinion. 1:21-cv-00095-JLT-EPG. 01-28-2022. SUSAN DIAZ, Plaintiff, v. RESCARE INC., et al., Defendants. ORDER GRANTING STIPULATED REQUEST TO MODIFY SCHEDULE. (ECF NO. 20) On January 27, 2022, the parties filed a stipulated request to modify the schedule in this action.
+
+Remi: Results for query 'ResCare regulatory issues':
+Title: Rescare Corporation will pay $2.15 million to settle claims that it ...
+Link: https://www.falseclaimsact.com/case/rescare-corporation-will-pay-2-15-million-to-settle-claims-that-it-defrauded-the-united-states-and-the-state-of-texas/
+Snippet: The Attorney General of the State of Texas announced today that <b>ResCare</b> Corporation agreed to pay $2.15 million to settle a whistleblower lawsuit alleging that it defrauded the State of Texas and the United States in connection with a contract for the provision of mental health services to Medicaid recipients.
+
+Title: Code of Conduct - Rescare
+Link: https://www.rescare.com/wp-content/uploads/2018/05/Code_of_Conduct_2018.pdf
+Snippet: <b>Regulatory</b> and <b>ResCare</b> Policy Compliance <b>Regulatory</b> Compliance means following all applicable federal regulations and standards such as those set forth by the Centers for Medicare &amp; Medicaid Services (CMS) and the Department Labor (DOL), along with state and local laws, regulations, and standards.
+
+Title: AG&#39;s office reaches $576K Medicaid fraud settlement with ResCare
+Link: https://wvrecord.com/stories/649665998-ag-s-office-reaches-576k-medicaid-fraud-settlement-with-rescare
+Snippet: CHARLESTON — West Virginia Attorney General Patrick Morrisey&#39;s office has reached a settlement agreement with <b>ResCare</b> Inc. for $576,111.43 following an investigation initiated by the office&#39;s ...
+
+Title: ResCare Health Servs. v. Ind. Family &amp; Soc. Servs. Admin. - Casetext
+Link: https://casetext.com/case/rescare-health-servs-v-ind-family-soc-servs-admin-office-of-medicaid-policy-planning
+Snippet: While we summarily affirm the Court of Appeals on the statutory interpretation and takings <b>issues</b>, we reverse and remand for the trial court to consider <b>ResCare</b>&#39;s declaratory judgment request on the merits.
+
+Title: Compliance - ResCare Community Living
+Link: https://rescarecommunityliving.com/compliance/
+Snippet: <b>ResCare</b> Community Living provides trusted community living services that help individuals with intellectual and developmental disabilities.
+
+Title: ResCare White Paper
+Link: https://www.rescare.com/wp-content/uploads/2017/05/ResCare-White-Paper.pdf
+Snippet: <b>ResCare</b> employees are trained and outcomes in scores of categories are measured through the program. BIC focuses on individual outcomes above and beyond compliance with local, state and federal <b>regulatory</b> requirements.
+
+Title: untitled [assets.hcca-info.org]
+Link: https://assets.hcca-info.org/Portals/0/PDFs/Resources/Compliance%20Today/0706/ct_0706_14_Kurzer-Givens.pdf
+Snippet: <b>ResCare</b> has three operating segments: Community Services Group, Job Corps Training Services, and Employment Training Services. We operate in tough <b>regulatory</b> envi-ronments, face changes in funding streams based upon federal and state governmental actions and have employees working in thou- article Meet Rachael Kurzer Givens, CHC
+
+Title: Policy No. Compliance 2.0 Compliance Policy &amp; Procedure - Rescare
+Link: https://www.rescare.com/wp-content/uploads/2017/12/Reporting-Compliance-Issues.pdf
+Snippet: 3.0 Policy <b>ResCare</b> employees are required to report in good faith1 any suspected, actual or potential violation of law, regulations, <b>ResCare</b> Policy and Procedure or <b>ResCare</b> Code of Conduct.
+
+Title: Overcoming Challenges of Prior Authorizations, MIPS Compliance in ...
+Link: https://www.infectiousdiseaseadvisor.com/news/regulatory-issues-burden-dermatologists-but-resources-are-available/
+Snippet: <b>Regulatory</b> <b>issues</b> for dermatologists can interrupt patient care and deplete practice resources, but strategies are available to help manage the impact of prior authorizations and MIPS compliance on dermatology practices. Dermatologists are facing burdensome prior authorization requirements and ...
+
+Title: Saudi Arabia: Financial Sector Assessment Program-Detailed ... - IMF
+Link: https://www.imf.org/en/Publications/CR/Issues/2024/09/03/Saudi-Arabia-Financial-Sector-Assessment-Program-Detailed-Assessment-of-Observance-Basel-554536
+Snippet: Much progress has been achieved in strengthening Saudi Arabia’s banking <b>regulatory</b> and supervisory framework in recent years, and additional enhancements are under preparation. Recent updates to primary and secondary legislation include the Saudi Central Bank Law (SCBL; 2020), the Anti-Money Laundering Law (2017), and regulations to address emerging risks such as financial fraud and cyber risks.
+
+Remi: Results for query 'ResCare ratings and reviews on consumer forums':
+Title: ResCare Reviews | Read Customer Service Reviews of rescare.com - Yelp
+Link: https://www.yelp.com/brands/rescare
+Snippet: Read rescare.com customer experiences and share your own! <b>Yelp</b>. <b>Yelp</b> for Business. Write a <b>Review</b>. ... Recent <b>reviews</b> of ResCare. Overall rating. 22 <b>reviews</b> based on 248 locations. 22 <b>reviews</b> based on 248 locations. 5. 4. 3. 2. 1. MT F. Evans, GA. 0. 1. ... This <b>review</b> is for ALL WAYS CARING HOMECARE. They have found a way to keep their name ...
+
+Title: Customer Reviews for ResCare Community Living - Better Business Bureau
+Link: https://www.bbb.org/us/va/gore/profile/home-care/rescare-community-living-0241-236084655/customer-reviews
+Snippet: If you have not received a code within 2 minutes, you can re-send it. This business has 0 <b>reviews</b>. 251 Gore Rd. Gore, VA 22637. Visit Website. (540) 858-2572. Years in Business: 17. BBB Business ...
+
+Title: Res-up vs. Rescare? Same products? - Love Plumbing &amp; Remodel
+Link: https://terrylove.com/forums/index.php?threads/res-up-vs-rescare-same-products.101295/
+Snippet: A lesser amount usually means a higher concentrate. ResCare MSDS reads 15-40% Phosphoric acid. Res Up SDS reads 10-30% Phosphoric acid. Click to expand... It is also sold on Amazon for cheaper <b>and reviews</b> on Amazon state both are equivalent and the feeders can be used interchangeably. I will test for 6 months and see.
+
+Title: ResCare Minnesota - 8 Reviews - Home Health Care in Saint ... - Birdeye
+Link: https://reviews.birdeye.com/rescare-minnesota-155750428538346
+Snippet: Speak with a specialist to learn how you can grow with Birdeye. We are reachable at profiles@birdeye.com. Read 8 customer <b>reviews</b> of ResCare Minnesota, one of the best Home Health Care businesses at 1865 Old Hudson Rd, Saint Paul, MN 55119 United States. Find <b>reviews</b>, <b>ratings</b>, directions, business hours, and book appointments online.
+
+Title: Working at ResCare Community Living: 3,884 Reviews - Indeed
+Link: https://www.indeed.com/cmp/Rescare-Community-Living/reviews
+Snippet: 3,884 <b>reviews</b> from ResCare Community Living employees about ResCare Community Living culture, salaries, benefits, work-life balance, management, job security, ... ResCare Community Living Employee <b>Reviews</b> <b>Review</b> this company. Job Title. All. Location. United States 3,884 <b>reviews</b>. <b>Ratings</b> by category. 2.6 Work-Life Balance. 2.4 Pay &amp; Benefits. 2 ...
+
+Title: Customer Service reviews at ResCare Community Living
+Link: https://www.indeed.com/cmp/Rescare-Community-Living/reviews?fjobcat=customer
+Snippet: 93 <b>reviews</b> from Customer Service employees about working at ResCare Community Living. Learn about ResCare Community Living culture, salaries, benefits, work-life balance, management, job security, and more. ... Rescare <b>Review</b>. Support Associate (Former Employee) - Jeffersonville, IN - June 26, 2018. ... <b>Consumer</b> Support Specialist (Former ...
+
+Title: ResCare Community Living reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/ResCare-Community-Living-Reviews-E5625875.htm
+Snippet: ResCare Community Living has an employee rating of 2.6 out of 5 stars, based on 684 company <b>reviews</b> on <b>Glassdoor</b> which indicates that most employees have an average working experience there. The ResCare Community Living employee rating is 23% below average for employers within the Healthcare industry (3.4 stars). Read more.
+
+Title: ResCare Community Living Reviews in United States of America
+Link: https://www.glassdoor.com/Reviews/ResCare-Community-Living-US-Reviews-EI_IE5625875.0,24_IL.25,27_IN1.htm
+Snippet: 392 ResCare Community Living <b>reviews</b> in United States of America. A free inside look at company <b>reviews</b> and salaries posted anonymously by employees.
+
+Title: ResCare HomeCare Spokane Valley, Washington Spokane Valley, WA - Caring.com
+Link: https://www.caring.com/senior-care/washington/spokane-valley/rescare-homecare-99212
+Snippet: ResCare HomeCare Spokane Valley,<b></b> Washington Spokane Valley, WA. 1050 N. Argonne Road, Spokane Valley, WA 99212. (800) 558-0653 (Caring Family Advisor™) 2.5. ( 2 <b>reviews</b>)
+
+Title: <b>ResCare</b> Community Living
+Link: https://rescarecommunityliving.com/
+Snippet: Helping people with intellectual and developmental disabilities live their best lives. For more than 40 years, <b>ResCare</b> Community Living has provided trusted community living services that help individuals with intellectual and developmental disabilities enjoy greater quality of life in their own home or in home-like environments. We provide ...
+
+Remi: Results for query 'ResCare reviews on business review sites':
+Title: Working at ResCare Community Living: 3,884 Reviews - Indeed
+Link: https://www.indeed.com/cmp/Rescare-Community-Living/reviews
+Snippet: 3,884 <b>reviews</b> from ResCare Community Living employees about ResCare Community Living culture, salaries, benefits, work-life balance, management, job security, ... ResCare Community Living Employee <b>Reviews</b> <b>Review</b> this company. Job Title. All. Location. United States 3,884 <b>reviews</b>. Ratings by category. 2.6 Work-Life Balance. 2.4 Pay &amp; Benefits. 2 ...
+
+Title: ResCare Reviews | Read Customer Service Reviews of rescare.com - Yelp
+Link: https://www.yelp.com/brands/rescare
+Snippet: ResCare. ResCare has an average rating of 2 from 22 <b>reviews</b>. The rating indicates that most customers are generally dissatisfied. The official website is rescare.com. ResCare is popular for Home Health Care, Health &amp; Medical. ResCare has 248 locations on <b>Yelp</b> across the US. Read below to see the top rated ResCare businesses on <b>Yelp</b> and their ...
+
+Title: ResCare Community Living reviews - Glassdoor
+Link: https://www.glassdoor.com/Reviews/ResCare-Community-Living-Reviews-E5625875.htm
+Snippet: ResCare Community Living has an overall rating of 2.6 out of 5, based on over 696 <b>reviews</b> left anonymously by employees. 29% of employees would recommend working at ResCare Community Living to a friend and 26% have a positive outlook for the <b>business</b>. This rating has decreased by 2% over the last 12 months.
+
+Title: ResCare Employee Reviews - Comparably
+Link: https://www.comparably.com/companies/rescare/reviews
+Snippet: Out of 409 ResCare employee <b>reviews</b>, 50% were positive. The remaining 50% were constructive <b>reviews</b> with the goal of helping ResCare improve their work culture. The Operations team, with 79% positive <b>reviews</b>, reports the best experience at ResCare compared to all other departments at the company. The Marketing team offered the most constructive ...
+
+Title: 26 Business Review Sites Where Customers Rate You - Small Business Trends
+Link: https://smallbiztrends.com/business-review-sites/
+Snippet: A Yelp listing can help businesses manage their online credibility and reputation. Yelp is one of the top <b>review</b> <b>sites</b> and an important place to encourage potential customers to do <b>business</b> with you. 7. Foursquare. Using its Swarm and CityGuides apps, Foursquare lets users check-in and rate venues they visit.
+
+Title: ResCare Community Living Reviews in United States of America
+Link: https://www.glassdoor.com/Reviews/ResCare-Community-Living-US-Reviews-EI_IE5625875.0,24_IL.25,27_IN1.htm
+Snippet: 392 ResCare Community Living <b>reviews</b> in United States of America. A free inside look at company <b>reviews</b> and salaries posted anonymously by employees.
+
+Title: Customer Service reviews at ResCare Community Living
+Link: https://www.indeed.com/cmp/Rescare-Community-Living/reviews?fjobcat=customer
+Snippet: 93 <b>reviews</b> from Customer Service employees about working at ResCare Community Living. Learn about ResCare Community Living culture, salaries, benefits, work-life balance, management, job security, and more. ... Rescare <b>Review</b>. Support Associate (Former Employee) - Jeffersonville, IN - June 26, 2018.
+
+Title: ResCare Reviews &amp; Ratings by 35 Employees | CareerBliss
+Link: https://www.careerbliss.com/rescare/reviews/?sort=rate_asc
+Snippet: ResCare Employee Job <b>Reviews</b> in the United States Browse ResCare <b>Reviews</b> by Job Title →. Job Title. Location. Sort by. Date Rating 25%. 29%. 36%. 11%. 0%. 3.6. Average Rating (based on 28 ResCare <b>Review</b> Ratings) Ratings by Category.
+
+Title: Customer Reviews for ResCare HomeCare - Better Business Bureau
+Link: https://www.bbb.org/us/az/phoenix/profile/health/rescare-homecare-1126-12002817/customer-reviews
+Snippet: View customer <b>reviews</b> of ResCare HomeCare. Leave a <b>review</b> and share your experience with the BBB and ResCare HomeCare.
+
+Title: BrightSpring Health Services &quot;rescare&quot; Reviews | Glassdoor
+Link: https://www.glassdoor.com/Reviews/BrightSpring-Health-Services-rescare-Reviews-EI_IE2604608.0,28_KH29,36.htm
+Snippet: BrightSpring Health Services has an overall rating of 3.4 out of 5, based on over 1,509 <b>reviews</b> left anonymously by employees. 61% of employees would recommend working at BrightSpring Health Services to a friend and 55% have a positive outlook for the <b>business</b>. This rating has improved by 4% over the last 12 months.
+

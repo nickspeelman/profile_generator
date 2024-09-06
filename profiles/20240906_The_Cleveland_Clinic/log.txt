@@ -1,0 +1,2330 @@
+Susan: Sure, let's break down our research strategy into parts to make it efficient and effective. 
+
+1. **Company Background and Financial Information**: Start by visiting Cleveland Clinic's official website and look for information about their leadership, history, mission, vision, and annual report. We can check for their performance metrics here, such as financial reports or statements. These may include total assets, revenue, and profitability. Most large organizations publicly share these details. 
+
+2. **Key Decision Makers**: Identify the key decision makers within the organization. These can generally be found in the 'About Us' or 'Leadership Team' section of the website. You should get details about their roles, priorities, strengths, and weaknesses. 
+
+3. **Points of Leverage**: Look for information on what these key individuals value, any specific projects or operations they are known to support, as well as personal charitable interests. Their online presence on platforms like LinkedIn or in media interviews can be a rich source of this information. 
+
+4. **Labor Relations History**: Search the archives of reliable industry news sources and labor union publications. Look for mentions of the Cleveland Clinic to understand how they've interacted with unions in the past. Use specific search phrases such as 'Cleveland Clinic labor relations' or 'Cleveland Clinic union activities' to narrow down the results. 
+
+5. **Recent Scandals**: Investigate any recent scandals or litigation involving the Cleveland Clinic by searching online news databases. Look for potential patterns of wrongdoing which could indicate systemic problems. A good place to start can be by using 'Cleveland Clinic' paired with 'scandal,' 'lawsuit,' 'disciplinary action,' 'misconduct,' etc. 
+
+6. **Current Employee Sentiment**: Check sites like Glassdoor, Indeed, and LinkedIn, they often provide useful employee reviews and potential grievances. These can provide insights into working conditions, management, benefits, job satisfaction, and possible grievances. 
+
+7. **Public Perception**: Check the temperature of public opinion of the Cleveland Clinic as well. This can be accomplished by looking at customer reviews, ratings on the Better Business Bureau, and public sentiment on social media sites.
+
+8. **Professional and Regulatory Standing**: Research professional and regulatory sites for accolades and disciplinary actions. These can include DOH or OSHA reports or fines. 
+
+Remember that collecting comprehensive information may take time, but it will provide a holistic understanding of the organization and assist in developing effective strategies.
+Manny: Absolutely. Here's the list of search queries named 'search_queries_for_remi':
+
+```python
+search_queries_for_remi = ["Cleveland Clinic financial reports", "Cleveland Clinic labor union disputes"]
+```
+Remi: Results for 'Cleveland Clinic financial reports':
+Title: Financial Information &amp; Annual Reports - Cleveland Clinic
+Link: https://my.clevelandclinic.org/about/overview/financial-information
+Snippet: Cleveland <b>Clinic</b> is committed to transparency in <b>financial</b> reporting and effective stewardship of the assets of Cleveland <b>Clinic</b> according to its mission. View our <b>financial</b> <b>statements</b> and <b>annual</b> <b>reports</b> below. The Cleveland <b>Clinic</b> <b>Annual</b> <b>Report</b> contains the year’s statistics, operational highlights and achievements in science and medicine.
+Body Content: Important Updates
+
+
+Search
+Home
+/ About Cleveland Clinic / Cleveland Clinic Overview / Financial Information & Annual Reports
+Financial Information & Annual Reports
+Questions 216.444.2200
+CONTACT US
+Overview
+Financial Statements
+Form 990
+Annual Reports
+Overview
+Cleveland Clinic is committed to transparency in financial reporting and effective stewardship of the assets of Cleveland Clinic according to its mission. View our financial statements and annual reports below.
+The Cleveland Clinic Annual Report contains the year’s statistics, operational highlights and achievements in science and medicine. It includes a message from the chairman of the Board of Trustees and chief executive officer. It lists the names of all current Trustees and medical and operational leadership.
+ABOUT CLEVELAND CLINIC
+Cleveland Clinic Overview
+Who We Are
+Our Model of Healthcare
+Governance & Leadership
+Financial Information & Annual Reports
+Questions 216.444.2200
+CONTACT US
+Facebook
+Twitter
+YouTube
+Instagram
+LinkedIn
+Pinterest
+Snapchat
+Actions
+Appointments & Access
+Accepted Insurance
+Events Calendar
+Financial Assistance
+Give to Cleveland Clinic
+Pay Your Bill Online
+Price Transparency
+Refer a Patient
+Phone Directory
+Virtual Second Opinions
+Virtual Visits
+Blog, News & Apps
+Consult QD
+Health Essentials
+Newsroom
+MyClevelandClinic
+MyChart
+About Cleveland Clinic
+100 Years of Cleveland Clinic
+About Us
+Locations
+Quality & Patient Safety
+Office of Diversity & Inclusion
+Patient Experience
+Research & Innovations
+Community Commitment
+Careers
+For Employees
+Resources for Medical Professionals
+Site Information & Policies
+Send Us Feedback
+Site Map
+About this Website
+Copyright, Reprint & Licensing
+Website Terms of Use
+Privacy Policy
+Notice of Privacy Practices
+Non-Discrimination Notice
+9500 Euclid Avenue, Cleveland, Ohio 44195 | 800.223.2273 | © 2024 Cleveland Clinic. All Rights Reserved.
+
+Title: AUDITED CONSOLIDATED FINANCIAL STATEMENTS - Cleveland Clinic
+Link: https://my.clevelandclinic.org/-/scassets/files/org/about/financial-statements/4q-2022-interim-unaudited-fs-mda.pdf?la=en
+Snippet: The Cleveland <b>Clinic</b> Foundation (<b>Clinic</b>) is a nonprofit, tax-exempt, Ohio corporation organized and operated to provide medical and hospital care, medical research, and education. The accompanying consolidated <b>financial</b> <b>statements</b> include the accounts of the <b>Clinic</b> and its controlled affiliates, d.b.a. Cleveland <b>Clinic</b> Health System (System).
+Body Content: 
+
+PDF Link: https://my.clevelandclinic.org/-/scassets/files/org/about/financial-statements/cchs-2023-w-ob-nonob.pdf
+Title: Facts &amp; Figures - Cleveland Clinic
+Link: https://my.clevelandclinic.org/about/overview/who-we-are/facts-figures
+Snippet: Statistics. Cleveland <b>Clinic</b> is one of the world&#39;s largest and best healthcare systems, with 80,642 caregivers, 23 hospitals and 276 outpatient facilities in locations around the globe. We provide advanced, high-quality, compassionate care for millions of patients annually, while also conducting life-changing research and educating future ...
+Body Content: Important Updates
+
+
+Search
+Home
+/ About Cleveland Clinic / Cleveland Clinic Overview / Who We Are / Facts & Figures
+Facts & Figures
+Questions 216.444.2200
+CONTACT US
+Statistics
+Recognition
+Innovations
+Research & Education
+Treatment Outcomes
+Statistics
+Cleveland Clinic is one of the world's largest and best healthcare systems, with 80,642 caregivers, 23 hospitals and 276 outpatient facilities in locations around the globe.
+We provide advanced, high-quality, compassionate care for millions of patients annually, while also conducting life-changing research and educating future caregivers.
+Download Cleveland Clinic Facts & Figures.
+View our 2023 State of the Clinic Report.
+Please note: The statistics reflect official year-end totals as of Dec. 31, 2023, unless otherwise noted.
+Locations Worldwide
+Outpatient Locations 276
+Hospitals 23
+Beds 6,690
+Patient Care
+Unique Patients Worldwide 3,258,800
+Patient Encounters Worldwide 15,066,002
+Outpatient Encounters 13,676,501
+Admissions & Observations 323,090
+Surgeries & Procedures 301,080
+Emergency Department Visits 950,744
+Virtual Visits 917,534
+Caregivers
+Caregivers Worldwide 80,642
+Physicians & Scientists 5,743
+Advanced Practice Providers 3,630
+Registered Nurses 16,536
+Financials
+Operating Revenue $14,482,677,000
+Income from Operations $64,273,000
+Operating Margin 0.4%
+Education
+Residents & Fellows 2,202
+Accredited Training Programs 124
+Research
+Total Research Funding $435,000,000
+National Institutes of Health Funding $165,000,000
+Active Research Projects 3,719
+Philanthropy
+Philanthropic Commitments $357,000,000
+Community Impact
+Community Benefit (2022) $1,422,200,000
+Economic Impact (2019)
+U.S.
+$34,545,075,000
+Ohio
+$21,628,130,000
+Florida
+$4,117,869,000
+Nevada
+$48,942,000
+ABOUT CLEVELAND CLINIC
+Cleveland Clinic Overview
+Who We Are
+Mission, Vision & Values
+Facts & Figures
+Integrity & Innovations
+Northeast Ohio Business Ethics Coalition
+Employee Notice
+Questions 216.444.2200
+CONTACT US
+Facebook
+Twitter
+YouTube
+Instagram
+LinkedIn
+Pinterest
+Snapchat
+Actions
+Appointments & Access
+Accepted Insurance
+Events Calendar
+Financial Assistance
+Give to Cleveland Clinic
+Pay Your Bill Online
+Price Transparency
+Refer a Patient
+Phone Directory
+Virtual Second Opinions
+Virtual Visits
+Blog, News & Apps
+Consult QD
+Health Essentials
+Newsroom
+MyClevelandClinic
+MyChart
+About Cleveland Clinic
+100 Years of Cleveland Clinic
+About Us
+Locations
+Quality & Patient Safety
+Office of Diversity & Inclusion
+Patient Experience
+Research & Innovations
+Community Commitment
+Careers
+For Employees
+Resources for Medical Professionals
+Site Information & Policies
+Send Us Feedback
+Site Map
+About this Website
+Copyright, Reprint & Licensing
+Website Terms of Use
+Privacy Policy
+Notice of Privacy Practices
+Non-Discrimination Notice
+9500 Euclid Avenue, Cleveland, Ohio 44195 | 800.223.2273 | © 2024 Cleveland Clinic. All Rights Reserved.
+
+Title: The <b>Cleveland Clinic</b> Foundation d.b.a. <b>Cleveland Clinic</b> Health System ...
+Link: https://my.clevelandclinic.org/-/scassets/files/org/about/financial-statements/cchs-2022-w-ob-nonob.pdf?la=en
+Snippet: The <b>Cleveland Clinic</b> Foundation (<b>Clinic</b>) is a nonprofit, tax-exempt, Ohio corporation organized and operated to provide medical and hospital care, medical research, and education. The accompanying consolidated <b>financial</b> <b>statements</b> include the accounts of the and its <b>Clinic</b> controlled affiliates, d.b.a. <b>Cleveland Clinic</b> Health System (System).
+Body Content: 
+
+PDF Link: https://emma.msrb.org/P21670695-P21285810-P21715131.pdf
+PDF Link: https://emma.msrb.org/P21550746-P21198477-.pdf
+Title: 2019 YEAR-END FIGURES - Cleveland Clinic
+Link: https://my.clevelandclinic.org/-/scassets/files/org/about/who-we-are/cleveland-clinic-facts-and-figures-2019.ashx?la=en
+Snippet: Income from operations. CARE FOR THE COMMUNITY. $1.04B. <b>Annual</b> community benefit (2018) $17.8B. ic impact (2016)OHIOTo view Cleveland <b>Clinic</b>’s State of the <b>Clinic</b> 2019 <b>report</b>, visit <b>clevelandclinic</b>. Stats as of Dec. 31, 2019. 9500 Euclid Avenue | Cleveland, OH 44195 | <b>clevelandclinic.org</b>. 20-CCC-1989500.
+Body Content: 
+
+Title: <b>Cleveland Clinic</b> 2014 <b>Annual</b> <b>Report</b>
+Link: https://www.clevelandclinic.org/about/2014-annual-report/index.html
+Snippet: <b>Cleveland Clinic</b> set a new <b>annual</b> record for outpatient visits in 2014 — almost 6 million across all our facilities. We continued to see the highest-acuity patient population in America. We ranked No. 1 in both heart care and urology in U.S. News &amp; World <b>Report</b>, and in the national top ten for 11 other specialties.
+Body Content: DEAR FRIENDS
+Cleveland Clinic enjoyed a remarkable year in 2014. We achieved notable distinction in patient care, research and education. We built on our legacy of achievement and strengthened our commitment to quality, affordability and innovation. With a relentless focus on the patient, we are determined to lead in the new era of health and medicine.
+American healthcare is at an inflection point. Value has replaced volume as the basis of reward. Moving ahead, everyone in healthcare will be expected to do more with less. This means change, and change is what people fear most. But Cleveland Clinic will not veer from its mission. We are doubling down on our mission, caring for the patient of today while building for the patient of tomorrow.
+Cleveland Clinic set a new annual record for outpatient visits in 2014 — almost 6 million across all our facilities. We continued to see the highest-acuity patient population in America. We ranked No. 1 in both heart care and urology in U.S. News & World Report, and in the national top ten for 11 other specialties.
+  We expanded our integrated healthcare system with new buildings in Avon, Ohio, and Weston, Florida; groundbreaking for the new Cancer Building on our main campus; and plans for the new Health Education Campus in partnership with Case Western Reserve University.
+By any measure, we’ve had a very successful year. But the world of healthcare is changing, and we are in the process of adapting. In 2014, we launched The Power of Every One, an ambitious $2 billion philanthropic campaign to be completed in time for our 100th anniversary in 2021. This campaign is necessary to support our goals for the years ahead and to ensure that all our communities will continue to have access to the finest healthcare services.
+Our past successes are the result of acting as a unit and putting patients first. We will remain true to our mission. To accomplish this, how and where we provide care will change. Yesterday, our founders innovated for today. Today, we must innovate for tomorrow. Our caregivers will do what is necessary to make the changes to ensure superior quality, access and affordable care. We believe in the future of Cleveland Clinic.
+  Sincerely,
+Delos M. Cosgrove, MD
+CEO and President, Cleveland Clinic
+Robert E. Rich Jr.
+Director and Chairman of the Board
+THE POWER OF
+EVERY DECISION
+THE POWER OF
+EVERY SECOND
+THE POWER OF
+EVERY INSIGHT
+THE POWER OF
+EVERY MIND
+THE POWER OF
+EVERY DIMENSION
+THE POWER OF
+EVERY USER
+THE POWER OF
+EVERY STEP
+THE POWER OF
+EVERY SOLUTION
+THE POWER OF
+EVERY DIAGNOSIS
+A DEFINING MOMENT...
+“When I look at Cleveland Clinic, I see a community of people dedicated to a future where hearts are strong, minds remain sharp, and people live longer and better. All of us want to see that future. At this defining moment, our potential to deliver that future has never been greater.”
+– Stewart Kohl, Co-Chair, “The Power of Every One” campaign.
+“The continuing success of Cleveland Clinic depends on us. Our commitment. Our resources. Our determination that patient-centered care should not be the exception, but the rule in American healthcare. Cleveland Clinic is the model for the nation. And we are here to see that it will continue to inspire positive changes — the kind of changes you and I want to see — in American healthcare for years to come.”
+– Larry Pollock, Co-Chair, “The Power of Every One” campaign.
+To support Cleveland Clinic, go to clevelandclinic.org/giving.
+The Power of Every One – About Cleveland Clinic’s Centennial Campaign Video
+Download 2014 Annual Report
+© 2015 Cleveland Clinic
+
+Title: Economic Impact Report - Cleveland Clinic
+Link: https://my.clevelandclinic.org/about/community/reports/economic-impact-report
+Snippet: Our recent economic study measured the impact of Cleveland <b>Clinic</b> at the state and national levels. In 2019, Cleveland <b>Clinic</b> directly and indirectly supported $34.55 billion of economic activity in the U.S. through its ongoing operations and construction activities. These activities generated $1.89 billion in state and local taxes and $3.5 ...
+Body Content: Important Updates
+
+
+Search
+Home
+/ About Cleveland Clinic / Community Commitment / Community Reports / Economic Impact Report
+Economic Impact Report
+Questions 216.361.1773
+EMAIL US
+Cleveland Clinic: A Vital Economic Force
+Our Economic and Fiscal Impact report, examining 2019 data, shows that by fulfilling its mission, Cleveland Clinic also serves as a powerful economic engine in the communities it serves. Everywhere we operate, we are a leading employer and an economic generator.
+We strive to invest in local businesses through the purchase of goods and services, and we help cities and neighborhoods thrive through tax revenues that support critical services and infrastructure.
+Our recent economic study measured the impact of Cleveland Clinic at the state and national levels. In 2019, Cleveland Clinic directly and indirectly supported $34.55 billion of economic activity in the U.S. through its ongoing operations and construction activities. These activities generated $1.89 billion in state and local taxes and $3.5 billion in federal taxes.
+As the largest employer in Ohio, Cleveland Clinic has made significant contributions to state and local economies, totaling $21.63 billion in 2019. The activities of Cleveland Clinic also supported more than 133,000 Ohio jobs, representing $8.78 billion in total earnings.
+Cleveland Clinic Florida, one of the largest employers in Broward County, had a total economic output of up to $4.12 billion, including 25,347 jobs and $1.66 billion in wages and benefits.
+Our presence in the Clark County region of Nevada totaled an economic output of $48.9 million, including 341 jobs and $22 million in wages and benefits.
+Download our Impact Report
+ABOUT CLEVELAND CLINIC
+Community Commitment
+Community Reports
+Community Health Needs Assessment Reports
+Community Benefit
+Economic Impact Report
+Questions 216.361.1773
+EMAIL US
+Facebook
+Twitter
+YouTube
+Instagram
+LinkedIn
+Pinterest
+Snapchat
+Actions
+Appointments & Access
+Accepted Insurance
+Events Calendar
+Financial Assistance
+Give to Cleveland Clinic
+Pay Your Bill Online
+Price Transparency
+Refer a Patient
+Phone Directory
+Virtual Second Opinions
+Virtual Visits
+Blog, News & Apps
+Consult QD
+Health Essentials
+Newsroom
+MyClevelandClinic
+MyChart
+About Cleveland Clinic
+100 Years of Cleveland Clinic
+About Us
+Locations
+Quality & Patient Safety
+Office of Diversity & Inclusion
+Patient Experience
+Research & Innovations
+Community Commitment
+Careers
+For Employees
+Resources for Medical Professionals
+Site Information & Policies
+Send Us Feedback
+Site Map
+About this Website
+Copyright, Reprint & Licensing
+Website Terms of Use
+Privacy Policy
+Notice of Privacy Practices
+Non-Discrimination Notice
+9500 Euclid Avenue, Cleveland, Ohio 44195 | 800.223.2273 | © 2024 Cleveland Clinic. All Rights Reserved.
+
+Remi: Results for 'Cleveland Clinic financial reports':
+Title: Financial Information &amp; Annual Reports - Cleveland Clinic
+Link: https://my.clevelandclinic.org/about/overview/financial-information
+Snippet: Cleveland <b>Clinic</b> is committed to transparency in <b>financial</b> reporting and effective stewardship of the assets of Cleveland <b>Clinic</b> according to its mission. View our <b>financial</b> <b>statements</b> and <b>annual</b> <b>reports</b> below. The Cleveland <b>Clinic</b> <b>Annual</b> <b>Report</b> contains the year’s statistics, operational highlights and achievements in science and medicine.
+Body Content: Important Updates
+
+
+Search
+Home
+/ About Cleveland Clinic / Cleveland Clinic Overview / Financial Information & Annual Reports
+Financial Information & Annual Reports
+Questions 216.444.2200
+CONTACT US
+Overview
+Financial Statements
+Form 990
+Annual Reports
+Overview
+Cleveland Clinic is committed to transparency in financial reporting and effective stewardship of the assets of Cleveland Clinic according to its mission. View our financial statements and annual reports below.
+The Cleveland Clinic Annual Report contains the year’s statistics, operational highlights and achievements in science and medicine. It includes a message from the chairman of the Board of Trustees and chief executive officer. It lists the names of all current Trustees and medical and operational leadership.
+ABOUT CLEVELAND CLINIC
+Cleveland Clinic Overview
+Who We Are
+Our Model of Healthcare
+Governance & Leadership
+Financial Information & Annual Reports
+Questions 216.444.2200
+CONTACT US
+Facebook
+Twitter
+YouTube
+Instagram
+LinkedIn
+Pinterest
+Snapchat
+Actions
+Appointments & Access
+Accepted Insurance
+Events Calendar
+Financial Assistance
+Give to Cleveland Clinic
+Pay Your Bill Online
+Price Transparency
+Refer a Patient
+Phone Directory
+Virtual Second Opinions
+Virtual Visits
+Blog, News & Apps
+Consult QD
+Health Essentials
+Newsroom
+MyClevelandClinic
+MyChart
+About Cleveland Clinic
+100 Years of Cleveland Clinic
+About Us
+Locations
+Quality & Patient Safety
+Office of Diversity & Inclusion
+Patient Experience
+Research & Innovations
+Community Commitment
+Careers
+For Employees
+Resources for Medical Professionals
+Site Information & Policies
+Send Us Feedback
+Site Map
+About this Website
+Copyright, Reprint & Licensing
+Website Terms of Use
+Privacy Policy
+Notice of Privacy Practices
+Non-Discrimination Notice
+9500 Euclid Avenue, Cleveland, Ohio 44195 | 800.223.2273 | © 2024 Cleveland Clinic. All Rights Reserved.
+
+Title: AUDITED CONSOLIDATED FINANCIAL STATEMENTS - Cleveland Clinic
+Link: https://my.clevelandclinic.org/-/scassets/files/org/about/financial-statements/4q-2022-interim-unaudited-fs-mda.pdf?la=en
+Snippet: The Cleveland <b>Clinic</b> Foundation (<b>Clinic</b>) is a nonprofit, tax-exempt, Ohio corporation organized and operated to provide medical and hospital care, medical research, and education. The accompanying consolidated <b>financial</b> <b>statements</b> include the accounts of the <b>Clinic</b> and its controlled affiliates, d.b.a. Cleveland <b>Clinic</b> Health System (System).
+Body Content: 
+
+PDF Link: https://my.clevelandclinic.org/-/scassets/files/org/about/financial-statements/cchs-2023-w-ob-nonob.pdf
+Title: Facts &amp; Figures - Cleveland Clinic
+Link: https://my.clevelandclinic.org/about/overview/who-we-are/facts-figures
+Snippet: Statistics. Cleveland <b>Clinic</b> is one of the world&#39;s largest and best healthcare systems, with 80,642 caregivers, 23 hospitals and 276 outpatient facilities in locations around the globe. We provide advanced, high-quality, compassionate care for millions of patients annually, while also conducting life-changing research and educating future ...
+Body Content: Important Updates
+
+
+Search
+Home
+/ About Cleveland Clinic / Cleveland Clinic Overview / Who We Are / Facts & Figures
+Facts & Figures
+Questions 216.444.2200
+CONTACT US
+Statistics
+Recognition
+Innovations
+Research & Education
+Treatment Outcomes
+Statistics
+Cleveland Clinic is one of the world's largest and best healthcare systems, with 80,642 caregivers, 23 hospitals and 276 outpatient facilities in locations around the globe.
+We provide advanced, high-quality, compassionate care for millions of patients annually, while also conducting life-changing research and educating future caregivers.
+Download Cleveland Clinic Facts & Figures.
+View our 2023 State of the Clinic Report.
+Please note: The statistics reflect official year-end totals as of Dec. 31, 2023, unless otherwise noted.
+Locations Worldwide
+Outpatient Locations 276
+Hospitals 23
+Beds 6,690
+Patient Care
+Unique Patients Worldwide 3,258,800
+Patient Encounters Worldwide 15,066,002
+Outpatient Encounters 13,676,501
+Admissions & Observations 323,090
+Surgeries & Procedures 301,080
+Emergency Department Visits 950,744
+Virtual Visits 917,534
+Caregivers
+Caregivers Worldwide 80,642
+Physicians & Scientists 5,743
+Advanced Practice Providers 3,630
+Registered Nurses 16,536
+Financials
+Operating Revenue $14,482,677,000
+Income from Operations $64,273,000
+Operating Margin 0.4%
+Education
+Residents & Fellows 2,202
+Accredited Training Programs 124
+Research
+Total Research Funding $435,000,000
+National Institutes of Health Funding $165,000,000
+Active Research Projects 3,719
+Philanthropy
+Philanthropic Commitments $357,000,000
+Community Impact
+Community Benefit (2022) $1,422,200,000
+Economic Impact (2019)
+U.S.
+$34,545,075,000
+Ohio
+$21,628,130,000
+Florida
+$4,117,869,000
+Nevada
+$48,942,000
+ABOUT CLEVELAND CLINIC
+Cleveland Clinic Overview
+Who We Are
+Mission, Vision & Values
+Facts & Figures
+Integrity & Innovations
+Northeast Ohio Business Ethics Coalition
+Employee Notice
+Questions 216.444.2200
+CONTACT US
+Facebook
+Twitter
+YouTube
+Instagram
+LinkedIn
+Pinterest
+Snapchat
+Actions
+Appointments & Access
+Accepted Insurance
+Events Calendar
+Financial Assistance
+Give to Cleveland Clinic
+Pay Your Bill Online
+Price Transparency
+Refer a Patient
+Phone Directory
+Virtual Second Opinions
+Virtual Visits
+Blog, News & Apps
+Consult QD
+Health Essentials
+Newsroom
+MyClevelandClinic
+MyChart
+About Cleveland Clinic
+100 Years of Cleveland Clinic
+About Us
+Locations
+Quality & Patient Safety
+Office of Diversity & Inclusion
+Patient Experience
+Research & Innovations
+Community Commitment
+Careers
+For Employees
+Resources for Medical Professionals
+Site Information & Policies
+Send Us Feedback
+Site Map
+About this Website
+Copyright, Reprint & Licensing
+Website Terms of Use
+Privacy Policy
+Notice of Privacy Practices
+Non-Discrimination Notice
+9500 Euclid Avenue, Cleveland, Ohio 44195 | 800.223.2273 | © 2024 Cleveland Clinic. All Rights Reserved.
+
+Title: The <b>Cleveland Clinic</b> Foundation d.b.a. <b>Cleveland Clinic</b> Health System ...
+Link: https://my.clevelandclinic.org/-/scassets/files/org/about/financial-statements/cchs-2022-w-ob-nonob.pdf?la=en
+Snippet: The <b>Cleveland Clinic</b> Foundation (<b>Clinic</b>) is a nonprofit, tax-exempt, Ohio corporation organized and operated to provide medical and hospital care, medical research, and education. The accompanying consolidated <b>financial</b> <b>statements</b> include the accounts of the and its <b>Clinic</b> controlled affiliates, d.b.a. <b>Cleveland Clinic</b> Health System (System).
+Body Content: 
+
+PDF Link: https://emma.msrb.org/P21670695-P21285810-P21715131.pdf
+PDF Link: https://emma.msrb.org/P21550746-P21198477-.pdf
+Title: 2019 YEAR-END FIGURES - Cleveland Clinic
+Link: https://my.clevelandclinic.org/-/scassets/files/org/about/who-we-are/cleveland-clinic-facts-and-figures-2019.ashx?la=en
+Snippet: Income from operations. CARE FOR THE COMMUNITY. $1.04B. <b>Annual</b> community benefit (2018) $17.8B. ic impact (2016)OHIOTo view Cleveland <b>Clinic</b>’s State of the <b>Clinic</b> 2019 <b>report</b>, visit <b>clevelandclinic</b>. Stats as of Dec. 31, 2019. 9500 Euclid Avenue | Cleveland, OH 44195 | <b>clevelandclinic.org</b>. 20-CCC-1989500.
+Body Content: 
+
+Title: <b>Cleveland Clinic</b> 2014 <b>Annual</b> <b>Report</b>
+Link: https://www.clevelandclinic.org/about/2014-annual-report/index.html
+Snippet: <b>Cleveland Clinic</b> set a new <b>annual</b> record for outpatient visits in 2014 — almost 6 million across all our facilities. We continued to see the highest-acuity patient population in America. We ranked No. 1 in both heart care and urology in U.S. News &amp; World <b>Report</b>, and in the national top ten for 11 other specialties.
+Body Content: DEAR FRIENDS
+Cleveland Clinic enjoyed a remarkable year in 2014. We achieved notable distinction in patient care, research and education. We built on our legacy of achievement and strengthened our commitment to quality, affordability and innovation. With a relentless focus on the patient, we are determined to lead in the new era of health and medicine.
+American healthcare is at an inflection point. Value has replaced volume as the basis of reward. Moving ahead, everyone in healthcare will be expected to do more with less. This means change, and change is what people fear most. But Cleveland Clinic will not veer from its mission. We are doubling down on our mission, caring for the patient of today while building for the patient of tomorrow.
+Cleveland Clinic set a new annual record for outpatient visits in 2014 — almost 6 million across all our facilities. We continued to see the highest-acuity patient population in America. We ranked No. 1 in both heart care and urology in U.S. News & World Report, and in the national top ten for 11 other specialties.
+  We expanded our integrated healthcare system with new buildings in Avon, Ohio, and Weston, Florida; groundbreaking for the new Cancer Building on our main campus; and plans for the new Health Education Campus in partnership with Case Western Reserve University.
+By any measure, we’ve had a very successful year. But the world of healthcare is changing, and we are in the process of adapting. In 2014, we launched The Power of Every One, an ambitious $2 billion philanthropic campaign to be completed in time for our 100th anniversary in 2021. This campaign is necessary to support our goals for the years ahead and to ensure that all our communities will continue to have access to the finest healthcare services.
+Our past successes are the result of acting as a unit and putting patients first. We will remain true to our mission. To accomplish this, how and where we provide care will change. Yesterday, our founders innovated for today. Today, we must innovate for tomorrow. Our caregivers will do what is necessary to make the changes to ensure superior quality, access and affordable care. We believe in the future of Cleveland Clinic.
+  Sincerely,
+Delos M. Cosgrove, MD
+CEO and President, Cleveland Clinic
+Robert E. Rich Jr.
+Director and Chairman of the Board
+THE POWER OF
+EVERY DECISION
+THE POWER OF
+EVERY SECOND
+THE POWER OF
+EVERY INSIGHT
+THE POWER OF
+EVERY MIND
+THE POWER OF
+EVERY DIMENSION
+THE POWER OF
+EVERY USER
+THE POWER OF
+EVERY STEP
+THE POWER OF
+EVERY SOLUTION
+THE POWER OF
+EVERY DIAGNOSIS
+A DEFINING MOMENT...
+“When I look at Cleveland Clinic, I see a community of people dedicated to a future where hearts are strong, minds remain sharp, and people live longer and better. All of us want to see that future. At this defining moment, our potential to deliver that future has never been greater.”
+– Stewart Kohl, Co-Chair, “The Power of Every One” campaign.
+“The continuing success of Cleveland Clinic depends on us. Our commitment. Our resources. Our determination that patient-centered care should not be the exception, but the rule in American healthcare. Cleveland Clinic is the model for the nation. And we are here to see that it will continue to inspire positive changes — the kind of changes you and I want to see — in American healthcare for years to come.”
+– Larry Pollock, Co-Chair, “The Power of Every One” campaign.
+To support Cleveland Clinic, go to clevelandclinic.org/giving.
+The Power of Every One – About Cleveland Clinic’s Centennial Campaign Video
+Download 2014 Annual Report
+© 2015 Cleveland Clinic
+
+Title: Economic Impact Report - Cleveland Clinic
+Link: https://my.clevelandclinic.org/about/community/reports/economic-impact-report
+Snippet: Our recent economic study measured the impact of Cleveland <b>Clinic</b> at the state and national levels. In 2019, Cleveland <b>Clinic</b> directly and indirectly supported $34.55 billion of economic activity in the U.S. through its ongoing operations and construction activities. These activities generated $1.89 billion in state and local taxes and $3.5 ...
+Body Content: Important Updates
+
+
+Search
+Home
+/ About Cleveland Clinic / Community Commitment / Community Reports / Economic Impact Report
+Economic Impact Report
+Questions 216.361.1773
+EMAIL US
+Cleveland Clinic: A Vital Economic Force
+Our Economic and Fiscal Impact report, examining 2019 data, shows that by fulfilling its mission, Cleveland Clinic also serves as a powerful economic engine in the communities it serves. Everywhere we operate, we are a leading employer and an economic generator.
+We strive to invest in local businesses through the purchase of goods and services, and we help cities and neighborhoods thrive through tax revenues that support critical services and infrastructure.
+Our recent economic study measured the impact of Cleveland Clinic at the state and national levels. In 2019, Cleveland Clinic directly and indirectly supported $34.55 billion of economic activity in the U.S. through its ongoing operations and construction activities. These activities generated $1.89 billion in state and local taxes and $3.5 billion in federal taxes.
+As the largest employer in Ohio, Cleveland Clinic has made significant contributions to state and local economies, totaling $21.63 billion in 2019. The activities of Cleveland Clinic also supported more than 133,000 Ohio jobs, representing $8.78 billion in total earnings.
+Cleveland Clinic Florida, one of the largest employers in Broward County, had a total economic output of up to $4.12 billion, including 25,347 jobs and $1.66 billion in wages and benefits.
+Our presence in the Clark County region of Nevada totaled an economic output of $48.9 million, including 341 jobs and $22 million in wages and benefits.
+Download our Impact Report
+ABOUT CLEVELAND CLINIC
+Community Commitment
+Community Reports
+Community Health Needs Assessment Reports
+Community Benefit
+Economic Impact Report
+Questions 216.361.1773
+EMAIL US
+Facebook
+Twitter
+YouTube
+Instagram
+LinkedIn
+Pinterest
+Snapchat
+Actions
+Appointments & Access
+Accepted Insurance
+Events Calendar
+Financial Assistance
+Give to Cleveland Clinic
+Pay Your Bill Online
+Price Transparency
+Refer a Patient
+Phone Directory
+Virtual Second Opinions
+Virtual Visits
+Blog, News & Apps
+Consult QD
+Health Essentials
+Newsroom
+MyClevelandClinic
+MyChart
+About Cleveland Clinic
+100 Years of Cleveland Clinic
+About Us
+Locations
+Quality & Patient Safety
+Office of Diversity & Inclusion
+Patient Experience
+Research & Innovations
+Community Commitment
+Careers
+For Employees
+Resources for Medical Professionals
+Site Information & Policies
+Send Us Feedback
+Site Map
+About this Website
+Copyright, Reprint & Licensing
+Website Terms of Use
+Privacy Policy
+Notice of Privacy Practices
+Non-Discrimination Notice
+9500 Euclid Avenue, Cleveland, Ohio 44195 | 800.223.2273 | © 2024 Cleveland Clinic. All Rights Reserved.
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
+Remi: Results for 'Cleveland Clinic labor union disputes':
+Title: Some Cleveland Clinic Lutheran Hospital workers could soon announce ...
+Link: https://www.ideastream.org/health/2023-08-18/some-cleveland-clinic-lutheran-hospital-workers-could-announce-strike-next-week
+Snippet: Stephen Langel is a health reporter with Ideastream Public Media&#39;s engaged journalism team. Negotiators for <b>Cleveland</b> <b>Clinic</b>&#39;s Lutheran Hospital met August 18 with members of the local healthcare workers <b>union</b> in what is the last scheduled contract negotiation before an anticipated strike. If workers do strike, care would not be disrupted, the ...
+Body Content: Menu
+ACCOUNT SIGN IN
+Live TV
+Donate
+WKSU HD1
+Science Friday
+NEXT UP:
+4:00 PM
+All Things Considered
+Health
+Some Cleveland Clinic Lutheran Hospital workers could soon announce strike
+Ideastream Public Media | By Stephen Langel
+Published August 18, 2023 at 6:49 PM EDT
+Facebook
+Twitter
+LinkedIn
+Email
+LISTEN • 0:50
+Community West Foundation
+The "When I Was Sick" statue is installed at the Cleveland Clinic Lutheran Hospital on West 25th Street in Cleveland. Members of the SEIU who work there are threatening to strike.
+Negotiators for the Cleveland Clinic's Lutheran Hospital met Friday with members of the Service Employees International Union District 1199 representing healthcare and other workers in an ongoing contract negotiation that could lead to a strike.
+The negotiation is the last of nearly 20 bargaining sessions between the sides since the current collective bargaining agreement expired at the end of April. If these negotiations fail, then a strike could occur as soon as next week, according to SEIU 1199 director and chief negotiator Vanessa Dalesandro.
+A hospital spokesperson said Lutheran is looking forward to continued negotiations and pledged that patient care will not be impacted.
+"We want to reassure the community that care for patients will continue uninterrupted at the hospital,” the spokesperson said.
+The SEIU union does not represent registered nurses, according to the hospital. Instead, it represents workers in dietary, environmental services, transport, maintenance and nursing support roles. The hospital added that many of those who picketed in front of the hospital on Thursday were not members of the union's bargaining unit at the hospital.
+To date, SEIU said it has filed more than two dozen unfair labor practice charges against the hospital for issues such as failure to bargain in good faith, refusing to provide information, retaliation, harassment and discrimination against union members and intimidation and interfering with union member rights.
+But, according to Dalesandro and other union negotiators, the dispute with Lutheran is about more than the union contract, it's about equal treatment and respect.
+"There are a lot of benefits that are being ... given to other caregivers of the Cleveland Clinic because they're not in the union," she said. The Clinic leaders "are absolutely creating this divide based on union status."
+For example, union members want paid parental leave, short-term disability insurance, a retirement account match and the right to be called “caregivers” like non-union members, union executive board director and power plant mechanic Brian Higgins said.
+"Everyone else is a caregiver," he said. "They refuse to let us be called 'caregiver' in our contract. That's a big thing because that shows respect."
+Higgins said of the lack of parental leave for union members makes it difficult for workers to balance caregiving responsibilities at home with work obligations.
+"How can we care for our family at work if we can't care for our family at home?" he said.
+The refusal to provide a retirement match also is painful for union members, he said.
+"They're not investing in our retirement," Higgins said. "They're not investing in our future. It hurts."
+Delasandro said the union will provide a timeline for a potential strike early next week. But, she added SEIU is by no means closing the door to further talks.
+"We are willing to negotiate," she said. "We show up every time. We've given proposals and counters and responses. And we'll continue to do that, and we'll continue to make ourselves available to bargain and we'll make a good faith effort to bargain any time the hospital wants to bargain — to try to reach an agreement before we get to that point" of striking.
+Health
+Facebook
+Twitter
+LinkedIn
+Email
+Stephen Langel
+Stephen Langel is a health reporter with Ideastream Public Media's engaged journalism team.
+See stories by Stephen Langel
+More By This Reporter
+I admit to bias on one story. Wiener dogs rule
+September 5, 2024
+Northeast Ohio hospitals hosting public events to build community trust in medical research
+September 3, 2024
+The little dog with a big following: Kent hosts one of the nation's largest dachshund events
+August 29, 2024
+After years of addiction, this Lorain man is fighting food insecurity through urban farming
+August 28, 2024
+America Amplified
+What questions do you have about participating in the upcoming election?
+Ask Your Question Now
+Art Saves
+Whether someone faces mental illness, systemic social barriers or any other challenges, art in its many forms offers a way to express, heal, transform and find joy.
+Meet The Artists
+Stay Connected
+instagram
+youtube
+linkedin
+© 2024 Ideastream Public Media
+
+1375 Euclid Avenue, Cleveland, Ohio 44115
+(216) 916-6100 | (877) 399-3307
+
+WKSU is a public media service licensed to Kent State University and operated by Ideastream Public Media.
+ABOUT
+About Ideastream Public Media
+About Idea Center
+Leadership
+Community Advisory Board
+Board of Trustees
+Sign Up For Our Email Newsletters
+Coverage Area
+Terms of Use
+Privacy Policy
+SUPPORT
+Become a Member
+Membership F.A.Q.s
+Sustaining Memberships
+Donate Your Vehicle
+Make a Matching Gift
+Become an IdeaLeader
+Make a Planned Gift
+Making a Gift of Stock/Securities
+Sponsor Our Programs
+End of Year Gift Information
+Real Estate Donation Program
+Donor Bill of Rights
+Donation Refund Policy
+RESOURCES
+Contact Us
+Careers
+Internships
+Public Files
+Boards, Financials & Reports
+Directions to the Idea Center
+Closed Captioning Quality Certification
+Press Room
+Official Sweepstakes Rules
+FCC Applications
+Copyright Infringement Claim Policy
+PMWC Playbook
+
+Title: SEIU 1199 calls out Cleveland Clinic during contract negotiations - Axios
+Link: https://www.axios.com/local/cleveland/2023/08/18/seiu-1199-cleveland-clinic-contract-negotiations
+Snippet: Photo: Sam Allard/Axios. Service employees at Lutheran Hospital in Ohio City staged a rally and informational picket Wednesday afternoon, calling out <b>Cleveland</b> <b>Clinic</b> for refusing to negotiate a new <b>union</b> contract in good faith. Why it matters: The 170 unionized workers at Lutheran — including licensed practical nurses, maintenance workers ...
+Body Content: www.axios.com
+Verifying you are human. This may take a few seconds.
+www.axios.com needs to review the security of your connection before proceeding.
+Ray ID: 8bf120442bfd5555
+Performance & security by Cloudflare
+
+Title: Cleveland’s mayor signs historic policy change that will benefit labor ...
+Link: https://www.cleveland19.com/2024/09/05/clevelands-mayor-signs-historic-policy-change-that-will-benefit-labor-unions-by-securing-more-jobs/
+Snippet: Wondolowski says local <b>labor</b> <b>unions</b> have been working on the <b>Cleveland</b> <b>Clinic</b> 3 that includes building two new research centers on the main campus. It’s work that over a four year period will ...
+Body Content: Skip to content
+71°
+Cleveland, OH
+News
+Live
+First Alert Weather
+Video
+Closings
+Cleveland’s mayor signs historic policy change that will benefit labor unions by securing more jobs
+By Michelle Nicks
+Published: Sep. 4, 2024 at 11:06 PM EDT
+Email This LinkShare on FacebookShare on X (formerly Twitter)Share on PinterestShare on LinkedIn
+CLEVELAND, Ohio (WOIO) - Cleveland Mayor Justin Bibb makes it official. Signing off on a commitment from the city to local labor unions on what’s referred to as a PLA or Project Labor Agreement.
+Mayor Bibb signed the new city policy with news cameras rolling and while speaking at the International Union of Operating Engineers, Local 18 on Prospect Avenue in Cleveland.
+The historic executive order means that local labor unions will be awarded a fair share of the economic pie according to Mayor Bibb, “It just guarantees that we make sure that the unions are a part of all the critical infrastructure projects that we’re creating in our city. Projects over a half million dollars or more. We need more folks that can be carpenters, electricians, plumbers, lay brick and concrete, you name it. That’s why that $ 10-million investment we made in our workforce development training is so important, especially for young people across the city.”
+Dave Wondolowski is the Executive Secretary of the Cleveland Building Trades Council, “Anytime we’re creating policies like this we’re able to build a pipeline of work that’s going to be sustainable to bring more workers into the trades. We need people everywhere, and the volume of work we’re faced with in Northeast Ohio is unprecedented.”
+Wondolowski says local labor unions have been working on the Cleveland Clinic 3 that includes building two new research centers on the main campus. It’s work that over a four year period will employ 1500 workers.
+A job fair was held at the union hall following the announcement and those interested in the building trades learned that can make a starting wage of between $20 and $25, and with benefits they can earn up to $60 to $70 an hour.|
+The Cleveland Builds program can provide more information about the apprentice programs, and the best part according to Wondolowski, “You get paid while you work. So you earn while you learn.”
+Copyright 2024 WOIO. All rights reserved.
+Homemade bariatric: This tea eats fat (see how to make it)
+Homemade Solutions
+|
+Sponsored
+Here's What Gutter Guards Should Cost You In 2024
+HomeBuddy
+|
+Sponsored
+Avoid These 3 Things If You Are Constipated Or Bloated
+The Terrifying Truth On How Constipation And Bloating May Be Affecting Your Health
+EmmaRelief
+|
+Sponsored
+The Cost Of Dental Implants For Seniors in 2024 (See Pricing)
+Best Searches
+|
+Sponsored
+These Never-Driven Trucks In Columbus Are Selling For Dirt Cheap
+Unsold Trucks | Search Ads
+|
+Sponsored
+The Average Walk-In Shower Cost in 2024
+Kohler Showers
+|
+Sponsored
+$99 Hearing Aids Better Than $2500 Ones?
+SeniorBetterLife
+|
+Sponsored
+Dental Implants For Seniors May Be Paid For By Medicare (See How)
+PopularSearches
+|
+Sponsored
+New Electric Cars Are Cheaper Than Expected (Take A Look)
+CommonSearches
+|
+Sponsored
+Click Here
+Struggling with high blood sugar? Try this cinnamon ritual before bed!
+solutionforhealthcare.com
+|
+Sponsored
+Most Read
+Woman killed in I-480 crash identified
+Akron residents return home after huge HAZMAT fire at commercial business
+17-year-old dies, 4 injured after shooting near Euclid high school
+3 Cleveland Heights officers shot, killed 18-year-old after domestic dispute: Police
+Garfield Heights police chase ends in fiery crash on I-77; at least 3 people hurt
+3 arrested for beating death of Akron teenager outside I Promise School, US Marshals say
+Akron man brutally beaten, stripped naked at Circle K by group of men
+Cleveland Police, SWAT swarm Old Brooklyn home
+Latest News
+Cause of massive HAZMAT fire in Akron under investigation; firefighters remain on scene
+Your annual reminder alcohol is not allowed at Muni Lot tailgates in Cleveland
+1 man dies in double shooting on Cleveland’s West Side
+Crash blocks I-76 W in Portage County
+Akron air quality: Officials say air is safe as chemical fire continues burning
+Several cases of botulism found in Ohio prison linked to ‘hooch’
+Afternoon shootout in Akron apartment parking lot injures 18-year-old woman, police say
+Cause of massive HAZMAT fire in Akron under investigation; firefighters remain on scene
+Home
+News
+First Alert Weather
+Sports
+Traffic
+Health
+Food
+Community
+Contact Us
+WOIO
+1717 E. 12th Street
+Cleveland, OH 44114
+(216) 771-1943
+Public Inspection File
+FCC Applications
+publicfile@woio.com - (216) 367-7535
+Terms of Service
+Privacy Policy
+EEO Report
+Advertising
+Digital Marketing
+Closed Captioning/Audio Description Problems
+Persons With Disabilities
+At Gray, our journalists report, write, edit and produce the news content that informs the communities we serve. Click here to learn more about our approach to artificial intelligence.
+A Gray Local Media Station © 2002-2024
+
+Title: Cleveland Clinic Lutheran Hospital union could vote to strike - wkyc.com
+Link: https://www.wkyc.com/article/news/local/cleveland/union-workers-cleveland-clinic-lutheran-hospital-vote-to-go-on-strike-unfair-labor-practices/95-c5ed0690-87cc-4bbe-948d-a6deb4cab997
+Snippet: <b>CLEVELAND</b> — More than 175 <b>union</b> employees at <b>Cleveland</b> <b>Clinic</b> Lutheran Hospital have voted to strike over what they call &quot;unfair <b>labor</b> practices&quot; from management. Members of Service Employees ...
+Body Content: News
+Weather
+Sports
+VERIFY
+Search
+Cleveland, OH »
+72°
+ADVERTISE WITH US
+CLEVELAND
+AKRON
+MISSION POSSIBLE
+A TURNING POINT
+CONTESTS
+TV LISTINGS
+EDUCATION STATION
+CLEVELAND GUARDIANS
+GO-HIO
+PETS
+LEBRON JAMES FAMILY FOUNDATION
+GOOD COMPANY
+GO! 4:30-7 A.M.
+3NEWS AT 4
+3NEWS AT 5
+3NEWS AT 6
+3NEWS AT 7
+WHAT'S NEXT: 11 P.M.
+FRONT ROW FRIDAY
+CLEVELAND
+'Caregivers won't back down': Union workers at Cleveland Clinic Lutheran Hospital vote to go on strike
+Members of SEIU 1199 claim the Clinic has 'refused to bargain on good faith' after their previous collective bargaining agreement expired earlier this year.
+Author: Tyler Carey
+Published: 9:16 PM EDT July 28, 2023
+Updated: 11:49 PM EDT July 28, 2023
+CLEVELAND — More than 175 union employees at Cleveland Clinic Lutheran Hospital have voted to strike over what they call "unfair labor practices" from management.
+Members of Service Employees International Union District 1199 confirmed the affirmative vote to 3News Friday evening. The workers impacted include licensed practical nurses, nursing assistants, maintenance workers, and housekeepers, among others.
+SUBSCRIBE: Get the day's top local and national headlines sent to your email inbox each weekday morning with 3News to GO! newsletter
+SEIU 1199 has been negotiating a new contract with Cleveland Clinic ever since the previous collective bargaining agreement expired earlier this year, but workers claim the hospital "has refused to bargain in good faith with the union" and also say the National Labor Relations Board is investigating more than 20 allegations against Clinic management that include "refusal to furnish information, illegal union busting activities, retaliation, [and] discrimination."
+"Cleveland Clinic leadership needs to put caregivers and patients over profits!" SEIU 1199 Director Vanessa Dalesandro said Thursday, prior to the strike vote. "They are more worried about stealing workers' rights and lining their own pockets, than risking the continuity of patient care. Caregivers at Lutheran Hospital deserve a fair contract that values them and should not have to fight this hard to have their legal right to bargain respected."
+The union previously authorized a notice of intent to strike back on April 28, but still could not reach an agreement with the Clinic despite a purported 16 meetings on the subject. With the final vote now completed, the hospital system is expected to be formally made aware of their intentions in the coming days, with a walkout date being made public thereafter.
+WKYC has reached out to Cleveland Clinic for comment, but has yet to hear back.
+MORE FROM 3NEWS...
+Related Articles
+UPS drivers to get higher pay, AC in trucks under new deal struck with union
+A-list celebrities hit the picket line to support striking actors, writers
+American Airlines has a tentative contract deal with its pilots. Southwest is still negotiating
+Want to be among the first to know the most important local and national news? You can download the free WKYC app and get the latest updates right on your phone: Android, Apple. 
+Close Ad
+Here's What Gutter Guards Should Cost You In 2024
+HomeBuddy
+|
+Sponsored
+Learn More
+Homemade bariatric: This tea eats fat (see how to make it)
+Homemade Solutions
+|
+Sponsored
+The Average Walk-In Shower Cost in 2024
+Kohler Showers
+|
+Sponsored
+Learn More
+The Cost Of Dental Implants For Seniors in 2024 (See Pricing)
+Best Searches
+|
+Sponsored
+Here's an Estimated Cost for a One-Day Walk-in Shower
+HomeBuddy
+|
+Sponsored
+These Never-Driven Trucks In Columbus Are Selling For Dirt Cheap
+Unsold Trucks | Search Ads
+|
+Sponsored
+Chemical explosion in Akron
+WKYC
+Evacuation order lifted after commercial fire in Akron: Officials to give update with press conference at 12 p.m. today
+WKYC
+LOADING NEXT ARTICLE...
+Jobs
+Terms of Service
+Privacy Policy
+Ad Choices
+EEO Public File Report
+FCC Online Public Inspection File
+Closed Caption Procedures
+Do Not Sell or Share My Personal Information
+© 2024 WKYC-TV. All Rights Reserved.
+
+Title: Cleveland Clinic Lutheran Hospital workers reach agreement, avert strike
+Link: https://fox8.com/news/lutheran-hospital-workers-ratify-contract-avert-strike/
+Snippet: The <b>union</b> on Aug. 22 delivered its notice to strike, after filing more than two dozen charges of unfair <b>labor</b> practices against the <b>Cleveland</b> <b>Clinic</b> with the National <b>Labor</b> Relations Board ...
+Body Content: Press & Hold to confirm you are
+a human (and not a bot).
+Having a problem?
+Reference ID d01e0d66-6c8c-11ef-bc37-89af4c5315c3
+
+Title: Union notifies Cleveland Clinic Lutheran Hospital of plans to strike ...
+Link: https://www.ideastream.org/health/2023-08-22/union-notifies-cleveland-clinic-lutheran-hospital-of-plans-to-strike-starting-labor-day
+Snippet: Members of the Service Employees International <b>Union</b> working at <b>Cleveland</b> <b>Clinic</b> Lutheran Hospital formally announced plans to strike beginning at 8 a.m. on <b>Labor</b> Day after efforts to agree on a new collective bargaining contract failed.
+Body Content: Menu
+ACCOUNT SIGN IN
+Live TV
+Donate
+WKSU HD1
+Science Friday
+NEXT UP:
+4:00 PM
+All Things Considered
+Health
+Union notifies Cleveland Clinic Lutheran Hospital of plans to strike starting Labor Day
+Ideastream Public Media | By Stephen Langel
+Published August 22, 2023 at 3:51 PM EDT
+Facebook
+Twitter
+LinkedIn
+Email
+LISTEN • 0:52
+Ygal Kaufman
+/
+Ideastream Public Media
+Brian Higgins (left), grievance chair of the SEIU District 1199 executive board, hands a notice of an intent to strike to Cleveland Clinic Lutheran Hospital president Dr. Timothy Barnett inside Lutheran Hospital on Aug. 22, 2023.
+Members of the Service Employees International Union working at Cleveland Clinic Lutheran Hospital formally announced plans to strike beginning at 8 a.m. on Labor Day after efforts to agree on a new collective bargaining contract failed.
+A group of 11 SEIU District 1199 members entered the hospital in Ohio City around noon Tuesday and delivered the one-page notice to hospital president Dr. Timothy Barnett. Hospital officials called police and security, who peacefully ushered members from the building.
+The SEIU — which represents transportation, maintenance and nursing support roles — and the hospital have been negotiating since the union's previous contract expired in April.
+The Cleveland Clinic is to blame for the strike, said Brian Higgins, grievance chair of the union’s executive board.
+“The Cleveland Clinic has refused to bargain in good faith," he said. "They've left us no choice."
+Among the issues the union has raised in talks is what it sees as preferential treatment given to nonunion employees. Union members want paid parental leave, short-term disability insurance, a retirement account match and the right to be called “caregivers” like non-union members, Higgins said.
+"It just makes you feel horrible," he said of the different treatment he believes union members receive. "It hurts. It hurts."
+1 of 7
+Ygal Kaufman / Ideastream Public Media
+Union members allege discrimination, unequal treatment and retaliation by the hospital for their union organizing.
+"They discriminate against the union because we want to have a voice at the table," Higgins said.
+The union has filed more than two dozen unfair labor practice charges against the hospital for issues such as failure to bargain in good faith, refusing to provide information, retaliation, harassment and discrimination against union members and intimidation and interfering with union member rights, according to the SEIU.
+For its part, the Clinic said it plans to continue bargaining, adding in the meantime there will be no interruption of care.
+“We plan to continue negotiating with the bargaining unit at Lutheran Hospital with the goal of achieving a mutually agreeable contract renewal," the hospital said in a statement issued Tuesday afternoon.
+On this, both sides agree. Union members also pledged to continue working toward an agreement.
+"We're always going to reach out to the hospital, to the Cleveland Clinic, to negotiate. Always" Higgins said. "But, until then, we'll be out here 24 hours a day, seven days a week" picketing.
+Health
+Facebook
+Twitter
+LinkedIn
+Email
+Stephen Langel
+Stephen Langel is a health reporter with Ideastream Public Media's engaged journalism team.
+See stories by Stephen Langel
+More By This Reporter
+I admit to bias on one story. Wiener dogs rule
+September 5, 2024
+Northeast Ohio hospitals hosting public events to build community trust in medical research
+September 3, 2024
+The little dog with a big following: Kent hosts one of the nation's largest dachshund events
+August 29, 2024
+After years of addiction, this Lorain man is fighting food insecurity through urban farming
+August 28, 2024
+America Amplified
+What questions do you have about participating in the upcoming election?
+Ask Your Question Now
+Art Saves
+Whether someone faces mental illness, systemic social barriers or any other challenges, art in its many forms offers a way to express, heal, transform and find joy.
+Meet The Artists
+Related Content
+Some Cleveland Clinic Lutheran Hospital workers could soon announce strike
+August 18, 2023
+Stay Connected
+instagram
+youtube
+linkedin
+© 2024 Ideastream Public Media
+
+1375 Euclid Avenue, Cleveland, Ohio 44115
+(216) 916-6100 | (877) 399-3307
+
+WKSU is a public media service licensed to Kent State University and operated by Ideastream Public Media.
+ABOUT
+About Ideastream Public Media
+About Idea Center
+Leadership
+Community Advisory Board
+Board of Trustees
+Sign Up For Our Email Newsletters
+Coverage Area
+Terms of Use
+Privacy Policy
+SUPPORT
+Become a Member
+Membership F.A.Q.s
+Sustaining Memberships
+Donate Your Vehicle
+Make a Matching Gift
+Become an IdeaLeader
+Make a Planned Gift
+Making a Gift of Stock/Securities
+Sponsor Our Programs
+End of Year Gift Information
+Real Estate Donation Program
+Donor Bill of Rights
+Donation Refund Policy
+RESOURCES
+Contact Us
+Careers
+Internships
+Public Files
+Boards, Financials & Reports
+Directions to the Idea Center
+Closed Captioning Quality Certification
+Press Room
+Official Sweepstakes Rules
+FCC Applications
+Copyright Infringement Claim Policy
+PMWC Playbook
+
+Title: Amid negotiations, Cleveland Clinic Lutheran Hospital union workers ...
+Link: https://www.wkyc.com/article/news/local/cleveland/union-workers-cleveland-clinic-lutheran-hospital-picket-fair-contract-amid-negotiations/95-f017059e-35f4-4252-9a25-a834eca533c7
+Snippet: Updated: 11:37 PM EDT August 16, 2023. <b>CLEVELAND</b> — <b>Cleveland</b> <b>Clinic</b> Lutheran Hospital <b>union</b> workers and their supporters hit the streets Wednesday afternoon to call for a fair contract amid ...
+Body Content: News
+Weather
+Sports
+VERIFY
+Search
+71°
+Weather
+ADVERTISE WITH US
+CLEVELAND
+AKRON
+MISSION POSSIBLE
+A TURNING POINT
+CONTESTS
+TV LISTINGS
+EDUCATION STATION
+CLEVELAND GUARDIANS
+GO-HIO
+PETS
+LEBRON JAMES FAMILY FOUNDATION
+GOOD COMPANY
+GO! 4:30-7 A.M.
+3NEWS AT 4
+3NEWS AT 5
+3NEWS AT 6
+3NEWS AT 7
+WHAT'S NEXT: 11 P.M.
+FRONT ROW FRIDAY
+CLEVELAND
+Amid negotiations, Cleveland Clinic Lutheran Hospital union workers picket for fair contract
+Hundreds of union members and their supporters stood outside the hospital in Ohio City on Wednesday calling for change.
+Author: Bri Buckley
+Published: 11:37 PM EDT August 16, 2023
+Updated: 11:37 PM EDT August 16, 2023
+CLEVELAND — Cleveland Clinic Lutheran Hospital union workers and their supporters hit the streets Wednesday afternoon to call for a fair contract amid ongoing negotiations.
+Members of Service Employees International Union District 1199 claim the Clinic has "refused to bargain on good faith" after their previous collective bargaining agreement expired earlier this year.
+In July the union voted to strike over what they call "unfair labor practices" from management.
+"The hospital tried to take away our right to have a union back in February, we obviously fought that back and told them we want our union and ever since then they're just stepping on our necks," said Brian Higgins, a powerplant mechanic at Lutheran Hospital.
+Higgins said working conditions have gotten worse over the last 9 months and union members are being retaliated against.
+"I've been here 14 years, I've always got an outstanding or a strong evaluation the top two you can get, since we turned in this informational picket I've been written up three times, the hospital is trying to silence my voice and silence my workers voice," Higgins said.
+The group said they are being denied pay increases and healthcare benefits that other non union employees receive.
+"If you're offering paid maternity leave and parental leave , why are you not offering it to us?" Higgins said.
+Lourdes Foley is a nurse's aide and has been at the hospital for 30 years. She said she was assaulted by a patient on Sunday then was expected to keep working.
+"I go to [the] ER, the manager is covering my floor at the time is saying when are you getting back to work, I had her on speaker, me and a doctor said no she's not coming back to work," Foley said.
+Local leaders joined the group to show their support.
+"Roughly two thirds of the workforce we're talking about are women, 60% are persons of color, this is a class of people that we need to continue to support," said Cuyahoga County Executive Chris Ronayne.
+Ronayne joined Senator Sherrod Brown, Cleveland Mayor Justin Bibb and U.S. Representatives Emilia Sykes and Shontel Brown in sending a letter to the hospital pushing for a fair contract and requesting a meeting with leadership. The group said it had previously asked for a meeting but was denied.
+Next Big Move: OpenAI's Newsroom Debuts on X - Exciting Announcements to Follow Soon?
+FEATURED BY
+3News reached out to the Cleveland Clinic for comment. A spokesperson shared this statement:
+“We look forward to resuming negotiations this Friday with the bargaining unit at Lutheran Hospital. We want to reassure the community that care for patients will continue uninterrupted at the hospital.”  
+The two sides will meet on Friday August 18 to continue contract talks.
+Previous Reporting:
+'There is just not equity and equality here': Cleveland Clinic Lutheran Hospital union workers ready to walk out, claiming unfair labor practices
+'Caregivers won't back down': Union workers at Cleveland Clinic Lutheran Hospital vote to go on strike
+Close Ad
+Here's What Gutter Guards Should Cost You In 2024
+The Actual Cost of Gutter Guards In 2024 May Surprise You
+HomeBuddy
+|
+Sponsored
+Learn More
+This New Outlander Has Left Us Speechless
+Frequent Searches
+|
+Sponsored
+The Average Walk-In Shower Cost in 2024
+Here's Why These Affordable Walk-In Showers Are Sweeping America In 2024
+Kohler Showers
+|
+Sponsored
+Learn More
+The Cost Of Dental Implants For Seniors in 2024 (See Pricing)
+Best Searches
+|
+Sponsored
+Homemade bariatric: This tea eats fat (see how to make it)
+Homemade Solutions
+|
+Sponsored
+Here's an Estimated Cost for a One-Day Walk-in Shower
+HomeBuddy
+|
+Sponsored
+What are your realistic expectations for Deshaun Watson vs. the Dallas Cowboys?
+WKYC
+Teen accused of killing 4 people at Apalachee High School appears in court
+WKYC
+LOADING NEXT ARTICLE...
+Jobs
+Terms of Service
+Privacy Policy
+Ad Choices
+EEO Public File Report
+FCC Online Public Inspection File
+Closed Caption Procedures
+Do Not Sell or Share My Personal Information
+© 2024 WKYC-TV. All Rights Reserved.
+
+Title: Cleveland Clinic Lutheran Hospital caregivers give strike notice - wkyc.com
+Link: https://www.wkyc.com/article/news/local/cleveland/cleveland-clinic-lutheran-hospital-caregivers-notice-of-strike-sept-4/95-f1852d6e-6862-42ec-a025-7edbd4eefd5c
+Snippet: On Tuesday, SEIU 1199 caregivers at <b>Cleveland</b> <b>Clinic</b> Lutheran Hospital hand delivered a notice that &quot;they intend to go on an unfair <b>labor</b> practice (ULP) strike beginning on <b>Labor</b> Day, September ...
+Body Content: News
+Weather
+Sports
+VERIFY
+Search
+71°
+Weather
+ADVERTISE WITH US
+CLEVELAND
+AKRON
+MISSION POSSIBLE
+A TURNING POINT
+CONTESTS
+TV LISTINGS
+EDUCATION STATION
+CLEVELAND GUARDIANS
+GO-HIO
+PETS
+LEBRON JAMES FAMILY FOUNDATION
+GOOD COMPANY
+GO! 4:30-7 A.M.
+3NEWS AT 4
+3NEWS AT 5
+3NEWS AT 6
+3NEWS AT 7
+WHAT'S NEXT: 11 P.M.
+FRONT ROW FRIDAY
+CLEVELAND
+Cleveland Clinic caregivers give notice of strike at Lutheran Hospital beginning Sept. 4
+The announcement comes weeks after SEIU 1199 caregivers voted overwhelmingly to authorize a ULP strike.
+Author: Ben Axelrod, Bri Buckley
+Published: 1:10 PM EDT August 22, 2023
+Updated: 11:17 PM EDT August 22, 2023
+CLEVELAND — As negotiations between caregivers at Lutheran Hospital and the Cleveland Clinic continue, a potential strike looms.
+On Tuesday, SEIU 1199 caregivers at Cleveland Clinic Lutheran Hospital hand delivered a notice that "they intend to go on an unfair labor practice (ULP) strike beginning on Labor Day, September 4th."
+"This notice was delivered as a direct result of the union having to file over two dozen ULP charges with the National Labor Relations Board against Lutheran Hospital for issues such as refusal to furnish information, illegal union busting activities, retaliation, discrimination, among others," the union said in a release. "Cleveland Clinic blatantly discriminates against some of the lowest paid caregivers, who are predominantly women and people of color. These caregivers are deprived of paid maternity and parental leave, employer-paid disability coverage, 403(b) retirement security, and must work more hours to be eligible for hospital benefits than their counterparts."
+Following Tuesday's announcement, the Cleveland Clinic provided the following statement to 3News: “We want to assure the community that care for patients at Lutheran Hospital will go on uninterrupted. We plan to continue negotiating with the bargaining unit at Lutheran Hospital with the goal of achieving a mutually agreeable contract renewal. We appreciate the loyalty and dedication of all our caregivers at Lutheran Hospital.”
+"The ball is in their court at this point. They've waged this war and we are not backing down until we have equity and equality for all union caregivers," said Vanessa Dalesandro, SEIU District 1199 director.
+The notice comes nearly one month after the union first voted to authorize a potential strike among ongoing negotiations following the expiration of its previous collective bargaining agreement earlier this year. Workers have claimed the hospital "has refused to bargain in good faith with the union" and also say the National Labor Relations Board is investigating more than 20 allegations against Clinic management that include "refusal to furnish information, illegal union busting activities, retaliation, [and] discrimination."
+"I mean we've met 19 times now and they've been ineffective and unproductive and we need the hospital to come to the table and bargain in good faith," Dalesandro added. "They had wages on the table at 1.5% which is nothing in comparison to the day-to-day necessities so there's just nothing that they have put on the table that definitely would make caregivers feel appreciated and valued."
+Last week, U.S. Senator Sherrod Brown (D-OH), U.S. Representatives Shontel Brown (D-OH-11) and Emilia Sykes (D-OH-13), Cleveland Mayor Justin Bibb, and Cuyahoga County Executive Chris Ronayne wrote a joint letter to the leadership at Cleveland Clinic’s Lutheran Hospital, "urging them to work to reach an equitable agreement with the workers at the Lutheran Hospital as soon as possible."
+“Like you, these workers care deeply about the health of their community and are committed to ensuring patients get the best possible care," the letter, which can be read in full here, reads. "We urge you to find a way toward reaching a fair and equitable agreement in a timely manner, and we will continue to encourage SEIU leadership to do the same. We appreciate your time and attention to this matter, as well as the Clinic’s leadership and partnership on many issues, and look forward to continued work with you and your team to serve the health care needs of Ohioans."
+Related Articles
+'Caregivers won't back down': Union workers at Cleveland Clinic Lutheran Hospital vote to go on strike
+'There is just not equity and equality here': Cleveland Clinic Lutheran Hospital union workers ready to walk out, claiming unfair labor practices
+Amid negotiations, Cleveland Clinic Lutheran Hospital union workers picket for fair contract
+Close Ad
+Here's What Gutter Guards Should Cost You In 2024
+The Actual Cost of Gutter Guards In 2024 May Surprise You
+HomeBuddy
+|
+Sponsored
+Learn More
+Homemade bariatric: This tea eats fat (see how to make it)
+Homemade Solutions
+|
+Sponsored
+The Average Walk-In Shower Cost in 2024
+Here's Why These Affordable Walk-In Showers Are Sweeping America In 2024
+Kohler Showers
+|
+Sponsored
+Learn More
+The Cost Of Dental Implants For Seniors in 2024 (See Pricing)
+Best Searches
+|
+Sponsored
+Here's an Estimated Cost for a One-Day Walk-in Shower
+HomeBuddy
+|
+Sponsored
+These Never-Driven Trucks In Columbus Are Selling For Dirt Cheap
+Unsold Trucks | Search Ads
+|
+Sponsored
+Chemical explosion in Akron
+WKYC
+Teen accused of killing 4 people at Apalachee High School appears in court
+WKYC
+LOADING NEXT ARTICLE...
+Jobs
+Terms of Service
+Privacy Policy
+Ad Choices
+EEO Public File Report
+FCC Online Public Inspection File
+Closed Caption Procedures
+Do Not Sell or Share My Personal Information
+© 2024 WKYC-TV. All Rights Reserved.
+
+Title: Rally held outside Cleveland Clinic Lutheran Hospital by union workers ...
+Link: https://www.cleveland19.com/2023/08/17/rally-held-outside-cleveland-clinic-lutheran-hospital-by-union-workers-demanding-fair-contract/
+Snippet: Published: Aug. 17, 2023 at 2:38 AM PDT. <b>CLEVELAND</b>, Ohio (WOIO) - Local caregivers took a stand demanding a fair contract by holding a rally and informational picket in front of <b>Cleveland</b> <b>Clinic</b> ...
+Body Content: Skip to content
+71°
+Cleveland, OH
+News
+Live
+First Alert Weather
+Video
+Closings
+Rally held outside Cleveland Clinic Lutheran Hospital by union workers demanding a fair contract
+By Michelle Nicks - WOIO
+Published: Aug. 17, 2023 at 5:38 AM EDT
+Email This LinkShare on FacebookShare on X (formerly Twitter)Share on PinterestShare on LinkedIn
+CLEVELAND, Ohio (WOIO) - Local caregivers took a stand demanding a fair contract by holding a rally and informational picket in front of Cleveland Clinic Lutheran Hospital on Wednesday.
+Nearly 200 members of SEIU District 1199 are part of the union that represents LPN’s, nurse’s aides, transporters, house cleaning staff and several other positions at the hospital. Brian Higgins has worked at the hospital for well over a decade as a power plant mechanic and is currently on the SEIU, Executive Board, “We’ve been negotiating since the beginning of April and the hospital refuses to negotiate. We’ve had to file over 20 unfair labor practice charges with the National Labor Relations Board, because of that.”
+The union, fighting for equity and equality, was joined at the rally by a number of area lawmakers, including State Senator Kent Smith of Euclid.
+“We will stand with you in Columbus, we will stand with you in Cleveland. We will stand with you where you need us to be,” Smith said.
+The group of workers and community supporters tell 19 News they deserve the same care the Cleveland Clinic delivers to it’s patients.
+“The Cleveland Clinic is a majority, minority city. Our work force is majority minority. Yet, they refused to give our women parental and maternity leave, 12 weeks pay like they give everyone else. They also refuse to fund our retirement, they refuse to give us short term disability,” Higgins said.
+On July 28th the union did overwhelmingly vote to authorize an intent to strike, but they admit most union members can’t afford to be out on the picket line. A woman named Tawana who didn’t provide her last name says she’s been a food service worker at the hospital for 16 years.
+“Health care is ridiculous, some of us can’t even afford to go to the doctor because of the copay. If we go to the doctor we might as well not get the prescription because we can’t afford the prescription,” she said.
+Jaramack Brown tells 19 News he has worked for Cleveland Clinic Lutheran Hospital for 15 and a half years has one message for the hospital’s administration.
+“Just do better by the workers, if you want us to smile and be happy, invest in us.”
+At the request of 19 News, the Cleveland Clinic issued a response that said: “We continue our good faith efforts in negotiations with the bargaining unit at Lutheran Hospital. We look forward to resuming negotiations this Friday. Our goal is to achieve a mutually agreeable contract renewal as we have in years past. Cleveland Clinic appreciates the loyalty and car provided by every one of its caregivers at Lutheran Hospital, and we want to assure the community that care for patients will continue there uninterrupted.”
+Copyright 2023 WOIO. All rights reserved.
+Here's What Gutter Guards Should Cost You In 2024
+HomeBuddy
+|
+Sponsored
+The Cost Of Dental Implants For Seniors in 2024 (See Pricing)
+Best Searches
+|
+Sponsored
+These Never-Driven Trucks In Columbus Are Selling For Dirt Cheap
+Unsold Trucks | Search Ads
+|
+Sponsored
+Avoid These 3 Things If You Are Constipated Or Bloated
+The Terrifying Truth On How Constipation And Bloating May Be Affecting Your Health
+EmmaRelief
+|
+Sponsored
+The Average Walk-In Shower Cost in 2024
+Here's Why These Affordable Walk-In Showers Are Sweeping America In 2024
+Kohler Showers
+|
+Sponsored
+Learn More
+Dental Implants For Seniors May Be Paid For By Medicare (See How)
+PopularSearches
+|
+Sponsored
+$99 Hearing Aids Better Than $2500 Ones?
+SeniorBetterLife
+|
+Sponsored
+New Electric Cars Are So Cheap Now (Take A Look)
+CommonSearches
+|
+Sponsored
+Click Here
+This Year's Kia Telluride Is Turning Heads -- And Finally On Sale!
+Best Kia Offers + Deals
+FavoriteSearches
+|
+Sponsored
+Struggling with high blood sugar? Try this cinnamon ritual before bed!
+solutionforhealthcare.com
+|
+Sponsored
+Most Read
+Woman killed in I-480 crash identified
+Akron residents return home after huge HAZMAT fire at commercial business
+17-year-old dies, 4 injured after shooting near Euclid high school
+3 Cleveland Heights officers shot, killed 18-year-old after domestic dispute: Police
+Garfield Heights police chase ends in fiery crash on I-77; at least 3 people hurt
+3 arrested for beating death of Akron teenager outside I Promise School, US Marshals say
+Akron man brutally beaten, stripped naked at Circle K by group of men
+Cleveland Police, SWAT swarm Old Brooklyn home
+Latest News
+Cause of massive HAZMAT fire in Akron under investigation; firefighters remain on scene
+Your annual reminder alcohol is not allowed at Muni Lot tailgates in Cleveland
+1 man dies in double shooting on Cleveland’s West Side
+Crash blocks I-76 W in Portage County
+Akron air quality: Officials say air is safe as chemical fire continues burning
+Several cases of botulism found in Ohio prison linked to ‘hooch’
+Afternoon shootout in Akron apartment parking lot injures 18-year-old woman, police say
+Cause of massive HAZMAT fire in Akron under investigation; firefighters remain on scene
+Home
+News
+First Alert Weather
+Sports
+Traffic
+Health
+Food
+Community
+Contact Us
+WOIO
+1717 E. 12th Street
+Cleveland, OH 44114
+(216) 771-1943
+Public Inspection File
+FCC Applications
+publicfile@woio.com - (216) 367-7535
+Terms of Service
+Privacy Policy
+EEO Report
+Advertising
+Digital Marketing
+Closed Captioning/Audio Description Problems
+Persons With Disabilities
+At Gray, our journalists report, write, edit and produce the news content that informs the communities we serve. Click here to learn more about our approach to artificial intelligence.
+A Gray Local Media Station © 2002-2024
+
+Title: Cleveland Clinic Gets Worker’s Wage-and-Hour Dispute Pared Back
+Link: https://news.bloomberglaw.com/daily-labor-report/cleveland-clinic-gets-workers-wage-and-hour-dispute-pared-back
+Snippet: The <b>Cleveland</b> <b>Clinic</b> Foundation is partly free of state-law wage allegations, but a federal judge rejected the top hospital’s bid to adopt a narrower statute of limitations for some of a former employee’s other claims. The hospital successfully argued that a change in Ohio law made the worker’s would-be class overtime claim inappropriate ...
+Body Content: Skip to content
+Bloomberg the Company & Its ProductsBloomberg Anywhere LoginBloomberg Terminal Demo Request
+
+
+
+
+
+
+Log In
+Sign Up For Newsletter
+Daily Labor Report ®
+The Cleveland Clinic stands in Cleveland, Ohio, on Nov. 8, 2010.
+Photographer: David M. Levitt/Bloomberg
+May 30, 2024, 12:41 PM EDT
+Cleveland Clinic Gets Worker’s Wage-and-Hour Dispute Pared Back
+Jennifer Bennett
+Reporter
+Judge trims state-law class overtime, unpaid-wages claims
+Worker advances willfulness allegations, state criminal claim
+The Cleveland Clinic Foundation is partly free of state-law wage allegations, but a federal judge rejected the top hospital’s bid to adopt a narrower statute of limitations for some of a former employee’s other claims.
+The hospital successfully argued that a change in Ohio law made the worker’s would-be class overtime claim inappropriate in its current form. But the ex-employee that brought the suit sufficiently alleged willfulness under the Fair Labor Standards Act, dooming Cleveland Clinic’s attempt to shorten the limitations period for that claim, the US District Court for the Northern District of Ohio said Wednesday.
+Plaintiff Deborah Garner ...
+Learn more about Bloomberg Law or Log In to keep reading:
+Learn About Bloomberg Law
+AI-powered legal analytics, workflow tools and premium legal & business news.
+Learn more
+Already a subscriber?
+Log in to keep reading or access research tools.
+Log In
+More from Bloomberg Law
+Most Read Stories in Daily Labor Report ®
+DHS Moves to Undo Stay of Parole Program for Immigrant Spouses
+A temporary freeze on a parole program for immigrant family members of US citizens should be vacated because a federal district court lacked authority to issue the order, the Department of Homeland Security argued in a new brief.
+DHS Bid to Reverse Freeze on Immigrant Parole Program Denied (Correct)
+A district court judge has denied the Biden administration’s request to remove an administrative stay of a program offering immigrant family members of US citizens a pathway to permanent residency.
+Judge’s Past Red-State Advocacy Shadows Big Immigration Case
+The judge who paused the Biden administration’s latest immigration program challenged by red states previously helped lead litigation against deportation relief policies while with the Texas attorney general’s office.
+Latest Stories in Daily Labor Report ®
+X Corp., Musk Sued Again for Severance by Former Twitter Workers
+X Corp. and Elon Musk are facing another lawsuit by former Twitter employees who say they were wrongly denied more than $53 million in severance benefits in the wake of Musk’s takeover of the company.
+A&O Shearman to Cut 10% of Partners, Close South Africa Post (1)
+A&O Shearman is slashing its global partner count by 10%, shuttering its Johannesburg office, and closing down its consulting business as part of a suite of post-merger changes.
+Biden Looks to Tie Infrastructure Cash to Pro-Union Policies (1)
+President Joe Biden will direct federal agencies to prioritize companies that work with unions and offer strong benefits and high wages when doling out cash from the infrastructure and green energy laws enacted during his administration.
+Browse More Stories in Daily Labor Report ®
+View Bloomberg Law's YouTube
+Submit A News Tip
+NLRB New Filings Finder
+About Us
+Contact Us
+pro.bloomberglaw.com
+Do Not Sell Or Share My Personal Information
+24/7 BLAW® HELP DESK
+888.560.2529
+help@bloomberglaw.com
+Terms of Service
+Privacy Policy
+Copyright
+Accessibility
+© 2024 Bloomberg Industry Group, Inc. All Rights Reserved
+
+Remi: Results for 'Cleveland Clinic labor union disputes':
+Title: Some Cleveland Clinic Lutheran Hospital workers could soon announce ...
+Link: https://www.ideastream.org/health/2023-08-18/some-cleveland-clinic-lutheran-hospital-workers-could-announce-strike-next-week
+Snippet: Stephen Langel is a health reporter with Ideastream Public Media&#39;s engaged journalism team. Negotiators for <b>Cleveland</b> <b>Clinic</b>&#39;s Lutheran Hospital met August 18 with members of the local healthcare workers <b>union</b> in what is the last scheduled contract negotiation before an anticipated strike. If workers do strike, care would not be disrupted, the ...
+Body Content: Menu
+ACCOUNT SIGN IN
+Live TV
+Donate
+WKSU HD1
+Science Friday
+NEXT UP:
+4:00 PM
+All Things Considered
+Health
+Some Cleveland Clinic Lutheran Hospital workers could soon announce strike
+Ideastream Public Media | By Stephen Langel
+Published August 18, 2023 at 6:49 PM EDT
+Facebook
+Twitter
+LinkedIn
+Email
+LISTEN • 0:50
+Community West Foundation
+The "When I Was Sick" statue is installed at the Cleveland Clinic Lutheran Hospital on West 25th Street in Cleveland. Members of the SEIU who work there are threatening to strike.
+Negotiators for the Cleveland Clinic's Lutheran Hospital met Friday with members of the Service Employees International Union District 1199 representing healthcare and other workers in an ongoing contract negotiation that could lead to a strike.
+The negotiation is the last of nearly 20 bargaining sessions between the sides since the current collective bargaining agreement expired at the end of April. If these negotiations fail, then a strike could occur as soon as next week, according to SEIU 1199 director and chief negotiator Vanessa Dalesandro.
+A hospital spokesperson said Lutheran is looking forward to continued negotiations and pledged that patient care will not be impacted.
+"We want to reassure the community that care for patients will continue uninterrupted at the hospital,” the spokesperson said.
+The SEIU union does not represent registered nurses, according to the hospital. Instead, it represents workers in dietary, environmental services, transport, maintenance and nursing support roles. The hospital added that many of those who picketed in front of the hospital on Thursday were not members of the union's bargaining unit at the hospital.
+To date, SEIU said it has filed more than two dozen unfair labor practice charges against the hospital for issues such as failure to bargain in good faith, refusing to provide information, retaliation, harassment and discrimination against union members and intimidation and interfering with union member rights.
+But, according to Dalesandro and other union negotiators, the dispute with Lutheran is about more than the union contract, it's about equal treatment and respect.
+"There are a lot of benefits that are being ... given to other caregivers of the Cleveland Clinic because they're not in the union," she said. The Clinic leaders "are absolutely creating this divide based on union status."
+For example, union members want paid parental leave, short-term disability insurance, a retirement account match and the right to be called “caregivers” like non-union members, union executive board director and power plant mechanic Brian Higgins said.
+"Everyone else is a caregiver," he said. "They refuse to let us be called 'caregiver' in our contract. That's a big thing because that shows respect."
+Higgins said of the lack of parental leave for union members makes it difficult for workers to balance caregiving responsibilities at home with work obligations.
+"How can we care for our family at work if we can't care for our family at home?" he said.
+The refusal to provide a retirement match also is painful for union members, he said.
+"They're not investing in our retirement," Higgins said. "They're not investing in our future. It hurts."
+Delasandro said the union will provide a timeline for a potential strike early next week. But, she added SEIU is by no means closing the door to further talks.
+"We are willing to negotiate," she said. "We show up every time. We've given proposals and counters and responses. And we'll continue to do that, and we'll continue to make ourselves available to bargain and we'll make a good faith effort to bargain any time the hospital wants to bargain — to try to reach an agreement before we get to that point" of striking.
+Health
+Facebook
+Twitter
+LinkedIn
+Email
+Stephen Langel
+Stephen Langel is a health reporter with Ideastream Public Media's engaged journalism team.
+See stories by Stephen Langel
+More By This Reporter
+I admit to bias on one story. Wiener dogs rule
+September 5, 2024
+Northeast Ohio hospitals hosting public events to build community trust in medical research
+September 3, 2024
+The little dog with a big following: Kent hosts one of the nation's largest dachshund events
+August 29, 2024
+After years of addiction, this Lorain man is fighting food insecurity through urban farming
+August 28, 2024
+America Amplified
+What questions do you have about participating in the upcoming election?
+Ask Your Question Now
+Art Saves
+Whether someone faces mental illness, systemic social barriers or any other challenges, art in its many forms offers a way to express, heal, transform and find joy.
+Meet The Artists
+Stay Connected
+instagram
+youtube
+linkedin
+© 2024 Ideastream Public Media
+
+1375 Euclid Avenue, Cleveland, Ohio 44115
+(216) 916-6100 | (877) 399-3307
+
+WKSU is a public media service licensed to Kent State University and operated by Ideastream Public Media.
+ABOUT
+About Ideastream Public Media
+About Idea Center
+Leadership
+Community Advisory Board
+Board of Trustees
+Sign Up For Our Email Newsletters
+Coverage Area
+Terms of Use
+Privacy Policy
+SUPPORT
+Become a Member
+Membership F.A.Q.s
+Sustaining Memberships
+Donate Your Vehicle
+Make a Matching Gift
+Become an IdeaLeader
+Make a Planned Gift
+Making a Gift of Stock/Securities
+Sponsor Our Programs
+End of Year Gift Information
+Real Estate Donation Program
+Donor Bill of Rights
+Donation Refund Policy
+RESOURCES
+Contact Us
+Careers
+Internships
+Public Files
+Boards, Financials & Reports
+Directions to the Idea Center
+Closed Captioning Quality Certification
+Press Room
+Official Sweepstakes Rules
+FCC Applications
+Copyright Infringement Claim Policy
+PMWC Playbook
+
+Title: SEIU 1199 calls out Cleveland Clinic during contract negotiations - Axios
+Link: https://www.axios.com/local/cleveland/2023/08/18/seiu-1199-cleveland-clinic-contract-negotiations
+Snippet: Photo: Sam Allard/Axios. Service employees at Lutheran Hospital in Ohio City staged a rally and informational picket Wednesday afternoon, calling out <b>Cleveland</b> <b>Clinic</b> for refusing to negotiate a new <b>union</b> contract in good faith. Why it matters: The 170 unionized workers at Lutheran — including licensed practical nurses, maintenance workers ...
+Body Content: www.axios.com
+Verifying you are human. This may take a few seconds.
+www.axios.com needs to review the security of your connection before proceeding.
+Ray ID: 8bf120442bfd5555
+Performance & security by Cloudflare
+
+Title: Cleveland’s mayor signs historic policy change that will benefit labor ...
+Link: https://www.cleveland19.com/2024/09/05/clevelands-mayor-signs-historic-policy-change-that-will-benefit-labor-unions-by-securing-more-jobs/
+Snippet: Wondolowski says local <b>labor</b> <b>unions</b> have been working on the <b>Cleveland</b> <b>Clinic</b> 3 that includes building two new research centers on the main campus. It’s work that over a four year period will ...
+Body Content: Skip to content
+71°
+Cleveland, OH
+News
+Live
+First Alert Weather
+Video
+Closings
+Cleveland’s mayor signs historic policy change that will benefit labor unions by securing more jobs
+By Michelle Nicks
+Published: Sep. 4, 2024 at 11:06 PM EDT
+Email This LinkShare on FacebookShare on X (formerly Twitter)Share on PinterestShare on LinkedIn
+CLEVELAND, Ohio (WOIO) - Cleveland Mayor Justin Bibb makes it official. Signing off on a commitment from the city to local labor unions on what’s referred to as a PLA or Project Labor Agreement.
+Mayor Bibb signed the new city policy with news cameras rolling and while speaking at the International Union of Operating Engineers, Local 18 on Prospect Avenue in Cleveland.
+The historic executive order means that local labor unions will be awarded a fair share of the economic pie according to Mayor Bibb, “It just guarantees that we make sure that the unions are a part of all the critical infrastructure projects that we’re creating in our city. Projects over a half million dollars or more. We need more folks that can be carpenters, electricians, plumbers, lay brick and concrete, you name it. That’s why that $ 10-million investment we made in our workforce development training is so important, especially for young people across the city.”
+Dave Wondolowski is the Executive Secretary of the Cleveland Building Trades Council, “Anytime we’re creating policies like this we’re able to build a pipeline of work that’s going to be sustainable to bring more workers into the trades. We need people everywhere, and the volume of work we’re faced with in Northeast Ohio is unprecedented.”
+Wondolowski says local labor unions have been working on the Cleveland Clinic 3 that includes building two new research centers on the main campus. It’s work that over a four year period will employ 1500 workers.
+A job fair was held at the union hall following the announcement and those interested in the building trades learned that can make a starting wage of between $20 and $25, and with benefits they can earn up to $60 to $70 an hour.|
+The Cleveland Builds program can provide more information about the apprentice programs, and the best part according to Wondolowski, “You get paid while you work. So you earn while you learn.”
+Copyright 2024 WOIO. All rights reserved.
+Homemade bariatric: This tea eats fat (see how to make it)
+Homemade Solutions
+|
+Sponsored
+Here's What Gutter Guards Should Cost You In 2024
+HomeBuddy
+|
+Sponsored
+Avoid These 3 Things If You Are Constipated Or Bloated
+The Terrifying Truth On How Constipation And Bloating May Be Affecting Your Health
+EmmaRelief
+|
+Sponsored
+The Cost Of Dental Implants For Seniors in 2024 (See Pricing)
+Best Searches
+|
+Sponsored
+These Never-Driven Trucks In Columbus Are Selling For Dirt Cheap
+Unsold Trucks | Search Ads
+|
+Sponsored
+The Average Walk-In Shower Cost in 2024
+Kohler Showers
+|
+Sponsored
+$99 Hearing Aids Better Than $2500 Ones?
+SeniorBetterLife
+|
+Sponsored
+Dental Implants For Seniors May Be Paid For By Medicare (See How)
+PopularSearches
+|
+Sponsored
+New Electric Cars Are Cheaper Than Expected (Take A Look)
+CommonSearches
+|
+Sponsored
+Click Here
+Struggling with high blood sugar? Try this cinnamon ritual before bed!
+solutionforhealthcare.com
+|
+Sponsored
+Most Read
+Woman killed in I-480 crash identified
+Akron residents return home after huge HAZMAT fire at commercial business
+17-year-old dies, 4 injured after shooting near Euclid high school
+3 Cleveland Heights officers shot, killed 18-year-old after domestic dispute: Police
+Garfield Heights police chase ends in fiery crash on I-77; at least 3 people hurt
+3 arrested for beating death of Akron teenager outside I Promise School, US Marshals say
+Akron man brutally beaten, stripped naked at Circle K by group of men
+Cleveland Police, SWAT swarm Old Brooklyn home
+Latest News
+Cause of massive HAZMAT fire in Akron under investigation; firefighters remain on scene
+Your annual reminder alcohol is not allowed at Muni Lot tailgates in Cleveland
+1 man dies in double shooting on Cleveland’s West Side
+Crash blocks I-76 W in Portage County
+Akron air quality: Officials say air is safe as chemical fire continues burning
+Several cases of botulism found in Ohio prison linked to ‘hooch’
+Afternoon shootout in Akron apartment parking lot injures 18-year-old woman, police say
+Cause of massive HAZMAT fire in Akron under investigation; firefighters remain on scene
+Home
+News
+First Alert Weather
+Sports
+Traffic
+Health
+Food
+Community
+Contact Us
+WOIO
+1717 E. 12th Street
+Cleveland, OH 44114
+(216) 771-1943
+Public Inspection File
+FCC Applications
+publicfile@woio.com - (216) 367-7535
+Terms of Service
+Privacy Policy
+EEO Report
+Advertising
+Digital Marketing
+Closed Captioning/Audio Description Problems
+Persons With Disabilities
+At Gray, our journalists report, write, edit and produce the news content that informs the communities we serve. Click here to learn more about our approach to artificial intelligence.
+A Gray Local Media Station © 2002-2024
+
+Title: Cleveland Clinic Lutheran Hospital union could vote to strike - wkyc.com
+Link: https://www.wkyc.com/article/news/local/cleveland/union-workers-cleveland-clinic-lutheran-hospital-vote-to-go-on-strike-unfair-labor-practices/95-c5ed0690-87cc-4bbe-948d-a6deb4cab997
+Snippet: <b>CLEVELAND</b> — More than 175 <b>union</b> employees at <b>Cleveland</b> <b>Clinic</b> Lutheran Hospital have voted to strike over what they call &quot;unfair <b>labor</b> practices&quot; from management. Members of Service Employees ...
+Body Content: News
+Weather
+Sports
+VERIFY
+Search
+Cleveland, OH »
+72°
+ADVERTISE WITH US
+CLEVELAND
+AKRON
+MISSION POSSIBLE
+A TURNING POINT
+CONTESTS
+TV LISTINGS
+EDUCATION STATION
+CLEVELAND GUARDIANS
+GO-HIO
+PETS
+LEBRON JAMES FAMILY FOUNDATION
+GOOD COMPANY
+GO! 4:30-7 A.M.
+3NEWS AT 4
+3NEWS AT 5
+3NEWS AT 6
+3NEWS AT 7
+WHAT'S NEXT: 11 P.M.
+FRONT ROW FRIDAY
+CLEVELAND
+'Caregivers won't back down': Union workers at Cleveland Clinic Lutheran Hospital vote to go on strike
+Members of SEIU 1199 claim the Clinic has 'refused to bargain on good faith' after their previous collective bargaining agreement expired earlier this year.
+Author: Tyler Carey
+Published: 9:16 PM EDT July 28, 2023
+Updated: 11:49 PM EDT July 28, 2023
+CLEVELAND — More than 175 union employees at Cleveland Clinic Lutheran Hospital have voted to strike over what they call "unfair labor practices" from management.
+Members of Service Employees International Union District 1199 confirmed the affirmative vote to 3News Friday evening. The workers impacted include licensed practical nurses, nursing assistants, maintenance workers, and housekeepers, among others.
+SUBSCRIBE: Get the day's top local and national headlines sent to your email inbox each weekday morning with 3News to GO! newsletter
+SEIU 1199 has been negotiating a new contract with Cleveland Clinic ever since the previous collective bargaining agreement expired earlier this year, but workers claim the hospital "has refused to bargain in good faith with the union" and also say the National Labor Relations Board is investigating more than 20 allegations against Clinic management that include "refusal to furnish information, illegal union busting activities, retaliation, [and] discrimination."
+"Cleveland Clinic leadership needs to put caregivers and patients over profits!" SEIU 1199 Director Vanessa Dalesandro said Thursday, prior to the strike vote. "They are more worried about stealing workers' rights and lining their own pockets, than risking the continuity of patient care. Caregivers at Lutheran Hospital deserve a fair contract that values them and should not have to fight this hard to have their legal right to bargain respected."
+The union previously authorized a notice of intent to strike back on April 28, but still could not reach an agreement with the Clinic despite a purported 16 meetings on the subject. With the final vote now completed, the hospital system is expected to be formally made aware of their intentions in the coming days, with a walkout date being made public thereafter.
+WKYC has reached out to Cleveland Clinic for comment, but has yet to hear back.
+MORE FROM 3NEWS...
+Related Articles
+UPS drivers to get higher pay, AC in trucks under new deal struck with union
+A-list celebrities hit the picket line to support striking actors, writers
+American Airlines has a tentative contract deal with its pilots. Southwest is still negotiating
+Want to be among the first to know the most important local and national news? You can download the free WKYC app and get the latest updates right on your phone: Android, Apple. 
+Close Ad
+Here's What Gutter Guards Should Cost You In 2024
+HomeBuddy
+|
+Sponsored
+Learn More
+Homemade bariatric: This tea eats fat (see how to make it)
+Homemade Solutions
+|
+Sponsored
+The Average Walk-In Shower Cost in 2024
+Kohler Showers
+|
+Sponsored
+Learn More
+The Cost Of Dental Implants For Seniors in 2024 (See Pricing)
+Best Searches
+|
+Sponsored
+Here's an Estimated Cost for a One-Day Walk-in Shower
+HomeBuddy
+|
+Sponsored
+These Never-Driven Trucks In Columbus Are Selling For Dirt Cheap
+Unsold Trucks | Search Ads
+|
+Sponsored
+Chemical explosion in Akron
+WKYC
+Evacuation order lifted after commercial fire in Akron: Officials to give update with press conference at 12 p.m. today
+WKYC
+LOADING NEXT ARTICLE...
+Jobs
+Terms of Service
+Privacy Policy
+Ad Choices
+EEO Public File Report
+FCC Online Public Inspection File
+Closed Caption Procedures
+Do Not Sell or Share My Personal Information
+© 2024 WKYC-TV. All Rights Reserved.
+
+Title: Cleveland Clinic Lutheran Hospital workers reach agreement, avert strike
+Link: https://fox8.com/news/lutheran-hospital-workers-ratify-contract-avert-strike/
+Snippet: The <b>union</b> on Aug. 22 delivered its notice to strike, after filing more than two dozen charges of unfair <b>labor</b> practices against the <b>Cleveland</b> <b>Clinic</b> with the National <b>Labor</b> Relations Board ...
+Body Content: Press & Hold to confirm you are
+a human (and not a bot).
+Having a problem?
+Reference ID d01e0d66-6c8c-11ef-bc37-89af4c5315c3
+
+Title: Union notifies Cleveland Clinic Lutheran Hospital of plans to strike ...
+Link: https://www.ideastream.org/health/2023-08-22/union-notifies-cleveland-clinic-lutheran-hospital-of-plans-to-strike-starting-labor-day
+Snippet: Members of the Service Employees International <b>Union</b> working at <b>Cleveland</b> <b>Clinic</b> Lutheran Hospital formally announced plans to strike beginning at 8 a.m. on <b>Labor</b> Day after efforts to agree on a new collective bargaining contract failed.
+Body Content: Menu
+ACCOUNT SIGN IN
+Live TV
+Donate
+WKSU HD1
+Science Friday
+NEXT UP:
+4:00 PM
+All Things Considered
+Health
+Union notifies Cleveland Clinic Lutheran Hospital of plans to strike starting Labor Day
+Ideastream Public Media | By Stephen Langel
+Published August 22, 2023 at 3:51 PM EDT
+Facebook
+Twitter
+LinkedIn
+Email
+LISTEN • 0:52
+Ygal Kaufman
+/
+Ideastream Public Media
+Brian Higgins (left), grievance chair of the SEIU District 1199 executive board, hands a notice of an intent to strike to Cleveland Clinic Lutheran Hospital president Dr. Timothy Barnett inside Lutheran Hospital on Aug. 22, 2023.
+Members of the Service Employees International Union working at Cleveland Clinic Lutheran Hospital formally announced plans to strike beginning at 8 a.m. on Labor Day after efforts to agree on a new collective bargaining contract failed.
+A group of 11 SEIU District 1199 members entered the hospital in Ohio City around noon Tuesday and delivered the one-page notice to hospital president Dr. Timothy Barnett. Hospital officials called police and security, who peacefully ushered members from the building.
+The SEIU — which represents transportation, maintenance and nursing support roles — and the hospital have been negotiating since the union's previous contract expired in April.
+The Cleveland Clinic is to blame for the strike, said Brian Higgins, grievance chair of the union’s executive board.
+“The Cleveland Clinic has refused to bargain in good faith," he said. "They've left us no choice."
+Among the issues the union has raised in talks is what it sees as preferential treatment given to nonunion employees. Union members want paid parental leave, short-term disability insurance, a retirement account match and the right to be called “caregivers” like non-union members, Higgins said.
+"It just makes you feel horrible," he said of the different treatment he believes union members receive. "It hurts. It hurts."
+1 of 7
+Ygal Kaufman / Ideastream Public Media
+Union members allege discrimination, unequal treatment and retaliation by the hospital for their union organizing.
+"They discriminate against the union because we want to have a voice at the table," Higgins said.
+The union has filed more than two dozen unfair labor practice charges against the hospital for issues such as failure to bargain in good faith, refusing to provide information, retaliation, harassment and discrimination against union members and intimidation and interfering with union member rights, according to the SEIU.
+For its part, the Clinic said it plans to continue bargaining, adding in the meantime there will be no interruption of care.
+“We plan to continue negotiating with the bargaining unit at Lutheran Hospital with the goal of achieving a mutually agreeable contract renewal," the hospital said in a statement issued Tuesday afternoon.
+On this, both sides agree. Union members also pledged to continue working toward an agreement.
+"We're always going to reach out to the hospital, to the Cleveland Clinic, to negotiate. Always" Higgins said. "But, until then, we'll be out here 24 hours a day, seven days a week" picketing.
+Health
+Facebook
+Twitter
+LinkedIn
+Email
+Stephen Langel
+Stephen Langel is a health reporter with Ideastream Public Media's engaged journalism team.
+See stories by Stephen Langel
+More By This Reporter
+I admit to bias on one story. Wiener dogs rule
+September 5, 2024
+Northeast Ohio hospitals hosting public events to build community trust in medical research
+September 3, 2024
+The little dog with a big following: Kent hosts one of the nation's largest dachshund events
+August 29, 2024
+After years of addiction, this Lorain man is fighting food insecurity through urban farming
+August 28, 2024
+America Amplified
+What questions do you have about participating in the upcoming election?
+Ask Your Question Now
+Art Saves
+Whether someone faces mental illness, systemic social barriers or any other challenges, art in its many forms offers a way to express, heal, transform and find joy.
+Meet The Artists
+Related Content
+Some Cleveland Clinic Lutheran Hospital workers could soon announce strike
+August 18, 2023
+Stay Connected
+instagram
+youtube
+linkedin
+© 2024 Ideastream Public Media
+
+1375 Euclid Avenue, Cleveland, Ohio 44115
+(216) 916-6100 | (877) 399-3307
+
+WKSU is a public media service licensed to Kent State University and operated by Ideastream Public Media.
+ABOUT
+About Ideastream Public Media
+About Idea Center
+Leadership
+Community Advisory Board
+Board of Trustees
+Sign Up For Our Email Newsletters
+Coverage Area
+Terms of Use
+Privacy Policy
+SUPPORT
+Become a Member
+Membership F.A.Q.s
+Sustaining Memberships
+Donate Your Vehicle
+Make a Matching Gift
+Become an IdeaLeader
+Make a Planned Gift
+Making a Gift of Stock/Securities
+Sponsor Our Programs
+End of Year Gift Information
+Real Estate Donation Program
+Donor Bill of Rights
+Donation Refund Policy
+RESOURCES
+Contact Us
+Careers
+Internships
+Public Files
+Boards, Financials & Reports
+Directions to the Idea Center
+Closed Captioning Quality Certification
+Press Room
+Official Sweepstakes Rules
+FCC Applications
+Copyright Infringement Claim Policy
+PMWC Playbook
+
+Title: Amid negotiations, Cleveland Clinic Lutheran Hospital union workers ...
+Link: https://www.wkyc.com/article/news/local/cleveland/union-workers-cleveland-clinic-lutheran-hospital-picket-fair-contract-amid-negotiations/95-f017059e-35f4-4252-9a25-a834eca533c7
+Snippet: Updated: 11:37 PM EDT August 16, 2023. <b>CLEVELAND</b> — <b>Cleveland</b> <b>Clinic</b> Lutheran Hospital <b>union</b> workers and their supporters hit the streets Wednesday afternoon to call for a fair contract amid ...
+Body Content: News
+Weather
+Sports
+VERIFY
+Search
+71°
+Weather
+ADVERTISE WITH US
+CLEVELAND
+AKRON
+MISSION POSSIBLE
+A TURNING POINT
+CONTESTS
+TV LISTINGS
+EDUCATION STATION
+CLEVELAND GUARDIANS
+GO-HIO
+PETS
+LEBRON JAMES FAMILY FOUNDATION
+GOOD COMPANY
+GO! 4:30-7 A.M.
+3NEWS AT 4
+3NEWS AT 5
+3NEWS AT 6
+3NEWS AT 7
+WHAT'S NEXT: 11 P.M.
+FRONT ROW FRIDAY
+CLEVELAND
+Amid negotiations, Cleveland Clinic Lutheran Hospital union workers picket for fair contract
+Hundreds of union members and their supporters stood outside the hospital in Ohio City on Wednesday calling for change.
+Author: Bri Buckley
+Published: 11:37 PM EDT August 16, 2023
+Updated: 11:37 PM EDT August 16, 2023
+CLEVELAND — Cleveland Clinic Lutheran Hospital union workers and their supporters hit the streets Wednesday afternoon to call for a fair contract amid ongoing negotiations.
+Members of Service Employees International Union District 1199 claim the Clinic has "refused to bargain on good faith" after their previous collective bargaining agreement expired earlier this year.
+In July the union voted to strike over what they call "unfair labor practices" from management.
+"The hospital tried to take away our right to have a union back in February, we obviously fought that back and told them we want our union and ever since then they're just stepping on our necks," said Brian Higgins, a powerplant mechanic at Lutheran Hospital.
+Higgins said working conditions have gotten worse over the last 9 months and union members are being retaliated against.
+"I've been here 14 years, I've always got an outstanding or a strong evaluation the top two you can get, since we turned in this informational picket I've been written up three times, the hospital is trying to silence my voice and silence my workers voice," Higgins said.
+The group said they are being denied pay increases and healthcare benefits that other non union employees receive.
+"If you're offering paid maternity leave and parental leave , why are you not offering it to us?" Higgins said.
+Lourdes Foley is a nurse's aide and has been at the hospital for 30 years. She said she was assaulted by a patient on Sunday then was expected to keep working.
+"I go to [the] ER, the manager is covering my floor at the time is saying when are you getting back to work, I had her on speaker, me and a doctor said no she's not coming back to work," Foley said.
+Local leaders joined the group to show their support.
+"Roughly two thirds of the workforce we're talking about are women, 60% are persons of color, this is a class of people that we need to continue to support," said Cuyahoga County Executive Chris Ronayne.
+Ronayne joined Senator Sherrod Brown, Cleveland Mayor Justin Bibb and U.S. Representatives Emilia Sykes and Shontel Brown in sending a letter to the hospital pushing for a fair contract and requesting a meeting with leadership. The group said it had previously asked for a meeting but was denied.
+Next Big Move: OpenAI's Newsroom Debuts on X - Exciting Announcements to Follow Soon?
+FEATURED BY
+3News reached out to the Cleveland Clinic for comment. A spokesperson shared this statement:
+“We look forward to resuming negotiations this Friday with the bargaining unit at Lutheran Hospital. We want to reassure the community that care for patients will continue uninterrupted at the hospital.”  
+The two sides will meet on Friday August 18 to continue contract talks.
+Previous Reporting:
+'There is just not equity and equality here': Cleveland Clinic Lutheran Hospital union workers ready to walk out, claiming unfair labor practices
+'Caregivers won't back down': Union workers at Cleveland Clinic Lutheran Hospital vote to go on strike
+Close Ad
+Here's What Gutter Guards Should Cost You In 2024
+The Actual Cost of Gutter Guards In 2024 May Surprise You
+HomeBuddy
+|
+Sponsored
+Learn More
+This New Outlander Has Left Us Speechless
+Frequent Searches
+|
+Sponsored
+The Average Walk-In Shower Cost in 2024
+Here's Why These Affordable Walk-In Showers Are Sweeping America In 2024
+Kohler Showers
+|
+Sponsored
+Learn More
+The Cost Of Dental Implants For Seniors in 2024 (See Pricing)
+Best Searches
+|
+Sponsored
+Homemade bariatric: This tea eats fat (see how to make it)
+Homemade Solutions
+|
+Sponsored
+Here's an Estimated Cost for a One-Day Walk-in Shower
+HomeBuddy
+|
+Sponsored
+What are your realistic expectations for Deshaun Watson vs. the Dallas Cowboys?
+WKYC
+Teen accused of killing 4 people at Apalachee High School appears in court
+WKYC
+LOADING NEXT ARTICLE...
+Jobs
+Terms of Service
+Privacy Policy
+Ad Choices
+EEO Public File Report
+FCC Online Public Inspection File
+Closed Caption Procedures
+Do Not Sell or Share My Personal Information
+© 2024 WKYC-TV. All Rights Reserved.
+
+Title: Cleveland Clinic Lutheran Hospital caregivers give strike notice - wkyc.com
+Link: https://www.wkyc.com/article/news/local/cleveland/cleveland-clinic-lutheran-hospital-caregivers-notice-of-strike-sept-4/95-f1852d6e-6862-42ec-a025-7edbd4eefd5c
+Snippet: On Tuesday, SEIU 1199 caregivers at <b>Cleveland</b> <b>Clinic</b> Lutheran Hospital hand delivered a notice that &quot;they intend to go on an unfair <b>labor</b> practice (ULP) strike beginning on <b>Labor</b> Day, September ...
+Body Content: News
+Weather
+Sports
+VERIFY
+Search
+71°
+Weather
+ADVERTISE WITH US
+CLEVELAND
+AKRON
+MISSION POSSIBLE
+A TURNING POINT
+CONTESTS
+TV LISTINGS
+EDUCATION STATION
+CLEVELAND GUARDIANS
+GO-HIO
+PETS
+LEBRON JAMES FAMILY FOUNDATION
+GOOD COMPANY
+GO! 4:30-7 A.M.
+3NEWS AT 4
+3NEWS AT 5
+3NEWS AT 6
+3NEWS AT 7
+WHAT'S NEXT: 11 P.M.
+FRONT ROW FRIDAY
+CLEVELAND
+Cleveland Clinic caregivers give notice of strike at Lutheran Hospital beginning Sept. 4
+The announcement comes weeks after SEIU 1199 caregivers voted overwhelmingly to authorize a ULP strike.
+Author: Ben Axelrod, Bri Buckley
+Published: 1:10 PM EDT August 22, 2023
+Updated: 11:17 PM EDT August 22, 2023
+CLEVELAND — As negotiations between caregivers at Lutheran Hospital and the Cleveland Clinic continue, a potential strike looms.
+On Tuesday, SEIU 1199 caregivers at Cleveland Clinic Lutheran Hospital hand delivered a notice that "they intend to go on an unfair labor practice (ULP) strike beginning on Labor Day, September 4th."
+"This notice was delivered as a direct result of the union having to file over two dozen ULP charges with the National Labor Relations Board against Lutheran Hospital for issues such as refusal to furnish information, illegal union busting activities, retaliation, discrimination, among others," the union said in a release. "Cleveland Clinic blatantly discriminates against some of the lowest paid caregivers, who are predominantly women and people of color. These caregivers are deprived of paid maternity and parental leave, employer-paid disability coverage, 403(b) retirement security, and must work more hours to be eligible for hospital benefits than their counterparts."
+Following Tuesday's announcement, the Cleveland Clinic provided the following statement to 3News: “We want to assure the community that care for patients at Lutheran Hospital will go on uninterrupted. We plan to continue negotiating with the bargaining unit at Lutheran Hospital with the goal of achieving a mutually agreeable contract renewal. We appreciate the loyalty and dedication of all our caregivers at Lutheran Hospital.”
+"The ball is in their court at this point. They've waged this war and we are not backing down until we have equity and equality for all union caregivers," said Vanessa Dalesandro, SEIU District 1199 director.
+The notice comes nearly one month after the union first voted to authorize a potential strike among ongoing negotiations following the expiration of its previous collective bargaining agreement earlier this year. Workers have claimed the hospital "has refused to bargain in good faith with the union" and also say the National Labor Relations Board is investigating more than 20 allegations against Clinic management that include "refusal to furnish information, illegal union busting activities, retaliation, [and] discrimination."
+"I mean we've met 19 times now and they've been ineffective and unproductive and we need the hospital to come to the table and bargain in good faith," Dalesandro added. "They had wages on the table at 1.5% which is nothing in comparison to the day-to-day necessities so there's just nothing that they have put on the table that definitely would make caregivers feel appreciated and valued."
+Last week, U.S. Senator Sherrod Brown (D-OH), U.S. Representatives Shontel Brown (D-OH-11) and Emilia Sykes (D-OH-13), Cleveland Mayor Justin Bibb, and Cuyahoga County Executive Chris Ronayne wrote a joint letter to the leadership at Cleveland Clinic’s Lutheran Hospital, "urging them to work to reach an equitable agreement with the workers at the Lutheran Hospital as soon as possible."
+“Like you, these workers care deeply about the health of their community and are committed to ensuring patients get the best possible care," the letter, which can be read in full here, reads. "We urge you to find a way toward reaching a fair and equitable agreement in a timely manner, and we will continue to encourage SEIU leadership to do the same. We appreciate your time and attention to this matter, as well as the Clinic’s leadership and partnership on many issues, and look forward to continued work with you and your team to serve the health care needs of Ohioans."
+Related Articles
+'Caregivers won't back down': Union workers at Cleveland Clinic Lutheran Hospital vote to go on strike
+'There is just not equity and equality here': Cleveland Clinic Lutheran Hospital union workers ready to walk out, claiming unfair labor practices
+Amid negotiations, Cleveland Clinic Lutheran Hospital union workers picket for fair contract
+Close Ad
+Here's What Gutter Guards Should Cost You In 2024
+The Actual Cost of Gutter Guards In 2024 May Surprise You
+HomeBuddy
+|
+Sponsored
+Learn More
+Homemade bariatric: This tea eats fat (see how to make it)
+Homemade Solutions
+|
+Sponsored
+The Average Walk-In Shower Cost in 2024
+Here's Why These Affordable Walk-In Showers Are Sweeping America In 2024
+Kohler Showers
+|
+Sponsored
+Learn More
+The Cost Of Dental Implants For Seniors in 2024 (See Pricing)
+Best Searches
+|
+Sponsored
+Here's an Estimated Cost for a One-Day Walk-in Shower
+HomeBuddy
+|
+Sponsored
+These Never-Driven Trucks In Columbus Are Selling For Dirt Cheap
+Unsold Trucks | Search Ads
+|
+Sponsored
+Chemical explosion in Akron
+WKYC
+Teen accused of killing 4 people at Apalachee High School appears in court
+WKYC
+LOADING NEXT ARTICLE...
+Jobs
+Terms of Service
+Privacy Policy
+Ad Choices
+EEO Public File Report
+FCC Online Public Inspection File
+Closed Caption Procedures
+Do Not Sell or Share My Personal Information
+© 2024 WKYC-TV. All Rights Reserved.
+
+Title: Rally held outside Cleveland Clinic Lutheran Hospital by union workers ...
+Link: https://www.cleveland19.com/2023/08/17/rally-held-outside-cleveland-clinic-lutheran-hospital-by-union-workers-demanding-fair-contract/
+Snippet: Published: Aug. 17, 2023 at 2:38 AM PDT. <b>CLEVELAND</b>, Ohio (WOIO) - Local caregivers took a stand demanding a fair contract by holding a rally and informational picket in front of <b>Cleveland</b> <b>Clinic</b> ...
+Body Content: Skip to content
+71°
+Cleveland, OH
+News
+Live
+First Alert Weather
+Video
+Closings
+Rally held outside Cleveland Clinic Lutheran Hospital by union workers demanding a fair contract
+By Michelle Nicks - WOIO
+Published: Aug. 17, 2023 at 5:38 AM EDT
+Email This LinkShare on FacebookShare on X (formerly Twitter)Share on PinterestShare on LinkedIn
+CLEVELAND, Ohio (WOIO) - Local caregivers took a stand demanding a fair contract by holding a rally and informational picket in front of Cleveland Clinic Lutheran Hospital on Wednesday.
+Nearly 200 members of SEIU District 1199 are part of the union that represents LPN’s, nurse’s aides, transporters, house cleaning staff and several other positions at the hospital. Brian Higgins has worked at the hospital for well over a decade as a power plant mechanic and is currently on the SEIU, Executive Board, “We’ve been negotiating since the beginning of April and the hospital refuses to negotiate. We’ve had to file over 20 unfair labor practice charges with the National Labor Relations Board, because of that.”
+The union, fighting for equity and equality, was joined at the rally by a number of area lawmakers, including State Senator Kent Smith of Euclid.
+“We will stand with you in Columbus, we will stand with you in Cleveland. We will stand with you where you need us to be,” Smith said.
+The group of workers and community supporters tell 19 News they deserve the same care the Cleveland Clinic delivers to it’s patients.
+“The Cleveland Clinic is a majority, minority city. Our work force is majority minority. Yet, they refused to give our women parental and maternity leave, 12 weeks pay like they give everyone else. They also refuse to fund our retirement, they refuse to give us short term disability,” Higgins said.
+On July 28th the union did overwhelmingly vote to authorize an intent to strike, but they admit most union members can’t afford to be out on the picket line. A woman named Tawana who didn’t provide her last name says she’s been a food service worker at the hospital for 16 years.
+“Health care is ridiculous, some of us can’t even afford to go to the doctor because of the copay. If we go to the doctor we might as well not get the prescription because we can’t afford the prescription,” she said.
+Jaramack Brown tells 19 News he has worked for Cleveland Clinic Lutheran Hospital for 15 and a half years has one message for the hospital’s administration.
+“Just do better by the workers, if you want us to smile and be happy, invest in us.”
+At the request of 19 News, the Cleveland Clinic issued a response that said: “We continue our good faith efforts in negotiations with the bargaining unit at Lutheran Hospital. We look forward to resuming negotiations this Friday. Our goal is to achieve a mutually agreeable contract renewal as we have in years past. Cleveland Clinic appreciates the loyalty and car provided by every one of its caregivers at Lutheran Hospital, and we want to assure the community that care for patients will continue there uninterrupted.”
+Copyright 2023 WOIO. All rights reserved.
+Here's What Gutter Guards Should Cost You In 2024
+HomeBuddy
+|
+Sponsored
+The Cost Of Dental Implants For Seniors in 2024 (See Pricing)
+Best Searches
+|
+Sponsored
+These Never-Driven Trucks In Columbus Are Selling For Dirt Cheap
+Unsold Trucks | Search Ads
+|
+Sponsored
+Avoid These 3 Things If You Are Constipated Or Bloated
+The Terrifying Truth On How Constipation And Bloating May Be Affecting Your Health
+EmmaRelief
+|
+Sponsored
+The Average Walk-In Shower Cost in 2024
+Here's Why These Affordable Walk-In Showers Are Sweeping America In 2024
+Kohler Showers
+|
+Sponsored
+Learn More
+Dental Implants For Seniors May Be Paid For By Medicare (See How)
+PopularSearches
+|
+Sponsored
+$99 Hearing Aids Better Than $2500 Ones?
+SeniorBetterLife
+|
+Sponsored
+New Electric Cars Are So Cheap Now (Take A Look)
+CommonSearches
+|
+Sponsored
+Click Here
+This Year's Kia Telluride Is Turning Heads -- And Finally On Sale!
+Best Kia Offers + Deals
+FavoriteSearches
+|
+Sponsored
+Struggling with high blood sugar? Try this cinnamon ritual before bed!
+solutionforhealthcare.com
+|
+Sponsored
+Most Read
+Woman killed in I-480 crash identified
+Akron residents return home after huge HAZMAT fire at commercial business
+17-year-old dies, 4 injured after shooting near Euclid high school
+3 Cleveland Heights officers shot, killed 18-year-old after domestic dispute: Police
+Garfield Heights police chase ends in fiery crash on I-77; at least 3 people hurt
+3 arrested for beating death of Akron teenager outside I Promise School, US Marshals say
+Akron man brutally beaten, stripped naked at Circle K by group of men
+Cleveland Police, SWAT swarm Old Brooklyn home
+Latest News
+Cause of massive HAZMAT fire in Akron under investigation; firefighters remain on scene
+Your annual reminder alcohol is not allowed at Muni Lot tailgates in Cleveland
+1 man dies in double shooting on Cleveland’s West Side
+Crash blocks I-76 W in Portage County
+Akron air quality: Officials say air is safe as chemical fire continues burning
+Several cases of botulism found in Ohio prison linked to ‘hooch’
+Afternoon shootout in Akron apartment parking lot injures 18-year-old woman, police say
+Cause of massive HAZMAT fire in Akron under investigation; firefighters remain on scene
+Home
+News
+First Alert Weather
+Sports
+Traffic
+Health
+Food
+Community
+Contact Us
+WOIO
+1717 E. 12th Street
+Cleveland, OH 44114
+(216) 771-1943
+Public Inspection File
+FCC Applications
+publicfile@woio.com - (216) 367-7535
+Terms of Service
+Privacy Policy
+EEO Report
+Advertising
+Digital Marketing
+Closed Captioning/Audio Description Problems
+Persons With Disabilities
+At Gray, our journalists report, write, edit and produce the news content that informs the communities we serve. Click here to learn more about our approach to artificial intelligence.
+A Gray Local Media Station © 2002-2024
+
+Title: Cleveland Clinic Gets Worker’s Wage-and-Hour Dispute Pared Back
+Link: https://news.bloomberglaw.com/daily-labor-report/cleveland-clinic-gets-workers-wage-and-hour-dispute-pared-back
+Snippet: The <b>Cleveland</b> <b>Clinic</b> Foundation is partly free of state-law wage allegations, but a federal judge rejected the top hospital’s bid to adopt a narrower statute of limitations for some of a former employee’s other claims. The hospital successfully argued that a change in Ohio law made the worker’s would-be class overtime claim inappropriate ...
+Body Content: Skip to content
+Bloomberg the Company & Its ProductsBloomberg Anywhere LoginBloomberg Terminal Demo Request
+
+
+
+
+
+
+Log In
+Sign Up For Newsletter
+Daily Labor Report ®
+The Cleveland Clinic stands in Cleveland, Ohio, on Nov. 8, 2010.
+Photographer: David M. Levitt/Bloomberg
+May 30, 2024, 12:41 PM EDT
+Cleveland Clinic Gets Worker’s Wage-and-Hour Dispute Pared Back
+Jennifer Bennett
+Reporter
+Judge trims state-law class overtime, unpaid-wages claims
+Worker advances willfulness allegations, state criminal claim
+The Cleveland Clinic Foundation is partly free of state-law wage allegations, but a federal judge rejected the top hospital’s bid to adopt a narrower statute of limitations for some of a former employee’s other claims.
+The hospital successfully argued that a change in Ohio law made the worker’s would-be class overtime claim inappropriate in its current form. But the ex-employee that brought the suit sufficiently alleged willfulness under the Fair Labor Standards Act, dooming Cleveland Clinic’s attempt to shorten the limitations period for that claim, the US District Court for the Northern District of Ohio said Wednesday.
+Plaintiff Deborah Garner ...
+Learn more about Bloomberg Law or Log In to keep reading:
+Learn About Bloomberg Law
+AI-powered legal analytics, workflow tools and premium legal & business news.
+Learn more
+Already a subscriber?
+Log in to keep reading or access research tools.
+Log In
+More from Bloomberg Law
+Most Read Stories in Daily Labor Report ®
+DHS Moves to Undo Stay of Parole Program for Immigrant Spouses
+A temporary freeze on a parole program for immigrant family members of US citizens should be vacated because a federal district court lacked authority to issue the order, the Department of Homeland Security argued in a new brief.
+DHS Bid to Reverse Freeze on Immigrant Parole Program Denied (Correct)
+A district court judge has denied the Biden administration’s request to remove an administrative stay of a program offering immigrant family members of US citizens a pathway to permanent residency.
+Judge’s Past Red-State Advocacy Shadows Big Immigration Case
+The judge who paused the Biden administration’s latest immigration program challenged by red states previously helped lead litigation against deportation relief policies while with the Texas attorney general’s office.
+Latest Stories in Daily Labor Report ®
+X Corp., Musk Sued Again for Severance by Former Twitter Workers
+X Corp. and Elon Musk are facing another lawsuit by former Twitter employees who say they were wrongly denied more than $53 million in severance benefits in the wake of Musk’s takeover of the company.
+A&O Shearman to Cut 10% of Partners, Close South Africa Post (1)
+A&O Shearman is slashing its global partner count by 10%, shuttering its Johannesburg office, and closing down its consulting business as part of a suite of post-merger changes.
+Biden Looks to Tie Infrastructure Cash to Pro-Union Policies (1)
+President Joe Biden will direct federal agencies to prioritize companies that work with unions and offer strong benefits and high wages when doling out cash from the infrastructure and green energy laws enacted during his administration.
+Browse More Stories in Daily Labor Report ®
+View Bloomberg Law's YouTube
+Submit A News Tip
+NLRB New Filings Finder
+About Us
+Contact Us
+pro.bloomberglaw.com
+Do Not Sell Or Share My Personal Information
+24/7 BLAW® HELP DESK
+888.560.2529
+help@bloomberglaw.com
+Terms of Service
+Privacy Policy
+Copyright
+Accessibility
+© 2024 Bloomberg Industry Group, Inc. All Rights Reserved
+
+Error handling Remi's results: invalid syntax (<string>, line 1)
